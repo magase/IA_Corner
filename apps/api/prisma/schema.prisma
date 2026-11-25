@@ -1,0 +1,633 @@
+// Corner — modelo de datos
+// Convención: contenido traducible en tablas *Translation (locale: es | en).
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+// ─────────────────────────── Identidad y cuenta ───────────────────────────
+
+enum AuthProvider {
+  EMAIL
+  GOOGLE
+}
+
+model User {
+  id               String    @id @default(uuid()) @db.Char(36)
+  email            String    @unique @db.VarChar(254)
+  emailVerifiedAt  DateTime?
+  passwordHash     String?   @db.VarChar(255) // null si solo usa Google
+  displayName      String    @db.VarChar(80)
+  locale           String    @default("es") @db.VarChar(5)
+  birthDate        DateTime  @db.Date // mínimo 18 años (validado en dominio)
+  healthDataConsentAt DateTime? // RGPD: consentimiento explícito datos de salud
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+  deletedAt        DateTime?
+
+  identities    AuthIdentity[]
+  refreshTokens RefreshToken[]
+  profile       AthleteProfile?
+  subscription  Subscription?
+  addOns        UserAddOn[]
+  trainingPlans TrainingPlan[]
+  workoutLogs   WorkoutLog[]
+  nutritionPlans NutritionPlan[]
+  bodyMetrics   BodyMetric[]
+  foodLogs      FoodLogEntry[]
+}
+
+model AuthIdentity {
+  id         String       @id @default(uuid()) @db.Char(36)
+  userId     String       @db.Char(36)
+  provider   AuthProvider
+  providerId String       @db.VarChar(255)
+  createdAt  DateTime     @default(now())
+  user       User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerId])
+  @@index([userId])
+}
+
+model RefreshToken {
+  id         String    @id @default(uuid()) @db.Char(36)
+  userId     String    @db.Char(36)
+  tokenHash  String    @unique @db.Char(64) // sha256, nunca el token en claro
+  familyId   String    @db.Char(36)         // rotación + detección de reutilización
+  expiresAt  DateTime
+  revokedAt  DateTime?
+  createdAt  DateTime  @default(now())
+  userAgent  String?   @db.VarChar(255)
+  user       User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([familyId])
+}
+
+// ─────────────────────────── Freemium ───────────────────────────
+
+enum SubscriptionTier {
+  FREE
+  PREMIUM
+}
+
+enum SubscriptionStatus {
+  ACTIVE
+  PAST_DUE
+  CANCELED
+  EXPIRED
+}
+
+enum PaymentProvider {
+  FAKE
+  STRIPE
+  APPLE
+  GOOGLE_PLAY
+}
+
+model Subscription {
+  id                 String             @id @default(uuid()) @db.Char(36)
+  userId             String             @unique @db.Char(36)
+  tier               SubscriptionTier   @default(FREE)
+  status             SubscriptionStatus @default(ACTIVE)
+  provider           PaymentProvider    @default(FAKE)
+  externalId         String?            @db.VarChar(255)
+  currentPeriodEnd   DateTime?
+  createdAt          DateTime           @default(now())
+  updatedAt          DateTime           @updatedAt
+  user               User               @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+enum AddOnType {
+  RECIPES
+  FOOD_LOG
+}
+
+model UserAddOn {
+  id         String          @id @default(uuid()) @db.Char(36)
+  userId     String          @db.Char(36)
+  addOn      AddOnType
+  provider   PaymentProvider @default(FAKE)
+  externalId String?         @db.VarChar(255)
+  activeUntil DateTime?
+  createdAt  DateTime        @default(now())
+  user       User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, addOn])
+}
+
+// ─────────────────────────── Perfil del atleta ───────────────────────────
+
+enum Sex {
+  MALE
+  FEMALE
+}
+
+enum Level {
+  BEGINNER
+  INTERMEDIATE
+  ADVANCED
+  COMPETITOR
+}
+
+enum TrainingGoal {
+  GENERAL_FITNESS
+  STRENGTH_POWER
+  CONDITIONING
+  TECHNIQUE
+  BODY_COMPOSITION
+}
+
+enum ActivityLevel {
+  SEDENTARY
+  LIGHT
+  MODERATE
+  HIGH
+  VERY_HIGH
+}
+
+model AthleteProfile {
+  id                String        @id @default(uuid()) @db.Char(36)
+  userId            String        @unique @db.Char(36)
+  sex               Sex
+  heightCm          Int           @db.SmallInt
+  weightKg          Decimal       @db.Decimal(5, 2)
+  bodyFatPct        Decimal?      @db.Decimal(4, 1)
+  level             Level
+  goal              TrainingGoal
+  activityLevel     ActivityLevel
+  daysPerWeek       Int           @db.TinyInt
+  sessionMinutes    Int           @db.SmallInt
+  injuriesNotes     String?       @db.VarChar(1000)
+  updatedAt         DateTime      @updatedAt
+  user              User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  sports            ProfileSport[]
+  equipment         ProfileEquipment[]
+  dietRestrictions  ProfileDietRestriction[] // solo premium
+}
+
+model ProfileSport {
+  profileId String         @db.Char(36)
+  sportId   String         @db.Char(36)
+  level     Level
+  profile   AthleteProfile @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  sport     Sport          @relation(fields: [sportId], references: [id])
+
+  @@id([profileId, sportId])
+}
+
+model ProfileEquipment {
+  profileId   String         @db.Char(36)
+  equipmentId String         @db.Char(36)
+  profile     AthleteProfile @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  equipment   Equipment      @relation(fields: [equipmentId], references: [id])
+
+  @@id([profileId, equipmentId])
+}
+
+enum DietRestriction {
+  VEGETARIAN
+  VEGAN
+  HALAL
+  KOSHER
+  GLUTEN_FREE
+  LACTOSE_FREE
+  NUT_ALLERGY
+  SHELLFISH_ALLERGY
+  EGG_ALLERGY
+}
+
+model ProfileDietRestriction {
+  profileId   String          @db.Char(36)
+  restriction DietRestriction
+  profile     AthleteProfile  @relation(fields: [profileId], references: [id], onDelete: Cascade)
+
+  @@id([profileId, restriction])
+}
+
+// ─────────────────────────── Catálogo: deportes y ejercicios ───────────────────────────
+
+enum SportCategory {
+  STRIKING
+  GRAPPLING // solo en BD, sin sección en la app por ahora
+}
+
+model Sport {
+  id           String             @id @default(uuid()) @db.Char(36)
+  code         String             @unique @db.VarChar(40) // MUAY_THAI, BOXING, WRESTLING...
+  category     SportCategory
+  isEnabled    Boolean            @default(true)          // grappling = false
+  translations SportTranslation[]
+  exercises    ExerciseSport[]
+  profiles     ProfileSport[]
+}
+
+model SportTranslation {
+  sportId     String @db.Char(36)
+  locale      String @db.VarChar(5)
+  name        String @db.VarChar(80)
+  description String @db.Text
+  sport       Sport  @relation(fields: [sportId], references: [id], onDelete: Cascade)
+
+  @@id([sportId, locale])
+}
+
+model Equipment {
+  id           String                 @id @default(uuid()) @db.Char(36)
+  code         String                 @unique @db.VarChar(40)
+  translations EquipmentTranslation[]
+  exercises    ExerciseEquipment[]
+  profiles     ProfileEquipment[]
+}
+
+model EquipmentTranslation {
+  equipmentId String    @db.Char(36)
+  locale      String    @db.VarChar(5)
+  name        String    @db.VarChar(80)
+  equipment   Equipment @relation(fields: [equipmentId], references: [id], onDelete: Cascade)
+
+  @@id([equipmentId, locale])
+}
+
+enum ExerciseCategory {
+  STRENGTH
+  PLYOMETRICS
+  MOBILITY
+  FLEXIBILITY
+  SPORT_DRILL // drills en solitario de cada deporte
+}
+
+enum Difficulty {
+  BEGINNER
+  INTERMEDIATE
+  ADVANCED
+}
+
+enum MeasureType {
+  REPS        // series x repeticiones (con o sin peso)
+  TIME        // segundos
+  ROUNDS      // rounds x duración + descanso
+  DISTANCE    // metros
+}
+
+model Exercise {
+  id               String           @id @default(uuid()) @db.Char(36)
+  slug             String           @unique @db.VarChar(80)
+  category         ExerciseCategory
+  difficulty       Difficulty
+  measureType      MeasureType
+  primaryMuscles   Json             // ["QUADRICEPS","GLUTES"]
+  secondaryMuscles Json
+  // recomendación por defecto
+  defaultSets      Int?             @db.TinyInt
+  defaultReps      String?          @db.VarChar(20) // "8-12"
+  defaultSeconds   Int?             @db.SmallInt
+  defaultRestSec   Int?             @db.SmallInt
+  // multimedia: placeholders hasta que el usuario aporte recursos
+  mediaUrl         String?          @db.VarChar(500)
+  mediaType        String?          @db.VarChar(10) // video | gif | image
+  thumbnailUrl     String?          @db.VarChar(500)
+  isActive         Boolean          @default(true)
+
+  translations ExerciseTranslation[]
+  sports       ExerciseSport[]
+  equipment    ExerciseEquipment[]
+  planItems    PlanSessionExercise[]
+  logSets      WorkoutLogEntry[]
+}
+
+model ExerciseTranslation {
+  exerciseId     String   @db.Char(36)
+  locale         String   @db.VarChar(5)
+  name           String   @db.VarChar(120)
+  description    String   @db.Text
+  steps          Json     // ["Paso 1", "Paso 2"]
+  commonMistakes Json     // ["Error 1"]
+  tips           Json?
+  exercise       Exercise @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+
+  @@id([exerciseId, locale])
+}
+
+model ExerciseSport {
+  exerciseId String   @db.Char(36)
+  sportId    String   @db.Char(36)
+  exercise   Exercise @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+  sport      Sport    @relation(fields: [sportId], references: [id], onDelete: Cascade)
+
+  @@id([exerciseId, sportId])
+}
+
+model ExerciseEquipment {
+  exerciseId  String    @db.Char(36)
+  equipmentId String    @db.Char(36)
+  exercise    Exercise  @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+  equipment   Equipment @relation(fields: [equipmentId], references: [id], onDelete: Cascade)
+
+  @@id([exerciseId, equipmentId])
+}
+
+// ─────────────────────────── Planes de entrenamiento ───────────────────────────
+
+enum PlanSource {
+  TEMPLATE // gratuito, determinista
+  AI       // premium (PlanPersonalizer)
+}
+
+enum PlanStatus {
+  ACTIVE
+  ARCHIVED
+}
+
+/** Plantillas deterministas del plan gratuito. */
+model PlanTemplate {
+  id          String       @id @default(uuid()) @db.Char(36)
+  code        String       @unique @db.VarChar(80)
+  goal        TrainingGoal
+  level       Level
+  daysPerWeek Int          @db.TinyInt
+  definition  Json         // estructura semanal: días → bloques → ejercicios
+  plans       TrainingPlan[]
+}
+
+model TrainingPlan {
+  id          String       @id @default(uuid()) @db.Char(36)
+  userId      String       @db.Char(36)
+  source      PlanSource
+  templateId  String?      @db.Char(36)
+  status      PlanStatus   @default(ACTIVE)
+  name        String       @db.VarChar(120)
+  aiRationale String?      @db.Text
+  startsOn    DateTime     @db.Date
+  createdAt   DateTime     @default(now())
+  user        User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  template    PlanTemplate? @relation(fields: [templateId], references: [id])
+  sessions    PlanSession[]
+
+  @@index([userId, status])
+}
+
+model PlanSession {
+  id         String   @id @default(uuid()) @db.Char(36)
+  planId     String   @db.Char(36)
+  dayOfWeek  Int      @db.TinyInt // 1=lunes … 7=domingo
+  orderIndex Int      @db.TinyInt
+  title      String   @db.VarChar(120)
+  focus      String   @db.VarChar(40) // STRENGTH | SPORT | MOBILITY | ...
+  plan       TrainingPlan @relation(fields: [planId], references: [id], onDelete: Cascade)
+  exercises  PlanSessionExercise[]
+  logs       WorkoutLog[]
+
+  @@index([planId])
+}
+
+model PlanSessionExercise {
+  id          String      @id @default(uuid()) @db.Char(36)
+  sessionId   String      @db.Char(36)
+  exerciseId  String      @db.Char(36)
+  orderIndex  Int         @db.TinyInt
+  sets        Int?        @db.TinyInt
+  reps        String?     @db.VarChar(20)
+  seconds     Int?        @db.SmallInt
+  rounds      Int?        @db.TinyInt
+  restSec     Int?        @db.SmallInt
+  notes       String?     @db.VarChar(500)
+  session     PlanSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  exercise    Exercise    @relation(fields: [exerciseId], references: [id])
+
+  @@index([sessionId])
+}
+
+// ─────────────────────────── Registro de entrenamientos ───────────────────────────
+// Free: máximo 10 WorkoutLog (rows). Al llegar → PREMIUM_REQUIRED (puede borrar).
+
+model WorkoutLog {
+  id          String    @id @default(uuid()) @db.Char(36)
+  userId      String    @db.Char(36)
+  sessionId   String?   @db.Char(36)
+  performedAt DateTime
+  durationMin Int?      @db.SmallInt
+  rpe         Int?      @db.TinyInt // 1-10
+  feeling     Int?      @db.TinyInt // 1-5
+  notes       String?   @db.VarChar(1000)
+  createdAt   DateTime  @default(now())
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  session     PlanSession? @relation(fields: [sessionId], references: [id], onDelete: SetNull)
+  entries     WorkoutLogEntry[]
+
+  @@index([userId, performedAt])
+}
+
+model WorkoutLogEntry {
+  id          String     @id @default(uuid()) @db.Char(36)
+  logId       String     @db.Char(36)
+  exerciseId  String     @db.Char(36)
+  setIndex    Int        @db.TinyInt
+  reps        Int?       @db.SmallInt
+  weightKg    Decimal?   @db.Decimal(6, 2)
+  seconds     Int?       @db.SmallInt
+  rounds      Int?       @db.TinyInt
+  rpe         Int?       @db.TinyInt
+  log         WorkoutLog @relation(fields: [logId], references: [id], onDelete: Cascade)
+  exercise    Exercise   @relation(fields: [exerciseId], references: [id])
+
+  @@index([logId])
+}
+
+// ─────────────────────────── Métricas corporales (premium) ───────────────────────────
+
+model BodyMetric {
+  id         String   @id @default(uuid()) @db.Char(36)
+  userId     String   @db.Char(36)
+  measuredOn DateTime @db.Date
+  weightKg   Decimal? @db.Decimal(5, 2)
+  bodyFatPct Decimal? @db.Decimal(4, 1)
+  waistCm    Decimal? @db.Decimal(5, 1)
+  sleepHours Decimal? @db.Decimal(3, 1)
+  fatigue    Int?     @db.TinyInt // 1-10
+  notes      String?  @db.VarChar(500)
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, measuredOn])
+}
+
+// ─────────────────────────── Nutrición ───────────────────────────
+
+enum NutritionPlanKind {
+  GENERAL     // free: recomendación + menú genérico
+  CALCULATED  // premium: Mifflin-St Jeor × factor actividad
+}
+
+model NutritionPlan {
+  id            String            @id @default(uuid()) @db.Char(36)
+  userId        String            @db.Char(36)
+  kind          NutritionPlanKind
+  kcalTarget    Int?              @db.SmallInt
+  proteinG      Int?              @db.SmallInt
+  carbsG        Int?              @db.SmallInt
+  fatG          Int?              @db.SmallInt
+  menuTemplateId String?          @db.Char(36)
+  createdAt     DateTime          @default(now())
+  user          User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  menuTemplate  MenuTemplate?     @relation(fields: [menuTemplateId], references: [id])
+  supplements   NutritionPlanSupplement[]
+  meals         PlanMeal[]        // premium
+
+  @@index([userId])
+}
+
+/** Menús genéricos del plan gratuito. */
+model MenuTemplate {
+  id           String                   @id @default(uuid()) @db.Char(36)
+  code         String                   @unique @db.VarChar(80)
+  goal         TrainingGoal
+  translations MenuTemplateTranslation[]
+  plans        NutritionPlan[]
+}
+
+model MenuTemplateTranslation {
+  menuTemplateId String       @db.Char(36)
+  locale         String       @db.VarChar(5)
+  title          String       @db.VarChar(120)
+  content        Json         // { desayuno: [...], comida: [...], ... }
+  menuTemplate   MenuTemplate @relation(fields: [menuTemplateId], references: [id], onDelete: Cascade)
+
+  @@id([menuTemplateId, locale])
+}
+
+model PlanMeal {
+  id          String        @id @default(uuid()) @db.Char(36)
+  planId      String        @db.Char(36)
+  dayIndex    Int           @db.TinyInt
+  slot        String        @db.VarChar(20) // BREAKFAST | LUNCH | ...
+  description String        @db.VarChar(500)
+  kcal        Int?          @db.SmallInt
+  recipeId    String?       @db.Char(36)   // add-on RECIPES
+  plan        NutritionPlan @relation(fields: [planId], references: [id], onDelete: Cascade)
+  recipe      Recipe?       @relation(fields: [recipeId], references: [id])
+}
+
+model Recipe {
+  id           String              @id @default(uuid()) @db.Char(36)
+  slug         String              @unique @db.VarChar(80)
+  kcal         Int                 @db.SmallInt
+  proteinG     Int                 @db.SmallInt
+  carbsG       Int                 @db.SmallInt
+  fatG         Int                 @db.SmallInt
+  restrictions Json                // restricciones compatibles
+  translations RecipeTranslation[]
+  meals        PlanMeal[]
+}
+
+model RecipeTranslation {
+  recipeId     String @db.Char(36)
+  locale       String @db.VarChar(5)
+  title        String @db.VarChar(120)
+  ingredients  Json
+  steps        Json
+  recipe       Recipe @relation(fields: [recipeId], references: [id], onDelete: Cascade)
+
+  @@id([recipeId, locale])
+}
+
+/** Add-on FOOD_LOG. */
+model FoodLogEntry {
+  id        String   @id @default(uuid()) @db.Char(36)
+  userId    String   @db.Char(36)
+  eatenAt   DateTime
+  slot      String   @db.VarChar(20)
+  text      String   @db.VarChar(500)
+  kcal      Int?     @db.SmallInt
+  proteinG  Int?     @db.SmallInt
+  carbsG    Int?     @db.SmallInt
+  fatG      Int?     @db.SmallInt
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, eatenAt])
+}
+
+// ─────────────────────────── Wiki ───────────────────────────
+
+enum WikiCategory {
+  MACRONUTRIENT
+  MICRONUTRIENT
+  HYDRATION
+  SUPPLEMENT
+  TRAINING_CONCEPT
+}
+
+enum EvidenceLevel {
+  STRONG
+  MODERATE
+  LIMITED
+  INSUFFICIENT
+}
+
+enum WadaStatus {
+  PERMITTED
+  PROHIBITED
+  MONITORED
+  CHECK_PRODUCT // riesgo de contaminación: usar sellos certificados
+}
+
+model WikiArticle {
+  id           String               @id @default(uuid()) @db.Char(36)
+  slug         String               @unique @db.VarChar(80)
+  category     WikiCategory
+  isPublished  Boolean              @default(true)
+  updatedAt    DateTime             @updatedAt
+  translations WikiArticleTranslation[]
+  supplement   Supplement?
+}
+
+model WikiArticleTranslation {
+  articleId String      @db.Char(36)
+  locale    String      @db.VarChar(5)
+  title     String      @db.VarChar(150)
+  summary   String      @db.VarChar(500)
+  body      String      @db.Text // markdown
+  sources   Json        // [{ title, url }]
+  article   WikiArticle @relation(fields: [articleId], references: [id], onDelete: Cascade)
+
+  @@id([articleId, locale])
+}
+
+/** Ficha técnica de suplemento, ligada 1:1 a su artículo de wiki. */
+model Supplement {
+  id            String        @id @default(uuid()) @db.Char(36)
+  articleId     String        @unique @db.Char(36)
+  evidenceLevel EvidenceLevel
+  wadaStatus    WadaStatus
+  translations  SupplementTranslation[]
+  article       WikiArticle   @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  planLinks     NutritionPlanSupplement[]
+}
+
+model SupplementTranslation {
+  supplementId String     @db.Char(36)
+  locale       String     @db.VarChar(5)
+  whatItIs     String     @db.Text
+  purpose      String     @db.Text
+  dosage       String     @db.VarChar(500)
+  timing       String     @db.VarChar(500)
+  sideEffects  String     @db.Text
+  supplement   Supplement @relation(fields: [supplementId], references: [id], onDelete: Cascade)
+
+  @@id([supplementId, locale])
+}
+
+model NutritionPlanSupplement {
+  planId       String        @db.Char(36)
+  supplementId String        @db.Char(36)
+  reason       String        @db.VarChar(300)
+  plan         NutritionPlan @relation(fields: [planId], references: [id], onDelete: Cascade)
+  supplement   Supplement    @relation(fields: [supplementId], references: [id])
+
+  @@id([planId, supplementId])
+}
