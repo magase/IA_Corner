@@ -8,7 +8,10 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 22, cache: npm }
       - run: npm ci
-      - run: npx prisma generate --schema apps/api/prisma/schema.prisma
+      - run: npm run prisma:generate -w @corner/api
+        env:
+          # Solo para cargar prisma.config.ts; generate no conecta a la BD.
+          DATABASE_URL: mysql://ci:ci@127.0.0.1:3306/ci
       - run: npm run format:check
       - run: npm run lint
       - run: npm run typecheck

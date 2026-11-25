@@ -46,5 +46,8 @@
     "*.{json,md,yml,mjs}": [
       "prettier --write"
     ]
+  },
+  "overrides": {
+    "effect": "3.22.5"
   }
 }

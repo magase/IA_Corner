@@ -1,5 +1,4 @@
 /* eslint-disable no-console */
-import { PrismaClient } from '@prisma/client';
 import { createApp } from './app.js';
 import { Argon2PasswordHasher } from './modules/identity/infrastructure/argon2-password-hasher.js';
 import { CryptoOpaqueTokenGenerator } from './modules/identity/infrastructure/crypto-opaque-token-generator.js';
@@ -14,11 +13,12 @@ import {
 } from './modules/profile/infrastructure/prisma-profile-repository.js';
 import { loadEnv } from './shared/infrastructure/config/env.js';
 import { PrismaEntitlementsReader } from './shared/infrastructure/persistence/prisma-entitlements-reader.js';
+import { createPrismaClient } from './shared/infrastructure/persistence/prisma-client.js';
 import { PrismaHealthChecker } from './shared/infrastructure/persistence/prisma-health-checker.js';
 import { CryptoIdGenerator, SystemClock } from './shared/infrastructure/system.js';
 
 const env = loadEnv();
-const prisma = new PrismaClient();
+const prisma = createPrismaClient(env.DATABASE_URL);
 const clock = new SystemClock();
 
 const server = createApp({

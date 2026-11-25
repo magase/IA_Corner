@@ -30,7 +30,7 @@ Grappling está modelado en la base de datos, pero aún no tiene sección en la 
 | Capa                           | Tecnología                                                        |
 | ------------------------------ | ----------------------------------------------------------------- |
 | Backend (`apps/api`)           | Node.js 22 vanilla (`http` nativo) + TypeScript, Zod              |
-| Base de datos                  | MySQL 8.4 con Prisma ORM                                          |
+| Base de datos                  | MySQL 8.4 con Prisma ORM 7 (driver adapter `mariadb`)             |
 | Frontend (`apps/app`)          | Angular + Ionic + Capacitor _(fase 5, aún no creado)_             |
 | Compartido (`packages/shared`) | Enums y catálogo de permisos freemium                             |
 | Calidad                        | Vitest (TDD), ESLint, Prettier, Husky, commitlint, GitHub Actions |

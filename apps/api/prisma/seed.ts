@@ -1,8 +1,10 @@
 /* eslint-disable no-console */
-import { PrismaClient, type SportCategory } from '@prisma/client';
+import type { SportCategory } from '@prisma/client';
+import { createPrismaClient } from '../src/shared/infrastructure/persistence/prisma-client.js';
 import { EQUIPMENT, GRAPPLING, STRIKING } from './seed-data/catalog.js';
 
-const prisma = new PrismaClient();
+if (!process.env['DATABASE_URL']) throw new Error('DATABASE_URL no definida');
+const prisma = createPrismaClient(process.env['DATABASE_URL']);
 type T = { es: string; en: string };
 
 async function upsertSport(

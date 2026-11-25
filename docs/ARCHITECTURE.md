@@ -8,6 +8,14 @@
 | `apps/app`        | Angular + Ionic + Capacitor (web, iOS, Android) — fase 5   |
 | `packages/shared` | Enums, contratos y catálogo de permisos (freemium)         |
 
+## Persistencia
+
+Prisma 7 con el driver adapter `@prisma/adapter-mariadb`, el conector oficial y compatible con MySQL. El cliente se crea en
+`shared/infrastructure/persistence/prisma-client.ts`. La URL de conexión y el seed se configuran en
+`apps/api/prisma.config.ts`, que carga `apps/api/.env` si existe: Prisma 7 ya no lo carga automáticamente.
+En el `package.json` raíz, `overrides.effect` fuerza una versión parcheada de una dependencia interna de la CLI
+de Prisma (GHSA-7589-6fvf-x4pw). Se podrá quitar cuando Prisma actualice esa dependencia.
+
 ## Capas (hexagonal) — `apps/api/src/modules/<modulo>/`
 
 - `domain/` entidades, value objects, reglas puras. Sin dependencias externas.
