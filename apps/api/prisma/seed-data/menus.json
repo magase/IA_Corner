@@ -1,0 +1,243 @@
+[
+  {
+    "code": "menu-general-fitness",
+    "goal": "GENERAL_FITNESS",
+    "i18n": {
+      "es": {
+        "title": "Menú tipo equilibrado",
+        "content": {
+          "BREAKFAST": [
+            "Copos de avena con leche o bebida vegetal, una fruta y un puñado de frutos secos",
+            "Alternativa: tostadas integrales con huevo y tomate"
+          ],
+          "LUNCH": [
+            "Medio plato de verduras o ensalada",
+            "Un cuarto de plato de proteína: pollo, pescado, legumbres o tofu",
+            "Un cuarto de plato de cereal integral, patata o arroz",
+            "Aceite de oliva para aliñar"
+          ],
+          "PRE_WORKOUT": [
+            "2-3 h antes: comida normal ligera; o 30-60 min antes: un plátano o un yogur"
+          ],
+          "POST_WORKOUT": [
+            "En las 2 h siguientes: comida con proteína y carbohidratos (p. ej. yogur con fruta y cereales)"
+          ],
+          "DINNER": [
+            "Verduras salteadas o crema de verduras",
+            "Huevos, pescado o legumbres",
+            "Pan integral o patata si has entrenado por la tarde"
+          ],
+          "HYDRATION": ["Agua durante el día; bebe más en días de entrenamiento y calor"]
+        }
+      },
+      "en": {
+        "title": "Balanced sample menu",
+        "content": {
+          "BREAKFAST": [
+            "Oat flakes with milk or a plant drink, a piece of fruit and a handful of nuts",
+            "Alternative: wholegrain toast with egg and tomato"
+          ],
+          "LUNCH": [
+            "Half a plate of vegetables or salad",
+            "A quarter plate of protein: chicken, fish, legumes or tofu",
+            "A quarter plate of whole grains, potato or rice",
+            "Olive oil as dressing"
+          ],
+          "PRE_WORKOUT": [
+            "2-3 h before: a normal light meal; or 30-60 min before: a banana or a yoghurt"
+          ],
+          "POST_WORKOUT": [
+            "Within 2 h: a meal with protein and carbohydrates (e.g. yoghurt with fruit and cereal)"
+          ],
+          "DINNER": [
+            "Stir-fried vegetables or vegetable soup",
+            "Eggs, fish or legumes",
+            "Wholegrain bread or potato if you trained in the afternoon"
+          ],
+          "HYDRATION": ["Water throughout the day; drink more on training and hot days"]
+        }
+      }
+    }
+  },
+  {
+    "code": "menu-strength-power",
+    "goal": "STRENGTH_POWER",
+    "i18n": {
+      "es": {
+        "title": "Menú tipo para fuerza y potencia",
+        "content": {
+          "BREAKFAST": [
+            "Tortilla de 2-3 huevos con pan integral y fruta",
+            "Alternativa: yogur griego con avena, fruta y frutos secos"
+          ],
+          "MID_MORNING": ["Bocadillo integral de pavo o atún con tomate"],
+          "LUNCH": [
+            "Arroz o pasta integral",
+            "Ración generosa de carne magra, pescado o legumbres",
+            "Verduras y aceite de oliva"
+          ],
+          "PRE_WORKOUT": [
+            "2-3 h antes: comida con carbohidratos y algo de proteína; o 60 min antes: plátano y yogur"
+          ],
+          "POST_WORKOUT": [
+            "Proteína y carbohidratos en las 2 h siguientes (p. ej. leche con cacao y fruta, o una comida completa)"
+          ],
+          "DINNER": ["Pescado azul o huevos", "Patata o boniato", "Verduras"],
+          "HYDRATION": ["Agua durante el día y en cada comida"]
+        }
+      },
+      "en": {
+        "title": "Sample menu for strength and power",
+        "content": {
+          "BREAKFAST": [
+            "2-3 egg omelette with wholegrain bread and fruit",
+            "Alternative: Greek yoghurt with oats, fruit and nuts"
+          ],
+          "MID_MORNING": ["Wholegrain sandwich with turkey or tuna and tomato"],
+          "LUNCH": [
+            "Rice or wholegrain pasta",
+            "A generous portion of lean meat, fish or legumes",
+            "Vegetables and olive oil"
+          ],
+          "PRE_WORKOUT": [
+            "2-3 h before: a meal with carbohydrates and some protein; or 60 min before: banana and yoghurt"
+          ],
+          "POST_WORKOUT": [
+            "Protein and carbohydrates within 2 h (e.g. chocolate milk and fruit, or a full meal)"
+          ],
+          "DINNER": ["Oily fish or eggs", "Potato or sweet potato", "Vegetables"],
+          "HYDRATION": ["Water throughout the day and with every meal"]
+        }
+      }
+    }
+  },
+  {
+    "code": "menu-conditioning",
+    "goal": "CONDITIONING",
+    "i18n": {
+      "es": {
+        "title": "Menú tipo para resistencia y cardio",
+        "content": {
+          "BREAKFAST": ["Avena con fruta y yogur o leche", "Pan integral con aceite y tomate"],
+          "MID_MORNING": ["Fruta y un puñado de frutos secos"],
+          "LUNCH": ["Pasta, arroz o legumbres como base", "Proteína magra", "Verduras"],
+          "PRE_WORKOUT": [
+            "2-3 h antes: comida rica en carbohidratos y baja en grasa; o 30-60 min antes: plátano o tostada con miel"
+          ],
+          "POST_WORKOUT": [
+            "Carbohidratos y proteína en las 2 h siguientes para recuperar (p. ej. arroz con pollo, o yogur con cereales y fruta)"
+          ],
+          "DINNER": [
+            "Crema de verduras",
+            "Pescado, tofu o huevos",
+            "Patata, pan o arroz según el entrenamiento del día"
+          ],
+          "HYDRATION": [
+            "Agua durante el día; en sesiones largas o con mucho calor, valora una bebida con electrolitos"
+          ]
+        }
+      },
+      "en": {
+        "title": "Sample menu for endurance and cardio",
+        "content": {
+          "BREAKFAST": [
+            "Oats with fruit and yoghurt or milk",
+            "Wholegrain bread with olive oil and tomato"
+          ],
+          "MID_MORNING": ["Fruit and a handful of nuts"],
+          "LUNCH": ["Pasta, rice or legumes as the base", "Lean protein", "Vegetables"],
+          "PRE_WORKOUT": [
+            "2-3 h before: a high-carbohydrate, low-fat meal; or 30-60 min before: a banana or toast with honey"
+          ],
+          "POST_WORKOUT": [
+            "Carbohydrates and protein within 2 h to recover (e.g. rice with chicken, or yoghurt with cereal and fruit)"
+          ],
+          "DINNER": [
+            "Vegetable soup",
+            "Fish, tofu or eggs",
+            "Potato, bread or rice depending on the day's training"
+          ],
+          "HYDRATION": [
+            "Water throughout the day; for long or very hot sessions, consider a drink with electrolytes"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "code": "menu-technique",
+    "goal": "TECHNIQUE",
+    "i18n": {
+      "es": {
+        "title": "Menú tipo para días de técnica",
+        "content": {
+          "BREAKFAST": ["Tostadas integrales con aguacate y huevo", "Una fruta"],
+          "LUNCH": ["Verduras, una ración de proteína y un cereal integral"],
+          "PRE_WORKOUT": ["Algo ligero 30-60 min antes si tienes hambre: fruta o yogur"],
+          "POST_WORKOUT": ["Comida completa con proteína en las 2 h siguientes"],
+          "DINNER": ["Ensalada completa con legumbres o pescado", "Pan integral"],
+          "HYDRATION": ["Agua durante el día y durante la sesión"]
+        }
+      },
+      "en": {
+        "title": "Sample menu for technique days",
+        "content": {
+          "BREAKFAST": ["Wholegrain toast with avocado and egg", "A piece of fruit"],
+          "LUNCH": ["Vegetables, a portion of protein and a whole grain"],
+          "PRE_WORKOUT": ["Something light 30-60 min before if you are hungry: fruit or yoghurt"],
+          "POST_WORKOUT": ["A full meal with protein within 2 h"],
+          "DINNER": ["A hearty salad with legumes or fish", "Wholegrain bread"],
+          "HYDRATION": ["Water throughout the day and during the session"]
+        }
+      }
+    }
+  },
+  {
+    "code": "menu-body-composition",
+    "goal": "BODY_COMPOSITION",
+    "i18n": {
+      "es": {
+        "title": "Menú tipo para composición corporal",
+        "content": {
+          "BREAKFAST": [
+            "Yogur natural o skyr con fruta y avena",
+            "Alternativa: huevos revueltos con verduras y una tostada integral"
+          ],
+          "LUNCH": [
+            "Medio plato de verduras",
+            "Proteína magra en cada comida principal",
+            "Una porción moderada de cereal integral o legumbres"
+          ],
+          "SNACK": ["Fruta, yogur o un puñado pequeño de frutos secos"],
+          "PRE_WORKOUT": [
+            "Carbohidratos alrededor del entrenamiento para rendir: fruta o tostada 30-60 min antes"
+          ],
+          "POST_WORKOUT": ["Proteína y carbohidratos en las 2 h siguientes"],
+          "DINNER": ["Verduras abundantes", "Pescado, huevos, pollo o tofu"],
+          "HYDRATION": ["Agua como bebida principal; limita las bebidas azucaradas"]
+        }
+      },
+      "en": {
+        "title": "Sample menu for body composition",
+        "content": {
+          "BREAKFAST": [
+            "Plain yoghurt or skyr with fruit and oats",
+            "Alternative: scrambled eggs with vegetables and wholegrain toast"
+          ],
+          "LUNCH": [
+            "Half a plate of vegetables",
+            "Lean protein at every main meal",
+            "A moderate portion of whole grains or legumes"
+          ],
+          "SNACK": ["Fruit, yoghurt or a small handful of nuts"],
+          "PRE_WORKOUT": [
+            "Carbohydrates around training to perform: fruit or toast 30-60 min before"
+          ],
+          "POST_WORKOUT": ["Protein and carbohydrates within 2 h"],
+          "DINNER": ["Plenty of vegetables", "Fish, eggs, chicken or tofu"],
+          "HYDRATION": ["Water as your main drink; limit sugary drinks"]
+        }
+      }
+    }
+  }
+]

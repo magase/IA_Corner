@@ -1,0 +1,1694 @@
+[
+  {
+    "slug": "world-greatest-stretch",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["HIP_FLEXORS", "UPPER_BACK", "HAMSTRINGS"],
+    "secondaryMuscles": ["GLUTES", "ADDUCTORS", "OBLIQUES", "SHOULDERS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "5",
+      "seconds": null,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "El mejor estiramiento del mundo",
+        "description": "Secuencia dinámica que encadena zancada profunda, apertura de cadera, rotación torácica y movilización de isquios en un solo movimiento. Es un calentamiento muy completo antes de una sesión de golpeo: prepara la cadera para las patadas y la columna dorsal para rotar en los golpes.",
+        "steps": [
+          "Desde la posición de plancha alta, lleva el pie derecho por fuera de la mano derecha a una zancada profunda.",
+          "Deja la rodilla de atrás estirada o apoyada en el suelo si te falta movilidad, y empuja suavemente la cadera hacia delante.",
+          "Lleva el codo derecho hacia el empeine o el suelo, por dentro del pie, sin forzar.",
+          "Rota el tronco abriendo el brazo derecho hacia el techo y sigue la mano con la mirada.",
+          "Vuelve la mano al suelo, lleva la cadera atrás y estira la pierna delantera notando los isquios.",
+          "Regresa a plancha y repite con el otro lado. Cuenta una repetición por lado."
+        ],
+        "commonMistakes": [
+          "Hacerlo con prisa y a rebotes en lugar de moverse con control.",
+          "Hundir la zona lumbar en la plancha en vez de mantener el abdomen activo.",
+          "Rotar solo el hombro sin girar el pecho de verdad.",
+          "Forzar el codo al suelo con dolor en la ingle o la rodilla."
+        ],
+        "tips": [
+          "Respira hondo en cada posición: exhala al rotar.",
+          "Úsalo como primer ejercicio del calentamiento antes de sombra o saco.",
+          "Trabaja siempre en un rango sin dolor; la amplitud llegará con la práctica."
+        ]
+      },
+      "en": {
+        "name": "World's Greatest Stretch",
+        "description": "A dynamic sequence that links a deep lunge, hip opening, thoracic rotation and hamstring mobilisation into one flowing movement. It is an excellent all-in-one warm-up before striking work: it gets the hips ready for kicks and the upper back ready to rotate through punches.",
+        "steps": [
+          "From a high plank, step your right foot outside your right hand into a deep lunge.",
+          "Keep the back knee straight, or rest it on the floor if mobility is limited, and gently push the hips forward.",
+          "Bring your right elbow down toward the instep or floor, inside the foot, without forcing it.",
+          "Rotate your torso, reaching the right arm toward the ceiling and following the hand with your eyes.",
+          "Place the hand back down, shift the hips back and straighten the front leg to feel the hamstrings.",
+          "Return to plank and repeat on the other side. One rep per side."
+        ],
+        "commonMistakes": [
+          "Rushing and bouncing instead of moving with control.",
+          "Letting the lower back sag in the plank instead of keeping the core engaged.",
+          "Moving only the shoulder rather than actually turning the chest.",
+          "Forcing the elbow down while feeling pain in the groin or knee."
+        ],
+        "tips": [
+          "Breathe deeply in each position and exhale as you rotate.",
+          "Use it as the first drill of your warm-up before shadowboxing or bag work.",
+          "Always stay in a pain-free range; range improves with consistent practice."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "hip-90-90-switch",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "HIP_FLEXORS"],
+    "secondaryMuscles": ["ADDUCTORS", "ABDUCTORS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "8-10",
+      "seconds": null,
+      "restSec": 20
+    },
+    "i18n": {
+      "es": {
+        "name": "Cambio 90/90 de cadera",
+        "description": "Sentado en el suelo con ambas piernas dobladas a 90 grados, alternas la rotación interna y externa de las caderas girando las rodillas de un lado a otro. Mejora el control rotacional de la cadera, clave para pivotar en la patada circular, girar en la guardia y cambiar de postura con fluidez.",
+        "steps": [
+          "Siéntate con la pierna delantera doblada a 90 grados delante de ti y la trasera doblada a 90 grados a un lado.",
+          "Apoya las manos detrás del cuerpo si lo necesitas y mantén el pecho alto.",
+          "Levanta ambas rodillas y gíralas al lado contrario hasta quedar en 90/90 en el otro sentido.",
+          "Mantén los pies apoyados en el suelo durante el giro, como un limpiaparabrisas.",
+          "Haz una breve pausa en cada lado, alineando el pecho con la pierna delantera.",
+          "Alterna lados con un ritmo lento y controlado. Cada cambio cuenta como una repetición."
+        ],
+        "commonMistakes": [
+          "Encorvar la espalda y caer hacia atrás por falta de control.",
+          "Usar impulso o golpear las rodillas contra el suelo.",
+          "Forzar la rodilla trasera cuando aparece molestia en la cara interna de la rodilla."
+        ],
+        "tips": [
+          "Si te cuesta, apóyate con las manos detrás y reduce la amplitud.",
+          "Para progresar, quita las manos e intenta subir el tronco sin apoyo.",
+          "Puedes añadir una inclinación suave del pecho sobre la pierna delantera para estirar el glúteo."
+        ]
+      },
+      "en": {
+        "name": "Hip 90/90 Switch",
+        "description": "Seated on the floor with both legs bent at 90 degrees, you alternate internal and external hip rotation by windshield-wipering your knees from side to side. It builds rotational hip control, which matters for pivoting on a roundhouse kick, turning in your stance and switching stances smoothly.",
+        "steps": [
+          "Sit with your front leg bent at 90 degrees in front of you and your back leg bent at 90 degrees out to the side.",
+          "Place your hands behind you if needed and keep your chest tall.",
+          "Lift both knees and rotate them to the opposite side until you are in 90/90 facing the other way.",
+          "Keep your feet on the floor through the turn, like a windshield wiper.",
+          "Pause briefly on each side, lining up your chest with the front shin.",
+          "Alternate sides slowly and with control. Each switch counts as one rep."
+        ],
+        "commonMistakes": [
+          "Rounding the back and falling backwards from lack of control.",
+          "Using momentum or dropping the knees onto the floor.",
+          "Forcing the back knee when you feel discomfort on the inside of the knee."
+        ],
+        "tips": [
+          "If it feels hard, support yourself with your hands behind and shorten the range.",
+          "To progress, go hands-free and try to stay upright without support.",
+          "Add a gentle forward lean over the front shin to stretch the glute."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "cat-cow-spinal-flow",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["LOWER_BACK", "UPPER_BACK"],
+    "secondaryMuscles": ["CORE", "NECK"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "10",
+      "seconds": null,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Gato-vaca",
+        "description": "Movilidad suave de toda la columna a cuatro patas, alternando flexión (espalda redondeada) y extensión (pecho hacia delante). Es una forma sencilla de despertar la espalda antes de entrenar o de soltarla después de una sesión de saco o de sombra.",
+        "steps": [
+          "Colócate a cuatro patas con las manos bajo los hombros y las rodillas bajo las caderas.",
+          "Inhala y deja que el abdomen baje, llevando el pecho hacia delante y la mirada ligeramente al frente.",
+          "Exhala y redondea la espalda empujando el suelo con las manos, llevando la barbilla hacia el pecho.",
+          "Mueve la columna vértebra a vértebra, empezando desde la pelvis.",
+          "Repite de forma lenta y rítmica, sincronizando el movimiento con la respiración."
+        ],
+        "commonMistakes": [
+          "Mover solo el cuello y la zona lumbar sin implicar la zona dorsal.",
+          "Hacerlo rápido y sin coordinar la respiración.",
+          "Forzar la extensión lumbar hasta notar pinchazos."
+        ],
+        "tips": [
+          "Piensa en mover la pelvis primero y que el resto de la columna la siga.",
+          "Es un buen ejercicio para la vuelta a la calma junto con respiración diafragmática."
+        ]
+      },
+      "en": {
+        "name": "Cat-Cow Spinal Flow",
+        "description": "Gentle mobility for the whole spine on all fours, alternating flexion (rounded back) and extension (chest forward). It is a simple way to wake up your back before training or loosen it after a bag or shadowboxing session.",
+        "steps": [
+          "Get on all fours with your hands under your shoulders and knees under your hips.",
+          "Inhale and let your belly drop, bringing the chest forward and looking slightly ahead.",
+          "Exhale and round your back by pushing the floor away, tucking your chin toward your chest.",
+          "Move the spine segment by segment, starting from the pelvis.",
+          "Repeat slowly and rhythmically, syncing movement with breath."
+        ],
+        "commonMistakes": [
+          "Moving only the neck and lower back without involving the upper back.",
+          "Going fast without coordinating breathing.",
+          "Pushing lower-back extension until you feel sharp pain."
+        ],
+        "tips": [
+          "Think of tilting the pelvis first and letting the rest of the spine follow.",
+          "Pairs well with diaphragmatic breathing in your cool-down."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "thoracic-open-book",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["UPPER_BACK", "CHEST"],
+    "secondaryMuscles": ["OBLIQUES", "SHOULDERS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "8",
+      "seconds": null,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Libro abierto torácico",
+        "description": "Tumbado de lado con las rodillas dobladas, abres el brazo superior como la tapa de un libro para rotar la columna dorsal mientras la cadera queda fija. Mejora la rotación del tronco que necesitas para el cruzado, el gancho y la patada circular, sin cargar la zona lumbar.",
+        "steps": [
+          "Túmbate de lado con caderas y rodillas dobladas a unos 90 grados y los brazos estirados al frente, palmas juntas.",
+          "Apoya la cabeza en el suelo o en un cojín para mantener el cuello alineado.",
+          "Mantén las rodillas juntas y apoyadas en el suelo y abre el brazo de arriba describiendo un arco hacia el otro lado.",
+          "Sigue la mano con la mirada y deja que el pecho gire hacia el techo.",
+          "Mantén un segundo o dos en el punto final cómodo, exhalando.",
+          "Vuelve con control a la posición inicial. Completa las repeticiones y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Separar las rodillas o girar la cadera, lo que traslada el giro a la zona lumbar.",
+          "Forzar el hombro hacia el suelo con molestia en la articulación.",
+          "Contener la respiración."
+        ],
+        "tips": [
+          "Pon una toalla enrollada entre las rodillas para asegurarte de que la pelvis no se mueve.",
+          "No hace falta que la mano toque el suelo: la calidad del giro es lo importante."
+        ]
+      },
+      "en": {
+        "name": "Thoracic Open Book",
+        "description": "Lying on your side with knees bent, you open your top arm like the cover of a book to rotate the upper back while the hips stay fixed. It improves the trunk rotation you need for crosses, hooks and roundhouse kicks without loading the lower back.",
+        "steps": [
+          "Lie on your side with hips and knees bent to about 90 degrees and both arms straight in front, palms together.",
+          "Rest your head on the floor or a cushion to keep the neck aligned.",
+          "Keep the knees stacked on the floor and sweep the top arm in an arc toward the other side.",
+          "Follow your hand with your eyes and let the chest turn toward the ceiling.",
+          "Hold for a second or two at the comfortable end range while exhaling.",
+          "Return with control. Finish the reps and switch sides."
+        ],
+        "commonMistakes": [
+          "Letting the knees separate or the hips roll, which shifts the twist to the lower back.",
+          "Forcing the shoulder to the floor despite joint discomfort.",
+          "Holding your breath."
+        ],
+        "tips": [
+          "Squeeze a rolled towel between your knees to keep the pelvis still.",
+          "Your hand does not need to touch the floor: the quality of the rotation is what counts."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "quadruped-thoracic-rotation",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["UPPER_BACK"],
+    "secondaryMuscles": ["OBLIQUES", "SHOULDERS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "8",
+      "seconds": null,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Rotación torácica a cuatro patas",
+        "description": "A cuatro patas y con una mano detrás de la cabeza, giras el codo hacia el techo y luego hacia el brazo de apoyo. Con la cadera sentada ligeramente hacia los talones, el giro se concentra en la columna dorsal, que es donde debe nacer la rotación en los golpes.",
+        "steps": [
+          "Colócate a cuatro patas y lleva la cadera un poco hacia atrás, hacia los talones.",
+          "Pon la mano derecha detrás de la cabeza, con el codo apuntando al suelo.",
+          "Exhala y gira abriendo el codo derecho hacia el techo, siguiéndolo con la mirada.",
+          "Vuelve despacio y lleva el codo hacia la muñeca izquierda, cerrando el giro.",
+          "Mantén la zona lumbar quieta durante todo el recorrido. Completa las repeticiones y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Mover la cadera o arquear la zona lumbar para ganar recorrido.",
+          "Tirar del cuello con la mano.",
+          "Ir deprisa sin pausa en el punto final."
+        ],
+        "tips": [
+          "Sentarte hacia los talones limita el movimiento de la zona lumbar y concentra el giro en la dorsal.",
+          "Haz una pausa de 1-2 segundos arriba para ganar control activo."
+        ]
+      },
+      "en": {
+        "name": "Quadruped Thoracic Rotation",
+        "description": "On all fours with one hand behind your head, you rotate the elbow up toward the ceiling and then down toward the supporting arm. With the hips sitting slightly back toward the heels, the twist stays in the upper back, which is where rotation in your punches should come from.",
+        "steps": [
+          "Get on all fours and shift your hips slightly back toward your heels.",
+          "Place your right hand behind your head with the elbow pointing to the floor.",
+          "Exhale and rotate, opening the right elbow toward the ceiling and following it with your eyes.",
+          "Return slowly and bring the elbow toward your left wrist to close the rotation.",
+          "Keep the lower back still throughout. Finish the reps and switch sides."
+        ],
+        "commonMistakes": [
+          "Moving the hips or arching the lower back to gain range.",
+          "Pulling on the neck with the hand.",
+          "Rushing without a pause at the end range."
+        ],
+        "tips": [
+          "Sitting back toward the heels limits lower-back motion and keeps the rotation in the upper back.",
+          "Pause for 1-2 seconds at the top to build active control."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "ankle-knee-to-wall-rock",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["CALVES"],
+    "secondaryMuscles": ["QUADRICEPS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "10-12",
+      "seconds": null,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Movilidad de tobillo con rodilla a la pared",
+        "description": "Movilización activa de la flexión dorsal del tobillo llevando la rodilla hacia la pared sin despegar el talón. Un tobillo móvil te permite flexionar mejor las piernas en guardia, desplazarte con soltura y apoyar con estabilidad en el pivote de las patadas.",
+        "steps": [
+          "Colócate frente a una pared en posición de media zancada, con el pie delantero a unos centímetros de ella.",
+          "Apoya las manos en la pared para equilibrarte.",
+          "Lleva la rodilla delantera hacia la pared, en línea con el segundo o tercer dedo del pie.",
+          "Mantén el talón pegado al suelo en todo momento.",
+          "Vuelve atrás y repite con un ritmo suave. Si tocas la pared con facilidad, aleja un poco el pie.",
+          "Completa las repeticiones y cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Levantar el talón para llegar a la pared.",
+          "Dejar que la rodilla se meta hacia dentro.",
+          "Hundir el arco del pie al avanzar."
+        ],
+        "tips": [
+          "Puedes hacer una breve pausa de 2 segundos al final del recorrido.",
+          "Compara ambos lados: es habitual que el tobillo con esguinces previos tenga menos rango.",
+          "Si notas un pinzamiento en la parte delantera del tobillo, reduce el rango y no lo fuerces."
+        ]
+      },
+      "en": {
+        "name": "Knee-to-Wall Ankle Rock",
+        "description": "Active ankle dorsiflexion mobility in which you drive the knee toward a wall while keeping the heel down. A mobile ankle lets you sit lower in your stance, move more freely and stay stable on the pivot foot when kicking.",
+        "steps": [
+          "Stand facing a wall in a half-lunge, with your front foot a few centimetres away from it.",
+          "Rest your hands on the wall for balance.",
+          "Drive your front knee toward the wall, tracking over your second or third toe.",
+          "Keep the heel flat on the floor the whole time.",
+          "Rock back and repeat smoothly. If you touch the wall easily, move the foot slightly further away.",
+          "Finish the reps and switch legs."
+        ],
+        "commonMistakes": [
+          "Lifting the heel to reach the wall.",
+          "Letting the knee cave inward.",
+          "Collapsing the arch of the foot as you move forward."
+        ],
+        "tips": [
+          "Add a brief 2-second pause at end range.",
+          "Compare sides: an ankle with past sprains often has less range.",
+          "If you feel pinching at the front of the ankle, shorten the range and do not force it."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "leg-swing-front-back",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["HAMSTRINGS", "HIP_FLEXORS"],
+    "secondaryMuscles": ["GLUTES", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "12-15",
+      "seconds": null,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Balanceo de pierna adelante y atrás",
+        "description": "Balanceo dinámico de la pierna en el plano sagital, de menos a más amplitud, apoyado en una pared. Prepara isquios y flexores de cadera para patadas frontales, teep y patadas altas, y es uno de los mejores ejercicios para calentar antes de patear.",
+        "steps": [
+          "Colócate de lado junto a una pared y apóyate con la mano más cercana.",
+          "Mantén el tronco erguido y la pierna de apoyo ligeramente flexionada.",
+          "Balancea la pierna libre hacia delante y hacia atrás con la rodilla casi estirada.",
+          "Empieza con balanceos pequeños y aumenta la altura poco a poco en cada repetición.",
+          "Controla el movimiento en ambos extremos: sin golpes ni latigazos.",
+          "Completa las repeticiones y cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Empezar directamente con la máxima amplitud y en frío.",
+          "Encorvar la espalda para subir más la pierna.",
+          "Arquear mucho la zona lumbar en el balanceo hacia atrás."
+        ],
+        "tips": [
+          "Hazlo después de unos minutos de comba o desplazamientos para entrar en calor.",
+          "La amplitud debe venir de la cadera, no de doblar la espalda.",
+          "Si notas un tirón brusco en el isquio, reduce la altura."
+        ]
+      },
+      "en": {
+        "name": "Front-to-Back Leg Swing",
+        "description": "A dynamic leg swing in the sagittal plane, building from small to large amplitude, with one hand on a wall. It prepares the hamstrings and hip flexors for front kicks, teeps and high kicks, and is one of the best drills to warm up before kicking.",
+        "steps": [
+          "Stand side-on to a wall and support yourself with the nearest hand.",
+          "Keep your torso upright and the standing knee slightly bent.",
+          "Swing the free leg forward and back with the knee almost straight.",
+          "Start with small swings and gradually increase the height with each rep.",
+          "Control both ends of the movement: no snapping or jerking.",
+          "Finish the reps and switch legs."
+        ],
+        "commonMistakes": [
+          "Going straight to maximum range while still cold.",
+          "Rounding the back to get the leg higher.",
+          "Over-arching the lower back on the backswing."
+        ],
+        "tips": [
+          "Do it after a few minutes of skipping or footwork so you are already warm.",
+          "Range should come from the hip, not from bending the spine.",
+          "If you feel a sharp pull in the hamstring, lower the height."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "leg-swing-lateral",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["ADDUCTORS", "ABDUCTORS"],
+    "secondaryMuscles": ["GLUTES", "HIP_FLEXORS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "12-15",
+      "seconds": null,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Balanceo lateral de pierna",
+        "description": "Balanceo dinámico de la pierna de lado a lado por delante del cuerpo, de frente a una pared. Moviliza aductores y abductores antes de patadas circulares, laterales y cualquier técnica que exija abrir la cadera.",
+        "steps": [
+          "Colócate de frente a una pared y apoya ambas manos a la altura del pecho.",
+          "Pasa el peso a una pierna, con la rodilla de apoyo ligeramente flexionada.",
+          "Balancea la pierna libre cruzándola por delante del cuerpo y luego ábrela hacia fuera.",
+          "Aumenta la amplitud de forma progresiva, manteniendo la cadera mirando a la pared.",
+          "Completa las repeticiones y cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Girar la cadera y el tronco con cada balanceo.",
+          "Inclinarse mucho hacia el lado contrario para ganar altura.",
+          "Balancear a lo bruto sin control al final del recorrido."
+        ],
+        "tips": [
+          "Encadénalo con el balanceo adelante-atrás como parte fija del calentamiento de patadas.",
+          "Mantén el abdomen firme para que el movimiento salga de la cadera."
+        ]
+      },
+      "en": {
+        "name": "Lateral Leg Swing",
+        "description": "A dynamic side-to-side leg swing across the front of the body while facing a wall. It mobilises the adductors and abductors before roundhouse kicks, side kicks and any technique that requires opening the hip.",
+        "steps": [
+          "Face a wall and place both hands on it at chest height.",
+          "Shift your weight onto one leg with the standing knee slightly bent.",
+          "Swing the free leg across the front of your body, then out to the side.",
+          "Increase the range gradually while keeping your hips facing the wall.",
+          "Finish the reps and switch legs."
+        ],
+        "commonMistakes": [
+          "Twisting the hips and torso with every swing.",
+          "Leaning far to the opposite side to gain height.",
+          "Swinging wildly without control at end range."
+        ],
+        "tips": [
+          "Pair it with front-to-back swings as a fixed part of your kicking warm-up.",
+          "Keep your core firm so the motion comes from the hip."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "standing-hip-cars",
+    "category": "MOBILITY",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["HIP_FLEXORS", "GLUTES"],
+    "secondaryMuscles": ["ADDUCTORS", "ABDUCTORS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "5",
+      "seconds": null,
+      "restSec": 20
+    },
+    "i18n": {
+      "es": {
+        "name": "Rotaciones articulares controladas de cadera (CARs) de pie",
+        "description": "Círculo lento y controlado de la cadera con la rodilla doblada, recorriendo el máximo rango activo sin compensar con el tronco. Se parece mucho al gesto de recoger la rodilla y girar la cadera de la patada circular, y mejora el control en los extremos del rango.",
+        "steps": [
+          "Ponte de pie junto a una pared o apoyo y agárrate con una mano.",
+          "Activa el abdomen y aprieta el puño libre para mantener el tronco rígido.",
+          "Sube la rodilla al frente tan alto como puedas sin redondear la espalda.",
+          "Abre la rodilla hacia el lateral manteniéndola alta, como si pasaras por encima de una valla.",
+          "Gira la cadera para llevar el pie hacia arriba y atrás y baja la rodilla junto a la otra.",
+          "Haz el círculo en unos 10-15 segundos. Completa las repeticiones, invierte el sentido y cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Inclinar o girar el tronco para que la pierna recorra más.",
+          "Hacerlo rápido, convirtiéndolo en un balanceo.",
+          "Perder la altura de la rodilla al abrir hacia el lateral."
+        ],
+        "tips": [
+          "Menos rango con el tronco quieto vale más que mucho rango compensando.",
+          "Puedes hacerlo a cuatro patas si te cuesta el equilibrio.",
+          "Detente si aparece pinzamiento en la ingle y reduce el recorrido."
+        ]
+      },
+      "en": {
+        "name": "Standing Hip CARs",
+        "description": "A slow, controlled circle of the hip with the knee bent, moving through your largest active range without compensating with the torso. It closely resembles the chamber-and-turn pattern of the roundhouse kick and improves control at the end of your range.",
+        "steps": [
+          "Stand next to a wall or support and hold it with one hand.",
+          "Brace your core and squeeze your free fist to keep the torso rigid.",
+          "Raise the knee in front as high as you can without rounding your back.",
+          "Open the knee out to the side while keeping it high, as if stepping over a hurdle.",
+          "Rotate the hip to bring the foot up and back, then lower the knee next to the other one.",
+          "Take about 10-15 seconds per circle. Finish the reps, reverse direction and switch legs."
+        ],
+        "commonMistakes": [
+          "Tilting or twisting the torso so the leg travels further.",
+          "Doing it fast, turning it into a swing.",
+          "Letting the knee drop as it opens to the side."
+        ],
+        "tips": [
+          "Less range with a still torso beats more range with compensation.",
+          "Do it on all fours if balance is a problem.",
+          "Stop and shorten the range if you feel pinching in the groin."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "quadruped-hip-circle",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "ABDUCTORS"],
+    "secondaryMuscles": ["HIP_FLEXORS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "8",
+      "seconds": null,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Círculos de cadera a cuatro patas",
+        "description": "Desde cuatro patas, describes círculos amplios con la rodilla doblada: hacia delante, abriendo al lateral y hacia atrás. Es una versión más sencilla y estable de las rotaciones de cadera, ideal para principiantes que preparan las patadas circulares.",
+        "steps": [
+          "Colócate a cuatro patas con la espalda neutra y el abdomen activo.",
+          "Lleva una rodilla hacia el pecho sin redondear la espalda.",
+          "Ábrela hacia el lateral manteniendo la rodilla doblada a 90 grados.",
+          "Llévala hacia atrás y vuelve a la posición inicial completando el círculo.",
+          "Haz las repeticiones en un sentido, luego en el contrario, y cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Dejar caer el peso hacia el lado contrario.",
+          "Hundir o arquear la zona lumbar al llevar la pierna atrás.",
+          "Hacerlo con impulso en lugar de controlarlo."
+        ],
+        "tips": [
+          "Imagina que llevas un vaso de agua en la zona lumbar que no puede caerse.",
+          "Cuando te resulte fácil, progresa a las rotaciones de cadera de pie."
+        ]
+      },
+      "en": {
+        "name": "Quadruped Hip Circle",
+        "description": "From all fours, you draw large circles with the bent knee: forward, out to the side and back. It is a simpler, more stable version of hip rotations, ideal for beginners preparing for roundhouse kicks.",
+        "steps": [
+          "Get on all fours with a neutral back and engaged core.",
+          "Bring one knee toward your chest without rounding the back.",
+          "Open it out to the side, keeping the knee bent at 90 degrees.",
+          "Take it back and return to the start to complete the circle.",
+          "Do the reps in one direction, then the other, and switch legs."
+        ],
+        "commonMistakes": [
+          "Shifting your weight toward the opposite side.",
+          "Sagging or arching the lower back as the leg goes back.",
+          "Using momentum instead of control."
+        ],
+        "tips": [
+          "Imagine balancing a glass of water on your lower back.",
+          "Once it feels easy, progress to standing hip CARs."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "band-shoulder-pass-through",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["SHOULDERS", "CHEST"],
+    "secondaryMuscles": ["UPPER_BACK", "LATS"],
+    "equipment": ["RESISTANCE_BAND"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "10-15",
+      "seconds": null,
+      "restSec": 20
+    },
+    "i18n": {
+      "es": {
+        "name": "Pase de hombros con banda",
+        "description": "Con una banda elástica sujeta con agarre ancho, pasas los brazos estirados por encima de la cabeza hasta detrás de la espalda y vuelves. Moviliza hombros y pecho, que suelen cargarse por la guardia cerrada y el volumen de golpeo.",
+        "steps": [
+          "Ponte de pie y sujeta la banda con las palmas hacia abajo y un agarre bastante más ancho que los hombros.",
+          "Activa el abdomen y mete ligeramente las costillas para no arquear la espalda.",
+          "Con los brazos estirados, eleva la banda por delante y por encima de la cabeza.",
+          "Continúa el arco hasta llevar la banda detrás del cuerpo, hacia los glúteos.",
+          "Vuelve por el mismo camino con control.",
+          "Repite manteniendo un ritmo lento y sin dolor."
+        ],
+        "commonMistakes": [
+          "Usar un agarre demasiado estrecho y forzar los hombros.",
+          "Doblar los codos para conseguir pasar.",
+          "Arquear la zona lumbar en lugar de mover los hombros.",
+          "Encoger los hombros hacia las orejas."
+        ],
+        "tips": [
+          "Empieza con un agarre muy ancho y estréchalo poco a poco con las semanas.",
+          "Si no tienes banda, también te vale una toalla o un palo de escoba, con un agarre aún más ancho porque no ceden.",
+          "Detente ante cualquier pinchazo en la parte delantera del hombro.",
+          "Si has tenido luxaciones o inestabilidad de hombro, consulta con un profesional sanitario antes de trabajar en este rango."
+        ]
+      },
+      "en": {
+        "name": "Band Shoulder Pass-Through",
+        "description": "Holding a resistance band with a wide grip, you take your straight arms overhead and behind your back, then return. It mobilises the shoulders and chest, which tend to tighten from a closed guard and high punching volume.",
+        "steps": [
+          "Stand and hold the band with palms down and a grip well wider than your shoulders.",
+          "Brace your core and draw your ribs down slightly so you do not arch your back.",
+          "With straight arms, raise the band in front of you and overhead.",
+          "Continue the arc until the band is behind your body, toward your glutes.",
+          "Return along the same path with control.",
+          "Repeat at a slow, pain-free pace."
+        ],
+        "commonMistakes": [
+          "Using too narrow a grip and forcing the shoulders.",
+          "Bending the elbows to get through.",
+          "Arching the lower back instead of moving the shoulders.",
+          "Shrugging the shoulders toward the ears."
+        ],
+        "tips": [
+          "Start with a very wide grip and narrow it gradually over the weeks.",
+          "No band? A towel or broomstick also works; use an even wider grip, since they do not stretch.",
+          "Stop if you feel any sharp pain at the front of the shoulder.",
+          "If you have a history of shoulder dislocation or instability, check with a healthcare professional before working in this range."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "neck-mobility-sequence",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["NECK"],
+    "secondaryMuscles": ["UPPER_BACK", "SHOULDERS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 1,
+      "reps": "5",
+      "seconds": null,
+      "restSec": 0
+    },
+    "i18n": {
+      "es": {
+        "name": "Secuencia de movilidad cervical",
+        "description": "Movimientos lentos del cuello en todas las direcciones: flexión, extensión, inclinación lateral y rotación. Prepara el cuello antes de una sesión de golpeo en la que trabajas con la barbilla metida y la guardia alta, siempre de forma suave y en un rango cómodo.",
+        "steps": [
+          "Siéntate o ponte de pie con la espalda erguida y los hombros relajados.",
+          "Lleva la barbilla hacia el pecho y vuelve despacio a la posición neutra.",
+          "Mira ligeramente hacia arriba sin dejar caer la cabeza hacia atrás de golpe y vuelve.",
+          "Inclina la oreja hacia el hombro de cada lado sin elevar el hombro.",
+          "Gira la cabeza para mirar por encima de cada hombro.",
+          "Haz las repeticiones indicadas en cada dirección, despacio y respirando con calma."
+        ],
+        "commonMistakes": [
+          "Hacer círculos rápidos y completos con la cabeza.",
+          "Forzar la extensión del cuello hacia atrás.",
+          "Subir los hombros durante las inclinaciones."
+        ],
+        "tips": [
+          "Mueve el cuello de forma suave y sin dolor; si notas mareo, hormigueo o dolor irradiado, para y consulta con un profesional sanitario.",
+          "Encaja bien al principio del calentamiento y también en la vuelta a la calma."
+        ]
+      },
+      "en": {
+        "name": "Neck Mobility Sequence",
+        "description": "Slow neck movements in every direction: flexion, extension, side bending and rotation. It prepares the neck before a striking session where you keep your chin tucked and your guard high, always gently and within a comfortable range.",
+        "steps": [
+          "Sit or stand tall with relaxed shoulders.",
+          "Bring your chin toward your chest and slowly return to neutral.",
+          "Look slightly upward without letting your head drop back suddenly, then return.",
+          "Tilt your ear toward each shoulder without lifting the shoulder.",
+          "Turn your head to look over each shoulder.",
+          "Do the given reps in each direction, slowly and breathing calmly."
+        ],
+        "commonMistakes": [
+          "Making fast, full circles with the head.",
+          "Forcing the neck backward into extension.",
+          "Lifting the shoulders during the side bends."
+        ],
+        "tips": [
+          "Move gently and pain-free; if you feel dizziness, tingling or radiating pain, stop and check with a healthcare professional.",
+          "It fits well at the start of your warm-up and in your cool-down."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "deep-squat-hold-pry",
+    "category": "MOBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["ADDUCTORS", "GLUTES", "CALVES"],
+    "secondaryMuscles": ["LOWER_BACK", "HIP_FLEXORS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 45,
+      "restSec": 20
+    },
+    "i18n": {
+      "es": {
+        "name": "Sentadilla profunda con apertura",
+        "description": "Mantienes una sentadilla profunda con los codos por dentro de las rodillas, haciendo pequeños movimientos para abrir cadera y tobillos. Mejora la movilidad combinada de cadera, tobillo y columna, útil para una guardia baja y estable.",
+        "steps": [
+          "Colócate con los pies algo más abiertos que la cadera y las puntas ligeramente hacia fuera.",
+          "Baja a una sentadilla tan profunda como puedas manteniendo los talones apoyados.",
+          "Junta las manos delante del pecho y apoya los codos por dentro de las rodillas.",
+          "Empuja suavemente las rodillas hacia fuera con los codos y mantén el pecho alto.",
+          "Balancea el peso con calma de un lado a otro y hacia delante durante el tiempo indicado."
+        ],
+        "commonMistakes": [
+          "Levantar los talones y cargar todo el peso en la punta de los pies.",
+          "Dejar que las rodillas se cierren hacia dentro.",
+          "Colapsar la espalda por completo sin intentar mantener el pecho erguido."
+        ],
+        "tips": [
+          "Si no llegas abajo con los talones apoyados, agárrate a un marco de puerta o pon algo bajo los talones.",
+          "Puedes repartir el tiempo en varias series cortas a lo largo del día.",
+          "Sube con calma si notas molestia en las rodillas."
+        ]
+      },
+      "en": {
+        "name": "Deep Squat Hold and Pry",
+        "description": "You hold a deep squat with your elbows inside your knees, making small movements to open up the hips and ankles. It improves combined hip, ankle and spine mobility, which helps you sit in a low, stable stance.",
+        "steps": [
+          "Stand with feet slightly wider than hip width and toes turned out a little.",
+          "Sink into the deepest squat you can while keeping your heels down.",
+          "Bring your hands together in front of your chest and place your elbows inside your knees.",
+          "Gently press the knees out with your elbows and keep your chest tall.",
+          "Calmly shift your weight side to side and forward for the given time."
+        ],
+        "commonMistakes": [
+          "Lifting the heels and loading all your weight on the toes.",
+          "Letting the knees collapse inward.",
+          "Slumping completely without trying to keep the chest up."
+        ],
+        "tips": [
+          "If you cannot reach depth with heels down, hold a door frame or raise the heels slightly.",
+          "You can split the time into several short sets throughout the day.",
+          "Stand up slowly if your knees feel uncomfortable."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "cossack-shift-mobility",
+    "category": "MOBILITY",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["ADDUCTORS", "GLUTES"],
+    "secondaryMuscles": ["QUADRICEPS", "HAMSTRINGS", "CALVES"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "6-8",
+      "seconds": null,
+      "restSec": 20
+    },
+    "i18n": {
+      "es": {
+        "name": "Desplazamiento cosaco de movilidad",
+        "description": "Desde una postura muy abierta, desplazas el peso de una pierna a otra bajando en sentadilla lateral mientras la pierna contraria se estira. Usado como movilidad, sin carga y con pausas, abre los aductores de forma activa y prepara la cadera para patadas laterales y circulares.",
+        "steps": [
+          "Abre las piernas bastante más que el ancho de los hombros, con las puntas ligeramente hacia fuera.",
+          "Desplaza el peso a la pierna derecha y baja doblando esa rodilla mientras la izquierda queda estirada.",
+          "Mantén el talón de la pierna flexionada apoyado y el pecho alto. Si quieres, eleva la punta del pie estirado hacia el techo.",
+          "Haz una pausa de 2 segundos abajo, notando el estiramiento en la cara interna de la pierna estirada.",
+          "Pasa al otro lado sin subir del todo, de forma fluida. Cada lado cuenta como una repetición."
+        ],
+        "commonMistakes": [
+          "Bajar más de lo que permite tu movilidad y levantar el talón.",
+          "Dejar que la rodilla flexionada se vaya hacia dentro.",
+          "Redondear la espalda en la parte baja del movimiento."
+        ],
+        "tips": [
+          "Apóyate con las manos en el suelo delante de ti o en una silla si te falta equilibrio.",
+          "Aumenta la profundidad poco a poco, siempre sin dolor en la rodilla."
+        ]
+      },
+      "en": {
+        "name": "Cossack Shift Mobility",
+        "description": "From a very wide stance, you shift your weight from one leg to the other, sinking into a side squat while the opposite leg straightens. Used as mobility, unloaded and with pauses, it actively opens the adductors and prepares the hips for side kicks and roundhouses.",
+        "steps": [
+          "Set your feet well wider than shoulder width with toes turned slightly out.",
+          "Shift your weight to the right leg and bend that knee while the left leg stays straight.",
+          "Keep the heel of the bent leg down and your chest up. Optionally point the toes of the straight leg toward the ceiling.",
+          "Pause for 2 seconds at the bottom, feeling the stretch along the inner thigh of the straight leg.",
+          "Flow to the other side without standing all the way up. Each side counts as one rep."
+        ],
+        "commonMistakes": [
+          "Sinking deeper than your mobility allows and lifting the heel.",
+          "Letting the bent knee cave inward.",
+          "Rounding the back at the bottom of the movement."
+        ],
+        "tips": [
+          "Rest your hands on the floor in front of you or on a chair if balance is an issue.",
+          "Increase depth gradually, always without knee pain."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "standing-elevated-hamstring-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["HAMSTRINGS"],
+    "secondaryMuscles": ["CALVES", "GLUTES"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 30,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento de isquios con pierna elevada",
+        "description": "Estiramiento estático de isquiotibiales con el talón apoyado en un escalón, banco o silla baja y la cadera inclinada hacia delante con la espalda recta. Es la base para ganar amplitud en patadas frontales, teep y patadas altas.",
+        "steps": [
+          "Coloca el talón sobre una superficie estable a la altura de la rodilla o algo más baja.",
+          "Mantén ambas piernas estiradas sin bloquear la rodilla y la cadera mirando al frente.",
+          "Inclínate hacia delante desde la cadera, con la espalda larga, hasta notar un estiramiento moderado detrás del muslo.",
+          "Mantén la posición sin rebotar y respira con calma durante el tiempo indicado.",
+          "Sal despacio y cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Redondear la espalda para acercar la cabeza a la rodilla.",
+          "Rebotar para llegar más lejos.",
+          "Usar una altura excesiva que obliga a girar la cadera."
+        ],
+        "tips": [
+          "Busca una intensidad de 5-6 sobre 10: tirantez clara, nunca dolor.",
+          "Llevar la punta del pie hacia ti añade estiramiento a la pantorrilla; si notas hormigueo, relaja el pie.",
+          "Los estiramientos estáticos largos encajan mejor después de entrenar o en sesiones aparte que justo antes de golpear."
+        ]
+      },
+      "en": {
+        "name": "Standing Elevated Hamstring Stretch",
+        "description": "A static hamstring stretch with your heel on a step, bench or low chair and your hips hinging forward with a straight back. It is the foundation for gaining range in front kicks, teeps and high kicks.",
+        "steps": [
+          "Place your heel on a stable surface at knee height or slightly lower.",
+          "Keep both legs straight without locking the knees and your hips facing forward.",
+          "Hinge forward from the hips with a long back until you feel a moderate stretch behind the thigh.",
+          "Hold without bouncing and breathe calmly for the given time.",
+          "Ease out slowly and switch legs."
+        ],
+        "commonMistakes": [
+          "Rounding the back to bring the head toward the knee.",
+          "Bouncing to reach further.",
+          "Using a surface so high that the hips have to twist."
+        ],
+        "tips": [
+          "Aim for an intensity of about 5-6 out of 10: a clear pull, never pain.",
+          "Pulling the toes toward you adds a calf stretch; if you feel tingling, relax the foot.",
+          "Long static stretches fit better after training or in separate sessions than right before striking."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "supine-hamstring-pnf-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["HAMSTRINGS"],
+    "secondaryMuscles": ["CALVES", "GLUTES"],
+    "equipment": ["RESISTANCE_BAND"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": "3-4",
+      "seconds": null,
+      "restSec": 20
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento FNP de isquios tumbado con banda",
+        "description": "Tumbado boca arriba con una banda en el pie, alternas un estiramiento estático con contracciones suaves del isquio contra la banda (método contraer-relajar). Es una de las formas más eficaces de ganar rango de forma segura trabajando solo, porque tú controlas la tensión en todo momento.",
+        "steps": [
+          "Túmbate boca arriba y pasa una banda o toalla por la planta de un pie.",
+          "Sube esa pierna estirada hasta notar un estiramiento moderado; la otra pierna queda apoyada en el suelo.",
+          "Mantén 15-20 segundos relajado.",
+          "Empuja el talón contra la banda con un 20-30 % de fuerza durante 5-6 segundos, sin mover la pierna.",
+          "Relaja, exhala y usa la banda para acercar la pierna un poco más, hasta la nueva tensión cómoda.",
+          "Mantén 15-20 segundos. Repite el ciclo contraer-relajar las veces indicadas y cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Contraer con demasiada fuerza o de golpe.",
+          "Tirar bruscamente de la banda tras la contracción.",
+          "Despegar la cadera o la pierna de apoyo del suelo.",
+          "Hacerlo en frío y justo antes de una sesión explosiva."
+        ],
+        "tips": [
+          "La contracción debe ser suave: no buscas un esfuerzo máximo.",
+          "No hagas FNP sobre un músculo con una lesión reciente.",
+          "Con 2-3 sesiones por semana suele bastar para notar progresos."
+        ]
+      },
+      "en": {
+        "name": "Supine Band Hamstring PNF Stretch",
+        "description": "Lying on your back with a band around your foot, you alternate a static stretch with gentle hamstring contractions against the band (contract-relax method). It is one of the most effective ways to gain range safely when training alone, because you control the tension at all times.",
+        "steps": [
+          "Lie on your back and loop a band or towel around the sole of one foot.",
+          "Raise that leg straight until you feel a moderate stretch, keeping the other leg on the floor.",
+          "Hold relaxed for 15-20 seconds.",
+          "Press the heel into the band with about 20-30% effort for 5-6 seconds without moving the leg.",
+          "Relax, exhale and use the band to bring the leg slightly closer, to the new comfortable tension.",
+          "Hold 15-20 seconds. Repeat the contract-relax cycle for the given reps and switch legs."
+        ],
+        "commonMistakes": [
+          "Contracting too hard or too suddenly.",
+          "Yanking on the band after the contraction.",
+          "Lifting the hips or the resting leg off the floor.",
+          "Doing it cold right before an explosive session."
+        ],
+        "tips": [
+          "The contraction should be gentle: you are not looking for maximum effort.",
+          "Do not use PNF on a muscle with a recent injury.",
+          "Two to three sessions per week is usually enough to see progress."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "seated-butterfly-adductor-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["ADDUCTORS"],
+    "secondaryMuscles": ["HIP_FLEXORS", "LOWER_BACK"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 40,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento de mariposa para aductores",
+        "description": "Sentado con las plantas de los pies juntas y las rodillas abiertas, inclinas el tronco suavemente hacia delante. Estira los aductores cortos y la ingle, una zona muy implicada en patadas laterales, circulares y en una guardia amplia.",
+        "steps": [
+          "Siéntate en el suelo, junta las plantas de los pies y acércalas a la pelvis a una distancia cómoda.",
+          "Sujeta los tobillos o los pies con las manos y siéntate erguido.",
+          "Deja que las rodillas caigan hacia los lados por su propio peso.",
+          "Inclínate hacia delante desde la cadera con la espalda larga hasta notar el estiramiento en la ingle.",
+          "Mantén la posición respirando con calma, sin rebotar con las rodillas."
+        ],
+        "commonMistakes": [
+          "Aletear con las rodillas arriba y abajo.",
+          "Empujar las rodillas con fuerza con los codos.",
+          "Redondear la espalda en lugar de inclinarse desde la cadera."
+        ],
+        "tips": [
+          "Si la espalda se redondea, siéntate sobre un cojín o una toalla doblada.",
+          "Alejar los pies de la pelvis desplaza el estiramiento hacia los aductores largos y la zona lumbar.",
+          "Puedes añadir 2-3 ciclos de contraer-relajar con las manos sobre las rodillas: empújalas suavemente hacia arriba contra las manos 5 segundos y relaja."
+        ]
+      },
+      "en": {
+        "name": "Seated Butterfly Adductor Stretch",
+        "description": "Sitting with the soles of your feet together and knees open, you gently lean your torso forward. It stretches the short adductors and groin, an area heavily involved in side kicks, roundhouses and a wide stance.",
+        "steps": [
+          "Sit on the floor, bring the soles of your feet together and draw them toward your pelvis to a comfortable distance.",
+          "Hold your ankles or feet and sit tall.",
+          "Let your knees drop out to the sides under their own weight.",
+          "Lean forward from the hips with a long back until you feel the stretch in your groin.",
+          "Hold while breathing calmly, without bouncing your knees."
+        ],
+        "commonMistakes": [
+          "Flapping the knees up and down.",
+          "Forcing the knees down hard with your elbows.",
+          "Rounding the back instead of hinging from the hips."
+        ],
+        "tips": [
+          "If your back rounds, sit on a cushion or folded towel.",
+          "Moving the feet further from the pelvis shifts the stretch toward the longer adductors and the lower back.",
+          "Add 2-3 contract-relax cycles with your hands on your knees: gently press the knees up into your hands for 5 seconds, then relax."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "frog-adductor-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "TIME",
+    "primaryMuscles": ["ADDUCTORS"],
+    "secondaryMuscles": ["HIP_FLEXORS", "GLUTES"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 45,
+      "restSec": 20
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento de rana",
+        "description": "A cuatro patas con las rodillas muy abiertas y los tobillos alineados con ellas, llevas la cadera suavemente hacia atrás. Es un estiramiento intenso de aductores que ayuda a progresar hacia el abierto lateral y a ganar altura en la patada lateral.",
+        "steps": [
+          "Colócate a cuatro patas sobre una superficie acolchada y abre las rodillas hacia los lados.",
+          "Coloca los tobillos en línea con las rodillas y los pies hacia fuera, con los tobillos flexionados.",
+          "Baja a los antebrazos y mantén la espalda neutra.",
+          "Lleva la cadera despacio hacia atrás, hacia los talones, hasta notar un estiramiento moderado en la ingle.",
+          "Mantén la posición respirando hondo; puedes balancearte suavemente adelante y atrás unos centímetros."
+        ],
+        "commonMistakes": [
+          "Abrir las rodillas más de lo tolerable desde el principio.",
+          "Dejar que la zona lumbar se hunda.",
+          "Apoyar las rodillas sobre suelo duro sin protección."
+        ],
+        "tips": [
+          "Usa una toalla doblada o una esterilla bajo las rodillas.",
+          "Sal de la postura juntando las rodillas poco a poco, sin movimientos bruscos.",
+          "Si notas molestia en la parte interna de la rodilla, reduce la apertura."
+        ]
+      },
+      "en": {
+        "name": "Frog Adductor Stretch",
+        "description": "On all fours with your knees wide and ankles in line with them, you gently shift your hips back. It is an intense adductor stretch that helps you progress toward the side split and gain height on your side kick.",
+        "steps": [
+          "Get on all fours on a padded surface and slide your knees out to the sides.",
+          "Line up your ankles with your knees, feet turned out and ankles flexed.",
+          "Drop to your forearms and keep a neutral back.",
+          "Slowly push your hips back toward your heels until you feel a moderate stretch in the groin.",
+          "Hold while breathing deeply; you can rock gently forward and back a few centimetres."
+        ],
+        "commonMistakes": [
+          "Spreading the knees further than you can tolerate right away.",
+          "Letting the lower back sag.",
+          "Kneeling on a hard floor without padding."
+        ],
+        "tips": [
+          "Put a folded towel or mat under your knees.",
+          "Exit slowly by drawing the knees together, with no sudden movements.",
+          "If you feel discomfort on the inside of the knee, reduce the width."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "half-kneeling-hip-flexor-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["HIP_FLEXORS"],
+    "secondaryMuscles": ["QUADRICEPS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 30,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento de flexores de cadera en semiarrodillado",
+        "description": "Con una rodilla en el suelo y la otra pierna delante, inclinas la pelvis hacia atrás y aprietas el glúteo para estirar el psoas y el recto femoral. Viene bien si pasas muchas horas sentado y ayuda a extender bien la cadera en patadas y desplazamientos.",
+        "steps": [
+          "Arrodíllate con la rodilla derecha en el suelo y el pie izquierdo delante, ambas rodillas a unos 90 grados.",
+          "Ponte erguido y mete la pelvis llevando el pubis hacia el ombligo (retroversión pélvica).",
+          "Aprieta el glúteo derecho y notarás el estiramiento en la parte delantera de la cadera.",
+          "Avanza la cadera solo unos centímetros si necesitas más intensidad, sin arquear la espalda.",
+          "Mantén el tiempo indicado respirando con calma y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Arquear la zona lumbar y avanzar mucho la cadera, perdiendo el estiramiento real.",
+          "Dejar el glúteo relajado.",
+          "Apoyar la rodilla en suelo duro sin protección."
+        ],
+        "tips": [
+          "Elevar el brazo del lado de la rodilla apoyada e inclinarte un poco al lado contrario intensifica el estiramiento.",
+          "Pon una toalla doblada bajo la rodilla."
+        ]
+      },
+      "en": {
+        "name": "Half-Kneeling Hip Flexor Stretch",
+        "description": "With one knee on the floor and the other leg in front, you tuck the pelvis and squeeze the glute to stretch the psoas and rectus femoris. It is a good counterbalance to long hours of sitting and helps you fully extend the hip in kicks and footwork.",
+        "steps": [
+          "Kneel with your right knee on the floor and left foot in front, both knees at about 90 degrees.",
+          "Stand tall through the torso and tuck the pelvis by drawing your pubic bone up toward your belly button (posterior pelvic tilt).",
+          "Squeeze your right glute and you will feel the stretch at the front of the hip.",
+          "Shift the hips forward only a few centimetres if you need more intensity, without arching your back.",
+          "Hold for the given time while breathing calmly, then switch sides."
+        ],
+        "commonMistakes": [
+          "Arching the lower back and pushing the hips far forward, losing the real stretch.",
+          "Leaving the glute relaxed.",
+          "Kneeling on a hard floor without padding."
+        ],
+        "tips": [
+          "Raising the arm on the kneeling side and leaning slightly away intensifies the stretch.",
+          "Place a folded towel under your knee."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "couch-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "TIME",
+    "primaryMuscles": ["QUADRICEPS", "HIP_FLEXORS"],
+    "secondaryMuscles": ["CORE", "GLUTES"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 45,
+      "restSec": 20
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento de sofá",
+        "description": "Versión más intensa del estiramiento de flexores con el empeine trasero apoyado en una pared o sofá, que estira a fondo el cuádriceps, sobre todo el recto femoral, y los flexores de cadera. Útil para quien entrena mucha patada y para la extensión de cadera que exige el abierto frontal.",
+        "steps": [
+          "Arrodíllate de espaldas a una pared o sofá con una toalla bajo la rodilla.",
+          "Coloca la rodilla trasera cerca de la pared y apoya el empeine sobre ella.",
+          "Adelanta la otra pierna y apoya el pie en el suelo con la rodilla a 90 grados.",
+          "Empieza con el tronco inclinado y las manos en el suelo o en la rodilla delantera.",
+          "Endereza el tronco poco a poco, mete la pelvis y aprieta el glúteo de la pierna trasera.",
+          "Mantén respirando con calma y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Ponerse erguido de golpe y arquear mucho la zona lumbar.",
+          "Colocar la rodilla demasiado cerca de la pared desde el primer día.",
+          "Aguantar con dolor en la rodilla apoyada."
+        ],
+        "tips": [
+          "Si es demasiado intenso, separa la rodilla de la pared o quédate con el tronco inclinado.",
+          "Un cojín grueso bajo la rodilla hace la postura mucho más tolerable.",
+          "Funciona mejor al final de la sesión o como trabajo de flexibilidad aparte."
+        ]
+      },
+      "en": {
+        "name": "Couch Stretch",
+        "description": "A more intense version of the hip flexor stretch with the back instep resting against a wall or couch, which deeply stretches the quadriceps, especially the rectus femoris, and the hip flexors. Useful for anyone who kicks a lot and for the hip extension the front split requires.",
+        "steps": [
+          "Kneel with your back to a wall or couch and a towel under your knee.",
+          "Place the back knee close to the wall and rest the top of the foot against it.",
+          "Step the other leg forward with the foot flat and the knee at 90 degrees.",
+          "Start with your torso leaning forward and hands on the floor or front knee.",
+          "Gradually bring the torso upright, tuck the pelvis and squeeze the back-leg glute.",
+          "Hold while breathing calmly, then switch sides."
+        ],
+        "commonMistakes": [
+          "Jumping straight to upright and over-arching the lower back.",
+          "Putting the knee too close to the wall on day one.",
+          "Holding through pain in the kneeling knee."
+        ],
+        "tips": [
+          "If it is too intense, move the knee away from the wall or stay leaning forward.",
+          "A thick cushion under the knee makes the position much more tolerable.",
+          "Works best at the end of a session or as separate flexibility work."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "supine-figure-four-glute-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["GLUTES"],
+    "secondaryMuscles": ["LOWER_BACK", "ABDUCTORS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 30,
+      "restSec": 10
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento de glúteo en figura de cuatro",
+        "description": "Tumbado boca arriba, cruzas un tobillo sobre la rodilla contraria y acercas las piernas al pecho. Estira el glúteo y los rotadores de la cadera de forma suave y sin carga en la espalda, ideal para la vuelta a la calma tras patear.",
+        "steps": [
+          "Túmbate boca arriba con ambas rodillas dobladas y los pies apoyados.",
+          "Cruza el tobillo derecho sobre el muslo izquierdo, justo por encima de la rodilla.",
+          "Pasa las manos por detrás del muslo izquierdo y acércalo al pecho.",
+          "Mantén la cabeza y la zona lumbar apoyadas en el suelo.",
+          "Mantén el estiramiento respirando con calma y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Levantar la cabeza y tensar el cuello.",
+          "Tirar con tanta fuerza que la pelvis se despega del suelo.",
+          "Mantener el pie del lado estirado relajado y caído, cargando la rodilla."
+        ],
+        "tips": [
+          "Flexiona el tobillo de la pierna cruzada para proteger la rodilla.",
+          "Empujar suavemente la rodilla cruzada hacia fuera con el codo intensifica el estiramiento."
+        ]
+      },
+      "en": {
+        "name": "Supine Figure-Four Glute Stretch",
+        "description": "Lying on your back, you cross one ankle over the opposite knee and draw your legs toward your chest. It gently stretches the glutes and hip rotators without loading the back, ideal for cooling down after kicking.",
+        "steps": [
+          "Lie on your back with both knees bent and feet flat.",
+          "Cross your right ankle over your left thigh, just above the knee.",
+          "Thread your hands behind your left thigh and pull it toward your chest.",
+          "Keep your head and lower back on the floor.",
+          "Hold the stretch while breathing calmly, then switch sides."
+        ],
+        "commonMistakes": [
+          "Lifting the head and tensing the neck.",
+          "Pulling so hard that the pelvis comes off the floor.",
+          "Letting the crossed foot go limp, which stresses the knee."
+        ],
+        "tips": [
+          "Flex the ankle of the crossed leg to protect the knee.",
+          "Gently pressing the crossed knee away with your elbow intensifies the stretch."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "pigeon-glute-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "TIME",
+    "primaryMuscles": ["GLUTES"],
+    "secondaryMuscles": ["HIP_FLEXORS", "ABDUCTORS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 45,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento de paloma",
+        "description": "Con la pierna delantera doblada en el suelo frente a ti y la trasera estirada hacia atrás, inclinas el tronco para estirar a fondo el glúteo y los rotadores externos de la cadera, además del flexor de la pierna trasera. Muy útil para la rotación de cadera de las patadas circulares.",
+        "steps": [
+          "Desde cuatro patas, lleva la rodilla derecha hacia la muñeca derecha y apoya la espinilla en el suelo en diagonal.",
+          "Estira la pierna izquierda hacia atrás con el empeine apoyado.",
+          "Coloca la cadera recta, sin dejarla caer hacia el lado de la pierna doblada.",
+          "Con las manos apoyadas, inclina el tronco hacia delante desde la cadera hasta notar el estiramiento en el glúteo.",
+          "Mantén respirando con calma y sal despacio volviendo a cuatro patas antes de cambiar de lado."
+        ],
+        "commonMistakes": [
+          "Dejar caer todo el peso sobre la cadera de la pierna doblada.",
+          "Forzar la espinilla paralela al borde de la esterilla con dolor en la rodilla.",
+          "Entrar en la postura de golpe en lugar de bajar el tronco poco a poco."
+        ],
+        "tips": [
+          "Pon un cojín bajo la cadera de la pierna doblada si no llega al suelo.",
+          "Acerca el pie delantero a la cadera para reducir la tensión en la rodilla.",
+          "Si la rodilla protesta, usa el estiramiento en figura de cuatro tumbado."
+        ]
+      },
+      "en": {
+        "name": "Pigeon Glute Stretch",
+        "description": "With your front leg bent on the floor in front of you and your back leg extended behind, you lean your torso forward to deeply stretch the glute and external hip rotators, plus the hip flexor of the back leg. Very useful for the hip rotation in roundhouse kicks.",
+        "steps": [
+          "From all fours, bring your right knee toward your right wrist and lay the shin diagonally on the floor.",
+          "Slide your left leg straight back with the top of the foot on the floor.",
+          "Square your hips, without letting them drop toward the bent-leg side.",
+          "With your hands on the floor, hinge your torso forward from the hips until you feel the stretch in the glute.",
+          "Hold while breathing calmly, then exit slowly back to all fours before switching sides."
+        ],
+        "commonMistakes": [
+          "Collapsing all your weight onto the bent-leg hip.",
+          "Forcing the shin parallel to the front of the mat with knee pain.",
+          "Dropping into the position suddenly instead of lowering the torso gradually."
+        ],
+        "tips": [
+          "Put a cushion under the bent-leg hip if it does not reach the floor.",
+          "Bring the front foot closer to your hip to reduce knee stress.",
+          "If your knee complains, use the supine figure-four stretch instead."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "wall-calf-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["CALVES"],
+    "secondaryMuscles": [],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 30,
+      "restSec": 10
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento de gemelo y sóleo en pared",
+        "description": "Estiramiento estático de la pantorrilla apoyado en una pared, en dos versiones: con la rodilla estirada para el gemelo y con la rodilla flexionada para el sóleo. Las pantorrillas trabajan sin parar con los saltos de comba y el trabajo de pies, y agradecen este estiramiento después de entrenar.",
+        "steps": [
+          "Ponte frente a una pared con las manos apoyadas a la altura de los hombros.",
+          "Lleva una pierna atrás con el pie apuntando al frente y el talón apoyado.",
+          "Con la rodilla trasera estirada, inclina el cuerpo hacia la pared hasta notar el estiramiento en el gemelo. Mantén la mitad del tiempo.",
+          "Sin mover el pie, flexiona ligeramente la rodilla trasera para llevar el estiramiento al sóleo y mantén el resto del tiempo.",
+          "Cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Despegar el talón del suelo.",
+          "Girar el pie trasero hacia fuera.",
+          "Rebotar contra la pared."
+        ],
+        "tips": [
+          "Hazlo al terminar las sesiones con mucha comba.",
+          "Si tienes molestias en el tendón de Aquiles, baja la intensidad y evita forzar el rango."
+        ]
+      },
+      "en": {
+        "name": "Wall Calf Stretch",
+        "description": "A static calf stretch against a wall in two versions: straight knee for the gastrocnemius and bent knee for the soleus. Your calves work nonstop during skipping and footwork, and they benefit from this stretch after training.",
+        "steps": [
+          "Face a wall with your hands on it at shoulder height.",
+          "Step one leg back with the foot pointing forward and the heel down.",
+          "With the back knee straight, lean toward the wall until you feel the stretch in the upper calf. Hold for half the time.",
+          "Without moving the foot, bend the back knee slightly to move the stretch to the soleus and hold for the rest of the time.",
+          "Switch legs."
+        ],
+        "commonMistakes": [
+          "Lifting the heel off the floor.",
+          "Turning the back foot outward.",
+          "Bouncing against the wall."
+        ],
+        "tips": [
+          "Do it at the end of sessions with lots of skipping.",
+          "If your Achilles tendon feels irritated, lower the intensity and do not force the range."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "doorway-chest-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["CHEST"],
+    "secondaryMuscles": ["SHOULDERS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 30,
+      "restSec": 10
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento de pecho en el marco de la puerta",
+        "description": "Con el antebrazo apoyado en el marco de una puerta, avanzas el cuerpo para abrir el pecho y la parte delantera del hombro. Compensa la postura cerrada de la guardia, con hombros adelantados y pecho encogido, que se acumula tras muchos asaltos.",
+        "steps": [
+          "Colócate en el marco de una puerta y apoya el antebrazo en él con el codo a la altura del hombro o algo por debajo.",
+          "Adelanta el pie del mismo lado y mantén el tronco erguido.",
+          "Gira suavemente el pecho hacia el lado contrario o avanza un poco el cuerpo hasta notar el estiramiento.",
+          "Mantén los hombros bajos y el abdomen activo durante el tiempo indicado.",
+          "Cambia de brazo."
+        ],
+        "commonMistakes": [
+          "Colocar el codo por encima del hombro y forzar la articulación.",
+          "Arquear la zona lumbar para ganar recorrido.",
+          "Encoger el hombro hacia la oreja."
+        ],
+        "tips": [
+          "Variar la altura del codo cambia la zona del pecho que estiras; usa siempre una altura cómoda para el hombro.",
+          "Si notas hormigueo en el brazo, baja el codo o reduce la intensidad."
+        ]
+      },
+      "en": {
+        "name": "Doorway Chest Stretch",
+        "description": "With your forearm against a door frame, you step through to open the chest and front of the shoulder. It counteracts the closed guard posture, with rounded shoulders and a collapsed chest, that builds up after many rounds.",
+        "steps": [
+          "Stand in a doorway and place your forearm on the frame with the elbow at or slightly below shoulder height.",
+          "Step the same-side foot forward and keep your torso upright.",
+          "Gently turn your chest away or lean forward slightly until you feel the stretch.",
+          "Keep your shoulders down and core engaged for the given time.",
+          "Switch arms."
+        ],
+        "commonMistakes": [
+          "Placing the elbow above the shoulder and straining the joint.",
+          "Arching the lower back to gain range.",
+          "Shrugging the shoulder toward the ear."
+        ],
+        "tips": [
+          "Changing elbow height shifts the area of the chest you stretch; always keep a shoulder-friendly height.",
+          "If you feel tingling down the arm, lower the elbow or reduce the intensity."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "kneeling-lat-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["LATS"],
+    "secondaryMuscles": ["SHOULDERS", "TRICEPS", "UPPER_BACK"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 30,
+      "restSec": 10
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento de dorsal de rodillas",
+        "description": "De rodillas, apoyas los brazos estirados por delante y llevas la cadera hacia los talones, inclinándote ligeramente hacia un lado para estirar el dorsal ancho. Mejora la elevación de los brazos por encima de la cabeza y relaja la espalda tras el trabajo de golpeo.",
+        "steps": [
+          "Arrodíllate y lleva la cadera hacia los talones con las manos apoyadas lejos, por delante de ti.",
+          "Desplaza ambas manos hacia la izquierda para estirar el lado derecho del tronco.",
+          "Deja que el pecho baje hacia el suelo y presiona suavemente las palmas.",
+          "Respira hacia las costillas del lado que estiras y mantén el tiempo indicado.",
+          "Vuelve al centro y repite hacia el otro lado."
+        ],
+        "commonMistakes": [
+          "Levantar la cadera de los talones y perder el estiramiento.",
+          "Encoger los hombros hacia las orejas.",
+          "Forzar el hombro con molestias en la articulación."
+        ],
+        "tips": [
+          "Si las rodillas molestan, pon un cojín bajo ellas o entre muslos y gemelos.",
+          "Girar las palmas hacia arriba suele intensificar el estiramiento."
+        ]
+      },
+      "en": {
+        "name": "Kneeling Lat Stretch",
+        "description": "Kneeling with your arms reaching forward on the floor, you sit your hips back toward your heels and lean slightly to one side to stretch the latissimus dorsi. It improves overhead arm range and loosens the back after striking work.",
+        "steps": [
+          "Kneel and sit your hips back toward your heels with your hands placed far out in front of you.",
+          "Walk both hands to the left to stretch the right side of your trunk.",
+          "Let your chest sink toward the floor and press your palms down gently.",
+          "Breathe into the ribs on the stretched side and hold for the given time.",
+          "Return to the centre and repeat to the other side."
+        ],
+        "commonMistakes": [
+          "Lifting the hips off the heels and losing the stretch.",
+          "Shrugging the shoulders toward the ears.",
+          "Pushing into the shoulder despite joint discomfort."
+        ],
+        "tips": [
+          "If your knees complain, place a cushion under them or between thighs and calves.",
+          "Turning the palms up often intensifies the stretch."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "seated-straddle-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "TIME",
+    "primaryMuscles": ["ADDUCTORS", "HAMSTRINGS"],
+    "secondaryMuscles": ["LOWER_BACK", "CALVES"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": null,
+      "seconds": 40,
+      "restSec": 20
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento sentado con piernas abiertas",
+        "description": "Sentado con las piernas abiertas en V, inclinas el tronco al frente y hacia cada pierna. Es el ejercicio principal para progresar hacia el abierto lateral y para ganar altura en patadas laterales y circulares, siempre de forma gradual y sin dolor.",
+        "steps": [
+          "Siéntate en el suelo y abre las piernas en V hasta notar una tensión ligera, con las rótulas mirando al techo.",
+          "Siéntate erguido; si la pelvis se va hacia atrás, eleva la cadera sobre un cojín.",
+          "Inclínate hacia delante desde la cadera con la espalda larga, apoyando las manos en el suelo.",
+          "Mantén un tercio del tiempo al centro, otro tercio hacia la pierna derecha y otro hacia la izquierda.",
+          "Sal despacio juntando las piernas con ayuda de las manos."
+        ],
+        "commonMistakes": [
+          "Abrir las piernas al máximo desde el primer momento.",
+          "Dejar que las rodillas giren hacia dentro.",
+          "Redondear la espalda en lugar de inclinarse desde la cadera.",
+          "Rebotar para bajar más."
+        ],
+        "tips": [
+          "Añade 2-3 ciclos de contraer-relajar presionando suavemente los talones contra el suelo 5 segundos y relajando.",
+          "Progresa abriendo un poco más cada semana, no cada día; la constancia importa más que la intensidad.",
+          "No lo hagas justo antes de patear fuerte: mejor al final de la sesión o en un día aparte."
+        ]
+      },
+      "en": {
+        "name": "Seated Straddle Stretch",
+        "description": "Sitting with your legs open in a V, you lean your torso forward and toward each leg. It is the main exercise for progressing toward the side split and gaining height on side kicks and roundhouses, always gradually and pain-free.",
+        "steps": [
+          "Sit on the floor and open your legs into a V until you feel light tension, kneecaps pointing to the ceiling.",
+          "Sit tall; if your pelvis tilts back, raise your hips on a cushion.",
+          "Hinge forward from the hips with a long back, resting your hands on the floor.",
+          "Spend a third of the time in the centre, a third toward the right leg and a third toward the left.",
+          "Exit slowly, using your hands to help bring the legs together."
+        ],
+        "commonMistakes": [
+          "Opening the legs to the maximum right away.",
+          "Letting the knees roll inward.",
+          "Rounding the back instead of hinging from the hips.",
+          "Bouncing to go lower."
+        ],
+        "tips": [
+          "Add 2-3 contract-relax cycles: gently press your heels into the floor for 5 seconds, then relax.",
+          "Progress by opening a little more each week, not each day; consistency beats intensity.",
+          "Avoid it right before hard kicking: better at the end of the session or on a separate day."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "front-split-progression",
+    "category": "FLEXIBILITY",
+    "difficulty": "ADVANCED",
+    "measureType": "TIME",
+    "primaryMuscles": ["HAMSTRINGS", "HIP_FLEXORS"],
+    "secondaryMuscles": ["QUADRICEPS", "GLUTES", "CALVES"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": null,
+      "seconds": 30,
+      "restSec": 30
+    },
+    "i18n": {
+      "es": {
+        "name": "Progresión al abierto frontal",
+        "description": "Progresión hacia el abierto frontal que combina medio abierto (estiramiento de isquio de la pierna delantera) y zancada baja (flexor de la pierna trasera), para luego deslizar las piernas con apoyo de las manos. Es un trabajo de semanas o meses: el objetivo es ganar rango para patadas frontales y altas sin lesionarse.",
+        "steps": [
+          "Calienta antes con unos minutos de movimiento y balanceos de pierna.",
+          "Medio abierto: de rodillas, estira la pierna delantera con el talón en el suelo e inclínate desde la cadera. Mantén 30 segundos.",
+          "Zancada baja: lleva la rodilla delantera hacia delante y baja la cadera para estirar el flexor de la pierna trasera. Mantén 30 segundos.",
+          "Abierto asistido: con un bloque, libros o una silla a cada lado como apoyo para las manos, desliza el pie delantero hacia delante y la rodilla trasera hacia atrás.",
+          "Baja solo hasta una tensión moderada, con la cadera mirando al frente y el peso repartido en las manos.",
+          "Mantén el tiempo indicado, sube con ayuda de las manos y repite con la otra pierna delante."
+        ],
+        "commonMistakes": [
+          "Dejarse caer con todo el peso sin apoyo en las manos.",
+          "Abrir la cadera hacia un lado para bajar más.",
+          "Hacerlo en frío o rebotando.",
+          "Aguantar un dolor punzante detrás del muslo o en la ingle."
+        ],
+        "tips": [
+          "Pon una toalla bajo el talón delantero en un suelo liso para controlar el deslizamiento.",
+          "Practica 3-4 veces por semana; los progresos suelen ser lentos y no lineales.",
+          "Si notas un tirón brusco, detente y no vuelvas a forzar ese rango ese día."
+        ]
+      },
+      "en": {
+        "name": "Front Split Progression",
+        "description": "A progression toward the front split that combines a half split (front-leg hamstring stretch) and a low lunge (back-leg hip flexor stretch), then slides the legs apart with hand support. Expect weeks or months of work: the goal is to gain range for front and high kicks without getting hurt.",
+        "steps": [
+          "Warm up first with a few minutes of movement and leg swings.",
+          "Half split: kneeling, straighten the front leg with the heel on the floor and hinge from the hips. Hold 30 seconds.",
+          "Low lunge: shift the front knee forward and lower the hips to stretch the back-leg hip flexor. Hold 30 seconds.",
+          "Assisted split: with a block, books or a chair on each side to support your hands, slide the front foot forward and the back knee back.",
+          "Lower only to a moderate tension, hips facing forward and weight shared through your hands.",
+          "Hold for the given time, push back up with your hands and repeat with the other leg in front."
+        ],
+        "commonMistakes": [
+          "Dropping your full weight down without hand support.",
+          "Opening the hips to the side to get lower.",
+          "Doing it cold or bouncing.",
+          "Holding through sharp pain behind the thigh or in the groin."
+        ],
+        "tips": [
+          "On a smooth floor, put a towel under the front heel to control the slide.",
+          "Practise 3-4 times per week; progress is usually slow and non-linear.",
+          "If you feel a sudden pull, stop and do not push that range again that day."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "elevated-side-kick-leg-stretch",
+    "category": "FLEXIBILITY",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "TIME",
+    "primaryMuscles": ["ADDUCTORS", "HAMSTRINGS"],
+    "secondaryMuscles": ["ABDUCTORS", "GLUTES", "CALVES"],
+    "equipment": ["BOX"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 30,
+      "restSec": 15
+    },
+    "i18n": {
+      "es": {
+        "name": "Estiramiento de pierna elevada lateral",
+        "description": "De pie, apoyas el talón de una pierna sobre un cajón o superficie estable al lado del cuerpo, con la cadera girada como en la patada lateral, y te mantienes en una posición estática. Estira aductores e isquios en el ángulo concreto de las patadas laterales y circulares altas.",
+        "steps": [
+          "Colócate de lado junto a un cajón, banco o mesa estable a una altura que te resulte cómoda, empezando bajo.",
+          "Apoya el borde exterior del talón sobre la superficie con la pierna estirada y la punta del pie hacia delante.",
+          "Gira ligeramente el pie de apoyo hacia fuera, como al pivotar en una patada, con la rodilla de apoyo suave.",
+          "Mantén el tronco erguido o inclínate un poco hacia la pierna elevada hasta notar una tensión moderada.",
+          "Mantén sin rebotar, baja la pierna con control y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Empezar con una altura excesiva.",
+          "Apoyar la pierna sobre algo inestable o resbaladizo.",
+          "Bloquear la rodilla de apoyo o girar la cadera hacia delante.",
+          "Rebotar sobre la pierna elevada."
+        ],
+        "tips": [
+          "Sube la altura del apoyo poco a poco a lo largo de semanas, no en la misma sesión.",
+          "Apóyate en una pared con la mano si te falta equilibrio.",
+          "Complétalo con patadas lentas y controladas para convertir la flexibilidad en rango activo."
+        ]
+      },
+      "en": {
+        "name": "Elevated Side Kick Leg Stretch",
+        "description": "Standing, you rest one heel on a box or stable surface beside you with your hip turned as in a side kick, and hold a static position. It stretches the adductors and hamstrings at the specific angle of high side kicks and roundhouses.",
+        "steps": [
+          "Stand side-on to a stable box, bench or table at a comfortable height, starting low.",
+          "Rest the outer edge of your heel on the surface with the leg straight and toes pointing forward.",
+          "Turn the standing foot slightly out, as when pivoting on a kick, with a soft standing knee.",
+          "Keep your torso upright or lean slightly toward the raised leg until you feel moderate tension.",
+          "Hold without bouncing, lower the leg with control and switch sides."
+        ],
+        "commonMistakes": [
+          "Starting with too high a surface.",
+          "Resting the leg on something unstable or slippery.",
+          "Locking the standing knee or turning the hips forward.",
+          "Bouncing on the raised leg."
+        ],
+        "tips": [
+          "Raise the height gradually over weeks, not within the same session.",
+          "Use a hand on a wall if balance is an issue.",
+          "Follow it with slow, controlled kicks to turn flexibility into active range."
+        ]
+      }
+    }
+  }
+]

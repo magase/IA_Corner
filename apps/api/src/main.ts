@@ -11,6 +11,14 @@ import {
   PrismaHealthConsentReader,
   PrismaProfileRepository,
 } from './modules/profile/infrastructure/prisma-profile-repository.js';
+import { PrismaCatalogQueries } from './modules/catalog/infrastructure/prisma-catalog-queries.js';
+import { PrismaNutritionPlanRepository } from './modules/nutrition/infrastructure/prisma-nutrition-plan-repository.js';
+import { PrismaAthleteContextReader } from './modules/profile/infrastructure/prisma-athlete-context-reader.js';
+import {
+  PrismaExerciseCandidateReader,
+  PrismaTrainingPlanRepository,
+} from './modules/training/infrastructure/prisma-training.js';
+import { PrismaWorkoutRepository } from './modules/workouts/infrastructure/prisma-workout-repository.js';
 import { loadEnv } from './shared/infrastructure/config/env.js';
 import { PrismaEntitlementsReader } from './shared/infrastructure/persistence/prisma-entitlements-reader.js';
 import { createPrismaClient } from './shared/infrastructure/persistence/prisma-client.js';
@@ -40,6 +48,12 @@ const server = createApp({
   catalog: new PrismaCatalogReader(prisma),
   consent: new PrismaHealthConsentReader(prisma),
   entitlements: new PrismaEntitlementsReader(prisma, clock),
+  catalogQueries: new PrismaCatalogQueries(prisma),
+  athletes: new PrismaAthleteContextReader(prisma),
+  exerciseCandidates: new PrismaExerciseCandidateReader(prisma),
+  trainingPlans: new PrismaTrainingPlanRepository(prisma),
+  nutritionPlans: new PrismaNutritionPlanRepository(prisma),
+  workouts: new PrismaWorkoutRepository(prisma),
   logger: { error: (m, e) => console.error(m, e instanceof Error ? e.message : e) },
 });
 

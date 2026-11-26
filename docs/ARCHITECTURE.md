@@ -76,10 +76,35 @@ límite de tamaño de body, edad mínima 18, consentimiento RGPD de datos de sal
 - **RGPD:** retirar el consentimiento borra el perfil y las métricas corporales. `GET /me/export` exporta los datos y `DELETE /me` borra la cuenta en cascada.
 - **Pendiente:** verificación de email y recuperación de contraseña (requieren un servicio de correo). Las cookies en apps nativas con Capacitor se resolverán con CapacitorHttp en la fase 5.
 
+## Catálogo y wiki (fase 3)
+
+- **Contenido:** está versionado en `apps/api/prisma/seed-data/*.json` y validado con Zod (`seed-data/schema.ts`). Ambos idiomas son obligatorios, igual que los códigos de catálogo y los recuentos mínimos, y hay un filtro que rechaza cualquier contenido de corte de peso. `npx tsx prisma/seed-data/validate.ts <fichero>` valida un fichero, y `test/seed-data.test.ts`, el conjunto.
+- **Seed:** idempotente (upsert por slug). Lo que se elimina de los JSON se despublica en BD (`isActive` / `isPublished`), no se borra, para no romper planes ni registros existentes.
+- **Lectura:** el módulo `catalog` (puerto `CatalogQueries`, adaptador Prisma) traduce al idioma pedido con fallback al español. El filtro de material devuelve los ejercicios cuyo material requerido está **todo** disponible; el peso corporal siempre cuenta y `FULL_GYM` desactiva el filtro.
+- **Avisos:** `requiresHealthDisclaimer` vale `true` en nutrición, hidratación y suplementos; el front muestra el aviso legal.
+- **Multimedia:** `mediaUrl` y `thumbnailUrl` quedan a `null` hasta disponer de recursos propios.
+
+## Planes y registro (fase 4)
+
+- **Generador determinista** (`training/domain/plan-generator.ts`, función pura): las mismas entradas y el mismo catálogo dan siempre el mismo plan.
+  - El reparto semanal va de 1 a 7 días y el objetivo lo ajusta. Pierna pesada y potencia nunca caen en días consecutivos.
+  - Cada sesión tiene calentamiento de movilidad, bloque principal, finalizador y vuelta a la calma con estiramientos.
+  - El volumen depende de los minutos por sesión (unos 10 minutos por ejercicio principal).
+  - Los ejercicios se filtran por material disponible, por dificultad (nunca por encima del nivel) y por los deportes del usuario (repartiendo entre ellos por turnos).
+  - Primero se cubren músculos distintos y se evita repetir en la semana.
+  - Si el catálogo no cubre un enfoque, se usa uno alternativo en lugar de perder el día.
+  - `generatorVersion` queda guardado en el plan.
+- **IA (premium, fuera del MVP):** puerto `PlanPersonalizer`. Recibirá el borrador determinista y lo ajustará. Sin configurar, responde `AI_PLAN_UNAVAILABLE`.
+- **Nutrición:**
+  - El plan gratuito da recomendaciones generales (códigos traducibles, sin calorías), un menú genérico por objetivo y suplementos enlazados a la wiki.
+  - El premium (`MACRO_CALCULATOR`) calcula con Mifflin-St Jeor × factor de actividad, con ajuste moderado según objetivo: déficit máximo del 10 % y suelo de grasa de 0,8 g/kg.
+  - Siempre lleva `requiresHealthDisclaimer: true`.
+- **Registro:** el límite (`limits.workoutLogRows`: 10 en el plan gratuito) se aplica dentro de una transacción que bloquea la fila `User` (`SELECT … FOR UPDATE`). Se ha comprobado que con 12 peticiones simultáneas se crean exactamente 10. El historial es una lista, sin gráficas.
+
 ## Hoja de ruta
 
 1. ✅ Esqueleto, tooling, Docker/MySQL, CI, modelo de datos.
 2. ✅ Auth (email + Google), perfil, edad mínima, consentimiento.
-3. Catálogo + seeds (ejercicios, deportes, wiki) es/en.
-4. Generador determinista de entrenamiento y nutrición, registro con límite.
+3. ✅ Catálogo + seeds (ejercicios, deportes, wiki) es/en.
+4. ✅ Generador determinista de entrenamiento y nutrición, registro con límite.
 5. App Angular/Ionic: tema Corner (rojo, negro, verde militar), onboarding, plan, registro, wiki.

@@ -1,0 +1,666 @@
+[
+  {
+    "slug": "proteinas",
+    "category": "MACRONUTRIENT",
+    "sources": [
+      {
+        "title": "EFSA – Dietary reference values for nutrients",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values"
+      },
+      {
+        "title": "Jäger R et al. – ISSN Position Stand: Protein and Exercise (2017)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28642676/"
+      },
+      {
+        "title": "Thomas DT, Erdman KA, Burke LM – Nutrition and Athletic Performance (ACSM/AND/DC position, 2016)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26891166/"
+      },
+      {
+        "title": "MedlinePlus – Dietary Proteins",
+        "url": "https://medlineplus.gov/dietaryproteins.html"
+      },
+      {
+        "title": "Australian Institute of Sport – Supplements and Sports Foods",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      }
+    ],
+    "related": [
+      "carbohidratos",
+      "grasas",
+      "proteina-whey",
+      "proteina-vegetal",
+      "recuperacion-y-sueno",
+      "sobrecarga-progresiva",
+      "vitamina-b12",
+      "agujetas-doms"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Proteínas",
+        "summary": "Las proteínas aportan los aminoácidos con los que tu cuerpo repara y construye músculo, tendones y otros tejidos. Repartirlas bien a lo largo del día ayuda a recuperar entre sesiones de golpeo, fuerza y cardio.",
+        "body": "## Qué son\n\nLas proteínas son cadenas de aminoácidos. De los 20 aminoácidos que usa el cuerpo, 9 son **esenciales**: no los fabricas y tienen que venir de la comida. Cada gramo de proteína aporta unas 4 kcal.\n\n## Funciones en el cuerpo\n\n- Reparar y construir tejido muscular, tendones, ligamentos, piel y hueso.\n- Formar enzimas, hormonas y anticuerpos.\n- Transportar sustancias en la sangre (por ejemplo, la hemoglobina lleva oxígeno).\n- Aportar saciedad, lo que ayuda a gestionar el apetito.\n\n## Por qué importa en los deportes de golpeo\n\nMuay thai, boxeo, kickboxing, taekwondo o kárate combinan trabajo técnico, cardio de alta intensidad y, a menudo, fuerza. Ese volumen genera microdaño muscular que hay que reparar. Una ingesta de proteína suficiente y bien repartida favorece la adaptación al entrenamiento, ayuda a mantener la masa muscular y contribuye a que llegues más entero a la siguiente sesión.\n\n## Fuentes alimentarias\n\n- **Animales:** huevos, carne, pescado, marisco, lácteos (yogur, queso fresco, kéfir, leche).\n- **Vegetales:** legumbres (lentejas, garbanzos, alubias), tofu, tempeh, soja texturizada, seitán, frutos secos y semillas, cereales integrales.\n\nLas fuentes animales y la soja tienen todos los aminoácidos esenciales en buenas proporciones. Si comes sobre todo vegetal, combinar legumbres con cereales a lo largo del día completa el perfil.\n\n## Referencias diarias generales para adultos\n\n- La EFSA establece una ingesta de referencia para la población general de **0,83 g por kg de peso corporal al día**.\n- Para personas que entrenan con regularidad, las guías de nutrición deportiva suelen situarse entre **1,2 y 2,0 g/kg/día**, según el volumen y los objetivos.\n- Una pauta práctica es repartirla en 3-5 tomas de unos **0,3 g/kg** (aprox. 20-40 g) cada una.\n\nSon referencias generales; tus necesidades concretas dependen de tu tamaño, tu carga de entrenamiento y tu salud.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Ingesta baja mantenida:** recuperación lenta, pérdida de masa muscular, más hambre entre comidas o sensación de fatiga persistente.\n- **Ingesta muy alta:** en personas sanas no suele ser un problema dentro de rangos razonables, pero puede desplazar a otros alimentos (fruta, verdura, carbohidratos) que también necesitas. Si tienes alguna enfermedad renal, consulta con un profesional sanitario antes de aumentarla.\n\n## Consejos prácticos\n\n- Incluye una fuente de proteína en cada comida principal.\n- Después de entrenar, una comida o tentempié con proteína y carbohidratos (yogur con fruta, bocadillo de huevo o atún, legumbres con arroz) es una opción sencilla.\n- Prioriza alimentos completos; los batidos son un recurso cómodo, no una obligación.\n- Si eres vegetariano o vegano, asegura legumbres o derivados de soja a diario."
+      },
+      "en": {
+        "title": "Protein",
+        "summary": "Protein supplies the amino acids your body uses to repair and build muscle, tendons and other tissues. Spreading it well across the day supports recovery between striking, strength and conditioning sessions.",
+        "body": "## What it is\n\nProteins are chains of amino acids. Of the 20 amino acids your body uses, 9 are **essential**: you can't make them, so they must come from food. Each gram of protein provides about 4 kcal.\n\n## What it does in the body\n\n- Repairs and builds muscle tissue, tendons, ligaments, skin and bone.\n- Forms enzymes, hormones and antibodies.\n- Transports substances in the blood (haemoglobin, for example, carries oxygen).\n- Increases satiety, which helps you manage appetite.\n\n## Why it matters for striking athletes\n\nMuay Thai, boxing, kickboxing, taekwondo and karate mix technical work, high-intensity conditioning and often strength training. That workload causes muscle micro-damage that needs repairing. Getting enough protein, spread across the day, supports training adaptations, helps you hold on to muscle mass and helps you turn up fresher for the next session.\n\n## Food sources\n\n- **Animal:** eggs, meat, fish, seafood, dairy (yoghurt, cottage cheese, kefir, milk).\n- **Plant:** legumes (lentils, chickpeas, beans), tofu, tempeh, textured soy, seitan, nuts and seeds, whole grains.\n\nAnimal foods and soy contain all essential amino acids in good proportions. If you eat mostly plants, combining legumes and grains over the day rounds out the profile.\n\n## General daily references for adults\n\n- EFSA sets a population reference intake of **0.83 g per kg of body weight per day** for adults.\n- For people who train regularly, sports nutrition guidelines commonly suggest **1.2–2.0 g/kg/day**, depending on training load and goals.\n- A practical approach is 3–5 servings of about **0.3 g/kg** (roughly 20–40 g) each.\n\nThese are general references; your actual needs depend on your size, training load and health.\n\n## Signs of too little or too much (general terms)\n\n- **Persistently low intake:** slow recovery, loss of muscle mass, feeling hungry between meals or ongoing tiredness.\n- **Very high intake:** usually not a problem for healthy people within sensible ranges, but it can crowd out other foods you also need (fruit, vegetables, carbohydrates). If you have kidney disease, speak to a health professional before increasing it.\n\n## Practical tips\n\n- Include a protein source at every main meal.\n- After training, a meal or snack with protein and carbohydrate (yoghurt with fruit, an egg or tuna sandwich, beans with rice) is an easy option.\n- Prioritise whole foods; shakes are a convenience, not a requirement.\n- If you're vegetarian or vegan, include legumes or soy foods every day."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "carbohidratos",
+    "category": "MACRONUTRIENT",
+    "sources": [
+      {
+        "title": "EFSA – Dietary reference values for nutrients",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values"
+      },
+      {
+        "title": "Thomas DT, Erdman KA, Burke LM – Nutrition and Athletic Performance (ACSM/AND/DC position, 2016)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26891166/"
+      },
+      {
+        "title": "MedlinePlus – Carbohydrates",
+        "url": "https://medlineplus.gov/carbohydrates.html"
+      },
+      {
+        "title": "NHS – Starchy foods and carbohydrates",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/starchy-foods-and-carbohydrates/"
+      }
+    ],
+    "related": [
+      "proteinas",
+      "fibra",
+      "grasas",
+      "hidratacion-durante-el-entrenamiento",
+      "bebidas-deportivas-electrolitos",
+      "volumen-e-intensidad",
+      "recuperacion-y-sueno",
+      "periodizacion"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Carbohidratos",
+        "summary": "Los carbohidratos son el combustible principal para el trabajo intenso: rounds de saco, sombra a ritmo alto, sprints y circuitos. Ajustarlos a tu carga de entrenamiento te ayuda a rendir y a recuperar.",
+        "body": "## Qué son\n\nLos carbohidratos son azúcares, almidones y fibra presentes en cereales, tubérculos, legumbres, frutas, verduras y lácteos. Los digeribles aportan unas 4 kcal por gramo y se almacenan en el músculo y el hígado en forma de **glucógeno**.\n\n## Funciones en el cuerpo\n\n- Aportar energía rápida, sobre todo en esfuerzos de alta intensidad.\n- Mantener la glucosa en sangre, que es el combustible preferente del cerebro.\n- Reponer el glucógeno muscular después del ejercicio.\n- La fibra (un tipo de carbohidrato no digerible) cuida la salud digestiva.\n\n## Por qué importa en los deportes de golpeo\n\nUn round intenso de saco o de sombra a tope tira mucho del glucógeno. Si entrenas con las reservas bajas, puedes notar menos chispa, peor técnica cuando llega la fatiga y más dificultad para mantener la intensidad. Ajustar los carbohidratos a lo que entrenas cada día es una de las palancas más eficaces para rendir mejor.\n\n## Fuentes alimentarias\n\n- **Almidones:** arroz, pasta, pan, avena, patata, boniato, quinoa, cuscús.\n- **Legumbres:** lentejas, garbanzos, alubias (también aportan proteína y fibra).\n- **Frutas:** plátano, dátiles, manzana, frutos rojos, naranja.\n- **Lácteos:** leche y yogur aportan lactosa.\n\nPrioriza opciones integrales y poco procesadas en el día a día; las opciones más refinadas pueden ser útiles justo antes o durante sesiones largas porque se digieren más rápido.\n\n## Referencias diarias generales para adultos\n\n- La EFSA propone que los carbohidratos aporten entre el **45 y el 60 % de la energía** diaria en la población general.\n- En nutrición deportiva se suele expresar por peso: unos **3-5 g/kg/día** con cargas ligeras o sesiones sobre todo técnicas, **5-7 g/kg/día** con entrenamiento moderado (alrededor de 1 h al día) y **6-10 g/kg/día** con cargas altas (1-3 h al día de trabajo moderado-intenso). Los rangos aún más altos se reservan para volúmenes muy elevados.\n- En sesiones de más de 60-90 minutos, tomar unos **30-60 g por hora** puede ayudar a mantener el rendimiento.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Ingesta baja respecto a tu carga:** sensación de piernas pesadas, falta de energía, mareo en sesiones intensas, peor concentración y recuperación lenta.\n- **Exceso mantenido de azúcares añadidos:** desplaza alimentos más nutritivos y puede contribuir a un balance energético no deseado.\n\n## Consejos prácticos\n\n- Come más carbohidratos los días de doble sesión o entrenamientos duros, y algo menos los días de descanso.\n- 2-3 horas antes de entrenar, una comida con carbohidratos fáciles de digerir y poca grasa (arroz con pollo, tostadas con plátano).\n- Si entrenas temprano, un tentempié ligero 30-60 minutos antes (plátano, yogur con avena) puede bastar.\n- Tras la sesión, combina carbohidratos con proteína para empezar a recuperar."
+      },
+      "en": {
+        "title": "Carbohydrates",
+        "summary": "Carbohydrates are the main fuel for hard work: bag rounds, high-pace shadowboxing, sprints and circuits. Matching them to your training load helps you perform and recover.",
+        "body": "## What they are\n\nCarbohydrates are the sugars, starches and fibre found in grains, tubers, legumes, fruit, vegetables and dairy. Digestible carbohydrates provide about 4 kcal per gram and are stored in muscle and liver as **glycogen**.\n\n## What they do in the body\n\n- Provide fast energy, especially during high-intensity efforts.\n- Maintain blood glucose, the brain's preferred fuel.\n- Replenish muscle glycogen after exercise.\n- Fibre (a non-digestible carbohydrate) supports digestive health.\n\n## Why they matter for striking athletes\n\nA hard round on the bag or of all-out shadowboxing draws heavily on glycogen. Training with low stores can mean less snap, sloppier technique as fatigue sets in and a harder time holding intensity. Matching carbohydrate intake to what you train each day is one of the most effective ways to perform better.\n\n## Food sources\n\n- **Starches:** rice, pasta, bread, oats, potatoes, sweet potatoes, quinoa, couscous.\n- **Legumes:** lentils, chickpeas, beans (also rich in protein and fibre).\n- **Fruit:** bananas, dates, apples, berries, oranges.\n- **Dairy:** milk and yoghurt provide lactose.\n\nLean on whole, minimally processed options day to day; more refined choices can be useful right before or during long sessions because they digest faster.\n\n## General daily references for adults\n\n- EFSA suggests carbohydrates provide **45–60% of daily energy** for the general population.\n- Sports nutrition often expresses needs per body weight: around **3–5 g/kg/day** for light loads or mainly technical sessions, **5–7 g/kg/day** for moderate training (about 1 hour a day) and **6–10 g/kg/day** for high loads (1–3 hours a day of moderate-to-hard work). Even higher ranges are for very high volumes.\n- In sessions longer than 60–90 minutes, taking in about **30–60 g per hour** can help sustain performance.\n\n## Signs of too little or too much (general terms)\n\n- **Low intake for your load:** heavy legs, low energy, light-headedness in hard sessions, poor focus and slow recovery.\n- **Persistently high added-sugar intake:** crowds out more nutritious foods and can contribute to an unwanted energy surplus.\n\n## Practical tips\n\n- Eat more carbohydrate on double-session or hard days, and a little less on rest days.\n- 2–3 hours before training, have a meal with easy-to-digest carbs and little fat (chicken and rice, toast with banana).\n- If you train early, a light snack 30–60 minutes before (banana, yoghurt with oats) may be enough.\n- After training, pair carbohydrate with protein to kick-start recovery."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "grasas",
+    "category": "MACRONUTRIENT",
+    "sources": [
+      {
+        "title": "EFSA – Dietary reference values for nutrients",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values"
+      },
+      {
+        "title": "WHO – Healthy diet (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS – Fat: the facts",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/different-fats-nutrition/"
+      },
+      {
+        "title": "MedlinePlus – Dietary Fats",
+        "url": "https://medlineplus.gov/dietaryfats.html"
+      }
+    ],
+    "related": [
+      "proteinas",
+      "carbohidratos",
+      "omega-3",
+      "vitamina-d",
+      "fibra",
+      "recuperacion-y-sueno"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Grasas",
+        "summary": "Las grasas aportan energía de reserva, forman parte de todas tus células y permiten absorber las vitaminas A, D, E y K. La clave está en la calidad y en no pasarte justo antes de entrenar.",
+        "body": "## Qué son\n\nLas grasas (lípidos) son el nutriente más denso en energía: unas **9 kcal por gramo**. Se clasifican principalmente en:\n\n- **Insaturadas:** monoinsaturadas (aceite de oliva, aguacate, frutos secos) y poliinsaturadas, incluidos los omega-3 y omega-6.\n- **Saturadas:** abundan en grasas animales, mantequilla, embutidos y algunos aceites tropicales.\n- **Trans industriales:** presentes en algunos productos ultraprocesados; conviene evitarlas.\n\n## Funciones en el cuerpo\n\n- Reserva de energía para esfuerzos largos y de baja intensidad.\n- Forman parte de las membranas celulares y del tejido nervioso.\n- Permiten absorber las vitaminas liposolubles (A, D, E y K).\n- Son necesarias para producir diversas hormonas.\n\n## Por qué importa en los deportes de golpeo\n\nAunque los carbohidratos son el combustible principal en los rounds intensos, la grasa sostiene el trabajo aeróbico de base (rodajes, técnica suave, comba ligera) y es esencial para la salud general y hormonal. Recortarla demasiado durante mucho tiempo puede comprometer la energía disponible y la absorción de vitaminas.\n\n## Fuentes alimentarias\n\n- **Recomendadas a diario:** aceite de oliva virgen extra, aguacate, frutos secos, semillas (lino, chía, nueces), pescado azul (sardina, caballa, salmón).\n- **Con moderación:** quesos curados, carnes grasas, mantequilla, embutidos.\n- **A limitar:** bollería industrial, fritos comerciales y productos con grasas parcialmente hidrogenadas.\n\n## Referencias diarias generales para adultos\n\n- La EFSA sitúa la grasa total entre el **20 y el 35 % de la energía** diaria.\n- La OMS recomienda que las grasas saturadas no superen el **10 %** de la energía y que las trans se mantengan por debajo del **1 %**.\n- Para los omega-3 de cadena larga (EPA + DHA), la EFSA propone una ingesta adecuada de unos **250 mg al día**, que se cubre con 1-2 raciones de pescado azul a la semana.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Ingesta muy baja mantenida:** piel seca, dificultad para cubrir la energía que necesitas y menor absorción de vitaminas liposolubles.\n- **Exceso de grasas saturadas o trans:** a largo plazo se asocia a peor salud cardiovascular. Un exceso total de grasa también facilita un superávit calórico.\n\n## Consejos prácticos\n\n- Usa aceite de oliva como grasa principal para cocinar y aliñar.\n- Toma un puñado de frutos secos varias veces por semana.\n- Evita comidas muy grasas en las 2-3 horas previas a entrenar: se digieren despacio y pueden sentarte pesado.\n- Incluye pescado azul 1-2 veces por semana."
+      },
+      "en": {
+        "title": "Fats",
+        "summary": "Fats provide stored energy, are part of every cell and let you absorb vitamins A, D, E and K. What matters most is quality, and not overdoing it right before training.",
+        "body": "## What they are\n\nFats (lipids) are the most energy-dense nutrient: about **9 kcal per gram**. The main types are:\n\n- **Unsaturated:** monounsaturated (olive oil, avocado, nuts) and polyunsaturated, including omega-3 and omega-6.\n- **Saturated:** common in animal fats, butter, processed meats and some tropical oils.\n- **Industrial trans fats:** found in some ultra-processed products; best avoided.\n\n## What they do in the body\n\n- Store energy for long, low-intensity efforts.\n- Form part of cell membranes and nerve tissue.\n- Allow absorption of the fat-soluble vitamins (A, D, E and K).\n- Are needed to produce several hormones.\n\n## Why they matter for striking athletes\n\nCarbohydrate is the main fuel during hard rounds, but fat powers your aerobic base work (easy runs, light technique, steady skipping) and is essential for overall and hormonal health. Cutting fat too low for too long can limit the energy you have available and reduce vitamin absorption.\n\n## Food sources\n\n- **Everyday choices:** extra virgin olive oil, avocado, nuts, seeds (flax, chia, walnuts), oily fish (sardines, mackerel, salmon).\n- **In moderation:** hard cheeses, fatty meats, butter, processed meats.\n- **Limit:** packaged pastries, commercial fried foods and products with partially hydrogenated fats.\n\n## General daily references for adults\n\n- EFSA places total fat at **20–35% of daily energy**.\n- WHO recommends saturated fat stays below **10%** of energy and trans fat below **1%**.\n- For long-chain omega-3s (EPA + DHA), EFSA proposes an adequate intake of about **250 mg per day**, which 1–2 portions of oily fish a week can cover.\n\n## Signs of too little or too much (general terms)\n\n- **Very low intake over time:** dry skin, difficulty meeting your energy needs and reduced absorption of fat-soluble vitamins.\n- **Too much saturated or trans fat:** linked over the long term with poorer heart health. A high total fat intake also makes an energy surplus easier.\n\n## Practical tips\n\n- Use olive oil as your main fat for cooking and dressings.\n- Have a handful of nuts several times a week.\n- Avoid very fatty meals in the 2–3 hours before training: they digest slowly and can leave you feeling heavy.\n- Include oily fish once or twice a week."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "fibra",
+    "category": "MACRONUTRIENT",
+    "sources": [
+      {
+        "title": "EFSA – Dietary reference values for nutrients",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values"
+      },
+      {
+        "title": "MedlinePlus – Dietary Fiber",
+        "url": "https://medlineplus.gov/dietaryfiber.html"
+      },
+      {
+        "title": "NHS – How to get more fibre into your diet",
+        "url": "https://www.nhs.uk/live-well/eat-well/digestive-health/how-to-get-more-fibre-into-your-diet/"
+      }
+    ],
+    "related": [
+      "carbohidratos",
+      "grasas",
+      "proteinas",
+      "hidratacion-diaria",
+      "magnesio",
+      "potasio"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Fibra",
+        "summary": "La fibra es la parte de los vegetales que no digieres, pero cuida tu intestino, ayuda a controlar el apetito y estabiliza la energía. Conviene tomar bastante en el día a día y menos justo antes de entrenar.",
+        "body": "## Qué es\n\nLa fibra alimentaria es un conjunto de carbohidratos vegetales que el intestino delgado no digiere. Hay dos grandes tipos:\n\n- **Soluble:** forma un gel con el agua (avena, legumbres, manzana, cítricos). Se fermenta en el colon y alimenta la microbiota.\n- **Insoluble:** aporta volumen a las heces y acelera el tránsito (salvado, cereales integrales, piel de frutas y verduras).\n\n## Funciones en el cuerpo\n\n- Favorece un tránsito intestinal regular.\n- Alimenta las bacterias beneficiosas del intestino.\n- Ralentiza la absorción de azúcares, lo que ayuda a una energía más estable.\n- Aumenta la saciedad.\n- Contribuye a mantener niveles saludables de colesterol.\n\n## Por qué importa en los deportes de golpeo\n\nUna dieta rica en fibra suele ir de la mano de frutas, verduras, legumbres y cereales integrales, que aportan además vitaminas, minerales y antioxidantes. También ayuda a controlar el apetito si buscas mejorar tu composición corporal. Eso sí: un exceso de fibra justo antes de entrenar puede provocar gases o molestias, algo especialmente incómodo con el trabajo de core, los giros de tronco y las rodillas al saco.\n\n## Fuentes alimentarias\n\n- Legumbres: lentejas, garbanzos, alubias, guisantes.\n- Cereales integrales: avena, pan integral, arroz integral, centeno.\n- Frutas (mejor enteras que en zumo): pera, manzana, frutos rojos, kiwi, naranja.\n- Verduras y hortalizas: alcachofa, brócoli, zanahoria, espinacas.\n- Frutos secos y semillas: almendras, chía, lino.\n\n## Referencias diarias generales para adultos\n\n- La EFSA considera adecuada una ingesta de **25 g de fibra al día** para adultos, con beneficios adicionales observados por encima de esa cifra.\n- Muchas personas en Europa toman bastante menos de esa referencia.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Poca fibra:** estreñimiento, hambre frecuente y, a largo plazo, una dieta generalmente pobre en vegetales.\n- **Aumento brusco o exceso:** hinchazón, gases o molestias abdominales, sobre todo si no bebes suficiente agua.\n\n## Consejos prácticos\n\n- Aumenta la fibra poco a poco y acompáñala de suficiente agua.\n- Incluye verdura o fruta en cada comida y legumbres varias veces por semana.\n- En la comida previa a un entrenamiento intenso, elige opciones más bajas en fibra (arroz blanco, pan blanco, plátano) si notas molestias.\n- Reserva las comidas más ricas en fibra para momentos alejados de la sesión."
+      },
+      "en": {
+        "title": "Fibre",
+        "summary": "Fibre is the part of plant foods you don't digest, yet it supports your gut, helps control appetite and steadies energy. Eat plenty day to day and go lighter on it right before training.",
+        "body": "## What it is\n\nDietary fibre is a group of plant carbohydrates that the small intestine can't digest. There are two broad types:\n\n- **Soluble:** forms a gel with water (oats, legumes, apples, citrus). It ferments in the colon and feeds the gut microbiota.\n- **Insoluble:** adds bulk to stools and speeds up transit (bran, whole grains, fruit and vegetable skins).\n\n## What it does in the body\n\n- Supports regular bowel movements.\n- Feeds beneficial gut bacteria.\n- Slows sugar absorption, helping keep energy steadier.\n- Increases fullness.\n- Helps maintain healthy cholesterol levels.\n\n## Why it matters for striking athletes\n\nA fibre-rich diet usually means plenty of fruit, vegetables, legumes and whole grains, which also bring vitamins, minerals and antioxidants. It also helps with appetite control if you're working on body composition. That said, too much fibre right before training can cause gas or discomfort, which is especially unpleasant during core work, torso rotation and knees on the bag.\n\n## Food sources\n\n- Legumes: lentils, chickpeas, beans, peas.\n- Whole grains: oats, wholemeal bread, brown rice, rye.\n- Fruit (whole rather than juiced): pears, apples, berries, kiwi, oranges.\n- Vegetables: artichokes, broccoli, carrots, spinach.\n- Nuts and seeds: almonds, chia, flax.\n\n## General daily references for adults\n\n- EFSA considers **25 g of fibre per day** adequate for adults, with additional benefits seen above that amount.\n- Many people in Europe eat well below this reference.\n\n## Signs of too little or too much (general terms)\n\n- **Too little:** constipation, frequent hunger and, over time, a diet generally low in plant foods.\n- **Sudden increase or excess:** bloating, gas or abdominal discomfort, especially if you don't drink enough water.\n\n## Practical tips\n\n- Increase fibre gradually and drink enough water alongside it.\n- Add vegetables or fruit to every meal and eat legumes several times a week.\n- For the meal before a hard session, pick lower-fibre options (white rice, white bread, bananas) if you notice discomfort.\n- Save your highest-fibre meals for times well away from training."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "hierro",
+    "category": "MICRONUTRIENT",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements – Iron Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+      },
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      },
+      {
+        "title": "NHS – Vitamins and minerals: Iron",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/iron/"
+      },
+      {
+        "title": "WHO – Anaemia (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia"
+      }
+    ],
+    "related": [
+      "vitamina-c",
+      "vitamina-b12",
+      "proteinas",
+      "proteina-vegetal",
+      "calcio",
+      "recuperacion-y-sueno"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Hierro",
+        "summary": "El hierro es imprescindible para transportar oxígeno a tus músculos. Las personas que entrenan mucho, las mujeres con menstruación y quienes siguen dietas vegetales tienen más riesgo de quedarse cortas.",
+        "body": "## Qué es\n\nEl hierro es un mineral esencial. En los alimentos aparece en dos formas:\n\n- **Hierro hemo:** en carne, pescado y marisco. Se absorbe con facilidad.\n- **Hierro no hemo:** en legumbres, cereales, verduras de hoja y frutos secos. Se absorbe peor, pero su absorción mejora mucho con vitamina C.\n\n## Funciones en el cuerpo\n\n- Forma parte de la **hemoglobina**, que transporta oxígeno en la sangre.\n- Forma parte de la **mioglobina**, que almacena oxígeno en el músculo.\n- Participa en la producción de energía y en el funcionamiento del sistema inmunitario.\n\n## Por qué importa en los deportes de golpeo\n\nEl rendimiento en rounds repetidos depende de llevar oxígeno a los músculos de forma eficiente. El entrenamiento intenso puede aumentar las pérdidas de hierro (sudor, impactos repetidos en los pies al saltar o correr, pequeñas pérdidas digestivas), y una ingesta de energía insuficiente lo agrava. Por eso las deportistas, quienes siguen dietas vegetarianas o veganas y quienes entrenan mucho volumen deben prestarle atención.\n\n## Fuentes alimentarias\n\n- **Hemo:** carne roja, hígado, mejillones, almejas, sardinas, atún, pollo.\n- **No hemo:** lentejas, garbanzos, alubias, tofu, espinacas, cereales fortificados, pipas de calabaza, quinoa.\n\n## Referencias diarias generales para adultos\n\n- **EFSA:** unos **11 mg/día** para hombres y **16 mg/día** para mujeres en edad fértil.\n- **NIH (EE. UU.):** **8 mg/día** para hombres y **18 mg/día** para mujeres de 19 a 50 años. Nivel máximo tolerable: **45 mg/día** desde todas las fuentes.\n- Quienes siguen una dieta vegetariana pueden necesitar más, porque el hierro vegetal se absorbe peor.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Niveles bajos:** cansancio inusual, falta de aire con esfuerzos que antes tolerabas, palidez, peor rendimiento o más dificultad para recuperar. Estos síntomas tienen muchas causas posibles; solo un análisis de sangre y un profesional sanitario pueden valorarlo.\n- **Exceso:** los suplementos de hierro tomados sin necesidad pueden causar molestias digestivas y, en dosis altas, ser peligrosos. No tomes suplementos de hierro sin indicación médica.\n\n## Consejos prácticos\n\n- Acompaña las legumbres y verduras con una fuente de vitamina C (pimiento, tomate, cítricos, kiwi).\n- Evita tomar café o té justo con las comidas ricas en hierro; espera al menos una hora.\n- El calcio también reduce la absorción: separa los lácteos de las comidas principales ricas en hierro si te preocupa.\n- Si notas cansancio persistente, coméntalo con tu médico en lugar de suplementarte por tu cuenta."
+      },
+      "en": {
+        "title": "Iron",
+        "summary": "Iron is essential for carrying oxygen to your muscles. People who train a lot, women who menstruate and those on plant-based diets are more likely to fall short.",
+        "body": "## What it is\n\nIron is an essential mineral. Food contains two forms:\n\n- **Haem iron:** in meat, fish and seafood. It's easily absorbed.\n- **Non-haem iron:** in legumes, grains, leafy greens and nuts. It's less well absorbed, but vitamin C boosts absorption considerably.\n\n## What it does in the body\n\n- It's part of **haemoglobin**, which carries oxygen in the blood.\n- It's part of **myoglobin**, which stores oxygen in muscle.\n- It's involved in energy production and immune function.\n\n## Why it matters for striking athletes\n\nPerforming round after round depends on delivering oxygen to your muscles efficiently. Hard training can increase iron losses (sweat, repeated foot impact from running and skipping, small digestive losses), and not eating enough energy makes it worse. That's why female athletes, vegetarians and vegans, and anyone training high volumes should pay attention to it.\n\n## Food sources\n\n- **Haem:** red meat, liver, mussels, clams, sardines, tuna, chicken.\n- **Non-haem:** lentils, chickpeas, beans, tofu, spinach, fortified cereals, pumpkin seeds, quinoa.\n\n## General daily references for adults\n\n- **EFSA:** about **11 mg/day** for men and **16 mg/day** for premenopausal women.\n- **NIH (US):** **8 mg/day** for men and **18 mg/day** for women aged 19–50. Tolerable upper intake level: **45 mg/day** from all sources.\n- Vegetarians may need more because plant iron is absorbed less efficiently.\n\n## Signs of too little or too much (general terms)\n\n- **Low levels:** unusual tiredness, breathlessness with efforts you used to handle, paleness, poorer performance or slower recovery. These symptoms have many possible causes; only a blood test and a health professional can assess them.\n- **Excess:** iron supplements taken without need can cause digestive upset and, at high doses, be dangerous. Don't take iron supplements unless a doctor advises it.\n\n## Practical tips\n\n- Pair legumes and greens with a vitamin C source (peppers, tomatoes, citrus, kiwi).\n- Avoid coffee or tea right with iron-rich meals; wait at least an hour.\n- Calcium also reduces absorption: keep dairy apart from iron-rich main meals if this is a concern.\n- If you feel persistently tired, talk to your doctor rather than self-supplementing."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "calcio",
+    "category": "MICRONUTRIENT",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements – Calcium Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+      },
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      },
+      {
+        "title": "NHS – Vitamins and minerals: Calcium",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/calcium/"
+      }
+    ],
+    "related": [
+      "vitamina-d",
+      "magnesio",
+      "proteinas",
+      "hierro",
+      "proteina-vegetal",
+      "vitamina-d3-suplemento"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Calcio",
+        "summary": "El calcio es el principal mineral de tus huesos y también interviene en la contracción muscular. Para un deporte de impacto, mantener una ingesta adecuada junto con vitamina D es una inversión a largo plazo.",
+        "body": "## Qué es\n\nEl calcio es el mineral más abundante del cuerpo. Alrededor del **99 %** está en huesos y dientes; el resto circula en sangre y tejidos, donde cumple funciones vitales.\n\n## Funciones en el cuerpo\n\n- Da estructura y resistencia a huesos y dientes.\n- Interviene en la **contracción muscular**, incluido el corazón.\n- Participa en la transmisión de impulsos nerviosos y en la coagulación.\n\n## Por qué importa en los deportes de golpeo\n\nPatadas, rodillazos, desplazamientos y saltos someten a tus huesos a cargas repetidas. El hueso se adapta y se fortalece con ese estímulo, pero necesita materia prima: calcio, vitamina D, proteína y suficiente energía. Una ingesta de energía baja mantenida, sobre todo en deportistas, se asocia a peor salud ósea y más riesgo de lesiones por estrés.\n\n## Fuentes alimentarias\n\n- Lácteos: leche, yogur, queso, kéfir.\n- Bebidas vegetales y yogures **enriquecidos** con calcio.\n- Pescados con espinas comestibles: sardinas y boquerones en lata.\n- Tofu cuajado con sales de calcio.\n- Almendras, sésamo y tahini.\n- Verduras como el brócoli, la col rizada o el bok choy.\n\n## Referencias diarias generales para adultos\n\n- **EFSA:** **1000 mg/día** de 18 a 24 años y **950 mg/día** a partir de los 25.\n- **NIH (EE. UU.):** **1000 mg/día** para la mayoría de adultos de 19 a 50 años.\n- Nivel máximo tolerable (EFSA): **2500 mg/día** desde todas las fuentes.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Ingesta baja mantenida:** a corto plazo no suele dar síntomas porque el cuerpo tira de la reserva ósea; a largo plazo puede debilitar los huesos.\n- **Exceso (casi siempre por suplementos):** estreñimiento y, en algunos casos, mayor riesgo de cálculos renales. Si crees que necesitas un suplemento, consúltalo con un profesional.\n\n## Consejos prácticos\n\n- Unas 2-3 raciones de lácteos o alternativas enriquecidas al día ayudan a cubrir la referencia.\n- Si no tomas lácteos, revisa la etiqueta de las bebidas vegetales: no todas están enriquecidas.\n- Asegura también vitamina D, necesaria para absorber el calcio.\n- Comer lo suficiente para tu nivel de entrenamiento es tan importante para tus huesos como el propio calcio."
+      },
+      "en": {
+        "title": "Calcium",
+        "summary": "Calcium is the main mineral in your bones and also drives muscle contraction. In an impact sport, keeping intake adequate alongside vitamin D is a long-term investment.",
+        "body": "## What it is\n\nCalcium is the most abundant mineral in the body. About **99%** of it sits in bones and teeth; the rest circulates in blood and tissues, where it performs vital roles.\n\n## What it does in the body\n\n- Gives bones and teeth their structure and strength.\n- Drives **muscle contraction**, including the heart.\n- Supports nerve signalling and blood clotting.\n\n## Why it matters for striking athletes\n\nKicks, knees, footwork and jumps put repeated loads on your bones. Bone adapts and gets stronger with that stimulus, but it needs raw materials: calcium, vitamin D, protein and enough overall energy. Chronically low energy intake, particularly in athletes, is linked to poorer bone health and a higher risk of stress injuries.\n\n## Food sources\n\n- Dairy: milk, yoghurt, cheese, kefir.\n- Calcium-**fortified** plant drinks and yoghurts.\n- Fish with edible bones: canned sardines and anchovies.\n- Tofu set with calcium salts.\n- Almonds, sesame seeds and tahini.\n- Vegetables such as broccoli, kale and bok choy.\n\n## General daily references for adults\n\n- **EFSA:** **1000 mg/day** for ages 18–24 and **950 mg/day** from 25 onwards.\n- **NIH (US):** **1000 mg/day** for most adults aged 19–50.\n- Tolerable upper intake level (EFSA): **2500 mg/day** from all sources.\n\n## Signs of too little or too much (general terms)\n\n- **Persistently low intake:** usually no short-term symptoms because the body draws on bone stores; over time it can weaken bones.\n- **Excess (almost always from supplements):** constipation and, in some people, a higher risk of kidney stones. If you think you need a supplement, check with a professional.\n\n## Practical tips\n\n- Around 2–3 servings of dairy or fortified alternatives a day helps you reach the reference.\n- If you avoid dairy, check plant-drink labels: not all are fortified.\n- Make sure you also get vitamin D, which you need to absorb calcium.\n- Eating enough for your training load matters as much for your bones as calcium itself."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "vitamina-d",
+    "category": "MICRONUTRIENT",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements – Vitamin D Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/"
+      },
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      },
+      {
+        "title": "NHS – Vitamins and minerals: Vitamin D",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/"
+      }
+    ],
+    "related": [
+      "calcio",
+      "magnesio",
+      "vitamina-d3-suplemento",
+      "grasas",
+      "recuperacion-y-sueno",
+      "omega-3"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Vitamina D",
+        "summary": "La vitamina D ayuda a absorber el calcio y es clave para huesos y músculos. Se obtiene sobre todo con la exposición al sol, así que quien entrena casi siempre a cubierto o vive en zonas con pocas horas de luz puede tener niveles bajos.",
+        "body": "## Qué es\n\nLa vitamina D es una vitamina liposoluble que tu piel fabrica cuando recibe radiación ultravioleta B del sol. También se obtiene, en menor medida, de algunos alimentos. Existen dos formas principales: **D3** (colecalciferol, de origen animal y la que produce la piel) y **D2** (ergocalciferol, de origen vegetal y fúngico).\n\n## Funciones en el cuerpo\n\n- Favorece la absorción intestinal de calcio y fósforo.\n- Contribuye al mantenimiento de huesos y dientes.\n- Participa en la función muscular normal.\n- Interviene en el funcionamiento del sistema inmunitario.\n\n## Por qué importa en los deportes de golpeo\n\nGran parte del entrenamiento de golpeo se hace en gimnasios cerrados, a menudo a primera hora o por la tarde-noche. En otoño e invierno, sobre todo en latitudes altas, la síntesis cutánea baja mucho. Unos niveles adecuados de vitamina D apoyan la salud ósea frente a los impactos y la función muscular.\n\n## Fuentes alimentarias\n\n- Pescado azul: salmón, caballa, sardinas, arenque, trucha.\n- Yema de huevo.\n- Alimentos enriquecidos: algunas leches, bebidas vegetales, yogures y cereales.\n- Setas expuestas a luz UV (aportan D2).\n\nCon la dieta sola es difícil cubrir las necesidades; la exposición solar moderada es la fuente principal para la mayoría de personas.\n\n## Referencias diarias generales para adultos\n\n- **EFSA:** ingesta adecuada de **15 µg (600 UI) al día**, suponiendo una síntesis cutánea mínima.\n- **NIH (EE. UU.):** **15 µg (600 UI)** hasta los 70 años y **20 µg (800 UI)** después.\n- Nivel máximo tolerable: **100 µg (4000 UI) al día** desde todas las fuentes.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Niveles bajos:** a menudo sin síntomas claros; a veces cansancio, dolor óseo o muscular difuso. Solo un análisis de sangre lo confirma.\n- **Exceso:** prácticamente solo ocurre con suplementos en dosis altas durante tiempo prolongado y puede elevar el calcio en sangre, con náuseas, debilidad o problemas renales.\n\n## Consejos prácticos\n\n- Si es posible, sal al aire libre a diario, con brazos y cara expuestos durante periodos cortos, sin llegar a quemarte.\n- Incluye pescado azul 1-2 veces por semana y huevos en tu dieta.\n- En meses de poca luz, consulta con un profesional sanitario si te conviene medir tus niveles o suplementar."
+      },
+      "en": {
+        "title": "Vitamin D",
+        "summary": "Vitamin D helps you absorb calcium and is key for bones and muscles. You get most of it from sunlight, so people who train mostly indoors or live with short daylight hours may run low.",
+        "body": "## What it is\n\nVitamin D is a fat-soluble vitamin your skin makes when exposed to ultraviolet B light from the sun. Some foods provide smaller amounts. The two main forms are **D3** (cholecalciferol, from animal sources and the form your skin makes) and **D2** (ergocalciferol, from plants and fungi).\n\n## What it does in the body\n\n- Helps absorb calcium and phosphorus from the gut.\n- Helps maintain bones and teeth.\n- Supports normal muscle function.\n- Plays a role in immune function.\n\n## Why it matters for striking athletes\n\nMost striking training happens in indoor gyms, often early in the morning or in the evening. In autumn and winter, especially at higher latitudes, skin production drops sharply. Adequate vitamin D supports bone health under repeated impact and normal muscle function.\n\n## Food sources\n\n- Oily fish: salmon, mackerel, sardines, herring, trout.\n- Egg yolks.\n- Fortified foods: some milks, plant drinks, yoghurts and cereals.\n- UV-exposed mushrooms (provide D2).\n\nDiet alone rarely covers needs; moderate sun exposure is the main source for most people.\n\n## General daily references for adults\n\n- **EFSA:** adequate intake of **15 µg (600 IU) per day**, assuming minimal skin production.\n- **NIH (US):** **15 µg (600 IU)** up to age 70 and **20 µg (800 IU)** after.\n- Tolerable upper intake level: **100 µg (4,000 IU) per day** from all sources.\n\n## Signs of too little or too much (general terms)\n\n- **Low levels:** often no clear symptoms; sometimes tiredness or vague bone or muscle aches. Only a blood test can confirm it.\n- **Excess:** almost only happens with high-dose supplements over long periods and can raise blood calcium, causing nausea, weakness or kidney problems.\n\n## Practical tips\n\n- When you can, get outside every day with your face and arms exposed for short periods, without burning.\n- Include oily fish once or twice a week, plus eggs.\n- During darker months, ask a health professional whether testing your levels or supplementing makes sense for you."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "magnesio",
+    "category": "MICRONUTRIENT",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements – Magnesium Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/"
+      },
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      },
+      {
+        "title": "NHS – Vitamins and minerals: Others (magnesium, potassium, zinc...)",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/others/"
+      }
+    ],
+    "related": [
+      "magnesio-suplemento",
+      "calcio",
+      "potasio",
+      "electrolitos",
+      "vitamina-d",
+      "recuperacion-y-sueno",
+      "fibra"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Magnesio",
+        "summary": "El magnesio participa en cientos de reacciones del cuerpo, desde producir energía hasta contraer y relajar el músculo. Una dieta con frutos secos, legumbres e integrales suele cubrirlo sin complicaciones.",
+        "body": "## Qué es\n\nEl magnesio es un mineral esencial. Alrededor de la mitad se encuentra en los huesos y la mayor parte del resto en músculos y otros tejidos blandos.\n\n## Funciones en el cuerpo\n\n- Actúa como cofactor en más de 300 sistemas enzimáticos.\n- Participa en la producción de energía (ATP) y en la síntesis de proteínas.\n- Interviene en la contracción y relajación muscular y en la transmisión nerviosa.\n- Contribuye al mantenimiento de los huesos y a un ritmo cardiaco normal.\n\n## Por qué importa en los deportes de golpeo\n\nEl entrenamiento intenso aumenta la demanda de energía y se pierde una pequeña cantidad de magnesio con el sudor. Quienes restringen mucho la comida o comen pocos vegetales e integrales tienen más riesgo de una ingesta baja. A menudo se asocia el magnesio a los calambres, pero la evidencia de que suplementarlo los prevenga en personas sin déficit es limitada.\n\n## Fuentes alimentarias\n\n- Frutos secos y semillas: almendras, anacardos, pipas de calabaza, sésamo.\n- Legumbres: alubias negras, garbanzos, lentejas, soja.\n- Cereales integrales: avena, arroz integral, pan integral, quinoa.\n- Verduras de hoja verde: espinacas, acelgas.\n- Cacao puro y chocolate negro, plátano, aguacate.\n\n## Referencias diarias generales para adultos\n\n- **EFSA:** ingesta adecuada de **350 mg/día** para hombres y **300 mg/día** para mujeres.\n- **NIH (EE. UU.):** **400-420 mg/día** para hombres y **310-320 mg/día** para mujeres.\n- Límite para el magnesio de **suplementos** (no de los alimentos): **250 mg/día** según la EFSA y 350 mg/día según el NIH.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Ingesta baja:** el déficit marcado es poco frecuente en personas sanas; puede asociarse a cansancio, debilidad o espasmos musculares, aunque esos síntomas tienen muchas otras causas.\n- **Exceso por suplementos:** el efecto más habitual es la diarrea y las molestias digestivas. El magnesio de los alimentos no plantea este problema.\n\n## Consejos prácticos\n\n- Un puñado de frutos secos, una ración de legumbres y cereales integrales a diario cubren buena parte de tus necesidades.\n- Si sudas mucho, cuida la dieta en general antes de pensar en suplementos.\n- Si te planteas suplementarte, empieza por revisar tu alimentación y consúltalo con un profesional."
+      },
+      "en": {
+        "title": "Magnesium",
+        "summary": "Magnesium is involved in hundreds of reactions in the body, from producing energy to contracting and relaxing muscle. A diet with nuts, legumes and whole grains usually covers it without fuss.",
+        "body": "## What it is\n\nMagnesium is an essential mineral. About half of it is stored in bone and most of the rest in muscle and other soft tissues.\n\n## What it does in the body\n\n- Acts as a cofactor in more than 300 enzyme systems.\n- Supports energy production (ATP) and protein synthesis.\n- Helps muscles contract and relax and supports nerve signalling.\n- Helps maintain bones and a normal heart rhythm.\n\n## Why it matters for striking athletes\n\nHard training raises energy demand, and you lose a small amount of magnesium in sweat. People who restrict food heavily or eat few plant foods and whole grains are more likely to have a low intake. Magnesium is often linked with cramps, but evidence that supplements prevent them in people who aren't deficient is limited.\n\n## Food sources\n\n- Nuts and seeds: almonds, cashews, pumpkin seeds, sesame.\n- Legumes: black beans, chickpeas, lentils, soybeans.\n- Whole grains: oats, brown rice, wholemeal bread, quinoa.\n- Leafy greens: spinach, chard.\n- Cocoa and dark chocolate, bananas, avocado.\n\n## General daily references for adults\n\n- **EFSA:** adequate intake of **350 mg/day** for men and **300 mg/day** for women.\n- **NIH (US):** **400–420 mg/day** for men and **310–320 mg/day** for women.\n- Upper limit for magnesium from **supplements** (not food): **250 mg/day** according to EFSA and 350 mg/day according to NIH.\n\n## Signs of too little or too much (general terms)\n\n- **Low intake:** marked deficiency is uncommon in healthy people; it may be associated with tiredness, weakness or muscle twitching, though those symptoms have many other causes.\n- **Excess from supplements:** the most common effect is diarrhoea and stomach upset. Magnesium from food doesn't cause this.\n\n## Practical tips\n\n- A handful of nuts, a serving of legumes and some whole grains each day cover a good share of your needs.\n- If you sweat heavily, focus on your overall diet before thinking about supplements.\n- If you're considering a supplement, review your diet first and check with a professional."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "zinc",
+    "category": "MICRONUTRIENT",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements – Zinc Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/"
+      },
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      },
+      {
+        "title": "NHS – Vitamins and minerals: Others (magnesium, potassium, zinc...)",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/others/"
+      }
+    ],
+    "related": [
+      "hierro",
+      "proteinas",
+      "proteina-vegetal",
+      "vitamina-c",
+      "recuperacion-y-sueno",
+      "magnesio"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Zinc",
+        "summary": "El zinc es un mineral que necesitas en pequeñas cantidades pero a diario: interviene en la reparación de tejidos, la inmunidad y el metabolismo de las proteínas. Las dietas vegetales requieren un poco más de atención.",
+        "body": "## Qué es\n\nEl zinc es un oligoelemento esencial: lo necesitas en cantidades pequeñas, pero el cuerpo no tiene una gran reserva, así que debe llegar con la dieta de forma regular.\n\n## Funciones en el cuerpo\n\n- Participa en la actividad de cientos de enzimas.\n- Interviene en la síntesis de proteínas y ADN y en la división celular.\n- Contribuye al funcionamiento normal del sistema inmunitario.\n- Apoya la cicatrización y la reparación de tejidos.\n- Interviene en el gusto y el olfato.\n\n## Por qué importa en los deportes de golpeo\n\nEntrenar con frecuencia implica reparar tejido constantemente y mantener las defensas en buen estado durante bloques exigentes. El zinc se pierde en parte con el sudor, y quienes comen poco o siguen dietas vegetales sin planificar pueden quedarse por debajo de lo recomendable.\n\n## Fuentes alimentarias\n\n- Ostras y otros mariscos (las ostras son la fuente más concentrada).\n- Carne roja y aves.\n- Lácteos y huevos.\n- Legumbres, tofu, frutos secos, pipas de calabaza y cereales integrales.\n\nLos fitatos de cereales integrales y legumbres reducen la absorción del zinc. Remojar, germinar o fermentar (por ejemplo, el pan de masa madre) ayuda a reducirlos.\n\n## Referencias diarias generales para adultos\n\n- **EFSA:** entre unos **9,4 y 16,3 mg/día** en hombres y **7,5 y 12,7 mg/día** en mujeres, según el contenido de fitatos de la dieta (más fitatos, más zinc necesario).\n- **NIH (EE. UU.):** **11 mg/día** para hombres y **8 mg/día** para mujeres.\n- Nivel máximo tolerable: **25 mg/día** según la EFSA y 40 mg/día según el NIH.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Ingesta baja:** en términos generales se asocia a cicatrización lenta, más infecciones, pérdida de apetito o alteraciones del gusto. Son señales inespecíficas que debe valorar un profesional.\n- **Exceso por suplementos:** náuseas y molestias digestivas a corto plazo; a largo plazo, dosis altas pueden interferir con la absorción de cobre.\n\n## Consejos prácticos\n\n- Una dieta variada con proteína animal o legumbres a diario suele cubrir el zinc.\n- Si eres vegetariano o vegano, incluye legumbres, tofu, frutos secos y semillas todos los días y prefiere pan de masa madre.\n- Evita los suplementos de zinc en dosis altas sin supervisión."
+      },
+      "en": {
+        "title": "Zinc",
+        "summary": "Zinc is a mineral you need in small amounts but every day: it's involved in tissue repair, immunity and protein metabolism. Plant-based diets need a little more attention.",
+        "body": "## What it is\n\nZinc is an essential trace mineral: you need it in small amounts, but the body has no large store, so it has to come from your diet regularly.\n\n## What it does in the body\n\n- Supports the activity of hundreds of enzymes.\n- Is involved in protein and DNA synthesis and cell division.\n- Contributes to normal immune function.\n- Supports wound healing and tissue repair.\n- Plays a role in taste and smell.\n\n## Why it matters for striking athletes\n\nTraining often means constantly repairing tissue and keeping your immune system in good shape through demanding blocks. Some zinc is lost in sweat, and people who undereat or follow unplanned plant-based diets can fall below recommended intakes.\n\n## Food sources\n\n- Oysters and other shellfish (oysters are the richest source).\n- Red meat and poultry.\n- Dairy and eggs.\n- Legumes, tofu, nuts, pumpkin seeds and whole grains.\n\nPhytates in whole grains and legumes reduce zinc absorption. Soaking, sprouting or fermenting (sourdough bread, for example) helps lower them.\n\n## General daily references for adults\n\n- **EFSA:** roughly **9.4–16.3 mg/day** for men and **7.5–12.7 mg/day** for women, depending on how much phytate the diet contains (more phytate, more zinc needed).\n- **NIH (US):** **11 mg/day** for men and **8 mg/day** for women.\n- Tolerable upper intake level: **25 mg/day** according to EFSA and 40 mg/day according to NIH.\n\n## Signs of too little or too much (general terms)\n\n- **Low intake:** generally associated with slow wound healing, more frequent infections, loss of appetite or changes in taste. These are non-specific signs that a professional should assess.\n- **Excess from supplements:** nausea and stomach upset in the short term; over the long term, high doses can interfere with copper absorption.\n\n## Practical tips\n\n- A varied diet with animal protein or legumes every day usually covers zinc.\n- If you're vegetarian or vegan, include legumes, tofu, nuts and seeds daily and choose sourdough bread.\n- Avoid high-dose zinc supplements without supervision."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "potasio",
+    "category": "MICRONUTRIENT",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements – Potassium Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/"
+      },
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      },
+      {
+        "title": "MedlinePlus – Potassium",
+        "url": "https://medlineplus.gov/potassium.html"
+      }
+    ],
+    "related": [
+      "sodio",
+      "electrolitos",
+      "magnesio",
+      "hidratacion-diaria",
+      "hidratacion-durante-el-entrenamiento",
+      "fibra"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Potasio",
+        "summary": "El potasio es un electrolito clave para la función muscular y nerviosa y para el equilibrio de líquidos. Comer fruta, verdura y legumbres a diario es la forma más sencilla de cubrirlo.",
+        "body": "## Qué es\n\nEl potasio es un mineral y uno de los principales **electrolitos** del cuerpo. La mayor parte se encuentra dentro de las células, al contrario que el sodio, que predomina fuera de ellas.\n\n## Funciones en el cuerpo\n\n- Mantiene el equilibrio de líquidos dentro y fuera de las células.\n- Es imprescindible para la transmisión nerviosa y la contracción muscular, incluido el corazón.\n- Contribuye a mantener una presión arterial normal, sobre todo en relación con la ingesta de sodio.\n\n## Por qué importa en los deportes de golpeo\n\nCada combinación que lanzas depende de impulsos nerviosos y contracciones musculares en las que el potasio participa. Con el sudor se pierde algo de potasio, aunque mucho menos que sodio. Para la mayoría de personas, lo importante es que la dieta habitual sea rica en alimentos vegetales, ya que muchas personas toman menos potasio del recomendado.\n\n## Fuentes alimentarias\n\n- Frutas: plátano, naranja, albaricoques secos, melón, kiwi.\n- Verduras y hortalizas: patata y boniato (con piel), tomate, espinacas, calabaza.\n- Legumbres: alubias, lentejas, garbanzos.\n- Lácteos, frutos secos, pescado y carne.\n\n## Referencias diarias generales para adultos\n\n- **EFSA:** ingesta adecuada de **3500 mg/día** para adultos.\n- **NIH (EE. UU.):** **3400 mg/día** para hombres y **2600 mg/día** para mujeres.\n- La OMS también recomienda aumentar el potasio de los alimentos para ayudar a controlar la presión arterial.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Niveles bajos en sangre:** suelen deberse a causas médicas (vómitos, diarreas, algunos fármacos) más que a la dieta; pueden causar debilidad, calambres o alteraciones del ritmo cardiaco y requieren atención médica.\n- **Exceso:** con alimentos es muy raro en personas con riñones sanos. Los suplementos o sustitutos de la sal ricos en potasio pueden ser peligrosos para personas con enfermedad renal o que toman ciertos medicamentos.\n\n## Consejos prácticos\n\n- Apunta a 5 o más raciones de fruta y verdura al día.\n- Un plátano o unos dátiles antes o después de entrenar aportan potasio y carbohidratos.\n- No tomes suplementos de potasio salvo indicación médica."
+      },
+      "en": {
+        "title": "Potassium",
+        "summary": "Potassium is a key electrolyte for muscle and nerve function and fluid balance. Eating fruit, vegetables and legumes every day is the simplest way to get enough.",
+        "body": "## What it is\n\nPotassium is a mineral and one of the body's main **electrolytes**. Most of it sits inside your cells, the opposite of sodium, which mainly sits outside them.\n\n## What it does in the body\n\n- Maintains fluid balance inside and outside cells.\n- Is essential for nerve signalling and muscle contraction, including the heart.\n- Helps maintain normal blood pressure, especially in relation to sodium intake.\n\n## Why it matters for striking athletes\n\nEvery combination you throw relies on nerve signals and muscle contractions that involve potassium. You lose some potassium in sweat, though far less than sodium. For most people what matters is a diet rich in plant foods, since many people get less potassium than recommended.\n\n## Food sources\n\n- Fruit: bananas, oranges, dried apricots, melon, kiwi.\n- Vegetables: potatoes and sweet potatoes (with skin), tomatoes, spinach, squash.\n- Legumes: beans, lentils, chickpeas.\n- Dairy, nuts, fish and meat.\n\n## General daily references for adults\n\n- **EFSA:** adequate intake of **3,500 mg/day** for adults.\n- **NIH (US):** **3,400 mg/day** for men and **2,600 mg/day** for women.\n- WHO also recommends increasing potassium from food to help control blood pressure.\n\n## Signs of too little or too much (general terms)\n\n- **Low blood levels:** usually caused by medical issues (vomiting, diarrhoea, some medications) rather than diet; they can cause weakness, cramps or heart rhythm changes and need medical attention.\n- **Excess:** very rare from food in people with healthy kidneys. Potassium supplements or potassium-based salt substitutes can be dangerous for people with kidney disease or on certain medications.\n\n## Practical tips\n\n- Aim for 5 or more portions of fruit and vegetables a day.\n- A banana or a few dates before or after training provide potassium and carbohydrate.\n- Don't take potassium supplements unless a doctor advises it."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "sodio",
+    "category": "MICRONUTRIENT",
+    "sources": [
+      {
+        "title": "WHO – Sodium reduction (fact sheet)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction"
+      },
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      },
+      {
+        "title": "MedlinePlus – Sodium",
+        "url": "https://medlineplus.gov/sodium.html"
+      },
+      {
+        "title": "NHS – Salt: the facts",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-types/salt-nutrition/"
+      }
+    ],
+    "related": [
+      "potasio",
+      "electrolitos",
+      "hidratacion-durante-el-entrenamiento",
+      "hidratacion-diaria",
+      "bebidas-deportivas-electrolitos",
+      "bicarbonato-sodico"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Sodio",
+        "summary": "El sodio es el electrolito que más se pierde con el sudor y es esencial para el equilibrio de líquidos. La mayoría de personas toma de sobra con la dieta, pero quien suda mucho en sesiones largas puede necesitar reponerlo.",
+        "body": "## Qué es\n\nEl sodio es un mineral y el principal **electrolito** del líquido que rodea a las células. La sal común (cloruro sódico) contiene aproximadamente un **40 % de sodio**: 5 g de sal equivalen a unos 2 g de sodio.\n\n## Funciones en el cuerpo\n\n- Regula el volumen de líquidos del cuerpo y de la sangre.\n- Es necesario para la transmisión nerviosa y la contracción muscular.\n- Interviene en la absorción de algunos nutrientes, como la glucosa, en el intestino.\n- Estimula la sed y ayuda a retener los líquidos que bebes.\n\n## Por qué importa en los deportes de golpeo\n\nEl sodio es el principal electrolito del sudor, y la cantidad que se pierde varía mucho de una persona a otra. Hay deportistas «salados», que dejan marcas blancas en la camiseta o notan escozor en los ojos al sudar. En sesiones largas o en ambientes calurosos, quienes sudan mucho y con mucha sal pueden necesitar reponer sodio, además de agua.\n\n## Fuentes alimentarias\n\n- Sal de mesa y alimentos salados que añades tú.\n- Pan, embutidos, quesos, conservas, encurtidos, salsas, aperitivos y platos preparados: aportan la mayor parte del sodio en muchas dietas.\n- Bebidas deportivas con electrolitos y caldos.\n\n## Referencias diarias generales para adultos\n\n- **OMS:** menos de **2 g de sodio al día** (menos de **5 g de sal**) para la población general.\n- **EFSA:** considera **2 g/día** una ingesta segura y adecuada para adultos.\n- Las pérdidas por sudor son muy variables (a menudo entre 0,5 y 1,5 g de sodio por litro de sudor), así que las necesidades de un deportista que suda mucho pueden ser algo mayores en días de entrenamiento largo.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Sodio bajo en sangre (hiponatremia):** es poco frecuente, pero puede ocurrir si se beben grandes cantidades de agua sin sodio durante esfuerzos muy largos. Puede dar dolor de cabeza, náuseas, confusión o hinchazón y es una urgencia médica.\n- **Exceso habitual en la dieta:** a largo plazo se asocia a una presión arterial más alta y a peor salud cardiovascular.\n\n## Consejos prácticos\n\n- En el día a día, limita los ultraprocesados y cocina con poca sal; usa hierbas y especias.\n- Si sudas mucho y entrenas más de 60-90 minutos o con calor, una bebida con electrolitos o un tentempié salado puede ayudarte a reponer.\n- No bebas agua en exceso «por si acaso»: guíate por la sed y por tus pérdidas reales."
+      },
+      "en": {
+        "title": "Sodium",
+        "summary": "Sodium is the electrolyte you lose most in sweat and it's essential for fluid balance. Most people get more than enough from their diet, but heavy sweaters in long sessions may need to replace it.",
+        "body": "## What it is\n\nSodium is a mineral and the main **electrolyte** in the fluid around your cells. Table salt (sodium chloride) is about **40% sodium**: 5 g of salt contains roughly 2 g of sodium.\n\n## What it does in the body\n\n- Regulates the volume of body fluids and blood.\n- Is needed for nerve signalling and muscle contraction.\n- Helps the gut absorb some nutrients, such as glucose.\n- Drives thirst and helps you retain the fluid you drink.\n\n## Why it matters for striking athletes\n\nSodium is the main electrolyte in sweat, and how much you lose varies a lot between people. Some athletes are \"salty sweaters\": they leave white marks on their shirts or feel their eyes sting when they sweat. In long sessions or hot conditions, people who sweat heavily and lose a lot of salt may need to replace sodium as well as water.\n\n## Food sources\n\n- Table salt and salty foods you add yourself.\n- Bread, cured meats, cheese, canned foods, pickles, sauces, snacks and ready meals: these provide most of the sodium in many diets.\n- Electrolyte sports drinks and broths.\n\n## General daily references for adults\n\n- **WHO:** less than **2 g of sodium per day** (less than **5 g of salt**) for the general population.\n- **EFSA:** considers **2 g/day** a safe and adequate intake for adults.\n- Sweat losses vary widely (often around 0.5–1.5 g of sodium per litre of sweat), so a heavy sweater's needs may be somewhat higher on long training days.\n\n## Signs of too little or too much (general terms)\n\n- **Low blood sodium (hyponatraemia):** uncommon, but it can happen when someone drinks large amounts of plain water during very long efforts. It can cause headache, nausea, confusion or swelling and is a medical emergency.\n- **Habitual excess in the diet:** linked over the long term with higher blood pressure and poorer heart health.\n\n## Practical tips\n\n- Day to day, limit ultra-processed foods and cook with little salt; use herbs and spices.\n- If you sweat heavily and train for more than 60–90 minutes or in the heat, an electrolyte drink or salty snack can help you replace losses.\n- Don't overdrink water \"just in case\": let thirst and your actual losses guide you."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "vitamina-b12",
+    "category": "MICRONUTRIENT",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements – Vitamin B12 Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/"
+      },
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      },
+      {
+        "title": "NHS – Vitamins and minerals: B vitamins and folic acid",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/"
+      }
+    ],
+    "related": ["hierro", "proteinas", "proteina-vegetal", "vitamina-c", "zinc"],
+    "i18n": {
+      "es": {
+        "title": "Vitamina B12",
+        "summary": "La vitamina B12 es necesaria para formar glóbulos rojos y mantener el sistema nervioso. Solo se encuentra de forma fiable en alimentos de origen animal y enriquecidos, así que si eres vegano necesitas una fuente fiable.",
+        "body": "## Qué es\n\nLa vitamina B12 (cobalamina) es una vitamina hidrosoluble del grupo B. La producen bacterias y llega a la dieta principalmente a través de alimentos de origen animal. El cuerpo puede almacenarla en el hígado durante años, por lo que un déficit puede tardar en aparecer.\n\n## Funciones en el cuerpo\n\n- Interviene en la formación de glóbulos rojos.\n- Es necesaria para el funcionamiento normal del sistema nervioso.\n- Participa en la síntesis de ADN y en el metabolismo energético.\n- Junto con el folato, ayuda a mantener niveles normales de homocisteína.\n\n## Por qué importa en los deportes de golpeo\n\nUn buen transporte de oxígeno depende de producir glóbulos rojos sanos, y la coordinación y los reflejos dependen de un sistema nervioso que funcione bien. La B12 no mejora el rendimiento si ya tienes suficiente, pero un déficit puede afectar a la energía y a la capacidad de entrenar.\n\n## Fuentes alimentarias\n\n- Carne, hígado, pescado y marisco (almejas, sardinas, atún, salmón).\n- Huevos y lácteos.\n- Alimentos **enriquecidos**: algunas bebidas vegetales, cereales de desayuno y levadura nutricional.\n\nLas algas, la espirulina o los alimentos fermentados no son fuentes fiables de B12 activa.\n\n## Referencias diarias generales para adultos\n\n- **EFSA:** ingesta adecuada de **4 µg/día** para adultos.\n- **NIH (EE. UU.):** **2,4 µg/día** para adultos.\n- No se ha establecido un nivel máximo tolerable, ya que no se han descrito efectos adversos con las ingestas habituales de alimentos y suplementos.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Déficit:** cansancio, debilidad, palidez, hormigueo en manos o pies, problemas de memoria o de ánimo. Es más probable en personas veganas sin suplementación, en mayores y en quienes toman algunos fármacos o tienen problemas digestivos. Lo debe valorar un profesional sanitario con una analítica.\n- **Exceso:** con alimentos y dosis habituales no se considera un problema.\n\n## Consejos prácticos\n\n- Si comes productos animales con regularidad, lo normal es cubrirla con la dieta.\n- Si eres vegano, la recomendación general es tomar un suplemento de B12 o alimentos enriquecidos de forma regular; consulta con un profesional la pauta adecuada.\n- Si notas cansancio persistente u hormigueos, pide una revisión médica."
+      },
+      "en": {
+        "title": "Vitamin B12",
+        "summary": "Vitamin B12 is needed to form red blood cells and maintain the nervous system. It's only reliably found in animal and fortified foods, so if you're vegan you need a dependable source.",
+        "body": "## What it is\n\nVitamin B12 (cobalamin) is a water-soluble B vitamin. It's made by bacteria and reaches your diet mainly through animal foods. The body can store it in the liver for years, so a deficiency can take a long time to appear.\n\n## What it does in the body\n\n- Helps form red blood cells.\n- Is needed for normal nervous system function.\n- Supports DNA synthesis and energy metabolism.\n- Together with folate, helps keep homocysteine levels normal.\n\n## Why it matters for striking athletes\n\nGood oxygen delivery depends on making healthy red blood cells, and coordination and reflexes depend on a well-functioning nervous system. B12 won't boost performance if you already have enough, but a deficiency can affect your energy and ability to train.\n\n## Food sources\n\n- Meat, liver, fish and shellfish (clams, sardines, tuna, salmon).\n- Eggs and dairy.\n- **Fortified** foods: some plant drinks, breakfast cereals and nutritional yeast.\n\nSeaweed, spirulina and fermented foods are not reliable sources of active B12.\n\n## General daily references for adults\n\n- **EFSA:** adequate intake of **4 µg/day** for adults.\n- **NIH (US):** **2.4 µg/day** for adults.\n- No tolerable upper intake level has been set, as no adverse effects have been reported from usual intakes from food and supplements.\n\n## Signs of too little or too much (general terms)\n\n- **Deficiency:** tiredness, weakness, paleness, tingling in hands or feet, memory or mood problems. It's more likely in vegans who don't supplement, older adults and people on certain medications or with digestive conditions. A health professional should assess it with a blood test.\n- **Excess:** not considered a concern at usual food and supplement intakes.\n\n## Practical tips\n\n- If you eat animal foods regularly, your diet will normally cover it.\n- If you're vegan, the general recommendation is a regular B12 supplement or fortified foods; check with a professional for the right approach.\n- If you have persistent tiredness or tingling, get a medical check."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "vitamina-c",
+    "category": "MICRONUTRIENT",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements – Vitamin C Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"
+      },
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      },
+      {
+        "title": "NHS – Vitamins and minerals: Vitamin C",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-c/"
+      }
+    ],
+    "related": ["hierro", "colageno", "zinc", "recuperacion-y-sueno", "agujetas-doms", "fibra"],
+    "i18n": {
+      "es": {
+        "title": "Vitamina C",
+        "summary": "La vitamina C es necesaria para formar colágeno, proteger las células y absorber mejor el hierro de los vegetales. Con fruta y verdura a diario la cubres de sobra; las megadosis no aportan ventajas claras.",
+        "body": "## Qué es\n\nLa vitamina C (ácido ascórbico) es una vitamina hidrosoluble que el cuerpo humano no puede fabricar ni almacenar en grandes cantidades, por lo que necesitas tomarla con frecuencia.\n\n## Funciones en el cuerpo\n\n- Es necesaria para la formación de **colágeno**, presente en piel, tendones, ligamentos, cartílago y vasos sanguíneos.\n- Actúa como antioxidante.\n- Mejora la absorción del **hierro no hemo** de los alimentos vegetales.\n- Contribuye al funcionamiento normal del sistema inmunitario y a reducir el cansancio.\n\n## Por qué importa en los deportes de golpeo\n\nTendones, ligamentos y piel reciben mucha carga y fricción con el golpeo, el trabajo de clinch y los desplazamientos. Una ingesta adecuada de vitamina C apoya la producción de colágeno y la absorción de hierro. Las dosis muy altas de antioxidantes de forma crónica no han demostrado mejorar el rendimiento y algunos estudios sugieren que podrían atenuar parte de las adaptaciones al entrenamiento.\n\n## Fuentes alimentarias\n\n- Pimiento rojo y verde (de las fuentes más ricas).\n- Kiwi, naranja, mandarina, fresas, papaya, guayaba.\n- Brócoli, coles de Bruselas, coliflor, tomate.\n- Perejil y otras hierbas frescas.\n\nEl calor y la cocción prolongada destruyen parte de la vitamina C; consume alguna fuente cruda o poco cocinada cada día.\n\n## Referencias diarias generales para adultos\n\n- **EFSA:** **110 mg/día** para hombres y **95 mg/día** para mujeres.\n- **NIH (EE. UU.):** **90 mg/día** para hombres y **75 mg/día** para mujeres (35 mg más en fumadores).\n- Nivel máximo tolerable (NIH): **2000 mg/día**.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Déficit marcado:** hoy es poco común; puede dar cansancio, encías inflamadas o que sangran, cicatrización lenta o hematomas con facilidad.\n- **Exceso por suplementos:** dosis altas pueden causar diarrea y molestias digestivas, y en algunas personas aumentar el riesgo de cálculos renales.\n\n## Consejos prácticos\n\n- Incluye fruta o verdura cruda en cada comida.\n- Añade pimiento, tomate o cítricos a los platos de legumbres para aprovechar mejor el hierro.\n- Un kiwi o una naranja tras entrenar es una opción fácil.\n- No necesitas megadosis de vitamina C para entrenar mejor."
+      },
+      "en": {
+        "title": "Vitamin C",
+        "summary": "Vitamin C is needed to form collagen, protect cells and absorb more iron from plant foods. Daily fruit and vegetables cover it easily; mega-doses offer no clear advantage.",
+        "body": "## What it is\n\nVitamin C (ascorbic acid) is a water-soluble vitamin that the human body can't make or store in large amounts, so you need it regularly.\n\n## What it does in the body\n\n- Is needed to form **collagen**, found in skin, tendons, ligaments, cartilage and blood vessels.\n- Acts as an antioxidant.\n- Improves absorption of **non-haem iron** from plant foods.\n- Contributes to normal immune function and to reducing tiredness.\n\n## Why it matters for striking athletes\n\nTendons, ligaments and skin take a lot of load and friction from striking, clinch work and footwork. Adequate vitamin C supports collagen production and iron absorption. Chronic very high doses of antioxidants haven't been shown to improve performance, and some studies suggest they may blunt some training adaptations.\n\n## Food sources\n\n- Red and green peppers (among the richest sources).\n- Kiwi, oranges, mandarins, strawberries, papaya, guava.\n- Broccoli, Brussels sprouts, cauliflower, tomatoes.\n- Parsley and other fresh herbs.\n\nHeat and long cooking destroy some vitamin C; have a raw or lightly cooked source every day.\n\n## General daily references for adults\n\n- **EFSA:** **110 mg/day** for men and **95 mg/day** for women.\n- **NIH (US):** **90 mg/day** for men and **75 mg/day** for women (35 mg more for smokers).\n- Tolerable upper intake level (NIH): **2,000 mg/day**.\n\n## Signs of too little or too much (general terms)\n\n- **Marked deficiency:** uncommon today; it can cause tiredness, swollen or bleeding gums, slow wound healing or easy bruising.\n- **Excess from supplements:** high doses can cause diarrhoea and stomach upset, and in some people raise the risk of kidney stones.\n\n## Practical tips\n\n- Include raw fruit or vegetables at every meal.\n- Add peppers, tomatoes or citrus to legume dishes to make the most of their iron.\n- A kiwi or an orange after training is an easy option.\n- You don't need mega-doses of vitamin C to train better."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "hidratacion-diaria",
+    "category": "HYDRATION",
+    "sources": [
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      },
+      {
+        "title": "NHS – Water, drinks and your health",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/water-drinks-nutrition/"
+      },
+      {
+        "title": "NHS – Dehydration",
+        "url": "https://www.nhs.uk/conditions/dehydration/"
+      },
+      {
+        "title": "Sawka MN et al. – ACSM Position Stand: Exercise and Fluid Replacement (2007)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17277604/"
+      }
+    ],
+    "related": [
+      "hidratacion-durante-el-entrenamiento",
+      "electrolitos",
+      "sodio",
+      "potasio",
+      "cafeina",
+      "recuperacion-y-sueno",
+      "fibra"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Hidratación diaria",
+        "summary": "Beber de forma regular a lo largo del día te permite llegar a cada entrenamiento en buenas condiciones. No hace falta obsesionarse con cifras exactas: la sed, el color de la orina y tus hábitos son buenas guías.",
+        "body": "## Qué es\n\nLa hidratación diaria es el equilibrio entre el agua que ingieres (bebidas y alimentos) y la que pierdes por orina, sudor, respiración y heces. El agua supone aproximadamente el **50-60 % del peso corporal** de un adulto.\n\n## Funciones del agua en el cuerpo\n\n- Regula la temperatura corporal mediante el sudor.\n- Transporta nutrientes y oxígeno y ayuda a eliminar desechos.\n- Mantiene el volumen de sangre y la presión arterial.\n- Lubrica articulaciones y forma parte de todas las células.\n\n## Por qué importa en los deportes de golpeo\n\nLlegar al gimnasio ya con falta de líquido hace que el esfuerzo parezca más duro, que la temperatura corporal suba antes y que la concentración y la precisión técnica empeoren. Una pérdida de líquido de alrededor del **2 % del peso corporal** ya puede afectar al rendimiento, sobre todo en ambientes calurosos. La hidratación del día a día es la base; lo que bebes durante la sesión es solo una parte.\n\n## Fuentes de líquido\n\n- Agua: la opción principal.\n- Leche, infusiones, café y té (con moderación, también hidratan).\n- Fruta y verdura con mucha agua: sandía, melón, naranja, pepino, tomate.\n- Sopas, cremas y caldos.\n\nAlrededor de un **20 %** del agua diaria suele venir de los alimentos.\n\n## Referencias diarias generales para adultos\n\n- **EFSA:** ingesta adecuada de agua total (bebidas + alimentos) de **2,5 L/día** para hombres y **2,0 L/día** para mujeres, en condiciones de temperatura y actividad moderadas.\n- El ejercicio, el calor y la humedad aumentan esas necesidades, a veces de forma notable.\n\n## Señales de déficit o exceso (en términos generales)\n\n- **Falta de líquido:** sed, orina escasa y de color oscuro, boca seca, dolor de cabeza, cansancio o mareo. Si los síntomas son intensos o no mejoran al beber, busca atención médica.\n- **Exceso:** beber cantidades muy grandes de agua en poco tiempo puede diluir el sodio en sangre (hiponatremia). Es poco habitual en el día a día, pero conviene no forzarse a beber sin sed.\n\n## Consejos prácticos\n\n- Ten siempre una botella de agua a mano y bebe a lo largo del día, no todo de golpe.\n- Usa el color de la orina como guía: un amarillo pálido suele indicar buena hidratación.\n- Bebe un vaso o dos de agua en las horas previas a entrenar.\n- Acompaña cada comida con agua y aumenta la ingesta los días de calor o de doble sesión.\n- El alcohol empeora la hidratación y la recuperación; si bebes, hazlo con moderación y lejos de los entrenamientos."
+      },
+      "en": {
+        "title": "Daily hydration",
+        "summary": "Drinking regularly through the day means you turn up to every session in good shape. No need to obsess over exact numbers: thirst, urine colour and your habits are good guides.",
+        "body": "## What it is\n\nDaily hydration is the balance between the water you take in (drinks and food) and the water you lose through urine, sweat, breathing and stools. Water makes up roughly **50–60% of an adult's body weight**.\n\n## What water does in the body\n\n- Regulates body temperature through sweating.\n- Transports nutrients and oxygen and helps clear waste.\n- Maintains blood volume and blood pressure.\n- Lubricates joints and is part of every cell.\n\n## Why it matters for striking athletes\n\nArriving at the gym already short on fluid makes effort feel harder, raises body temperature sooner and erodes focus and technical precision. A fluid loss of around **2% of body weight** can already affect performance, especially in hot conditions. Everyday hydration is the foundation; what you drink during the session is only part of the picture.\n\n## Fluid sources\n\n- Water: your main option.\n- Milk, herbal teas, coffee and tea (in moderation they also hydrate).\n- Water-rich fruit and vegetables: watermelon, melon, oranges, cucumber, tomatoes.\n- Soups and broths.\n\nAround **20%** of daily water usually comes from food.\n\n## General daily references for adults\n\n- **EFSA:** adequate total water intake (drinks + food) of **2.5 L/day** for men and **2.0 L/day** for women, under moderate temperature and activity.\n- Exercise, heat and humidity raise those needs, sometimes considerably.\n\n## Signs of too little or too much (general terms)\n\n- **Too little fluid:** thirst, small amounts of dark urine, dry mouth, headache, tiredness or dizziness. If symptoms are severe or don't improve with drinking, seek medical care.\n- **Too much:** drinking very large amounts of water in a short time can dilute blood sodium (hyponatraemia). It's uncommon day to day, but there's no need to force fluids when you're not thirsty.\n\n## Practical tips\n\n- Keep a water bottle with you and sip through the day rather than all at once.\n- Use urine colour as a guide: pale yellow usually means you're well hydrated.\n- Drink a glass or two of water in the hours before training.\n- Have water with every meal and drink more on hot days or double-session days.\n- Alcohol impairs hydration and recovery; if you drink, keep it moderate and away from training."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "electrolitos",
+    "category": "HYDRATION",
+    "sources": [
+      {
+        "title": "MedlinePlus – Fluid and Electrolyte Balance",
+        "url": "https://medlineplus.gov/fluidandelectrolytebalance.html"
+      },
+      {
+        "title": "MedlinePlus – Sodium",
+        "url": "https://medlineplus.gov/sodium.html"
+      },
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      },
+      {
+        "title": "Australian Institute of Sport – Supplements and Sports Foods",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "Sawka MN et al. – ACSM Position Stand: Exercise and Fluid Replacement (2007)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17277604/"
+      }
+    ],
+    "related": [
+      "sodio",
+      "potasio",
+      "magnesio",
+      "calcio",
+      "hidratacion-durante-el-entrenamiento",
+      "hidratacion-diaria",
+      "bebidas-deportivas-electrolitos",
+      "magnesio-suplemento"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Electrolitos",
+        "summary": "Los electrolitos son minerales con carga eléctrica, como el sodio y el potasio, que regulan los líquidos del cuerpo y permiten que nervios y músculos funcionen. El sudor los arrastra, sobre todo el sodio.",
+        "body": "## Qué son\n\nLos electrolitos son minerales que, disueltos en los líquidos del cuerpo, tienen carga eléctrica. Los principales son **sodio, potasio, cloruro, magnesio, calcio, fosfato y bicarbonato**.\n\n## Funciones en el cuerpo\n\n- Regulan cuánta agua hay dentro y fuera de las células.\n- Permiten la transmisión de los impulsos nerviosos.\n- Son imprescindibles para la contracción muscular, incluida la del corazón.\n- Ayudan a mantener el equilibrio ácido-base de la sangre.\n\nLos riñones ajustan con precisión sus niveles en la sangre en función de lo que comes, bebes y pierdes.\n\n## Por qué importan en los deportes de golpeo\n\nCon el sudor pierdes agua y electrolitos, principalmente **sodio y cloruro**, y cantidades mucho menores de potasio, magnesio y calcio. En una sesión normal de una hora, la comida habitual repone sin problema estas pérdidas. En sesiones largas, dobles sesiones o con mucho calor, quienes sudan mucho pueden beneficiarse de reponer sodio además de agua, lo que también ayuda a retener mejor el líquido que bebes.\n\n## Fuentes\n\n- **Sodio y cloruro:** sal, pan, quesos, caldos, conservas, aperitivos salados.\n- **Potasio:** fruta, verdura, patata, legumbres, lácteos.\n- **Magnesio:** frutos secos, semillas, legumbres, integrales, cacao.\n- **Calcio:** lácteos, bebidas enriquecidas, tofu, sardinas.\n- **Bebidas con electrolitos:** útiles en situaciones concretas de mucho sudor.\n\n## Referencias generales\n\n- No hay una cifra única de electrolitos para deportistas, porque las pérdidas por sudor varían mucho entre personas y condiciones.\n- Como referencia general para adultos: sodio en torno a **2 g/día** (EFSA, OMS) y potasio de unos **3500 mg/día** (EFSA). Consulta los artículos de cada mineral para más detalle.\n\n## Señales de desequilibrio (en términos generales)\n\n- Los desequilibrios importantes suelen tener causas médicas (vómitos, diarreas, enfermedades, fármacos) más que dietéticas.\n- Durante esfuerzos muy largos, beber mucha agua sin sodio puede bajar el sodio en sangre (hiponatremia), con dolor de cabeza, náuseas, confusión o hinchazón: es una urgencia médica.\n- Los calambres musculares tienen causas variadas; la fatiga muscular parece tener tanto peso como los electrolitos.\n\n## Consejos prácticos\n\n- En el día a día, una dieta variada con fruta, verdura, lácteos o alternativas y algo de sal cubre tus electrolitos.\n- Si notas marcas blancas de sal en la ropa tras entrenar, puede que pierdas bastante sodio: en sesiones largas, valora una bebida con electrolitos o un tentempié salado.\n- Evita las pastillas de sal o los suplementos de electrolitos en dosis altas sin necesidad.\n- Prueba cualquier bebida deportiva en entrenamientos antes de usarla en un día importante."
+      },
+      "en": {
+        "title": "Electrolytes",
+        "summary": "Electrolytes are electrically charged minerals, such as sodium and potassium, that regulate body fluids and let nerves and muscles work. Sweat carries them away, especially sodium.",
+        "body": "## What they are\n\nElectrolytes are minerals that carry an electrical charge when dissolved in body fluids. The main ones are **sodium, potassium, chloride, magnesium, calcium, phosphate and bicarbonate**.\n\n## What they do in the body\n\n- Control how much water sits inside and outside your cells.\n- Enable nerve signalling.\n- Are essential for muscle contraction, including the heart.\n- Help maintain the blood's acid–base balance.\n\nYour kidneys fine-tune blood levels based on what you eat, drink and lose.\n\n## Why they matter for striking athletes\n\nSweat takes away water and electrolytes, mainly **sodium and chloride**, plus much smaller amounts of potassium, magnesium and calcium. After a typical one-hour session, your normal meals easily replace these losses. In long sessions, double sessions or very hot conditions, heavy sweaters may benefit from replacing sodium as well as water, which also helps you hold on to the fluid you drink.\n\n## Sources\n\n- **Sodium and chloride:** salt, bread, cheese, broth, canned foods, salty snacks.\n- **Potassium:** fruit, vegetables, potatoes, legumes, dairy.\n- **Magnesium:** nuts, seeds, legumes, whole grains, cocoa.\n- **Calcium:** dairy, fortified drinks, tofu, sardines.\n- **Electrolyte drinks:** useful in specific heavy-sweat situations.\n\n## General references\n\n- There's no single electrolyte figure for athletes, because sweat losses vary widely between people and conditions.\n- As a general reference for adults: sodium around **2 g/day** (EFSA, WHO) and potassium about **3,500 mg/day** (EFSA). See each mineral's article for details.\n\n## Signs of imbalance (general terms)\n\n- Major imbalances usually have medical causes (vomiting, diarrhoea, illness, medications) rather than dietary ones.\n- During very long efforts, drinking a lot of plain water without sodium can lower blood sodium (hyponatraemia), with headache, nausea, confusion or swelling: this is a medical emergency.\n- Muscle cramps have many causes; muscle fatigue seems to play as big a role as electrolytes.\n\n## Practical tips\n\n- Day to day, a varied diet with fruit, vegetables, dairy or alternatives and some salt covers your electrolytes.\n- If you see white salt marks on your clothes after training, you may lose a fair amount of sodium: for long sessions, consider an electrolyte drink or a salty snack.\n- Avoid salt tablets or high-dose electrolyte supplements unless you need them.\n- Try any sports drink in training before using it on an important day."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "hidratacion-durante-el-entrenamiento",
+    "category": "HYDRATION",
+    "sources": [
+      {
+        "title": "Sawka MN et al. – ACSM Position Stand: Exercise and Fluid Replacement (2007)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17277604/"
+      },
+      {
+        "title": "NHS – Dehydration",
+        "url": "https://www.nhs.uk/conditions/dehydration/"
+      },
+      {
+        "title": "MedlinePlus – Fluid and Electrolyte Balance",
+        "url": "https://medlineplus.gov/fluidandelectrolytebalance.html"
+      },
+      {
+        "title": "Australian Institute of Sport – Supplements and Sports Foods",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "EFSA – Dietary Reference Values (DRV Finder)",
+        "url": "https://multimedia.efsa.europa.eu/drvs/index.htm"
+      }
+    ],
+    "related": [
+      "hidratacion-diaria",
+      "electrolitos",
+      "sodio",
+      "carbohidratos",
+      "bebidas-deportivas-electrolitos",
+      "calentamiento",
+      "volumen-e-intensidad",
+      "cafeina"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Hidratación durante el entrenamiento",
+        "summary": "Cuánto beber mientras entrenas depende de cuánto sudas, del calor y de la duración de la sesión. Aprende a estimar tus pérdidas y a reponerlas sin quedarte corto ni pasarte.",
+        "body": "## Qué es\n\nEs la estrategia para manejar el líquido que pierdes con el sudor antes, durante y después de una sesión. La cantidad de sudor varía muchísimo: entre personas, con la temperatura y la humedad, con la intensidad y con la ropa. Muchos deportistas pierden entre **0,5 y 2 litros por hora**.\n\n## Qué ocurre en el cuerpo al sudar\n\n- El sudor enfría el cuerpo al evaporarse, pero reduce el volumen de líquido y de sangre.\n- Si las pérdidas se acumulan, el corazón trabaja más, la temperatura sube antes y el esfuerzo se percibe más duro.\n- Además de agua, el sudor arrastra electrolitos, sobre todo sodio.\n\n## Por qué importa en los deportes de golpeo\n\nEntrenar con guantes, en gimnasios con poca ventilación o con ropa de abrigo dispara la sudoración. Una pérdida acumulada de alrededor del **2 % del peso corporal** puede empeorar la resistencia, la toma de decisiones y la precisión técnica. Entrenando solo, nadie te va a recordar que bebas, así que conviene tener un plan.\n\n## Cómo estimar tus pérdidas\n\n1. Pésate con poca ropa y tras ir al baño antes de una sesión típica.\n2. Entrena con normalidad y apunta cuánto bebes.\n3. Sécate el sudor y vuelve a pesarte después.\n4. Pérdida de sudor ≈ (peso antes − peso después) + líquido bebido. Cada kilo equivale aproximadamente a un litro.\n\nRepítelo en diferentes condiciones (calor, frío, sesiones largas) para conocer tu rango. Es una herramienta para ajustar cuánto beber, no un objetivo de peso.\n\n## Pautas generales\n\n- **Antes:** llega bien hidratado. Unos 5-7 ml/kg de líquido en las 2-4 horas previas es una referencia habitual en nutrición deportiva.\n- **Durante:** en sesiones de hasta una hora, el agua suele ser suficiente; bebe a sorbos entre rounds según la sed. El objetivo general es evitar perder más de un 2 % del peso corporal, **sin beber tanto como para ganar peso** durante la sesión.\n- **Sesiones de más de 60-90 minutos o con mucho calor:** una bebida con carbohidratos (unos 30-60 g/h) y sodio puede ayudar a mantener la energía y a retener el líquido.\n- **Después:** repón líquido de forma progresiva en las horas siguientes, junto con una comida que aporte sodio. Si perdiste bastante, una referencia es beber alrededor de 1,25-1,5 L por cada kilo perdido a lo largo de varias horas.\n\n## Señales de alerta (en términos generales)\n\n- **Pérdida excesiva de líquido:** sed intensa, mareo, dolor de cabeza, calambres, cansancio desproporcionado. Para, bebe y busca un sitio fresco.\n- **Exceso de agua sin sodio:** hinchazón de manos, náuseas, dolor de cabeza o confusión durante o después de esfuerzos largos pueden indicar hiponatremia, una urgencia médica.\n- Si te sientes confuso, dejas de sudar con calor o te encuentras muy mal, busca atención médica de inmediato.\n\n## Consejos prácticos\n\n- Ten la botella siempre al alcance en la zona de entrenamiento y bebe en los descansos entre rounds.\n- Entrena en espacios ventilados y evita la ropa de abrigo o los plásticos para «sudar más»: no mejoran tu forma física y aumentan el riesgo de golpe de calor.\n- Ajusta tu plan en verano y en sesiones largas.\n- Prueba cualquier bebida deportiva en entrenamientos normales antes de usarla en días clave."
+      },
+      "en": {
+        "title": "Hydration during training",
+        "summary": "How much to drink while you train depends on how much you sweat, the heat and how long the session lasts. Learn to estimate your losses and replace them without falling short or overdoing it.",
+        "body": "## What it is\n\nIt's your plan for managing the fluid you lose through sweat before, during and after a session. Sweat rates vary enormously: between people, with temperature and humidity, with intensity and with clothing. Many athletes lose **0.5–2 litres per hour**.\n\n## What happens in the body when you sweat\n\n- Sweat cools you as it evaporates, but it reduces body fluid and blood volume.\n- As losses add up, your heart works harder, body temperature rises sooner and effort feels harder.\n- Along with water, sweat carries away electrolytes, mainly sodium.\n\n## Why it matters for striking athletes\n\nTraining in gloves, in poorly ventilated gyms or in heavy clothing sends sweat rates up. An accumulated loss of about **2% of body weight** can impair endurance, decision-making and technical accuracy. Training alone, nobody will remind you to drink, so it pays to have a plan.\n\n## How to estimate your losses\n\n1. Weigh yourself in minimal clothing, after using the toilet, before a typical session.\n2. Train as usual and note how much you drink.\n3. Towel off and weigh yourself again afterwards.\n4. Sweat loss ≈ (weight before − weight after) + fluid drunk. Each kilo is roughly one litre.\n\nRepeat it in different conditions (hot, cool, long sessions) to learn your range. It's a tool for deciding how much to drink, not a weight target.\n\n## General guidelines\n\n- **Before:** start well hydrated. About 5–7 ml/kg of fluid in the 2–4 hours beforehand is a common sports nutrition reference.\n- **During:** for sessions up to an hour, water is usually enough; sip between rounds according to thirst. The general aim is to avoid losing more than 2% of body weight, **without drinking so much that you gain weight** during the session.\n- **Sessions over 60–90 minutes or in high heat:** a drink with carbohydrate (about 30–60 g/h) and sodium can help maintain energy and fluid retention.\n- **After:** replace fluid gradually over the following hours, alongside a meal that provides sodium. If you lost a fair amount, a common reference is about 1.25–1.5 L for each kilo lost, spread over several hours.\n\n## Warning signs (general terms)\n\n- **Excessive fluid loss:** intense thirst, dizziness, headache, cramps, unusual fatigue. Stop, drink and get somewhere cool.\n- **Too much plain water:** swollen hands, nausea, headache or confusion during or after long efforts can signal hyponatraemia, a medical emergency.\n- If you feel confused, stop sweating in the heat or feel very unwell, seek medical help immediately.\n\n## Practical tips\n\n- Keep your bottle within reach in your training space and drink in the breaks between rounds.\n- Train in ventilated spaces and skip heavy layers or plastic suits to \"sweat more\": they don't improve fitness and raise the risk of heat illness.\n- Adjust your plan in summer and for long sessions.\n- Try any sports drink in normal training before using it on key days."
+      }
+    },
+    "supplement": null
+  }
+]

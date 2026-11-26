@@ -102,7 +102,7 @@ Después, aplica las migraciones:
 npm run prisma:migrate -w @corner/api
 ```
 
-Y carga el catálogo base: 5 deportes de striking, 4 de grappling (desactivados) y 11 tipos de material:
+Y carga el catálogo: 5 deportes de striking, 4 de grappling (desactivados), 11 tipos de material, unos 60 ejercicios, 50 drills y la wiki:
 
 ```bash
 npm run prisma:seed -w @corner/api

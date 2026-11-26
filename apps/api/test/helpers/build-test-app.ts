@@ -15,6 +15,14 @@ import {
   InMemoryUsers,
   SequentialIds,
 } from '../fakes/index.js';
+import { InMemoryCatalogQueries } from '../fakes/catalog.js';
+import {
+  InMemoryAthletes,
+  InMemoryCandidates,
+  InMemoryNutritionPlans,
+  InMemoryTrainingPlans,
+  InMemoryWorkouts,
+} from '../fakes/plans.js';
 
 export const ORIGIN = 'http://localhost:4200';
 
@@ -25,6 +33,9 @@ export async function startTestApp(overrides: Partial<AppDeps> = {}) {
   const entitlements = new InMemoryEntitlements();
   const refreshTokens = new InMemoryRefreshTokens();
   const clock = new FixedClock(new Date());
+  const catalogQueries = new InMemoryCatalogQueries();
+  const workouts = new InMemoryWorkouts();
+  const trainingPlans = new InMemoryTrainingPlans();
   const deps: AppDeps = {
     config: { corsOrigins: [ORIGIN], cookieSecure: true, trustProxyHops: 0 },
     clock,
@@ -40,6 +51,12 @@ export async function startTestApp(overrides: Partial<AppDeps> = {}) {
     catalog: new InMemoryCatalog(),
     consent: users,
     entitlements,
+    catalogQueries,
+    athletes: new InMemoryAthletes(users, profiles),
+    exerciseCandidates: new InMemoryCandidates(),
+    trainingPlans,
+    nutritionPlans: new InMemoryNutritionPlans(),
+    workouts,
     authRateLimiter: new InMemoryRateLimiter(1000, 60_000),
     refreshRateLimiter: new InMemoryRateLimiter(1000, 60_000),
     ...overrides,
@@ -50,6 +67,9 @@ export async function startTestApp(overrides: Partial<AppDeps> = {}) {
   return {
     base,
     clock,
+    catalogQueries,
+    workouts,
+    trainingPlans,
     users,
     google,
     entitlements,

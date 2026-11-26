@@ -1,0 +1,2230 @@
+[
+  {
+    "slug": "romanian-deadlift",
+    "category": "STRENGTH",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["HAMSTRINGS", "GLUTES"],
+    "secondaryMuscles": ["LOWER_BACK", "FOREARMS", "UPPER_BACK"],
+    "equipment": ["BARBELL"],
+    "sports": [],
+    "defaults": {
+      "sets": 4,
+      "reps": "6-8",
+      "seconds": null,
+      "restSec": 150
+    },
+    "i18n": {
+      "es": {
+        "name": "Peso muerto rumano",
+        "description": "Bisagra de cadera con barra que fortalece isquiotibiales y glúteos, la cadena posterior que genera potencia en patadas, rodillazos y en el empuje de piernas de cada golpe. Se baja la barra pegada a las piernas manteniendo la espalda neutra.",
+        "steps": [
+          "Ponte de pie con la barra en las manos, agarre a la anchura de los hombros y pies a la anchura de las caderas.",
+          "Desbloquea ligeramente las rodillas y lleva la cadera hacia atrás como si quisieras cerrar una puerta con los glúteos.",
+          "Baja la barra rozando muslos y espinillas, con la espalda neutra y los dorsales activos.",
+          "Detente cuando notes tensión fuerte en los isquios o la barra quede por debajo de las rodillas sin perder la posición de la espalda.",
+          "Empuja la cadera hacia delante apretando glúteos para volver arriba, sin hiperextender la zona lumbar."
+        ],
+        "commonMistakes": [
+          "Redondear la espalda para bajar más.",
+          "Convertirlo en una sentadilla doblando demasiado las rodillas.",
+          "Separar la barra de las piernas, lo que carga la zona lumbar.",
+          "Echarse hacia atrás al final del movimiento en vez de terminar con los glúteos."
+        ],
+        "tips": [
+          "El recorrido lo marca tu movilidad de isquios, no el suelo.",
+          "Empieza con poco peso y prioriza notar el estiramiento controlado."
+        ]
+      },
+      "en": {
+        "name": "Romanian deadlift",
+        "description": "A barbell hip hinge that builds the hamstrings and glutes, the posterior chain behind powerful kicks, knees and the leg drive in every punch. The bar travels close to the legs while the spine stays neutral.",
+        "steps": [
+          "Stand holding the bar with a shoulder-width grip and feet hip-width apart.",
+          "Soften your knees slightly and push your hips back as if closing a door behind you.",
+          "Slide the bar down your thighs and shins, keeping a neutral back and engaged lats.",
+          "Stop when you feel a strong hamstring stretch or the bar passes your knees without losing back position.",
+          "Drive your hips forward and squeeze your glutes to stand up, without overextending your lower back at the top."
+        ],
+        "commonMistakes": [
+          "Rounding the back to reach lower.",
+          "Turning it into a squat by bending the knees too much.",
+          "Letting the bar drift away from the legs, which loads the lower back.",
+          "Leaning back at lockout instead of finishing with the glutes."
+        ],
+        "tips": [
+          "Your hamstring flexibility sets the range, not the floor.",
+          "Start light and focus on feeling a controlled stretch."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "goblet-squat",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "GLUTES"],
+    "secondaryMuscles": ["CORE", "ADDUCTORS", "UPPER_BACK"],
+    "equipment": ["KETTLEBELL"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "8-10",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Sentadilla goblet",
+        "description": "Sentadilla con una kettlebell sujeta delante del pecho. Es la mejor forma de aprender a sentarse con el tronco erguido y construir piernas fuertes para mantener la guardia baja y estable durante todo el combate.",
+        "steps": [
+          "Sujeta la kettlebell por los laterales del asa, pegada al pecho y con los codos hacia abajo.",
+          "Coloca los pies algo más abiertos que las caderas, con las puntas ligeramente hacia fuera.",
+          "Baja metiendo la cadera entre los talones, con el pecho alto y las rodillas siguiendo la dirección de los pies.",
+          "Llega tan abajo como puedas sin que se redondee la espalda ni se levanten los talones.",
+          "Sube empujando el suelo con todo el pie y termina de pie apretando glúteos."
+        ],
+        "commonMistakes": [
+          "Dejar que las rodillas se metan hacia dentro.",
+          "Levantar los talones al bajar.",
+          "Separar la kettlebell del cuerpo e inclinarse hacia delante."
+        ],
+        "tips": [
+          "Usa los codos para empujar suavemente las rodillas hacia fuera en la posición baja.",
+          "Respira hondo y bloquea el abdomen antes de cada repetición."
+        ]
+      },
+      "en": {
+        "name": "Goblet squat",
+        "description": "A squat holding a kettlebell in front of the chest. It is the best way to learn an upright squat and build strong legs that keep your stance low and stable through every round.",
+        "steps": [
+          "Hold the kettlebell by the sides of the handle, tight to your chest with elbows pointing down.",
+          "Set your feet slightly wider than hip-width, toes turned out a little.",
+          "Sit down between your heels, chest tall and knees tracking over your toes.",
+          "Go as deep as you can without your back rounding or heels lifting.",
+          "Drive through the whole foot to stand and squeeze your glutes at the top."
+        ],
+        "commonMistakes": [
+          "Letting the knees cave inward.",
+          "Lifting the heels on the way down.",
+          "Holding the kettlebell away from the body and tipping forward."
+        ],
+        "tips": [
+          "At the bottom, use your elbows to gently nudge your knees outward.",
+          "Take a deep breath and brace before each rep."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "bulgarian-split-squat",
+    "category": "STRENGTH",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "GLUTES"],
+    "secondaryMuscles": ["ADDUCTORS", "HAMSTRINGS", "HIP_FLEXORS", "CORE"],
+    "equipment": ["DUMBBELLS", "BOX"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "6-10",
+      "seconds": null,
+      "restSec": 120
+    },
+    "i18n": {
+      "es": {
+        "name": "Sentadilla búlgara",
+        "description": "Zancada estática con el pie trasero apoyado en un banco o cajón. Desarrolla fuerza y equilibrio en una sola pierna, clave para golpear apoyado en un pie, pivotar y cambiar de guardia sin perder estabilidad.",
+        "steps": [
+          "Colócate de espaldas a un banco o cajón a la altura de la rodilla, con una mancuerna en cada mano.",
+          "Apoya el empeine del pie trasero en el banco y adelanta el pie delantero hasta que, al bajar, la espinilla quede casi vertical o algo inclinada.",
+          "Baja en vertical flexionando la rodilla delantera hasta que la trasera quede cerca del suelo.",
+          "Mantén el tronco ligeramente inclinado hacia delante y la rodilla alineada con el pie.",
+          "Sube empujando con el talón y el medio pie delantero. Completa todas las repeticiones y cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Colocar el pie delantero demasiado cerca del banco.",
+          "Empujar con la pierna trasera en lugar de con la delantera.",
+          "Dejar que la rodilla delantera se vaya hacia dentro.",
+          "Perder el equilibrio por tener los pies en la misma línea."
+        ],
+        "tips": [
+          "Separa los pies a lo ancho como si estuvieras sobre dos raíles, no sobre una cuerda.",
+          "Domínala primero sin peso; luego añade carga."
+        ]
+      },
+      "en": {
+        "name": "Bulgarian split squat",
+        "description": "A static lunge with the rear foot elevated on a bench or box. It builds single-leg strength and balance, key for striking off one foot, pivoting and switching stance without losing stability.",
+        "steps": [
+          "Stand with your back to a knee-height bench or box, holding a dumbbell in each hand.",
+          "Rest the top of your rear foot on the bench and step the front foot out so the shin stays roughly vertical or slightly forward at the bottom.",
+          "Lower straight down by bending the front knee until the rear knee is close to the floor.",
+          "Keep a slight forward lean and the front knee in line with the foot.",
+          "Drive through the front heel and midfoot to stand. Finish all reps, then switch legs."
+        ],
+        "commonMistakes": [
+          "Placing the front foot too close to the bench.",
+          "Pushing with the back leg instead of the front one.",
+          "Letting the front knee collapse inward.",
+          "Losing balance because the feet are on the same line."
+        ],
+        "tips": [
+          "Keep the feet hip-width apart, as if on two rails rather than a tightrope.",
+          "Master it with bodyweight first, then add load."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "single-leg-romanian-deadlift",
+    "category": "STRENGTH",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["HAMSTRINGS", "GLUTES"],
+    "secondaryMuscles": ["ABDUCTORS", "CORE", "LOWER_BACK", "CALVES"],
+    "equipment": ["KETTLEBELL"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "6-8",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Peso muerto rumano a una pierna",
+        "description": "Bisagra de cadera apoyado sobre una pierna con una kettlebell en la mano contraria. Fortalece isquios y glúteo medio y mejora el control del tobillo y la cadera, la base de una patada estable y de un buen equilibrio tras golpear.",
+        "steps": [
+          "De pie sobre la pierna izquierda, sujeta la kettlebell con la mano derecha.",
+          "Desbloquea un poco la rodilla de apoyo y lleva la cadera hacia atrás mientras la pierna derecha se estira hacia atrás.",
+          "Baja el tronco y la pierna libre a la vez, como un balancín, manteniendo la cadera nivelada y mirando al suelo.",
+          "Para cuando el tronco quede casi paralelo al suelo o notes tensión en el isquio sin perder la posición.",
+          "Vuelve arriba apretando el glúteo de la pierna de apoyo. Completa las repeticiones y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Abrir la cadera de la pierna libre hacia el techo.",
+          "Redondear la espalda para llegar más abajo.",
+          "Ir demasiado rápido y perder el equilibrio."
+        ],
+        "tips": [
+          "Imagina que tienes un vaso de agua en la zona lumbar que no puede caerse.",
+          "Si te desequilibras, apoya la punta de un dedo en una pared al principio."
+        ]
+      },
+      "en": {
+        "name": "Single-leg Romanian deadlift",
+        "description": "A hip hinge on one leg holding a kettlebell in the opposite hand. It strengthens the hamstrings and glute medius and sharpens ankle and hip control, the foundation of a stable kick and solid balance after striking.",
+        "steps": [
+          "Stand on your left leg holding the kettlebell in your right hand.",
+          "Soften the standing knee and push your hips back as your right leg reaches behind you.",
+          "Lower your torso and free leg together like a seesaw, keeping the hips square to the floor.",
+          "Stop when your torso is nearly parallel to the floor or you feel a hamstring stretch without losing position.",
+          "Return to standing by squeezing the glute of the standing leg. Finish your reps, then switch sides."
+        ],
+        "commonMistakes": [
+          "Rotating the hip of the free leg open toward the ceiling.",
+          "Rounding the back to reach lower.",
+          "Moving too fast and losing balance."
+        ],
+        "tips": [
+          "Imagine a glass of water on your lower back that must not spill.",
+          "If balance is an issue, touch a wall lightly with one finger at first."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "single-leg-hip-thrust",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES"],
+    "secondaryMuscles": ["HAMSTRINGS", "CORE", "QUADRICEPS"],
+    "equipment": ["BOX"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "10-12",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Hip thrust a una pierna",
+        "description": "Extensión de cadera con la espalda alta apoyada en un banco o cajón y un solo pie en el suelo. Trabaja sobre todo el glúteo, motor de la extensión de cadera que da potencia a rodillazos, teeps y al empuje del cruzado.",
+        "steps": [
+          "Siéntate en el suelo con la parte baja de las escápulas apoyada en el borde de un banco o cajón estable.",
+          "Apoya un pie en el suelo con la rodilla flexionada unos 90 grados y eleva la otra pierna doblada.",
+          "Empuja con el talón y sube la cadera hasta que el tronco y el muslo queden alineados.",
+          "Aprieta el glúteo un segundo arriba con las costillas abajo, sin arquear la zona lumbar.",
+          "Baja controlando y repite. Cambia de pierna al terminar la serie."
+        ],
+        "commonMistakes": [
+          "Arquear la zona lumbar en lugar de extender la cadera.",
+          "Dejar que la cadera se incline hacia el lado de la pierna libre.",
+          "Empujar con la punta del pie y sentirlo solo en el cuádriceps."
+        ],
+        "tips": [
+          "Mete ligeramente la barbilla y mira al frente durante toda la subida.",
+          "Cuando te resulte fácil, apoya una mancuerna sobre la cadera."
+        ]
+      },
+      "en": {
+        "name": "Single-leg hip thrust",
+        "description": "A hip extension with the upper back on a bench or box and only one foot on the floor. It targets the glutes, the engine of hip extension that powers knees, teeps and the drive behind a cross.",
+        "steps": [
+          "Sit on the floor with your lower shoulder blades against the edge of a stable bench or box.",
+          "Plant one foot with the knee bent about 90 degrees and lift the other leg, bent.",
+          "Drive through your heel and lift your hips until torso and thigh form a straight line.",
+          "Squeeze the glute for a second at the top with ribs down, without arching the lower back.",
+          "Lower under control and repeat. Switch legs after the set."
+        ],
+        "commonMistakes": [
+          "Arching the lower back instead of extending the hip.",
+          "Letting the hips tilt toward the free-leg side.",
+          "Pushing through the toes and feeling it only in the quads."
+        ],
+        "tips": [
+          "Keep your chin slightly tucked and eyes forward throughout the lift.",
+          "When it gets easy, rest a dumbbell on your hip."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "nordic-hamstring-curl",
+    "category": "STRENGTH",
+    "difficulty": "ADVANCED",
+    "measureType": "REPS",
+    "primaryMuscles": ["HAMSTRINGS"],
+    "secondaryMuscles": ["GLUTES", "CALVES", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "3-6",
+      "seconds": null,
+      "restSec": 150
+    },
+    "i18n": {
+      "es": {
+        "name": "Curl nórdico de isquios",
+        "description": "Ejercicio excéntrico en el que, de rodillas y con los tobillos fijados, dejas caer el cuerpo hacia delante lo más despacio posible. Desarrolla isquios fuertes en alargamiento, muy útiles para quien patea alto y rápido.",
+        "steps": [
+          "Arrodíllate sobre una superficie acolchada y fija los talones bajo un mueble pesado y estable, una barra bien cargada o un anclaje específico para nórdicos.",
+          "Mantén caderas extendidas y el cuerpo recto de rodillas a cabeza, con el abdomen y los glúteos apretados.",
+          "Déjate caer hacia delante lo más despacio que puedas frenando con los isquios.",
+          "Cuando no puedas frenar más, pon las manos y amortigua la caída como en una flexión.",
+          "Empuja con las manos lo justo para volver arriba y repite."
+        ],
+        "commonMistakes": [
+          "Doblar la cadera para acortar la palanca.",
+          "Dejarse caer rápido sin control en la primera mitad.",
+          "Usar un anclaje inestable para los tobillos.",
+          "Hacer demasiadas series al empezar y acabar con agujetas fuertes."
+        ],
+        "tips": [
+          "Empieza con 2 series de 3 repeticiones y progresa poco a poco, 1-2 veces por semana.",
+          "Para reducir la dificultad, ancla una banda elástica alta por delante y pásala por el pecho para que te ayude en la bajada.",
+          "Si tienes una lesión reciente de isquios, no lo hagas sin el visto bueno de un profesional sanitario."
+        ]
+      },
+      "en": {
+        "name": "Nordic hamstring curl",
+        "description": "An eccentric exercise where, kneeling with your ankles anchored, you lower your body forward as slowly as possible. It builds hamstrings that are strong at long lengths, very useful for anyone who kicks high and fast.",
+        "steps": [
+          "Kneel on a padded surface and anchor your heels under heavy, stable furniture, a well-loaded barbell or a dedicated Nordic anchor.",
+          "Keep your hips extended and your body straight from knees to head, abs and glutes tight.",
+          "Lower yourself forward as slowly as you can, braking with your hamstrings.",
+          "When you can no longer resist, put your hands down and absorb the fall like a push-up.",
+          "Push off just enough to return to the top and repeat."
+        ],
+        "commonMistakes": [
+          "Bending at the hips to shorten the lever.",
+          "Dropping quickly through the first half.",
+          "Using an unstable anchor for the ankles.",
+          "Doing too much volume at first and ending up very sore."
+        ],
+        "tips": [
+          "Start with 2 sets of 3 reps and progress gradually, 1-2 times per week.",
+          "To make it easier, anchor a band high in front of you and loop it across your chest to assist the lowering.",
+          "If you have a recent hamstring injury, do not do it without clearance from a healthcare professional."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "pull-up",
+    "category": "STRENGTH",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["LATS", "UPPER_BACK"],
+    "secondaryMuscles": ["BICEPS", "FOREARMS", "CORE"],
+    "equipment": ["PULL_UP_BAR"],
+    "sports": [],
+    "defaults": {
+      "sets": 4,
+      "reps": "4-8",
+      "seconds": null,
+      "restSec": 120
+    },
+    "i18n": {
+      "es": {
+        "name": "Dominada",
+        "description": "Tracción vertical colgado de una barra hasta llevar la barbilla por encima de ella. Fortalece dorsales, espalda alta y agarre, equilibrando todo el trabajo de empuje que hace un golpeador y ayudando a proteger los hombros.",
+        "steps": [
+          "Cuélgate de la barra con agarre prono algo más ancho que los hombros y los brazos estirados.",
+          "Activa los omóplatos llevándolos ligeramente hacia abajo antes de tirar.",
+          "Tira llevando los codos hacia las costillas hasta que la barbilla supere la barra.",
+          "Mantén el abdomen apretado y las piernas quietas, sin balancearte.",
+          "Baja controlando hasta estirar los brazos por completo."
+        ],
+        "commonMistakes": [
+          "Hacer medias repeticiones sin estirar los brazos abajo.",
+          "Balancearse o dar patadas para subir.",
+          "Adelantar la barbilla para llegar a la barra."
+        ],
+        "tips": [
+          "Si aún no haces dominadas, usa una banda elástica de asistencia o haz solo la bajada lenta en 3-5 segundos.",
+          "Deja 1-2 repeticiones en reserva para mantener una técnica limpia."
+        ]
+      },
+      "en": {
+        "name": "Pull-up",
+        "description": "A vertical pull from a dead hang until your chin clears the bar. It builds the lats, upper back and grip, balancing all the pushing a striker does and helping keep the shoulders healthy.",
+        "steps": [
+          "Hang from the bar with an overhand grip slightly wider than shoulder-width and arms straight.",
+          "Set your shoulder blades by drawing them slightly down before you pull.",
+          "Pull your elbows toward your ribs until your chin is above the bar.",
+          "Keep your core tight and legs still, with no swinging.",
+          "Lower under control to full arm extension."
+        ],
+        "commonMistakes": [
+          "Doing half reps without straightening the arms at the bottom.",
+          "Swinging or kicking to get up.",
+          "Craning the chin forward to reach the bar."
+        ],
+        "tips": [
+          "If you cannot do pull-ups yet, use an assistance band or do slow 3-5 second lowering reps only.",
+          "Leave 1-2 reps in reserve to keep technique clean."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "push-up",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["CHEST", "TRICEPS"],
+    "secondaryMuscles": ["SHOULDERS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "10-15",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Flexión",
+        "description": "El empuje horizontal básico con el peso corporal. Fortalece pecho, tríceps y hombros y enseña a transmitir fuerza con el cuerpo rígido, igual que cuando un golpe conecta.",
+        "steps": [
+          "Coloca las manos algo más abiertas que los hombros y extiende las piernas detrás, apoyado en las puntas de los pies.",
+          "Forma una línea recta de cabeza a talones apretando abdomen y glúteos.",
+          "Baja el pecho hacia el suelo con los codos a unos 45 grados del cuerpo.",
+          "Cuando el pecho esté a pocos centímetros del suelo, empuja con fuerza para volver arriba.",
+          "Termina con los brazos estirados y los omóplatos ligeramente separados."
+        ],
+        "commonMistakes": [
+          "Dejar caer la cadera o subirla en pico.",
+          "Abrir los codos en cruz, a 90 grados del cuerpo.",
+          "Recorrer solo la mitad del movimiento."
+        ],
+        "tips": [
+          "Si no puedes con 8 buenas repeticiones, apoya las manos en un banco o cajón para reducir la carga.",
+          "Para progresar, eleva los pies o ralentiza la bajada."
+        ]
+      },
+      "en": {
+        "name": "Push-up",
+        "description": "The basic bodyweight horizontal push. It strengthens the chest, triceps and shoulders and teaches you to transfer force through a rigid body, just like when a punch lands.",
+        "steps": [
+          "Place your hands slightly wider than your shoulders and extend your legs behind you on your toes.",
+          "Make a straight line from head to heels by bracing your abs and glutes.",
+          "Lower your chest toward the floor with elbows about 45 degrees from your body.",
+          "When your chest is a few centimetres off the floor, press hard back up.",
+          "Finish with arms straight and shoulder blades slightly spread."
+        ],
+        "commonMistakes": [
+          "Letting the hips sag or pike up.",
+          "Flaring the elbows out to 90 degrees.",
+          "Using only half the range of motion."
+        ],
+        "tips": [
+          "If you cannot do 8 good reps, put your hands on a bench or box to reduce the load.",
+          "To progress, elevate your feet or slow down the lowering phase."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "single-arm-dumbbell-row",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["LATS", "UPPER_BACK"],
+    "secondaryMuscles": ["BICEPS", "FOREARMS", "OBLIQUES"],
+    "equipment": ["DUMBBELLS", "BOX"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "8-12",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Remo con mancuerna a una mano",
+        "description": "Tracción horizontal a una mano apoyado en un banco. Fortalece dorsal y espalda alta, ayuda a recoger el brazo rápido tras golpear y mejora la postura de guardia compensando tanto empuje.",
+        "steps": [
+          "Apoya una rodilla y la mano del mismo lado sobre un banco o cajón; el otro pie en el suelo.",
+          "Sujeta la mancuerna con el brazo estirado y la espalda paralela al suelo y neutra.",
+          "Tira llevando el codo hacia la cadera, cerca del cuerpo.",
+          "Aprieta el omóplato hacia la columna un instante arriba, sin girar el tronco.",
+          "Baja controlando hasta estirar el brazo y repite. Cambia de lado."
+        ],
+        "commonMistakes": [
+          "Girar el tronco para subir más peso.",
+          "Tirar con el bíceps llevando la mancuerna hacia el pecho.",
+          "Encoger el hombro hacia la oreja."
+        ],
+        "tips": [
+          "Piensa en meter el codo en el bolsillo trasero.",
+          "Haz una pausa de un segundo arriba para controlar mejor."
+        ]
+      },
+      "en": {
+        "name": "Single-arm dumbbell row",
+        "description": "A one-arm horizontal pull supported on a bench. It builds the lats and upper back, helps you retract the arm quickly after striking and improves your guard posture by balancing all the pushing.",
+        "steps": [
+          "Place one knee and the same-side hand on a bench or box, with the other foot on the floor.",
+          "Hold the dumbbell with your arm straight and your back flat, parallel to the floor.",
+          "Row by driving the elbow toward your hip, close to your body.",
+          "Squeeze the shoulder blade toward the spine for a moment at the top without twisting.",
+          "Lower under control to a straight arm and repeat. Switch sides."
+        ],
+        "commonMistakes": [
+          "Twisting the torso to lift more weight.",
+          "Pulling with the biceps and bringing the dumbbell to the chest.",
+          "Shrugging the shoulder up to the ear."
+        ],
+        "tips": [
+          "Think about putting your elbow in your back pocket.",
+          "Pause for one second at the top for better control."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "half-kneeling-single-arm-press",
+    "category": "STRENGTH",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["SHOULDERS"],
+    "secondaryMuscles": ["TRICEPS", "CORE", "OBLIQUES", "GLUTES"],
+    "equipment": ["DUMBBELLS"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "6-10",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Press a una mano en semiarrodillado",
+        "description": "Press de hombro con una mancuerna desde una posición con una rodilla en el suelo. Fortalece hombros y tríceps mientras obliga al core y al glúteo a estabilizar sin compensar con la zona lumbar.",
+        "steps": [
+          "Ponte con una rodilla en el suelo y el otro pie delante, ambas rodillas a 90 grados.",
+          "Sujeta la mancuerna a la altura del hombro del lado de la rodilla apoyada.",
+          "Aprieta el glúteo de la pierna de atrás y mantén las costillas abajo.",
+          "Empuja la mancuerna hacia arriba hasta estirar el brazo junto a la oreja, sin inclinarte hacia el lado contrario.",
+          "Baja controlando al hombro y repite. Cambia de lado y de rodilla."
+        ],
+        "commonMistakes": [
+          "Arquear la zona lumbar para empujar.",
+          "Inclinar el tronco hacia un lado.",
+          "Usar un peso que obliga a impulsarse con el cuerpo."
+        ],
+        "tips": [
+          "Si notas molestias en el hombro, prueba con la palma mirando hacia dentro; si la molestia continúa, para.",
+          "Exhala al empujar y mantén la tensión abdominal en todo el recorrido."
+        ]
+      },
+      "en": {
+        "name": "Half-kneeling single-arm press",
+        "description": "A one-arm dumbbell shoulder press from a half-kneeling position. It builds the shoulders and triceps while forcing the core and glutes to stabilise without compensating through the lower back.",
+        "steps": [
+          "Kneel on one knee with the other foot forward, both knees at 90 degrees.",
+          "Hold the dumbbell at shoulder height on the same side as the down knee.",
+          "Squeeze the glute of the back leg and keep your ribs down.",
+          "Press the dumbbell up until the arm is straight beside your ear, without leaning away.",
+          "Lower under control to the shoulder and repeat. Switch arm and knee."
+        ],
+        "commonMistakes": [
+          "Arching the lower back to press.",
+          "Leaning the torso to one side.",
+          "Using a weight that forces you to drive with the body."
+        ],
+        "tips": [
+          "If your shoulder feels uncomfortable, try a neutral grip with the palm facing in; if it still bothers you, stop.",
+          "Exhale as you press and keep your abs braced the whole way."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "pallof-press",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["CORE", "OBLIQUES"],
+    "secondaryMuscles": ["SHOULDERS", "GLUTES"],
+    "equipment": ["RESISTANCE_BAND"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "8-12",
+      "seconds": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Press Pallof",
+        "description": "Ejercicio de antirrotación con una banda elástica anclada a un lado. Enseña al core a resistir el giro, la misma rigidez que necesitas para encajar golpes y para que la fuerza de piernas llegue al puño sin perderse.",
+        "steps": [
+          "Ancla la banda a la altura del pecho y colócate de lado, separándote hasta que tenga tensión.",
+          "Sujeta la banda con ambas manos pegadas al esternón, pies a la anchura de las caderas y rodillas desbloqueadas.",
+          "Extiende los brazos al frente despacio sin dejar que el tronco gire hacia el anclaje.",
+          "Mantén 2 segundos con los brazos estirados respirando con normalidad.",
+          "Vuelve las manos al pecho controlando. Completa la serie y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Dejar que los hombros o la cadera giren hacia el anclaje.",
+          "Contener la respiración durante toda la serie.",
+          "Colocarse demasiado cerca y trabajar sin tensión."
+        ],
+        "tips": [
+          "Puedes hacerlo en guardia, semiarrodillado o de rodillas para variar la exigencia.",
+          "Más lejos del anclaje significa más resistencia."
+        ]
+      },
+      "en": {
+        "name": "Pallof press",
+        "description": "An anti-rotation exercise with a band anchored to one side. It teaches the core to resist twisting, the same stiffness you need to absorb shots and to deliver leg drive to the fist without leaks.",
+        "steps": [
+          "Anchor the band at chest height and stand side-on, stepping away until it is taut.",
+          "Hold the band with both hands at your sternum, feet hip-width and knees soft.",
+          "Slowly press your arms straight out without letting your torso rotate toward the anchor.",
+          "Hold for 2 seconds with arms extended while breathing normally.",
+          "Bring your hands back to your chest under control. Finish the set and switch sides."
+        ],
+        "commonMistakes": [
+          "Letting the shoulders or hips rotate toward the anchor.",
+          "Holding your breath for the whole set.",
+          "Standing too close and working without tension."
+        ],
+        "tips": [
+          "Try it in your fighting stance, half-kneeling or tall-kneeling to vary the challenge.",
+          "Stepping further from the anchor increases resistance."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "band-woodchop",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["OBLIQUES", "CORE"],
+    "secondaryMuscles": ["SHOULDERS", "GLUTES", "UPPER_BACK"],
+    "equipment": ["RESISTANCE_BAND"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "10-12",
+      "seconds": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Leñador con banda",
+        "description": "Rotación diagonal con banda elástica de arriba abajo. Entrena la cadena que va desde los pies, pasando por la cadera y los oblicuos, hasta los brazos: el mismo patrón que usas al girar en un gancho o en una patada circular.",
+        "steps": [
+          "Ancla la banda en alto y colócate de lado, con los pies algo más abiertos que las caderas.",
+          "Sujeta la banda con ambas manos por encima del hombro más cercano al anclaje.",
+          "Gira desde la cadera y los pies llevando las manos en diagonal hacia la cadera contraria.",
+          "Pivota el pie trasero y mantén los brazos casi estirados y el pecho alto.",
+          "Vuelve despacio a la posición inicial resistiendo la banda. Completa la serie y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Tirar solo con los brazos sin girar la cadera.",
+          "Redondear la espalda al final del movimiento.",
+          "Volver de golpe sin controlar la banda."
+        ],
+        "tips": [
+          "Sé explosivo en la bajada y lento en la vuelta.",
+          "También puedes hacerlo de abajo arriba para trabajar la diagonal contraria."
+        ]
+      },
+      "en": {
+        "name": "Band woodchop",
+        "description": "A high-to-low diagonal rotation with a resistance band. It trains the chain from the feet through the hips and obliques to the arms: the same pattern you use when turning over a hook or a roundhouse kick.",
+        "steps": [
+          "Anchor the band high and stand side-on with feet slightly wider than hips.",
+          "Hold the band with both hands above the shoulder nearest the anchor.",
+          "Rotate from your hips and feet, pulling your hands diagonally toward the opposite hip.",
+          "Pivot the back foot and keep your arms nearly straight and chest tall.",
+          "Return slowly to the start, resisting the band. Finish the set and switch sides."
+        ],
+        "commonMistakes": [
+          "Pulling only with the arms without turning the hips.",
+          "Rounding the back at the end of the movement.",
+          "Letting the band snap you back without control."
+        ],
+        "tips": [
+          "Be explosive on the way down and slow on the way back.",
+          "You can also chop low to high to train the opposite diagonal."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "side-plank",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["OBLIQUES", "CORE"],
+    "secondaryMuscles": ["ABDUCTORS", "SHOULDERS", "GLUTES"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": null,
+      "seconds": 30,
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Plancha lateral",
+        "description": "Isométrico apoyado sobre un antebrazo y el lateral de los pies. Fortalece oblicuos y glúteo medio, que estabilizan el tronco frente a golpes al costado y al apoyarte en una pierna para patear.",
+        "steps": [
+          "Túmbate de lado con el codo justo debajo del hombro y las piernas estiradas, un pie encima del otro.",
+          "Eleva la cadera hasta formar una línea recta de cabeza a pies.",
+          "Empuja el suelo con el antebrazo para no hundirte en el hombro.",
+          "Mantén la posición respirando con calma durante el tiempo marcado.",
+          "Baja controlando y repite sobre el otro lado."
+        ],
+        "commonMistakes": [
+          "Dejar caer la cadera hacia el suelo.",
+          "Llevar la cadera hacia atrás y doblar el cuerpo.",
+          "Hundir el hombro de apoyo."
+        ],
+        "tips": [
+          "Para facilitarlo, apoya las rodillas dobladas; para dificultarlo, eleva la pierna de arriba.",
+          "Mejor 20 segundos perfectos que 60 con la cadera hundida."
+        ]
+      },
+      "en": {
+        "name": "Side plank",
+        "description": "An isometric hold on one forearm and the sides of the feet. It strengthens the obliques and glute medius, which stabilise the trunk against body shots and when you stand on one leg to kick.",
+        "steps": [
+          "Lie on your side with the elbow directly under the shoulder and legs straight, one foot on top of the other.",
+          "Lift your hips until your body forms a straight line from head to feet.",
+          "Push the floor away with your forearm so you do not sink into the shoulder.",
+          "Hold the position, breathing calmly, for the set time.",
+          "Lower under control and repeat on the other side."
+        ],
+        "commonMistakes": [
+          "Letting the hips sag toward the floor.",
+          "Pushing the hips back and bending at the waist.",
+          "Sinking into the supporting shoulder."
+        ],
+        "tips": [
+          "To make it easier, rest on bent knees; to make it harder, lift the top leg.",
+          "Twenty perfect seconds beat sixty with sagging hips."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "copenhagen-plank",
+    "category": "STRENGTH",
+    "difficulty": "ADVANCED",
+    "measureType": "TIME",
+    "primaryMuscles": ["ADDUCTORS"],
+    "secondaryMuscles": ["OBLIQUES", "CORE", "HIP_FLEXORS"],
+    "equipment": ["BOX"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": null,
+      "seconds": 20,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Plancha Copenhague",
+        "description": "Plancha lateral con la pierna de arriba apoyada en un banco y la de abajo suspendida. Fortalece los aductores, muy exigidos en patadas, rodillazos, cambios de guardia y en el clinch.",
+        "steps": [
+          "Túmbate de lado junto a un banco estable con el antebrazo apoyado bajo el hombro.",
+          "Coloca la parte interna de la rodilla o del tobillo de la pierna de arriba sobre el banco.",
+          "Eleva la cadera apretando el aductor de la pierna apoyada hasta formar una línea recta.",
+          "Despega la pierna de abajo del suelo y mantenla cerca del banco.",
+          "Aguanta el tiempo marcado, baja controlando y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Empezar con el apoyo en el tobillo sin haber dominado la versión con la rodilla.",
+          "Dejar caer la cadera durante la serie.",
+          "Girar el tronco hacia el suelo."
+        ],
+        "tips": [
+          "Empieza con apoyo en la rodilla (palanca corta) y series de 10-15 segundos.",
+          "Si notas dolor en la ingle, para y vuelve a la versión más fácil."
+        ]
+      },
+      "en": {
+        "name": "Copenhagen plank",
+        "description": "A side plank with the top leg resting on a bench and the bottom leg hanging free. It strengthens the adductors, which work hard in kicks, knees, stance switches and the clinch.",
+        "steps": [
+          "Lie on your side next to a stable bench with your forearm under your shoulder.",
+          "Place the inside of the top knee or ankle on the bench.",
+          "Lift your hips by squeezing the adductor of the supported leg until your body is straight.",
+          "Raise the bottom leg off the floor and keep it close to the bench.",
+          "Hold for the set time, lower under control and switch sides."
+        ],
+        "commonMistakes": [
+          "Starting with the ankle on the bench before mastering the knee version.",
+          "Letting the hips drop during the set.",
+          "Rotating the torso toward the floor."
+        ],
+        "tips": [
+          "Start with the knee supported (short lever) and 10-15 second holds.",
+          "If you feel groin pain, stop and go back to the easier version."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "neck-isometric-hold",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["NECK"],
+    "secondaryMuscles": ["UPPER_BACK", "SHOULDERS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 2,
+      "reps": null,
+      "seconds": 15,
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Isométricos de cuello con la mano",
+        "description": "Contracciones isométricas suaves del cuello empujando contra tu propia mano en cuatro direcciones, sin mover la cabeza. Es una forma controlada y de bajo riesgo de empezar a fortalecer el cuello, una zona que todo golpeador debería entrenar.",
+        "steps": [
+          "Siéntate o ponte de pie con la espalda recta, la barbilla ligeramente metida y la mirada al frente.",
+          "Apoya la palma en la frente y empuja la cabeza contra la mano mientras la mano resiste, sin que la cabeza se mueva.",
+          "Aumenta la presión de forma progresiva hasta un esfuerzo moderado y mantenlo respirando con normalidad.",
+          "Relaja despacio, sin soltar de golpe.",
+          "Repite con la mano en la nuca (hacia atrás) y en cada lateral de la cabeza."
+        ],
+        "commonMistakes": [
+          "Empujar al máximo desde el primer segundo.",
+          "Mover la cabeza en lugar de mantenerla quieta.",
+          "Encoger los hombros o contener la respiración.",
+          "Soltar la presión de golpe."
+        ],
+        "tips": [
+          "Trabaja a un 30-50 % de tu esfuerzo máximo al principio; la progresión es lenta.",
+          "Si notas dolor, hormigueo o mareo, para y consulta con un profesional sanitario.",
+          "Si tienes una lesión o molestias de cuello previas, consulta con un profesional sanitario antes de empezar."
+        ]
+      },
+      "en": {
+        "name": "Manual neck isometrics",
+        "description": "Gentle isometric neck contractions pressing into your own hand in four directions while the head stays still. It is a controlled, low-risk way to start strengthening the neck, an area every striker should train.",
+        "steps": [
+          "Sit or stand tall with the chin slightly tucked and eyes forward.",
+          "Place your palm on your forehead and press your head into it while the hand resists, keeping the head still.",
+          "Build pressure gradually to a moderate effort and hold it while breathing normally.",
+          "Release slowly, never all at once.",
+          "Repeat with the hand behind the head (backward) and on each side of the head."
+        ],
+        "commonMistakes": [
+          "Pushing at maximum effort from the first second.",
+          "Moving the head instead of holding it still.",
+          "Shrugging the shoulders or holding your breath.",
+          "Releasing the pressure suddenly."
+        ],
+        "tips": [
+          "Work at around 30-50% of your maximum effort at first; progress slowly.",
+          "If you feel pain, tingling or dizziness, stop and check with a healthcare professional.",
+          "If you have a previous neck injury or ongoing neck discomfort, check with a healthcare professional before starting."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "farmers-carry",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["FOREARMS", "UPPER_BACK"],
+    "secondaryMuscles": ["CORE", "OBLIQUES", "GLUTES", "CALVES"],
+    "equipment": ["KETTLEBELL", "DUMBBELLS"],
+    "sports": [],
+    "defaults": {
+      "sets": 4,
+      "reps": null,
+      "seconds": 40,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Paseo del granjero",
+        "description": "Caminar con una carga pesada en cada mano manteniendo una postura erguida. Desarrolla agarre, trapecios y estabilidad del tronco, y refuerza la capacidad de mantener una postura firme bajo fatiga.",
+        "steps": [
+          "Coloca una kettlebell o mancuerna a cada lado de los pies.",
+          "Agáchate con la espalda neutra, agárralas con fuerza y levántate como en un peso muerto.",
+          "Ponte erguido con los hombros abajo y atrás y el abdomen firme.",
+          "Camina con pasos cortos y controlados durante el tiempo marcado, sin que las cargas se balanceen.",
+          "Para, agáchate con la espalda neutra y deja las cargas en el suelo."
+        ],
+        "commonMistakes": [
+          "Encorvarse o dejar caer los hombros hacia delante.",
+          "Dar pasos largos que hacen balancear las cargas.",
+          "Soltar las cargas de golpe al terminar."
+        ],
+        "tips": [
+          "Una variante útil es llevar carga en una sola mano para entrenar al tronco a no inclinarse hacia un lado.",
+          "Aprieta las asas como si quisieras dejar marca en ellas."
+        ]
+      },
+      "en": {
+        "name": "Farmer's carry",
+        "description": "Walking with a heavy load in each hand while staying tall. It builds grip, traps and trunk stability, and reinforces your ability to hold firm posture under fatigue.",
+        "steps": [
+          "Place a kettlebell or dumbbell beside each foot.",
+          "Hinge down with a neutral back, grip them hard and stand up as in a deadlift.",
+          "Stand tall with shoulders down and back and abs braced.",
+          "Walk with short, controlled steps for the set time without letting the loads swing.",
+          "Stop, hinge with a neutral back and set the loads down."
+        ],
+        "commonMistakes": [
+          "Slouching or letting the shoulders roll forward.",
+          "Taking long strides that make the loads swing.",
+          "Dropping the loads at the end."
+        ],
+        "tips": [
+          "A useful variation is carrying weight in one hand only to train your trunk to resist bending sideways.",
+          "Squeeze the handles as if trying to leave fingerprints."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "dead-hang",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["FOREARMS"],
+    "secondaryMuscles": ["LATS", "SHOULDERS", "UPPER_BACK"],
+    "equipment": ["PULL_UP_BAR"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": null,
+      "seconds": 30,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Colgarse de la barra",
+        "description": "Mantenerse colgado de una barra con los brazos estirados. Mejora la resistencia del agarre y de los antebrazos y es la base para progresar hacia las dominadas.",
+        "steps": [
+          "Agarra la barra con las palmas hacia delante (agarre prono) y a la anchura de los hombros.",
+          "Despega los pies del suelo y quédate colgado con los brazos estirados.",
+          "Mantén los hombros ligeramente activos, sin dejarlos totalmente sueltos junto a las orejas.",
+          "Aprieta el abdomen para no balancearte y respira con calma.",
+          "Al terminar, baja con cuidado apoyando primero los pies."
+        ],
+        "commonMistakes": [
+          "Saltar a la barra o soltarse de golpe.",
+          "Balancearse durante la serie.",
+          "Agarrar solo con los dedos sin cerrar la mano."
+        ],
+        "tips": [
+          "Para empezar, apoya los pies en un cajón y descarga así parte de tu peso.",
+          "Para progresar, usa una toalla enrollada en la barra para agarrar."
+        ]
+      },
+      "en": {
+        "name": "Dead hang",
+        "description": "Hanging from a bar with straight arms. It improves grip and forearm endurance and lays the groundwork for progressing toward pull-ups.",
+        "steps": [
+          "Grip the bar with palms facing away, shoulder-width apart.",
+          "Lift your feet off the floor and hang with straight arms.",
+          "Keep your shoulders slightly engaged rather than fully slumped by your ears.",
+          "Brace your abs to avoid swinging and breathe calmly.",
+          "When finished, lower down carefully, landing on your feet first."
+        ],
+        "commonMistakes": [
+          "Jumping onto the bar or letting go suddenly.",
+          "Swinging during the set.",
+          "Holding with the fingertips instead of a full grip."
+        ],
+        "tips": [
+          "To start, rest your feet on a box to unload part of your bodyweight.",
+          "To progress, hang from a towel looped over the bar."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "kettlebell-swing",
+    "category": "STRENGTH",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "HAMSTRINGS"],
+    "secondaryMuscles": ["LOWER_BACK", "CORE", "FOREARMS", "SHOULDERS"],
+    "equipment": ["KETTLEBELL"],
+    "sports": [],
+    "defaults": {
+      "sets": 5,
+      "reps": "8-12",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Swing con kettlebell",
+        "description": "Bisagra de cadera explosiva en la que la kettlebell se proyecta hacia delante gracias a un golpe seco de cadera. Desarrolla la potencia de cadera que está detrás de un rodillazo, un cruzado o una patada.",
+        "steps": [
+          "Coloca la kettlebell un paso por delante de los pies, que estarán algo más abiertos que las caderas.",
+          "Haz una bisagra de cadera, agarra el asa con ambas manos y llévala hacia atrás entre las piernas, como el saque entre las piernas del fútbol americano.",
+          "Extiende la cadera de forma explosiva apretando glúteos para proyectar la kettlebell hasta la altura del pecho.",
+          "Termina de pie con el cuerpo en línea, abdomen firme y brazos relajados; la cadera hace el trabajo, no los brazos.",
+          "Deja que la kettlebell baje y vuelve a la bisagra cuando los antebrazos toquen los muslos.",
+          "Al acabar, frena la kettlebell entre las piernas y déjala delante de ti."
+        ],
+        "commonMistakes": [
+          "Convertirlo en una sentadilla en lugar de una bisagra.",
+          "Levantar la kettlebell con los hombros.",
+          "Echarse hacia atrás arriba hiperextendiendo la zona lumbar.",
+          "Redondear la espalda en la bajada."
+        ],
+        "tips": [
+          "Piensa en saltar en horizontal sin despegar los pies.",
+          "Haz pocas repeticiones con mucha intención: la potencia cae con la fatiga."
+        ]
+      },
+      "en": {
+        "name": "Kettlebell swing",
+        "description": "An explosive hip hinge where the kettlebell is driven forward by a sharp hip snap. It builds the hip power behind a knee, a cross or a kick.",
+        "steps": [
+          "Place the kettlebell a step in front of your feet, set slightly wider than your hips.",
+          "Hinge, grab the handle with both hands and hike it back between your legs like a football snap.",
+          "Explosively extend your hips, squeezing your glutes to float the bell to chest height.",
+          "Finish standing tall in a straight line, abs braced and arms relaxed; the hips do the work, not the arms.",
+          "Let the bell fall and hinge again as your forearms meet your thighs.",
+          "To finish, slow the bell between your legs and park it in front of you."
+        ],
+        "commonMistakes": [
+          "Turning it into a squat instead of a hinge.",
+          "Lifting the bell with the shoulders.",
+          "Leaning back at the top and overarching the lower back.",
+          "Rounding the back on the way down."
+        ],
+        "tips": [
+          "Think of jumping horizontally without leaving the floor.",
+          "Do fewer reps with full intent: power drops off with fatigue."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "jump-rope-basic-bounce",
+    "category": "PLYOMETRICS",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["CALVES"],
+    "secondaryMuscles": ["SHOULDERS", "FOREARMS", "CORE"],
+    "equipment": ["JUMP_ROPE"],
+    "sports": [],
+    "defaults": {
+      "sets": 5,
+      "reps": null,
+      "seconds": 60,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Comba: salto básico",
+        "description": "Saltos pequeños y rítmicos a la comba con los pies juntos. Desarrolla la rigidez elástica de tobillos y gemelos, la coordinación y el ritmo de piernas ligeras que necesitas para moverte por el ring.",
+        "steps": [
+          "Ajusta la comba: pisándola en el centro, las asas deben llegar más o menos a las axilas.",
+          "Ponte erguido con los codos cerca del cuerpo y las manos a la altura de la cadera.",
+          "Gira la comba con las muñecas, no con los hombros.",
+          "Salta solo lo justo para que pase la comba, aterrizando suave sobre la parte delantera del pie.",
+          "Mantén un ritmo constante y respira con calma durante todo el bloque."
+        ],
+        "commonMistakes": [
+          "Saltar demasiado alto y aterrizar con fuerza.",
+          "Girar la comba con los brazos abiertos.",
+          "Caer sobre los talones con las rodillas bloqueadas."
+        ],
+        "tips": [
+          "Si eres principiante, alterna 30 segundos de comba con 30 de descanso.",
+          "Salta sobre una superficie que amortigüe, como parqué o tatami, mejor que sobre cemento."
+        ]
+      },
+      "en": {
+        "name": "Jump rope: basic bounce",
+        "description": "Small, rhythmic two-foot jumps with a rope. It builds elastic ankle and calf stiffness, coordination and the light-footed rhythm you need to move around the ring.",
+        "steps": [
+          "Size the rope: standing on its middle, the handles should reach roughly your armpits.",
+          "Stand tall with elbows close to your body and hands at hip height.",
+          "Turn the rope with your wrists, not your shoulders.",
+          "Jump just high enough for the rope to pass, landing softly on the balls of your feet.",
+          "Keep a steady rhythm and breathe calmly throughout the block."
+        ],
+        "commonMistakes": [
+          "Jumping too high and landing hard.",
+          "Swinging the rope with arms spread wide.",
+          "Landing on the heels with locked knees."
+        ],
+        "tips": [
+          "If you are new to it, alternate 30 seconds of skipping with 30 seconds of rest.",
+          "Skip on a forgiving surface such as wood or mats rather than concrete."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "pogo-hops",
+    "category": "PLYOMETRICS",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["CALVES"],
+    "secondaryMuscles": ["QUADRICEPS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "15-20",
+      "seconds": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saltos pogo",
+        "description": "Saltos verticales rápidos y continuos usando sobre todo los tobillos, con las rodillas casi rígidas. Entrenan la reactividad del tobillo, base de un juego de pies explosivo y de entradas y salidas rápidas.",
+        "steps": [
+          "Ponte de pie con los pies a la anchura de las caderas y los brazos relajados.",
+          "Salta usando sobre todo los tobillos, con las rodillas ligeramente flexionadas y casi fijas.",
+          "Aterriza sobre la parte delantera del pie y rebota de inmediato, como si el suelo quemara.",
+          "Mantén el tronco alto y el abdomen firme durante toda la serie.",
+          "Para la serie si pierdes el ritmo o empiezas a caer sobre los talones."
+        ],
+        "commonMistakes": [
+          "Flexionar mucho las rodillas y convertirlo en un salto normal.",
+          "Quedarse demasiado tiempo en el suelo entre saltos.",
+          "Dejar que los talones golpeen el suelo."
+        ],
+        "tips": [
+          "Prioriza la rapidez del contacto sobre la altura.",
+          "Progresa a saltos hacia delante y atrás o de lado a lado."
+        ]
+      },
+      "en": {
+        "name": "Pogo hops",
+        "description": "Fast, continuous vertical hops driven mainly by the ankles, with nearly stiff knees. They train ankle reactivity, the base of explosive footwork and quick in-and-out movement.",
+        "steps": [
+          "Stand with feet hip-width apart and arms relaxed.",
+          "Hop mainly from your ankles, knees slightly bent and almost fixed.",
+          "Land on the balls of your feet and rebound immediately, as if the floor were hot.",
+          "Keep your torso tall and abs braced throughout the set.",
+          "Stop the set if you lose the rhythm or start landing on your heels."
+        ],
+        "commonMistakes": [
+          "Bending the knees a lot and turning it into a regular jump.",
+          "Spending too long on the ground between hops.",
+          "Letting the heels slam the floor."
+        ],
+        "tips": [
+          "Prioritise quick contacts over height.",
+          "Progress to forward-back or side-to-side hops."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "snap-down",
+    "category": "PLYOMETRICS",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "GLUTES"],
+    "secondaryMuscles": ["HAMSTRINGS", "CALVES", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "5-6",
+      "seconds": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Snap down (caída a posición atlética)",
+        "description": "Desde puntillas con los brazos arriba, bajas de golpe a una posición atlética y frenas en seco. Enseña a aterrizar con buena técnica y es el primer paso antes de cualquier salto más exigente.",
+        "steps": [
+          "Ponte de puntillas con los brazos estirados por encima de la cabeza.",
+          "Lleva los brazos hacia abajo y atrás con fuerza a la vez que caes rápidamente sobre los pies.",
+          "Aterriza en un cuarto de sentadilla con la cadera atrás, el pecho alto y el peso en todo el pie.",
+          "Frena en seco y mantén la posición estable 2 segundos.",
+          "Vuelve a ponerte de pie y repite."
+        ],
+        "commonMistakes": [
+          "Aterrizar con las rodillas hacia dentro.",
+          "Caer rígido sin flexionar cadera ni rodillas.",
+          "Inclinarse demasiado hacia delante o caer sobre los talones."
+        ],
+        "tips": [
+          "El aterrizaje debe ser rápido pero silencioso.",
+          "Úsalo en el calentamiento antes de sesiones de saltos."
+        ]
+      },
+      "en": {
+        "name": "Snap down",
+        "description": "From your toes with arms overhead, you drop sharply into an athletic stance and stick it. It teaches sound landing mechanics and is the first step before any more demanding jump.",
+        "steps": [
+          "Rise onto your toes with arms straight overhead.",
+          "Drive your arms down and back hard as you drop quickly onto your feet.",
+          "Land in a quarter squat with hips back, chest up and weight across the whole foot.",
+          "Stop dead and hold a stable position for 2 seconds.",
+          "Stand back up and repeat."
+        ],
+        "commonMistakes": [
+          "Landing with the knees caving in.",
+          "Landing stiff without bending hips and knees.",
+          "Tipping too far forward or landing on the heels."
+        ],
+        "tips": [
+          "The landing should be fast but quiet.",
+          "Use it in the warm-up before jump sessions."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "box-jump",
+    "category": "PLYOMETRICS",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "GLUTES"],
+    "secondaryMuscles": ["HAMSTRINGS", "CALVES", "CORE"],
+    "equipment": ["BOX"],
+    "sports": [],
+    "defaults": {
+      "sets": 4,
+      "reps": "3-5",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Salto al cajón",
+        "description": "Salto vertical con los dos pies para aterrizar sobre un cajón. Desarrolla la potencia de piernas reduciendo el impacto del aterrizaje, porque caes desde poca altura.",
+        "steps": [
+          "Colócate a un paso de un cajón estable de una altura que puedas superar con margen.",
+          "Haz un contramovimiento rápido llevando la cadera atrás y los brazos hacia atrás.",
+          "Salta explosivamente lanzando los brazos hacia arriba.",
+          "Aterriza suave sobre el cajón con todo el pie, en un cuarto de sentadilla y con las rodillas alineadas.",
+          "Ponte de pie sobre el cajón y bájate andando, sin saltar hacia atrás."
+        ],
+        "commonMistakes": [
+          "Elegir un cajón tan alto que tienes que encoger las piernas al máximo.",
+          "Bajar del cajón saltando hacia atrás.",
+          "Aterrizar con las rodillas hacia dentro o sobre las puntas.",
+          "Hacer muchas repeticiones seguidas con fatiga."
+        ],
+        "tips": [
+          "Mide el salto por la altura de la cadera, no por la del cajón.",
+          "Descansa lo suficiente para que cada salto sea máximo."
+        ]
+      },
+      "en": {
+        "name": "Box jump",
+        "description": "A two-foot vertical jump landing on top of a box. It develops leg power while reducing landing impact, because you land from a low height.",
+        "steps": [
+          "Stand a step away from a stable box of a height you can clear with room to spare.",
+          "Make a quick countermovement, pushing your hips back and swinging your arms back.",
+          "Jump explosively, throwing your arms up.",
+          "Land softly on the box with your whole foot, in a quarter squat with knees aligned.",
+          "Stand up on the box and step down, never jump backward off it."
+        ],
+        "commonMistakes": [
+          "Choosing a box so high you have to tuck your legs to the max.",
+          "Jumping backward off the box.",
+          "Landing with knees caving in or on the toes.",
+          "Doing many reps in a row while fatigued."
+        ],
+        "tips": [
+          "Judge the jump by how high your hips go, not by the box height.",
+          "Rest enough so every jump is a maximal effort."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "broad-jump",
+    "category": "PLYOMETRICS",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "QUADRICEPS"],
+    "secondaryMuscles": ["HAMSTRINGS", "CALVES", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 4,
+      "reps": "3-5",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Salto horizontal",
+        "description": "Salto de longitud a pies juntos desde parado. Entrena la extensión explosiva de cadera hacia delante, la misma que usas para cerrar distancia con un golpe o una entrada rápida.",
+        "steps": [
+          "Ponte de pie con los pies a la anchura de las caderas.",
+          "Lleva los brazos hacia atrás y la cadera atrás en un contramovimiento rápido.",
+          "Lanza los brazos hacia delante y extiende cadera, rodillas y tobillos para saltar lo más lejos posible.",
+          "Recoge las piernas y aterriza con ambos pies a la vez en una sentadilla parcial.",
+          "Estabiliza la caída 2 segundos, vuelve andando al inicio y repite."
+        ],
+        "commonMistakes": [
+          "Aterrizar con las piernas rígidas.",
+          "Caer hacia delante y no poder fijar el aterrizaje.",
+          "Saltar demasiado hacia arriba en lugar de hacia delante."
+        ],
+        "tips": [
+          "Solo cuenta el salto si puedes fijar el aterrizaje.",
+          "Marca la distancia con una cinta o una línea para motivarte."
+        ]
+      },
+      "en": {
+        "name": "Broad jump",
+        "description": "A two-foot standing long jump. It trains explosive forward hip extension, the same drive you use to close distance with a strike or a quick entry.",
+        "steps": [
+          "Stand with feet hip-width apart.",
+          "Swing your arms back and push your hips back in a quick countermovement.",
+          "Throw your arms forward and extend hips, knees and ankles to jump as far as possible.",
+          "Bring your legs through and land on both feet at once in a partial squat.",
+          "Stick the landing for 2 seconds, walk back to the start and repeat."
+        ],
+        "commonMistakes": [
+          "Landing with stiff legs.",
+          "Falling forward and failing to stick the landing.",
+          "Jumping too much upward instead of forward."
+        ],
+        "tips": [
+          "Only count the jump if you can stick the landing.",
+          "Mark the distance with tape or a line for motivation."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "lateral-bound",
+    "category": "PLYOMETRICS",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "ABDUCTORS"],
+    "secondaryMuscles": ["QUADRICEPS", "ADDUCTORS", "CALVES", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "6-8",
+      "seconds": null,
+      "restSec": 75
+    },
+    "i18n": {
+      "es": {
+        "name": "Salto lateral a una pierna (skater)",
+        "description": "Saltos laterales de una pierna a la otra, fijando cada aterrizaje. Desarrollan la potencia lateral y el control de rodilla y cadera necesarios para salir en ángulo, pivotar y cortar el ring.",
+        "steps": [
+          "Ponte de pie sobre la pierna derecha con una ligera flexión de cadera y rodilla.",
+          "Empuja el suelo con fuerza hacia el lado para saltar hacia la izquierda.",
+          "Aterriza sobre la pierna izquierda con la rodilla alineada con el pie y la cadera atrás.",
+          "Fija el aterrizaje 1-2 segundos sin que la rodilla se vaya hacia dentro.",
+          "Salta de vuelta hacia la derecha. Cada aterrizaje cuenta como una repetición."
+        ],
+        "commonMistakes": [
+          "Aterrizar con la rodilla hundida hacia dentro.",
+          "Saltar más lejos de lo que puedes controlar.",
+          "Dejar caer el tronco de lado al aterrizar."
+        ],
+        "tips": [
+          "Empieza con distancias cortas y fijando cada caída; añade velocidad después.",
+          "Usa los brazos para ganar impulso, como un patinador."
+        ]
+      },
+      "en": {
+        "name": "Lateral bound (skater)",
+        "description": "Side-to-side bounds from one leg to the other, sticking each landing. They build lateral power and the knee and hip control needed to angle off, pivot and cut off the ring.",
+        "steps": [
+          "Stand on your right leg with a slight bend at the hip and knee.",
+          "Push the floor hard to the side to bound to your left.",
+          "Land on your left leg with the knee over the foot and hips back.",
+          "Stick the landing for 1-2 seconds without the knee caving in.",
+          "Bound back to the right. Each landing counts as one rep."
+        ],
+        "commonMistakes": [
+          "Landing with the knee collapsing inward.",
+          "Bounding further than you can control.",
+          "Letting the torso fall to the side on landing."
+        ],
+        "tips": [
+          "Start with short distances and stick each landing; add speed later.",
+          "Use your arms for momentum, like a speed skater."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "single-leg-hop-and-stick",
+    "category": "PLYOMETRICS",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "GLUTES"],
+    "secondaryMuscles": ["CALVES", "ABDUCTORS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "5-6",
+      "seconds": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Salto a una pierna con estabilización",
+        "description": "Pequeño salto hacia delante sobre una pierna, aterrizando y fijando la posición en la misma pierna. Mejora el control del aterrizaje, la estabilidad de tobillo y rodilla y la confianza al golpear apoyado en un pie.",
+        "steps": [
+          "Ponte sobre una pierna con la rodilla ligeramente flexionada y los brazos listos.",
+          "Salta hacia delante una distancia corta sobre la misma pierna.",
+          "Aterriza suave sobre la parte delantera del pie y baja el talón, flexionando cadera y rodilla.",
+          "Fija la posición 2-3 segundos con la rodilla alineada sobre el pie y la cadera nivelada.",
+          "Vuelve al inicio y repite. Completa la serie y cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Saltar demasiado lejos y no poder estabilizar.",
+          "Dejar que la rodilla se meta hacia dentro.",
+          "Aterrizar con la pierna rígida."
+        ],
+        "tips": [
+          "Cuando lo domines, añade saltos hacia los lados y en diagonal.",
+          "Si te tambaleas en cada aterrizaje, reduce la distancia."
+        ]
+      },
+      "en": {
+        "name": "Single-leg hop and stick",
+        "description": "A short forward hop on one leg, landing and holding on the same leg. It improves landing control, ankle and knee stability and confidence when striking off one foot.",
+        "steps": [
+          "Stand on one leg with the knee slightly bent and arms ready.",
+          "Hop a short distance forward on the same leg.",
+          "Land softly on the ball of the foot and let the heel come down, bending hip and knee.",
+          "Hold the position for 2-3 seconds with the knee over the foot and hips level.",
+          "Return to the start and repeat. Finish the set and switch legs."
+        ],
+        "commonMistakes": [
+          "Hopping too far and being unable to stabilise.",
+          "Letting the knee cave inward.",
+          "Landing with a stiff leg."
+        ],
+        "tips": [
+          "Once you own it, add sideways and diagonal hops.",
+          "If you wobble on every landing, shorten the distance."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "split-squat-jump",
+    "category": "PLYOMETRICS",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "GLUTES"],
+    "secondaryMuscles": ["HAMSTRINGS", "CALVES", "HIP_FLEXORS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "6-8",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Zancada con salto alterno",
+        "description": "Desde una posición de zancada, saltas y cambias las piernas en el aire para aterrizar en la zancada contraria. Desarrolla potencia de piernas y coordinación para cambios de guardia rápidos.",
+        "steps": [
+          "Colócate en zancada con un pie delante y otro detrás, ambas rodillas flexionadas.",
+          "Baja un poco y salta hacia arriba de forma explosiva, ayudándote con los brazos.",
+          "Cambia la posición de las piernas en el aire.",
+          "Aterriza suave en la zancada contraria con la rodilla delantera alineada con el pie.",
+          "Encadena la siguiente repetición manteniendo el control. Cada aterrizaje cuenta como una."
+        ],
+        "commonMistakes": [
+          "Aterrizar con la rodilla trasera golpeando el suelo.",
+          "Perder la alineación de la rodilla delantera.",
+          "Acortar mucho la zancada por la fatiga."
+        ],
+        "tips": [
+          "Para empezar, haz una pausa en cada aterrizaje antes del siguiente salto.",
+          "Corta la serie cuando los aterrizajes se vuelvan ruidosos."
+        ]
+      },
+      "en": {
+        "name": "Split squat jump",
+        "description": "From a split stance you jump and switch legs in the air to land in the opposite split. It develops leg power and coordination for fast stance switches.",
+        "steps": [
+          "Set up in a split stance with one foot forward and one back, both knees bent.",
+          "Dip slightly and jump up explosively, using your arms.",
+          "Switch your legs in mid-air.",
+          "Land softly in the opposite split with the front knee over the foot.",
+          "Flow into the next rep under control. Each landing counts as one."
+        ],
+        "commonMistakes": [
+          "Landing with the back knee banging the floor.",
+          "Losing front knee alignment.",
+          "Shortening the stance a lot as fatigue sets in."
+        ],
+        "tips": [
+          "To start, pause on each landing before the next jump.",
+          "End the set when landings get noisy."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "tuck-jump",
+    "category": "PLYOMETRICS",
+    "difficulty": "ADVANCED",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "GLUTES"],
+    "secondaryMuscles": ["HIP_FLEXORS", "CALVES", "HAMSTRINGS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "5-6",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Salto con rodillas al pecho",
+        "description": "Salto vertical máximo llevando las rodillas hacia el pecho en el aire, encadenado con un rebote corto. Es un salto reactivo exigente que entrena potencia, rigidez elástica y control del aterrizaje repetido.",
+        "steps": [
+          "Ponte de pie con los pies a la anchura de las caderas.",
+          "Haz un contramovimiento rápido y salta lo más alto posible.",
+          "En el punto alto, lleva las rodillas hacia el pecho manteniendo el tronco erguido.",
+          "Estira las piernas antes de tocar el suelo y aterriza suave sobre la parte delantera del pie.",
+          "Rebota de inmediato al siguiente salto con un contacto corto y controlado."
+        ],
+        "commonMistakes": [
+          "Encorvar el tronco hacia las rodillas en lugar de subir las rodillas.",
+          "Aterrizar con las piernas aún recogidas.",
+          "Seguir saltando cuando los aterrizajes son descontrolados."
+        ],
+        "tips": [
+          "Domina primero el snap down y los saltos al cajón.",
+          "Si las rodillas se meten hacia dentro al aterrizar, vuelve a saltos sueltos con pausa."
+        ]
+      },
+      "en": {
+        "name": "Tuck jump",
+        "description": "A maximal vertical jump bringing the knees to the chest in the air, linked with a short rebound. It is a demanding reactive jump that trains power, elastic stiffness and repeated landing control.",
+        "steps": [
+          "Stand with feet hip-width apart.",
+          "Make a quick countermovement and jump as high as you can.",
+          "At the top, pull your knees toward your chest while keeping your torso upright.",
+          "Extend your legs before touching down and land softly on the balls of your feet.",
+          "Rebound straight into the next jump with a short, controlled contact."
+        ],
+        "commonMistakes": [
+          "Hunching the torso down to the knees instead of lifting the knees.",
+          "Landing with the legs still tucked.",
+          "Continuing when the landings get sloppy."
+        ],
+        "tips": [
+          "Master snap downs and box jumps first.",
+          "If your knees cave in on landing, go back to single jumps with a pause."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "depth-jump",
+    "category": "PLYOMETRICS",
+    "difficulty": "ADVANCED",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "CALVES", "GLUTES"],
+    "secondaryMuscles": ["HAMSTRINGS", "CORE"],
+    "equipment": ["BOX"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "3-5",
+      "seconds": null,
+      "restSec": 120
+    },
+    "i18n": {
+      "es": {
+        "name": "Salto en profundidad",
+        "description": "Te dejas caer desde un cajón bajo y, nada más tocar el suelo, saltas lo más alto posible. Es una de las formas más intensas de entrenar la reactividad, por lo que conviene reservarlo para personas con buena base de fuerza y aterrizaje.",
+        "steps": [
+          "Sube a un cajón bajo y estable, de unos 30-40 cm para empezar.",
+          "Da un paso al frente y déjate caer, sin saltar hacia arriba desde el cajón.",
+          "Aterriza con ambos pies a la vez sobre la parte delantera del pie, con las rodillas alineadas.",
+          "Con el contacto más corto posible, salta hacia arriba con fuerza usando los brazos.",
+          "Aterriza el segundo salto suave, fija la posición y vuelve a subir al cajón andando."
+        ],
+        "commonMistakes": [
+          "Usar un cajón demasiado alto y hundirse en el aterrizaje.",
+          "Quedarse demasiado tiempo en el suelo antes de saltar.",
+          "Aterrizar con las rodillas hacia dentro.",
+          "Hacer demasiadas repeticiones o hacerlo con fatiga."
+        ],
+        "tips": [
+          "Si el contacto es largo o ruidoso, baja la altura del cajón.",
+          "Haz pocas series de calidad al principio de la sesión, con descanso completo.",
+          "Al principio basta con 1-2 sesiones por semana y pocos contactos; no lo hagas el día después de un entrenamiento duro de piernas."
+        ]
+      },
+      "en": {
+        "name": "Depth jump",
+        "description": "You step off a low box and, as soon as you touch the ground, jump as high as possible. It is one of the most intense ways to train reactivity, so save it for people with a solid strength and landing base.",
+        "steps": [
+          "Stand on a low, stable box, about 30-40 cm to begin with.",
+          "Step forward and drop off, without jumping up from the box.",
+          "Land on both feet at once on the balls of the feet, knees aligned.",
+          "With the shortest possible contact, jump up hard using your arms.",
+          "Land the second jump softly, stick it and walk back up onto the box."
+        ],
+        "commonMistakes": [
+          "Using a box that is too high and sinking on landing.",
+          "Staying on the ground too long before jumping.",
+          "Landing with the knees caving in.",
+          "Doing too many reps or doing them fatigued."
+        ],
+        "tips": [
+          "If the contact is long or noisy, lower the box.",
+          "Do a few quality sets early in the session with full rest.",
+          "Early on, 1-2 sessions a week with few contacts is plenty; avoid it the day after a hard leg session."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "medicine-ball-rotational-throw",
+    "category": "PLYOMETRICS",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["OBLIQUES", "CORE"],
+    "secondaryMuscles": ["GLUTES", "SHOULDERS", "CHEST", "HIP_FLEXORS"],
+    "equipment": ["MEDICINE_BALL"],
+    "sports": [],
+    "defaults": {
+      "sets": 4,
+      "reps": "5-6",
+      "seconds": null,
+      "restSec": 75
+    },
+    "i18n": {
+      "es": {
+        "name": "Lanzamiento rotacional de balón medicinal",
+        "description": "Lanzamiento explosivo de un balón medicinal contra la pared girando desde la cadera. Entrena la transferencia de fuerza de las piernas al tronco y los brazos, el patrón de los ganchos y de las patadas circulares.",
+        "steps": [
+          "Ponte de lado a una pared sólida, a 1-2 metros, con un balón medicinal de 3-6 kg a la altura del pecho.",
+          "Separa los pies algo más que las caderas y flexiona ligeramente las rodillas.",
+          "Gira el tronco alejando el balón hacia la cadera de atrás, cargando el peso en esa pierna.",
+          "Gira con fuerza desde el pie y la cadera trasera y lanza el balón contra la pared con los brazos casi estirados.",
+          "Recoge el rebote, recoloca y repite. Completa la serie y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Lanzar solo con los brazos sin girar la cadera.",
+          "No pivotar el pie trasero.",
+          "Usar un balón tan pesado que el lanzamiento se vuelve lento."
+        ],
+        "tips": [
+          "Usa un balón que rebote poco o que sea blando para evitar rebotes peligrosos.",
+          "Cada lanzamiento debe ser a máxima intención; corta la serie si pierdes velocidad."
+        ]
+      },
+      "en": {
+        "name": "Medicine ball rotational throw",
+        "description": "An explosive side-on throw of a medicine ball into a wall, rotating from the hips. It trains force transfer from the legs through the trunk to the arms, the pattern behind hooks and roundhouse kicks.",
+        "steps": [
+          "Stand side-on to a solid wall, 1-2 metres away, holding a 3-6 kg medicine ball at chest height.",
+          "Set your feet slightly wider than your hips with knees slightly bent.",
+          "Rotate away, bringing the ball toward your back hip and loading that leg.",
+          "Drive hard from the back foot and hip and throw the ball into the wall with nearly straight arms.",
+          "Catch the rebound, reset and repeat. Finish the set and switch sides."
+        ],
+        "commonMistakes": [
+          "Throwing only with the arms without turning the hips.",
+          "Not pivoting the back foot.",
+          "Using a ball so heavy the throw becomes slow."
+        ],
+        "tips": [
+          "Use a soft or low-bounce ball to avoid dangerous rebounds.",
+          "Every throw should be at maximum intent; end the set if speed drops."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "medicine-ball-chest-pass",
+    "category": "PLYOMETRICS",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["CHEST", "TRICEPS"],
+    "secondaryMuscles": ["SHOULDERS", "CORE", "QUADRICEPS"],
+    "equipment": ["MEDICINE_BALL"],
+    "sports": [],
+    "defaults": {
+      "sets": 4,
+      "reps": "6-8",
+      "seconds": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Pase de pecho con balón medicinal",
+        "description": "Lanzamiento explosivo del balón medicinal desde el pecho contra la pared. Desarrolla la potencia de empuje del tren superior y enseña a acompañar el lanzamiento con las piernas, como en un directo.",
+        "steps": [
+          "Colócate de frente a una pared sólida, a unos 2 metros, con el balón pegado al pecho.",
+          "Ponte en posición atlética con las rodillas ligeramente flexionadas.",
+          "Empuja con las piernas y extiende los brazos de forma explosiva para lanzar el balón recto a la pared.",
+          "Termina con los brazos estirados y los pulgares hacia abajo.",
+          "Recoge el rebote absorbiéndolo hacia el pecho y repite."
+        ],
+        "commonMistakes": [
+          "Lanzar solo con los brazos, sin usar las piernas.",
+          "Abrir los codos en exceso al empezar el lanzamiento.",
+          "Ir demasiado lento entre lanzamientos."
+        ],
+        "tips": [
+          "Prueba la variante en guardia, dando un paso con el pie delantero al lanzar.",
+          "Un balón de 3-5 kg suele ser suficiente."
+        ]
+      },
+      "en": {
+        "name": "Medicine ball chest pass",
+        "description": "An explosive chest throw of a medicine ball into a wall. It develops upper-body pushing power and teaches you to drive the throw with your legs, just like a straight punch.",
+        "steps": [
+          "Face a solid wall about 2 metres away, holding the ball against your chest.",
+          "Get into an athletic stance with knees slightly bent.",
+          "Push through your legs and extend your arms explosively to throw the ball straight at the wall.",
+          "Finish with arms straight and thumbs pointing down.",
+          "Catch the rebound by absorbing it into your chest and repeat."
+        ],
+        "commonMistakes": [
+          "Throwing only with the arms, without using the legs.",
+          "Flaring the elbows wide at the start of the throw.",
+          "Moving too slowly between throws."
+        ],
+        "tips": [
+          "Try it from your fighting stance, stepping with the lead foot as you throw.",
+          "A 3-5 kg ball is usually enough."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "medicine-ball-slam",
+    "category": "PLYOMETRICS",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["CORE", "LATS"],
+    "secondaryMuscles": ["SHOULDERS", "TRICEPS", "GLUTES", "HAMSTRINGS"],
+    "equipment": ["MEDICINE_BALL"],
+    "sports": [],
+    "defaults": {
+      "sets": 4,
+      "reps": "6-8",
+      "seconds": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Slam con balón medicinal",
+        "description": "Llevas el balón por encima de la cabeza y lo lanzas con fuerza contra el suelo. Entrena la potencia de todo el cuerpo y del core en flexión, y es fácil de aprender.",
+        "steps": [
+          "Usa un balón de slam sin rebote. Ponte de pie con los pies a la anchura de los hombros.",
+          "Eleva el balón por encima de la cabeza estirando todo el cuerpo y poniéndote de puntillas.",
+          "Lánzalo con fuerza contra el suelo, delante de los pies, flexionando cadera y contrayendo el abdomen.",
+          "Acompaña el gesto bajando a una sentadilla parcial con la espalda neutra.",
+          "Recoge el balón con una bisagra de cadera y repite."
+        ],
+        "commonMistakes": [
+          "Usar un balón que rebota y puede golpearte la cara.",
+          "Lanzar solo con los brazos sin usar el tronco.",
+          "Redondear la espalda al recoger el balón."
+        ],
+        "tips": [
+          "Exhala con fuerza en cada lanzamiento.",
+          "Prioriza la velocidad: un balón ligero lanzado rápido es mejor que uno pesado lento."
+        ]
+      },
+      "en": {
+        "name": "Medicine ball slam",
+        "description": "You lift the ball overhead and slam it hard into the floor. It trains full-body and core power in flexion and is easy to learn.",
+        "steps": [
+          "Use a no-bounce slam ball. Stand with feet shoulder-width apart.",
+          "Raise the ball overhead, extending your whole body and rising onto your toes.",
+          "Slam it hard into the floor in front of your feet, hinging at the hips and crunching your abs.",
+          "Follow through into a partial squat with a neutral back.",
+          "Pick up the ball with a hip hinge and repeat."
+        ],
+        "commonMistakes": [
+          "Using a bouncy ball that can fly back into your face.",
+          "Throwing only with the arms without using the trunk.",
+          "Rounding the back when picking the ball up."
+        ],
+        "tips": [
+          "Exhale sharply on each slam.",
+          "Prioritise speed: a light ball thrown fast beats a heavy one thrown slowly."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "plyometric-push-up",
+    "category": "PLYOMETRICS",
+    "difficulty": "ADVANCED",
+    "measureType": "REPS",
+    "primaryMuscles": ["CHEST", "TRICEPS"],
+    "secondaryMuscles": ["SHOULDERS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 4,
+      "reps": "4-6",
+      "seconds": null,
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Flexión pliométrica",
+        "description": "Flexión explosiva en la que empujas con tanta fuerza que las manos se despegan del suelo. Desarrolla la potencia de empuje y la capacidad de absorber y devolver fuerza rápido con el tren superior.",
+        "steps": [
+          "Colócate en posición de flexión con el cuerpo recto y el abdomen firme.",
+          "Baja controlando hasta que el pecho quede cerca del suelo.",
+          "Empuja de forma explosiva para que las manos se despeguen del suelo.",
+          "Aterriza con los codos ligeramente flexionados para absorber el impacto.",
+          "Baja de nuevo controlando y repite, o haz una pausa entre repeticiones."
+        ],
+        "commonMistakes": [
+          "Aterrizar con los codos bloqueados.",
+          "Hundir la cadera al empujar.",
+          "Seguir cuando ya no despegas las manos."
+        ],
+        "tips": [
+          "Para empezar, hazlas con las manos sobre un banco o cajón.",
+          "Solo tiene sentido si dominas 15 flexiones normales con buena técnica.",
+          "Si notas molestias en las muñecas, hazlas sobre una superficie que amortigüe o vuelve a la versión inclinada."
+        ]
+      },
+      "en": {
+        "name": "Plyometric push-up",
+        "description": "An explosive push-up where you press so hard your hands leave the floor. It builds pushing power and the ability to absorb and return force quickly through the upper body.",
+        "steps": [
+          "Get into a push-up position with a straight body and braced abs.",
+          "Lower under control until your chest is close to the floor.",
+          "Press explosively so your hands leave the floor.",
+          "Land with slightly bent elbows to absorb the impact.",
+          "Lower again under control and repeat, or pause between reps."
+        ],
+        "commonMistakes": [
+          "Landing with locked elbows.",
+          "Letting the hips sag as you push.",
+          "Continuing when your hands no longer leave the floor."
+        ],
+        "tips": [
+          "To start, do them with your hands on a bench or box.",
+          "Only worth doing once you own 15 clean regular push-ups.",
+          "If your wrists complain, use a forgiving surface or go back to the incline version."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "bodyweight-squat",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "GLUTES"],
+    "secondaryMuscles": ["ADDUCTORS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "12-20",
+      "seconds": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Sentadilla con peso corporal",
+        "description": "El patrón básico de sentadilla sin material. Construye la fuerza de piernas y la movilidad de cadera y tobillo que necesitas para una guardia baja y estable y para cambiar de nivel con control.",
+        "steps": [
+          "Ponte de pie con los pies algo más abiertos que la cadera y las puntas ligeramente hacia fuera.",
+          "Lleva los brazos al frente para equilibrarte y activa el abdomen.",
+          "Baja llevando la cadera atrás y abajo, con las rodillas siguiendo la dirección de los pies.",
+          "Desciende hasta donde mantengas la espalda neutra y los talones apoyados.",
+          "Empuja el suelo con todo el pie para subir y estira la cadera al final."
+        ],
+        "commonMistakes": [
+          "Dejar que las rodillas se vayan hacia dentro.",
+          "Levantar los talones del suelo.",
+          "Redondear la zona lumbar al bajar."
+        ],
+        "tips": [
+          "Cuando completes 20 repeticiones limpias, pasa a la zancada atrás o a la sentadilla búlgara.",
+          "Baja en 2-3 segundos para ganar control."
+        ]
+      },
+      "en": {
+        "name": "Bodyweight squat",
+        "description": "The basic squat pattern with no equipment. It builds the leg strength and the hip and ankle mobility you need for a low, stable stance and for changing levels with control.",
+        "steps": [
+          "Stand with your feet slightly wider than hip-width and your toes turned out a little.",
+          "Reach your arms forward for balance and brace your abs.",
+          "Lower by sending your hips back and down, knees tracking over your toes.",
+          "Go as deep as you can while keeping a neutral back and your heels down.",
+          "Push the floor away with your whole foot to stand up and finish with your hips extended."
+        ],
+        "commonMistakes": [
+          "Letting the knees cave inward.",
+          "Lifting the heels off the floor.",
+          "Rounding the lower back at the bottom."
+        ],
+        "tips": [
+          "Once you can do 20 clean reps, move on to the reverse lunge or the Bulgarian split squat.",
+          "Take 2-3 seconds on the way down to build control."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "reverse-lunge",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "GLUTES"],
+    "secondaryMuscles": ["HAMSTRINGS", "ADDUCTORS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "8-12",
+      "seconds": null,
+      "restSec": 75
+    },
+    "i18n": {
+      "es": {
+        "name": "Zancada atrás",
+        "description": "Zancada dando el paso hacia atrás, más amable con las rodillas que la zancada al frente. Trabaja cada pierna por separado y mejora el equilibrio sobre una sola pierna, clave para patear y desplazarte.",
+        "steps": [
+          "De pie, con los pies a la anchura de la cadera y el abdomen firme.",
+          "Da un paso largo hacia atrás con una pierna y apoya la punta del pie.",
+          "Baja hasta que la rodilla de atrás quede cerca del suelo, con el tronco ligeramente inclinado hacia delante.",
+          "Empuja con el talón de la pierna de delante para volver a la posición inicial.",
+          "Completa las repeticiones con una pierna y cambia, o alterna."
+        ],
+        "commonMistakes": [
+          "Dar un paso demasiado corto y cargar la rodilla de delante.",
+          "Golpear el suelo con la rodilla de atrás.",
+          "Dejar que la rodilla de delante se vaya hacia dentro."
+        ],
+        "tips": [
+          "Si te cuesta el equilibrio, apoya una mano en la pared.",
+          "Para progresar, sujeta una mochila o mancuernas."
+        ]
+      },
+      "en": {
+        "name": "Reverse lunge",
+        "description": "A lunge stepping backward, which is kinder on the knees than a forward lunge. It works each leg separately and improves single-leg balance, which is key for kicking and moving around.",
+        "steps": [
+          "Stand with your feet hip-width apart and your abs braced.",
+          "Take a long step back with one leg and land on the ball of the foot.",
+          "Lower until your back knee is close to the floor, with your torso leaning slightly forward.",
+          "Drive through the heel of your front leg to return to the start.",
+          "Finish the reps on one leg and switch, or alternate."
+        ],
+        "commonMistakes": [
+          "Stepping too short and overloading the front knee.",
+          "Banging the back knee into the floor.",
+          "Letting the front knee cave inward."
+        ],
+        "tips": [
+          "If balance is hard, rest one hand on a wall.",
+          "To progress, hold a backpack or dumbbells."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "glute-bridge",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES"],
+    "secondaryMuscles": ["HAMSTRINGS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "12-15",
+      "seconds": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Puente de glúteo",
+        "description": "Extensión de cadera tumbado boca arriba. Fortalece los glúteos, que generan gran parte de la potencia de las patadas y los rodillazos, con muy poca carga para la espalda.",
+        "steps": [
+          "Túmbate boca arriba con las rodillas flexionadas y los pies apoyados a la anchura de la cadera.",
+          "Pega la zona lumbar al suelo apretando ligeramente el abdomen.",
+          "Empuja con los talones y eleva la cadera hasta formar una línea recta de hombros a rodillas.",
+          "Aprieta los glúteos un segundo arriba.",
+          "Baja despacio sin dejar caer la cadera."
+        ],
+        "commonMistakes": [
+          "Arquear la zona lumbar en lugar de extender la cadera.",
+          "Empujar con las puntas en lugar de con los talones.",
+          "Bajar de golpe."
+        ],
+        "tips": [
+          "Cuando te resulte fácil, pasa al puente a una pierna o al hip thrust a una pierna.",
+          "Si notas los isquiotibiales más que los glúteos, acerca un poco los pies a la cadera."
+        ]
+      },
+      "en": {
+        "name": "Glute bridge",
+        "description": "Hip extension lying on your back. It strengthens the glutes, which produce much of the power in kicks and knees, with very little load on the spine.",
+        "steps": [
+          "Lie on your back with your knees bent and your feet flat, hip-width apart.",
+          "Press your lower back gently into the floor by lightly bracing your abs.",
+          "Drive through your heels and lift your hips until there is a straight line from shoulders to knees.",
+          "Squeeze your glutes for one second at the top.",
+          "Lower slowly without dropping your hips."
+        ],
+        "commonMistakes": [
+          "Arching the lower back instead of extending the hips.",
+          "Pushing through the toes instead of the heels.",
+          "Dropping down quickly."
+        ],
+        "tips": [
+          "When it gets easy, move on to the single-leg bridge or the single-leg hip thrust.",
+          "If you feel your hamstrings more than your glutes, bring your feet a little closer to your hips."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "lateral-lunge",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["ADDUCTORS", "QUADRICEPS"],
+    "secondaryMuscles": ["GLUTES", "HAMSTRINGS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "8-10",
+      "seconds": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Zancada lateral",
+        "description": "Zancada hacia un lado que fortalece aductores, cuádriceps y glúteos en el plano lateral. Útil para los desplazamientos laterales y para proteger la ingle en las patadas.",
+        "steps": [
+          "De pie con los pies juntos y el abdomen activado.",
+          "Da un paso amplio hacia un lado manteniendo ambos pies mirando al frente.",
+          "Flexiona la rodilla de la pierna que se desplaza y lleva la cadera atrás; la otra pierna queda estirada.",
+          "Mantén el pecho alto y el talón de la pierna flexionada apoyado.",
+          "Empuja con esa pierna para volver al centro y repite hacia el otro lado."
+        ],
+        "commonMistakes": [
+          "Girar los pies hacia fuera.",
+          "Dejar caer el pecho y redondear la espalda.",
+          "Bajar más de lo que permite tu movilidad de aductores."
+        ],
+        "tips": [
+          "Empieza con un recorrido corto y amplíalo con el tiempo.",
+          "Combínala con el estiramiento de aductores al final de la sesión."
+        ]
+      },
+      "en": {
+        "name": "Lateral lunge",
+        "description": "A sideways lunge that strengthens the adductors, quads and glutes in the lateral plane. Useful for lateral movement and for protecting the groin when kicking.",
+        "steps": [
+          "Stand with your feet together and your abs braced.",
+          "Take a wide step to one side, keeping both feet pointing forward.",
+          "Bend the knee of the stepping leg and send your hips back; the other leg stays straight.",
+          "Keep your chest up and the heel of the bent leg down.",
+          "Push off that leg to return to the centre and repeat to the other side."
+        ],
+        "commonMistakes": [
+          "Turning the feet out.",
+          "Dropping the chest and rounding the back.",
+          "Going deeper than your adductor mobility allows."
+        ],
+        "tips": [
+          "Start with a short range and increase it over time.",
+          "Pair it with the adductor stretch at the end of the session."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "wall-sit",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["QUADRICEPS"],
+    "secondaryMuscles": ["GLUTES", "ADDUCTORS"],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": null,
+      "seconds": 30,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Sentadilla isométrica en pared",
+        "description": "Mantener la sentadilla con la espalda apoyada en la pared. Desarrolla la resistencia de los cuádriceps para aguantar la guardia baja durante los asaltos.",
+        "steps": [
+          "Apoya la espalda en una pared y separa los pies unos 40-50 cm de ella.",
+          "Desliza la espalda hacia abajo hasta que las rodillas queden aproximadamente a 90 grados.",
+          "Coloca las rodillas encima de los tobillos, alineadas con los pies.",
+          "Mantén la posición respirando con normalidad.",
+          "Sube deslizando la espalda por la pared al terminar."
+        ],
+        "commonMistakes": [
+          "Bajar más allá de 90 grados sin tener la fuerza necesaria.",
+          "Apoyar las manos en los muslos para descargar.",
+          "Aguantar la respiración."
+        ],
+        "tips": [
+          "Si 90 grados es demasiado, quédate más arriba y baja poco a poco a lo largo de las semanas.",
+          "Detente si notas dolor en la rodilla, no solo cansancio muscular."
+        ]
+      },
+      "en": {
+        "name": "Wall sit",
+        "description": "Holding a squat with your back against a wall. It builds quad endurance so you can hold a low stance through every round.",
+        "steps": [
+          "Lean your back against a wall and set your feet about 40-50 cm away from it.",
+          "Slide your back down until your knees are at roughly 90 degrees.",
+          "Keep your knees over your ankles, in line with your feet.",
+          "Hold the position while breathing normally.",
+          "Slide back up the wall to finish."
+        ],
+        "commonMistakes": [
+          "Going below 90 degrees without the strength for it.",
+          "Resting your hands on your thighs to take the load off.",
+          "Holding your breath."
+        ],
+        "tips": [
+          "If 90 degrees is too much, stay higher and go lower gradually over the weeks.",
+          "Stop if you feel knee pain, not just muscle fatigue."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "single-leg-calf-raise",
+    "category": "STRENGTH",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["CALVES"],
+    "secondaryMuscles": [],
+    "equipment": ["NONE"],
+    "sports": [],
+    "defaults": {
+      "sets": 3,
+      "reps": "10-15",
+      "seconds": null,
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Elevación de gemelo a una pierna",
+        "description": "Elevación de talón sobre una sola pierna. Fortalece gemelos y sóleo, que sostienen el trabajo sobre la punta de los pies, los saltos y la comba, y ayuda a prevenir molestias en el tendón de Aquiles.",
+        "steps": [
+          "Ponte de pie sobre una pierna, cerca de una pared para apoyar ligeramente la mano.",
+          "Mantén la rodilla de la pierna de apoyo casi estirada.",
+          "Sube el talón todo lo que puedas, quedándote sobre el antepié.",
+          "Aguanta un segundo arriba.",
+          "Baja despacio, en unos 2-3 segundos."
+        ],
+        "commonMistakes": [
+          "Rebotar abajo en lugar de controlar la bajada.",
+          "Hacer un recorrido corto.",
+          "Dejar que el tobillo se vaya hacia fuera."
+        ],
+        "tips": [
+          "Para más recorrido, hazlo con el antepié sobre un escalón.",
+          "Si tienes molestias en el tendón de Aquiles, consulta a un profesional sanitario antes de cargarlo."
+        ]
+      },
+      "en": {
+        "name": "Single-leg calf raise",
+        "description": "A heel raise on one leg. It strengthens the calves and soleus, which support work on the balls of your feet, jumps and skipping, and it helps prevent Achilles tendon issues.",
+        "steps": [
+          "Stand on one leg near a wall so you can rest a hand on it lightly.",
+          "Keep the knee of the standing leg almost straight.",
+          "Raise your heel as high as you can, ending on the ball of the foot.",
+          "Hold for one second at the top.",
+          "Lower slowly, over about 2-3 seconds."
+        ],
+        "commonMistakes": [
+          "Bouncing at the bottom instead of controlling the descent.",
+          "Using a short range of motion.",
+          "Letting the ankle roll outward."
+        ],
+        "tips": [
+          "For more range, do it with the ball of your foot on a step.",
+          "If you have Achilles discomfort, check with a healthcare professional before loading it."
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "slug": "rpe-y-rir",
+    "category": "TRAINING_CONCEPT",
+    "sources": [
+      {
+        "title": "Helms et al. (2016). Application of the Repetitions in Reserve-Based RPE Scale for Resistance Training. Strength & Conditioning Journal",
+        "url": "https://doi.org/10.1519/SSC.0000000000000218"
+      },
+      {
+        "title": "Zourdos et al. (2016). Novel Resistance Training-Specific RPE Scale Measuring Repetitions in Reserve. Journal of Strength and Conditioning Research",
+        "url": "https://doi.org/10.1519/JSC.0000000000001049"
+      }
+    ],
+    "related": [
+      "sobrecarga-progresiva",
+      "volumen-e-intensidad",
+      "periodizacion",
+      "descarga-deload"
+    ],
+    "i18n": {
+      "es": {
+        "title": "RPE y RIR: cómo medir el esfuerzo",
+        "summary": "El RPE (esfuerzo percibido) y el RIR (repeticiones en reserva) te permiten ajustar la carga a cómo estás hoy, algo clave si entrenas solo y combinas pesas con golpeo.",
+        "body": "## Qué son\n\n- **RIR (repeticiones en reserva):** cuántas repeticiones limpias te quedaban al terminar la serie. Si haces 6 y podrías haber hecho 8, estás a **RIR 2**.\n- **RPE (esfuerzo percibido), escala 1-10 adaptada a la fuerza:** RPE 10 = no podías hacer ni una más; RPE 9 = te quedaba 1; RPE 8 = te quedaban 2; RPE 7 = te quedaban 3. Por debajo de 7 la estimación pierde precisión.\n\n| RPE | RIR | Sensación |\n|---|---|---|\n| 10 | 0 | Fallo o última repetición posible |\n| 9 | 1 | Muy duro, una más como mucho |\n| 8 | 2 | Duro, pero la técnica aguanta |\n| 7 | 3 | Exigente y rápido |\n| 6 o menos | 4+ | Calentamiento o trabajo técnico |\n\n## Por qué te sirve\n\nTu fuerza cambia de un día a otro según el sueño, el estrés y lo que hayas golpeado esa semana. Un porcentaje fijo del 1RM no tiene en cuenta eso; el RPE sí. Si ayer hiciste una sesión larga de saco, quizá los 80 kg de sentadilla que normalmente son RPE 7 hoy sean RPE 9: bajas la carga y sigues progresando sin hundirte.\n\n## Cómo aplicarlo semana a semana\n\n1. **Elige un objetivo de RPE por ejercicio.** Para fuerza en deportistas de golpeo, lo habitual es trabajar entre **RPE 6 y 8** en los básicos (sentadilla, peso muerto, press, dominadas).\n2. **Haz una serie de aproximación** y ajusta: si una serie pensada para RPE 7 te sale RPE 9, baja un 5-10 % la carga.\n3. **Apunta el RPE real** de cada serie efectiva en la app. Con el tiempo verás si la misma carga te cuesta menos: eso es progreso.\n4. **Reserva RPE 9-10** para algún ejercicio accesorio o para un test puntual, no para cada sesión.\n5. **Si entrenas solo,** en sentadilla y press banca trabaja dentro de un rack con barras de seguridad bien colocadas y no busques el fallo en esos ejercicios: sin nadie que te ayude, quédate siempre con al menos 1-2 repeticiones en reserva.\n\n### Ejemplo de semana (2 días de fuerza + 3 de técnica)\n\n- **Lunes, fuerza:** sentadilla 4 × 5 a RPE 7; press banca 3 × 6 a RPE 7-8; remo 3 × 8 a RPE 8.\n- **Martes, técnica de golpeo** en saco o sombra, intensidad moderada.\n- **Jueves, fuerza:** peso muerto rumano 3 × 6 a RPE 7; press militar 3 × 6 a RPE 7; dominadas 3 series dejando 1-2 repeticiones en reserva (RIR 1-2).\n- **Viernes y sábado:** técnica, condición específica por asaltos.\n\nSi el jueves llegas cargado del martes, mantén las series pero baja el objetivo a RPE 6-7.\n\n## Errores frecuentes\n\n- **Subestimar lo que te queda.** Al principio casi todos dicen RPE 9 cuando en realidad quedaban 3-4 repeticiones. Grabarte de vez en cuando o hacer algún test controlado ayuda a calibrar.\n- **Ir siempre al fallo.** En peso muerto o sentadilla aumenta la fatiga y el riesgo técnico sin aportar mucho más. Además te deja peor para golpear al día siguiente.\n- **Usar el RPE como excusa para no apretar nunca.** RPE 7 tiene que costar.\n\n## Señales de alerta\n\n- Si el RPE de cargas habituales sube durante 2 semanas seguidas sin motivo claro (sueño, estrés, más asaltos), puede que acumules fatiga: valora una **descarga**.\n- **Dolor articular punzante o localizado** durante una serie no es \"esfuerzo\": para el ejercicio. Si persiste, consulta a un profesional sanitario."
+      },
+      "en": {
+        "title": "RPE and RIR: measuring effort",
+        "summary": "RPE (rating of perceived exertion) and RIR (reps in reserve) let you match the load to how you feel today, which matters a lot when you train alone and mix lifting with striking.",
+        "body": "## What they are\n\n- **RIR (reps in reserve):** how many clean reps you had left when you racked the bar. If you did 6 and could have done 8, that set was **RIR 2**.\n- **RPE (rating of perceived exertion), 1-10 scale adapted to lifting:** RPE 10 = not one more rep; RPE 9 = 1 left; RPE 8 = 2 left; RPE 7 = 3 left. Below 7 the estimate gets fuzzy.\n\n| RPE | RIR | Feel |\n|---|---|---|\n| 10 | 0 | Failure or last possible rep |\n| 9 | 1 | Very hard, one more at most |\n| 8 | 2 | Hard, form still solid |\n| 7 | 3 | Challenging and fast |\n| 6 or less | 4+ | Warm-up or technique work |\n\n## Why it helps\n\nYour strength moves around day to day with sleep, stress and how much you hit the bag that week. A fixed percentage of your 1RM ignores that; RPE doesn't. If yesterday was a long bag session, the 80 kg squat that is usually RPE 7 might feel like RPE 9 today: drop the load a little and keep progressing instead of digging a hole.\n\n## How to use it week to week\n\n1. **Pick a target RPE per exercise.** For strikers, main lifts (squat, deadlift, press, pull-ups) usually live between **RPE 6 and 8**.\n2. **Do a ramp-up set** and adjust: if a set planned at RPE 7 comes out at RPE 9, take 5-10% off.\n3. **Log the actual RPE** of each working set in the app. Over time the same load will feel easier: that's progress.\n4. **Save RPE 9-10** for an accessory movement or an occasional test, not every session.\n5. **If you train alone,** squat and bench inside a rack with the safety bars set correctly, and don't chase failure on those lifts: with no spotter, always keep at least 1-2 reps in reserve.\n\n### Sample week (2 strength days + 3 technical days)\n\n- **Monday, strength:** squat 4 × 5 @ RPE 7; bench press 3 × 6 @ RPE 7-8; row 3 × 8 @ RPE 8.\n- **Tuesday, striking technique** on the bag or shadowboxing, moderate intensity.\n- **Thursday, strength:** Romanian deadlift 3 × 6 @ RPE 7; overhead press 3 × 6 @ RPE 7; pull-ups 3 sets, leaving 1-2 reps in reserve (RIR 1-2).\n- **Friday and Saturday:** technique and round-based conditioning.\n\nIf you arrive on Thursday still beat up from Tuesday, keep the sets but drop the target to RPE 6-7.\n\n## Common mistakes\n\n- **Underestimating what's left.** Beginners often call RPE 9 when they had 3-4 reps in the tank. Filming a set now and then or doing a controlled test helps you calibrate.\n- **Training to failure all the time.** On deadlifts or squats it piles up fatigue and technical risk for little extra benefit, and it leaves you flat for striking the next day.\n- **Using RPE as an excuse to never push.** RPE 7 should still feel like work.\n\n## Red flags\n\n- If your usual loads feel harder for 2 weeks in a row with no clear reason (sleep, stress, extra rounds), fatigue may be building up: consider a **deload**.\n- **Sharp or localised joint pain** during a set is not \"effort\": stop the exercise. If it persists, see a healthcare professional."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "sobrecarga-progresiva",
+    "category": "TRAINING_CONCEPT",
+    "sources": [
+      {
+        "title": "ACSM (2009). Progression Models in Resistance Training for Healthy Adults. Medicine & Science in Sports & Exercise",
+        "url": "https://doi.org/10.1249/MSS.0b013e3181915670"
+      },
+      {
+        "title": "Plotkin et al. (2022). Progressive overload without progressing load? The effects of load or repetition progression on muscular adaptations. PeerJ",
+        "url": "https://doi.org/10.7717/peerj.14142"
+      },
+      {
+        "title": "Soligard et al. (2016). How much is too much? IOC consensus statement on load in sport and risk of injury. British Journal of Sports Medicine",
+        "url": "https://doi.org/10.1136/bjsports-2016-096581"
+      }
+    ],
+    "related": [
+      "rpe-y-rir",
+      "volumen-e-intensidad",
+      "periodizacion",
+      "descarga-deload",
+      "proteinas"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Sobrecarga progresiva",
+        "summary": "Para seguir mejorando necesitas aumentar poco a poco el estímulo: más carga, más repeticiones, más series o mejor calidad. La clave es progresar sin saltos bruscos.",
+        "body": "## Qué es\n\nLa sobrecarga progresiva consiste en **aumentar de forma gradual la exigencia** del entrenamiento para que el cuerpo siga adaptándose. Si siempre haces lo mismo, tras unas semanas dejas de mejorar.\n\n## Formas de progresar\n\nNo solo se progresa subiendo kilos. Tienes varias palancas:\n\n- **Carga:** de 60 kg a 62,5 kg con las mismas repeticiones.\n- **Repeticiones:** de 3 × 6 a 3 × 8 con el mismo peso (doble progresión).\n- **Series:** de 3 a 4 series en un ejercicio.\n- **Calidad y control:** mismo peso con mejor técnica, más velocidad o un RPE más bajo.\n- **Densidad:** el mismo trabajo en menos tiempo (útil en circuitos de condición).\n- **En el golpeo:** más asaltos, asaltos algo más largos, combinaciones más complejas o mayor ritmo de trabajo en el saco, siempre manteniendo la técnica.\n\n## Cómo aplicarlo semana a semana\n\n### Doble progresión (recomendado si empiezas)\n\n1. Elige un rango, por ejemplo **3 series de 6-8 repeticiones a RPE 7-8**.\n2. Empieza con un peso con el que hagas 6 en todas las series.\n3. Cada sesión intenta sumar repeticiones.\n4. Cuando completes **3 × 8** con buena técnica, sube la carga un 2,5-5 % y vuelve a 3 × 6.\n\n### Ejemplo con sentadilla goblet (rango de 8-12 repeticiones)\n\nCon kettlebells o mancuernas los saltos de peso son grandes (de 20 a 24 kg es un 20 %), por eso aquí conviene usar un rango de repeticiones más amplio:\n\n- Semana 1: 20 kg, 3 × 8\n- Semana 2: 20 kg, 3 × 10\n- Semana 3: 20 kg, 3 × 12\n- Semana 4: 24 kg, 3 × 8\n\n### Regla práctica de volumen\n\nEvita subir de golpe la carga total semanal. Una referencia prudente (orientativa, no una regla científica estricta) es **no aumentar más de un 10 % aprox.** el volumen de una semana a la siguiente, y menos aún si a la vez aumentas los días de golpeo. Los picos bruscos de carga se asocian a un mayor riesgo de lesión.\n\n## Combinarlo con el golpeo\n\n- **No progreses todo a la vez.** Si esta semana añades un asalto extra de saco, mantén la fuerza igual.\n- Prioriza la progresión en pocos ejercicios básicos y deja el resto estable.\n- Tras cada 3-6 semanas de progresión, plantéate una semana más suave (descarga).\n\n## Señales de alerta\n\n- Estancamiento de 2-3 semanas con más fatiga, peor sueño o irritabilidad: no es momento de apretar más, sino de recuperar.\n- **Agujetas** moderadas tras subir el volumen son normales; **dolor articular**, dolor que empeora durante el ejercicio o que te despierta por la noche no lo son. Para y consulta a un profesional.\n- Si para progresar tienes que romper la técnica (rebotes, espalda redondeada, rodillas hacia dentro), aún no toca subir."
+      },
+      "en": {
+        "title": "Progressive overload",
+        "summary": "To keep improving you need to raise the training stimulus gradually: more load, more reps, more sets or better quality. The key is to progress without sudden jumps.",
+        "body": "## What it is\n\nProgressive overload means **gradually increasing training demands** so your body keeps adapting. Do the same thing forever and progress stalls within weeks.\n\n## Ways to progress\n\nAdding weight is only one lever:\n\n- **Load:** 60 kg to 62.5 kg for the same reps.\n- **Reps:** 3 × 6 to 3 × 8 with the same weight (double progression).\n- **Sets:** from 3 to 4 sets of an exercise.\n- **Quality and control:** same weight with cleaner form, more speed or a lower RPE.\n- **Density:** the same work in less time (handy for conditioning circuits).\n- **In striking:** more rounds, slightly longer rounds, more complex combinations or a higher work rate on the bag, always keeping technique sharp.\n\n## How to apply it week to week\n\n### Double progression (great if you're starting out)\n\n1. Pick a range, e.g. **3 sets of 6-8 reps at RPE 7-8**.\n2. Start with a weight you can do for 6 on every set.\n3. Try to add reps each session.\n4. Once you hit **3 × 8** with good form, add 2.5-5% and go back to 3 × 6.\n\n### Goblet squat example (8-12 rep range)\n\nWith kettlebells or dumbbells the weight jumps are big (20 to 24 kg is 20%), so a wider rep range works better here:\n\n- Week 1: 20 kg, 3 × 8\n- Week 2: 20 kg, 3 × 10\n- Week 3: 20 kg, 3 × 12\n- Week 4: 24 kg, 3 × 8\n\n### Practical volume rule\n\nAvoid sudden jumps in total weekly load. A conservative rule of thumb (a guide, not a strict scientific rule) is **not increasing weekly volume by more than roughly 10%**, and even less if you're also adding striking days. Sharp spikes in load are linked to higher injury risk.\n\n## Combining it with striking\n\n- **Don't progress everything at once.** If you add an extra bag round this week, keep strength work the same.\n- Focus progression on a few main lifts and keep the rest steady.\n- After every 3-6 weeks of progression, consider an easier week (deload).\n\n## Red flags\n\n- A 2-3 week plateau alongside more fatigue, worse sleep or irritability: this is a time to recover, not to push harder.\n- Moderate **muscle soreness** after a volume increase is normal; **joint pain**, pain that worsens during exercise or wakes you at night is not. Stop and see a professional.\n- If progressing means breaking form (bouncing, rounded back, knees caving), you're not ready to add more yet."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "periodizacion",
+    "category": "TRAINING_CONCEPT",
+    "sources": [
+      {
+        "title": "Issurin (2010). New Horizons for the Methodology and Physiology of Training Periodization. Sports Medicine",
+        "url": "https://doi.org/10.2165/11319770-000000000-00000"
+      },
+      {
+        "title": "Williams et al. (2017). Comparison of Periodized and Non-Periodized Resistance Training on Maximal Strength: A Meta-Analysis. Sports Medicine",
+        "url": "https://doi.org/10.1007/s40279-017-0734-y"
+      },
+      {
+        "title": "Wilson et al. (2012). Concurrent Training: A Meta-Analysis Examining Interference of Aerobic and Resistance Exercises. Journal of Strength and Conditioning Research",
+        "url": "https://doi.org/10.1519/JSC.0b013e31823a3e2d"
+      }
+    ],
+    "related": [
+      "sobrecarga-progresiva",
+      "descarga-deload",
+      "volumen-e-intensidad",
+      "rpe-y-rir",
+      "recuperacion-y-sueno"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Periodización",
+        "summary": "Periodizar es organizar el entrenamiento en bloques con objetivos claros para progresar, recuperar y llegar en forma a cuando lo necesitas, combinando fuerza y golpeo sin que se pisen.",
+        "body": "## Qué es\n\nLa periodización es **planificar el entrenamiento por etapas** en lugar de improvisar cada día. Se suele hablar de:\n\n- **Macrociclo:** la temporada o un periodo largo (por ejemplo, 4-6 meses).\n- **Mesociclo:** bloques de 3-6 semanas con un objetivo principal.\n- **Microciclo:** la semana de entrenamiento.\n\nLas revisiones científicas indican que los programas periodizados suelen dar **más ganancias de fuerza** que hacer siempre lo mismo.\n\n## Modelos habituales\n\n- **Lineal:** empiezas con más volumen y menos carga, y vas subiendo la intensidad mientras bajas el volumen.\n- **Ondulante:** cambias las repeticiones e intensidad dentro de la semana (por ejemplo, un día pesado y otro moderado). Va muy bien a quien combina pesas y golpeo, porque puedes colocar el día duro lejos de las sesiones más intensas de saco.\n- **Por bloques:** cada bloque se centra en una cualidad: base (técnica y trabajo general), fuerza, potencia/velocidad.\n\n## Ejemplo de mesociclo de 4 semanas (3 de carga + 1 de descarga)\n\n| Semana | Fuerza (2 días) | Golpeo (3 días) |\n|---|---|---|\n| 1 | 3 × 6 a RPE 7 | Técnica y 5 asaltos de saco moderados |\n| 2 | 4 × 6 a RPE 7-8 | 6 asaltos, más ritmo |\n| 3 | 4 × 5 a RPE 8 | 6-7 asaltos, combinaciones más complejas |\n| 4 (descarga) | 2-3 × 5 a RPE 6 | 4 asaltos, técnica suave |\n\n## Cómo organizar la semana si combinas fuerza y golpeo\n\n1. **Separa los estímulos más duros.** Si puedes, deja 6 horas o más entre una sesión de fuerza y una de golpeo intenso, o hazlas en días distintos.\n2. **Si los juntas el mismo día,** haz primero lo que sea tu prioridad. Para la mayoría de deportistas de golpeo, la técnica va primero, porque exige frescura y coordinación.\n3. **Día de piernas pesado lejos del trabajo de patadas intenso.** No pongas sentadillas pesadas la víspera de una sesión fuerte de patadas.\n4. **Alterna días duros y suaves.** Un ejemplo: L fuerza + técnica suave; M golpeo intenso; X descanso activo; J fuerza (piernas moderadas, sin buscar RPE alto, si el viernes toca patadas fuertes); V golpeo intenso; S técnica/sombra; D descanso.\n\nEl llamado \"efecto interferencia\" entre fuerza y resistencia existe, pero con buena organización y suficiente recuperación su impacto en la fuerza es modesto.\n\n## Si compites\n\nAl acercarte a una competición, reduce el volumen de fuerza (menos series), mantén algo de intensidad para conservar la fuerza y prioriza el trabajo específico y la frescura.\n\n## Señales de alerta\n\n- Rendimiento que baja durante semanas, sueño alterado, apatía o frecuencia cardiaca en reposo más alta de lo normal pueden indicar que la planificación no deja recuperar. Ajusta el plan y, si persiste, consulta a un profesional.\n- Planificar no significa ser rígido: si un día estás mal, adapta la sesión."
+      },
+      "en": {
+        "title": "Periodization",
+        "summary": "Periodization means organising training into blocks with clear goals so you progress, recover and peak when you need to, fitting strength and striking together without them clashing.",
+        "body": "## What it is\n\nPeriodization is **planning training in phases** instead of improvising every day. The usual terms are:\n\n- **Macrocycle:** the season or a long period (e.g. 4-6 months).\n- **Mesocycle:** 3-6 week blocks with one main goal.\n- **Microcycle:** your training week.\n\nResearch reviews suggest periodized programmes tend to produce **greater strength gains** than doing the same thing all the time.\n\n## Common models\n\n- **Linear:** start with more volume and lighter loads, then raise intensity while cutting volume.\n- **Undulating:** vary reps and intensity within the week (e.g. one heavy day and one moderate day). This suits strikers well, because you can place the heavy day away from your hardest bag sessions.\n- **Block:** each block targets one quality: base (technique and general work), strength, power/speed.\n\n## Sample 4-week mesocycle (3 loading weeks + 1 deload)\n\n| Week | Strength (2 days) | Striking (3 days) |\n|---|---|---|\n| 1 | 3 × 6 @ RPE 7 | Technique and 5 moderate bag rounds |\n| 2 | 4 × 6 @ RPE 7-8 | 6 rounds, higher pace |\n| 3 | 4 × 5 @ RPE 8 | 6-7 rounds, more complex combinations |\n| 4 (deload) | 2-3 × 5 @ RPE 6 | 4 rounds, easy technique |\n\n## Structuring the week when mixing strength and striking\n\n1. **Separate the hardest sessions.** If you can, leave 6+ hours between strength and intense striking, or put them on different days.\n2. **If they share a day,** do your priority first. For most strikers, technique comes first because it needs freshness and coordination.\n3. **Keep heavy leg days away from hard kicking sessions.** Don't squat heavy the night before a tough kicking session.\n4. **Alternate hard and easy days.** For example: Mon strength + light technique; Tue hard striking; Wed active rest; Thu strength (keep legs moderate, no high RPE, if Friday is a hard kicking day); Fri hard striking; Sat technique/shadowboxing; Sun off.\n\nThe so-called \"interference effect\" between strength and endurance work is real, but with sensible scheduling and enough recovery its effect on strength is modest.\n\n## If you compete\n\nAs a competition approaches, cut strength volume (fewer sets), keep some intensity to hold on to strength, and prioritise sport-specific work and freshness.\n\n## Red flags\n\n- Performance dropping for weeks, disturbed sleep, low motivation or a higher than usual resting heart rate can mean your plan isn't letting you recover. Adjust it, and if it persists, see a professional.\n- Planning doesn't mean being rigid: if you feel awful one day, adapt the session."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "descarga-deload",
+    "category": "TRAINING_CONCEPT",
+    "sources": [
+      {
+        "title": "Bell et al. (2023). Integrating Deloading into Strength and Physique Sports Training Programmes: An International Delphi Consensus Approach. Sports Medicine - Open",
+        "url": "https://doi.org/10.1186/s40798-023-00633-0"
+      },
+      {
+        "title": "Coleman et al. (2024). Gaining more from doing less? The effects of a one-week deload period during supervised resistance training on muscular adaptations. PeerJ",
+        "url": "https://doi.org/10.7717/peerj.16777"
+      },
+      {
+        "title": "Meeusen et al. (2013). Prevention, Diagnosis, and Treatment of the Overtraining Syndrome: Joint Consensus Statement of the ECSS and the ACSM. Medicine & Science in Sports & Exercise",
+        "url": "https://doi.org/10.1249/MSS.0b013e318279a10a"
+      }
+    ],
+    "related": [
+      "periodizacion",
+      "sobrecarga-progresiva",
+      "recuperacion-y-sueno",
+      "rpe-y-rir",
+      "volumen-e-intensidad"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Descarga (deload)",
+        "summary": "Una descarga es un periodo corto, normalmente una semana, en el que reduces el volumen o la intensidad para disipar fatiga y volver a progresar con más ganas y menos molestias.",
+        "body": "## Qué es\n\nLa descarga es una **reducción planificada del entrenamiento** durante unos días (habitualmente 5-7) para gestionar la fatiga acumulada. No es parar: sigues entrenando, pero más suave.\n\n## Cuándo hacerla\n\n- **Planificada:** cada 4-8 semanas de entrenamiento duro, según tu nivel y tu carga total. Muchos deportistas que combinan fuerza y golpeo encajan bien con **3 semanas de carga + 1 de descarga**.\n- **Reactiva:** cuando notas varias señales a la vez durante más de una semana:\n  - Las cargas habituales te cuestan más (RPE más alto).\n  - Duermes peor o te despiertas cansado.\n  - Molestias articulares que van a más.\n  - Falta de ganas, irritabilidad, técnica más torpe en el saco.\n\n## Cómo hacer una descarga\n\nElige una o combina dos opciones:\n\n- **Menos volumen:** reduce las series un 40-50 % (de 4 × 6 a 2 × 6) manteniendo una carga moderada.\n- **Menos intensidad:** mismas series pero con un 10-20 % menos de carga o a **RPE 5-6**.\n- **Menos frecuencia:** un día de fuerza en vez de dos.\n\n### Ejemplo práctico\n\n| | Semana normal | Semana de descarga |\n|---|---|---|\n| Sentadilla | 4 × 5 a RPE 8 | 2 × 5 a RPE 6 |\n| Press banca | 4 × 6 a RPE 8 | 2 × 6 a RPE 6 |\n| Saco | 6 asaltos de 3 min | 3-4 asaltos técnicos a ritmo cómodo |\n| Condición | 2 sesiones de intervalos | 1 sesión suave o paseo en bici |\n\n## Qué hacer en la semana de descarga\n\n- Aprovecha para **pulir técnica**: sombra lenta, trabajo de pies, defensa, precisión.\n- Movilidad y estiramientos suaves.\n- Cuida el **sueño** y la alimentación; no es momento de recortar comida de forma drástica.\n\n## Qué esperar\n\nLo normal es volver la semana siguiente con mejor sensación y cargas que se mueven más rápido. Los estudios disponibles, todavía escasos, sugieren que una descarga de una semana no hace perder masa muscular de forma relevante; en fuerza, los resultados son similares o con diferencias pequeñas. Por eso conviene usarla cuando la fatiga lo pide, no como un fin en sí misma.\n\n## Señales de alerta\n\n- Si después de una descarga sigues igual de cansado, con bajo rendimiento y mal humor durante semanas, la fatiga puede tener otras causas (estrés, sueño, alimentación, enfermedad). Consulta a un profesional sanitario.\n- Un dolor que no mejora con una semana de menos carga merece una valoración profesional."
+      },
+      "en": {
+        "title": "Deload",
+        "summary": "A deload is a short period, usually a week, where you cut volume or intensity to shed accumulated fatigue and come back ready to progress with fewer aches.",
+        "body": "## What it is\n\nA deload is a **planned reduction in training** for a few days (usually 5-7) to manage accumulated fatigue. It isn't stopping: you keep training, just lighter.\n\n## When to deload\n\n- **Planned:** every 4-8 weeks of hard training, depending on your level and total workload. Many people mixing lifting and striking do well with **3 loading weeks + 1 deload week**.\n- **Reactive:** when several signs show up together for more than a week:\n  - Usual loads feel heavier (higher RPE).\n  - Poorer sleep or waking up tired.\n  - Joint aches that keep getting worse.\n  - Low motivation, irritability, sloppier technique on the bag.\n\n## How to deload\n\nPick one approach or combine two:\n\n- **Less volume:** cut sets by 40-50% (from 4 × 6 to 2 × 6) with a moderate load.\n- **Less intensity:** same sets, 10-20% less weight or **RPE 5-6**.\n- **Less frequency:** one strength day instead of two.\n\n### Practical example\n\n| | Normal week | Deload week |\n|---|---|---|\n| Squat | 4 × 5 @ RPE 8 | 2 × 5 @ RPE 6 |\n| Bench press | 4 × 6 @ RPE 8 | 2 × 6 @ RPE 6 |\n| Bag | 6 × 3-min rounds | 3-4 technical rounds at an easy pace |\n| Conditioning | 2 interval sessions | 1 easy session or a light bike ride |\n\n## What to do during a deload week\n\n- Use it to **sharpen technique**: slow shadowboxing, footwork, defence, accuracy.\n- Mobility and gentle stretching.\n- Look after **sleep** and nutrition; this isn't the time for drastic food restriction.\n\n## What to expect\n\nMost people come back the following week feeling better, with loads moving faster. The still limited research suggests a one-week deload doesn't cause meaningful muscle loss; for strength, results are similar or show small differences. So use it when fatigue calls for it, not as an end in itself.\n\n## Red flags\n\n- If you're still just as tired, underperforming and moody for weeks after a deload, the fatigue may have other causes (stress, sleep, nutrition, illness). See a healthcare professional.\n- Pain that doesn't improve after a lighter week deserves a professional assessment."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "calentamiento",
+    "category": "TRAINING_CONCEPT",
+    "sources": [
+      {
+        "title": "McGowan et al. (2015). Warm-Up Strategies for Sport and Exercise: Mechanisms and Applications. Sports Medicine",
+        "url": "https://doi.org/10.1007/s40279-015-0376-x"
+      },
+      {
+        "title": "ACSM (2009). Progression Models in Resistance Training for Healthy Adults. Medicine & Science in Sports & Exercise",
+        "url": "https://doi.org/10.1249/MSS.0b013e3181915670"
+      }
+    ],
+    "related": ["rpe-y-rir", "agujetas-doms", "hidratacion-durante-el-entrenamiento", "cafeina"],
+    "i18n": {
+      "es": {
+        "title": "Calentamiento",
+        "summary": "Un buen calentamiento sube la temperatura corporal, prepara articulaciones y sistema nervioso y te permite rendir mejor desde la primera serie o el primer asalto. Con 10-15 minutos suele bastar.",
+        "body": "## Para qué sirve\n\nCalentar **aumenta la temperatura muscular**, mejora la movilidad de las articulaciones y \"despierta\" la coordinación. Se asocia a mejor rendimiento en fuerza, velocidad y potencia, justo lo que necesitas para golpear rápido y fuerte.\n\n## Estructura recomendada (modelo RAMP)\n\n1. **Elevar la temperatura (3-5 min):** comba suave, bici, trote en el sitio o sombra muy suelta. Debes empezar a sudar ligeramente, no cansarte.\n2. **Movilidad dinámica (3-5 min):** círculos de cadera, balanceos de pierna adelante y lateral, rotaciones de hombros, movilidad suave de cuello, aperturas torácicas, sentadilla profunda con pausa.\n3. **Activación específica (2-3 min):** puentes de glúteo, bandas para hombros, plancha corta, saltos suaves.\n4. **Potenciar (2-4 min):** ir acercándote a la intensidad de la sesión.\n\n## Antes de una sesión de fuerza\n\nTras el calentamiento general, haz **series de aproximación** en el primer ejercicio. Ejemplo para una sentadilla de trabajo de 80 kg × 5:\n\n- Barra sola × 10\n- 40 kg × 5\n- 60 kg × 3\n- 70 kg × 2\n- Series de trabajo: 80 kg × 5 a RPE 7\n\nPara el resto de ejercicios suele bastar con 1-2 series ligeras.\n\n## Antes de una sesión de golpeo\n\n- 2-3 min de comba.\n- Movilidad de caderas, tobillos, hombros y cuello.\n- **Sombra progresiva:** un asalto suave centrado en guardia y desplazamientos, otro con golpes rectos al 50-60 %, y otro añadiendo patadas y velocidad.\n- Patadas al aire o al saco empezando bajas y suaves; sube altura y potencia de forma gradual. Al patear o golpear al aire, no bloquees la rodilla ni el codo en seco al final del golpe.\n\n## Errores frecuentes\n\n- **Saltártelo cuando vas con prisa.** Empezar en frío con cargas o golpes fuertes te deja más expuesto a una lesión. Si tienes poco tiempo, acorta la sesión, no el calentamiento.\n- **Estiramientos estáticos largos** (más de 60 s por músculo) justo antes de trabajo explosivo: pueden restar algo de potencia. Mejor dejarlos para después o usar movilidad dinámica.\n- **Calentar demasiado fuerte** y llegar fatigado a lo importante.\n\n## Señales de alerta\n\n- Si una articulación sigue rígida o dolorosa tras calentar bien, no fuerces patadas altas ni cargas pesadas ese día.\n- Dolor que aumenta a medida que calientas, en lugar de disminuir, es motivo para parar y consultar a un profesional."
+      },
+      "en": {
+        "title": "Warm-up",
+        "summary": "A good warm-up raises body temperature, prepares your joints and nervous system and lets you perform from the very first set or round. 10-15 minutes is usually enough.",
+        "body": "## Why it matters\n\nWarming up **raises muscle temperature**, improves joint mobility and wakes up your coordination. It is linked to better strength, speed and power output, which is exactly what you need to strike fast and hard.\n\n## Recommended structure (RAMP model)\n\n1. **Raise (3-5 min):** easy skipping, bike, jogging on the spot or very loose shadowboxing. You should start to sweat lightly, not get tired.\n2. **Dynamic mobility (3-5 min):** hip circles, front and side leg swings, shoulder rolls, gentle neck mobility, thoracic openers, deep squat with a pause.\n3. **Activate (2-3 min):** glute bridges, band work for the shoulders, short plank, light hops.\n4. **Potentiate (2-4 min):** build up towards the intensity of the session.\n\n## Before a strength session\n\nAfter the general warm-up, do **ramp-up sets** on your first exercise. Example for a working squat of 80 kg × 5:\n\n- Empty bar × 10\n- 40 kg × 5\n- 60 kg × 3\n- 70 kg × 2\n- Working sets: 80 kg × 5 @ RPE 7\n\nFor the remaining exercises, 1-2 light sets are usually enough.\n\n## Before a striking session\n\n- 2-3 min of skipping.\n- Mobility for hips, ankles, shoulders and neck.\n- **Progressive shadowboxing:** one easy round focusing on stance and footwork, one with straight punches at 50-60%, and one adding kicks and speed.\n- Kicks in the air or on the bag starting low and soft; build height and power gradually. When kicking or punching the air, don't snap your knee or elbow into full lockout at the end.\n\n## Common mistakes\n\n- **Skipping it when you're short on time.** Going straight into heavy loads or hard shots from cold leaves you more exposed to injury. If time is tight, shorten the session, not the warm-up.\n- **Long static stretches** (over 60 s per muscle) right before explosive work: they can blunt power slightly. Save them for later or use dynamic mobility instead.\n- **Warming up too hard** and arriving tired at the main work.\n\n## Red flags\n\n- If a joint is still stiff or painful after a proper warm-up, skip high kicks and heavy loads that day.\n- Pain that gets worse as you warm up, instead of easing off, is a reason to stop and see a professional."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "recuperacion-y-sueno",
+    "category": "TRAINING_CONCEPT",
+    "sources": [
+      {
+        "title": "Fullagar et al. (2015). Sleep and Athletic Performance: The Effects of Sleep Loss on Exercise Performance. Sports Medicine",
+        "url": "https://doi.org/10.1007/s40279-014-0260-0"
+      },
+      {
+        "title": "Watson (2017). Sleep and Athletic Performance. Current Sports Medicine Reports",
+        "url": "https://doi.org/10.1249/JSR.0000000000000418"
+      },
+      {
+        "title": "Hirshkowitz et al. (2015). National Sleep Foundation's sleep time duration recommendations. Sleep Health",
+        "url": "https://doi.org/10.1016/j.sleh.2014.12.010"
+      },
+      {
+        "title": "Kellmann et al. (2018). Recovery and Performance in Sport: Consensus Statement. International Journal of Sports Physiology and Performance",
+        "url": "https://doi.org/10.1123/ijspp.2017-0759"
+      }
+    ],
+    "related": [
+      "descarga-deload",
+      "agujetas-doms",
+      "proteinas",
+      "carbohidratos",
+      "hidratacion-diaria",
+      "magnesio"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Recuperación y sueño",
+        "summary": "Mejoras cuando te recuperas, no solo cuando entrenas. Dormir bien, comer suficiente y alternar días duros y suaves es la base; el resto son detalles.",
+        "body": "## Por qué importa\n\nEl entrenamiento genera fatiga y pequeños daños; la adaptación (más fuerza, mejor técnica, más resistencia) ocurre durante la recuperación. Dormir poco se asocia a **peor rendimiento**, peor toma de decisiones y tiempo de reacción más lento, algo crítico en los deportes de golpeo.\n\n## Los pilares, por orden de importancia\n\n1. **Sueño:** la mayoría de adultos necesita **7-9 horas**. Si entrenas mucho, apunta a la parte alta.\n2. **Alimentación suficiente:** energía total adecuada, proteína repartida en el día y carbohidratos acordes a tu volumen de entrenamiento.\n3. **Hidratación diaria** adecuada.\n4. **Gestión de la carga:** alternar días duros y suaves, y hacer descargas periódicas.\n5. **Estrés de la vida diaria:** trabajo, estudios y descanso mental también cuentan.\n\nTécnicas como masaje, foam roller o compresión pueden ayudar a sentirse mejor, pero **no sustituyen** a los pilares anteriores.\n\n## Higiene del sueño práctica\n\n- Horarios regulares para acostarte y levantarte, también el fin de semana.\n- Habitación oscura, fresca y silenciosa.\n- Evita la cafeína en las 6-8 horas previas a dormir.\n- Reduce pantallas y luz intensa en la última hora.\n- Si entrenas tarde, deja un rato para bajar pulsaciones: ducha, cena, algo de calma.\n- Una siesta corta (20-30 min) puede ayudar si has dormido poco.\n\n## Cómo organizar la recuperación en la semana\n\nEjemplo para alguien que combina 2 días de fuerza y 3 de golpeo:\n\n- **Nunca más de 2 días duros seguidos.**\n- Tras una sesión intensa de saco o de intervalos, el día siguiente técnica suave o descanso activo (paseo, bici suave, movilidad).\n- Al menos **1 día completo de descanso** a la semana.\n- Si una noche duermes muy poco, baja la intensidad de la sesión del día siguiente (por ejemplo, de RPE 8 a RPE 6-7) en lugar de saltártela o forzar.\n\n## Autoevaluación rápida cada mañana\n\nPuntúa del 1 al 5: calidad del sueño, energía, dolor muscular, estado de ánimo y ganas de entrenar. Si la suma cae claramente varios días seguidos, ajusta la carga.\n\n## Señales de alerta (posible exceso de carga)\n\n- Rendimiento que baja durante semanas a pesar de descansar.\n- Insomnio o sueño poco reparador persistente.\n- Frecuencia cardiaca en reposo más alta de lo habitual de forma mantenida.\n- Infecciones frecuentes, irritabilidad, falta de motivación.\n- Molestias que no se van.\n\nSi notas varias de estas señales durante más de 2 semanas, reduce el entrenamiento y consulta a un profesional sanitario. Los problemas de sueño persistentes también merecen valoración médica."
+      },
+      "en": {
+        "title": "Recovery and sleep",
+        "summary": "You improve when you recover, not just when you train. Good sleep, eating enough and alternating hard and easy days are the foundation; everything else is detail.",
+        "body": "## Why it matters\n\nTraining creates fatigue and minor damage; adaptation (more strength, sharper technique, better endurance) happens during recovery. Short sleep is linked to **poorer performance**, worse decision-making and slower reaction time, which is critical in striking sports.\n\n## The pillars, in order of importance\n\n1. **Sleep:** most adults need **7-9 hours**. If you train a lot, aim for the upper end.\n2. **Eating enough:** adequate total energy, protein spread through the day and carbohydrates matched to your training volume.\n3. **Daily hydration**.\n4. **Load management:** alternating hard and easy days and taking regular deloads.\n5. **Life stress:** work, study and mental rest all count.\n\nTools like massage, foam rolling or compression may help you feel better, but they **don't replace** the pillars above.\n\n## Practical sleep habits\n\n- Consistent bed and wake times, weekends included.\n- A dark, cool, quiet bedroom.\n- Avoid caffeine in the 6-8 hours before bed.\n- Cut back on screens and bright light in the last hour.\n- If you train late, give yourself time to wind down: shower, dinner, something calm.\n- A short nap (20-30 min) can help after a poor night.\n\n## Planning recovery across the week\n\nExample for someone doing 2 strength days and 3 striking days:\n\n- **Never more than 2 hard days in a row.**\n- After an intense bag or interval session, follow up with light technique or active recovery (walk, easy bike, mobility).\n- At least **1 full rest day** per week.\n- After a very short night, lower the intensity of the next session (e.g. from RPE 8 to RPE 6-7) rather than skipping it or forcing it.\n\n## Quick morning check-in\n\nScore 1 to 5: sleep quality, energy, muscle soreness, mood and motivation to train. If the total drops clearly for several days in a row, adjust your training load.\n\n## Red flags (possible overload)\n\n- Performance dropping for weeks despite rest.\n- Persistent insomnia or unrefreshing sleep.\n- A resting heart rate that stays higher than usual.\n- Frequent infections, irritability, loss of motivation.\n- Aches that won't go away.\n\nIf you notice several of these for more than 2 weeks, cut back on training and see a healthcare professional. Persistent sleep problems also deserve medical attention."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "volumen-e-intensidad",
+    "category": "TRAINING_CONCEPT",
+    "sources": [
+      {
+        "title": "Schoenfeld et al. (2017). Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis. Journal of Sports Sciences",
+        "url": "https://doi.org/10.1080/02640414.2016.1210197"
+      },
+      {
+        "title": "ACSM (2009). Progression Models in Resistance Training for Healthy Adults. Medicine & Science in Sports & Exercise",
+        "url": "https://doi.org/10.1249/MSS.0b013e3181915670"
+      },
+      {
+        "title": "Schumann et al. (2022). Compatibility of Concurrent Aerobic and Strength Training for Skeletal Muscle Size and Function. Sports Medicine",
+        "url": "https://doi.org/10.1007/s40279-021-01587-7"
+      }
+    ],
+    "related": [
+      "rpe-y-rir",
+      "sobrecarga-progresiva",
+      "periodizacion",
+      "descarga-deload",
+      "carbohidratos"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Volumen e intensidad",
+        "summary": "El volumen es cuánto entrenas y la intensidad, lo duro que entrenas. Equilibrar ambos, sumando la fuerza y el golpeo, es lo que te permite progresar sin acumular fatiga de más.",
+        "body": "## Definiciones\n\n- **Volumen:** la cantidad de trabajo. En fuerza se suele contar como **series efectivas por grupo muscular a la semana** (series a RPE 7 o más). En golpeo: número de asaltos, minutos de trabajo o golpes totales.\n- **Intensidad:** lo exigente que es cada esfuerzo. En fuerza, la carga respecto a tu máximo (%1RM) o el RPE. En golpeo, el ritmo y la potencia de los golpes, o la frecuencia cardiaca.\n\nPor lo general, **cuando sube uno, baja el otro**: no puedes hacer muchísimas series muy pesadas ni muchos asaltos a tope.\n\n## Rangos orientativos de fuerza\n\n| Objetivo | Repeticiones | Intensidad | Series por ejercicio |\n|---|---|---|---|\n| Fuerza máxima | 3-6 | 80-90 % 1RM / RPE 7-9 | 3-5 |\n| Hipertrofia | 6-12 (hasta 15-20 también vale) | 65-80 % / RPE 7-9 | 2-4 |\n| Potencia | 3-5 rápidas | 30-60 % o pliometría | 3-5 |\n\nPara un deportista de golpeo, **2-3 sesiones de fuerza de 45-60 min** con **6-12 series semanales por grupo muscular** suele ser un buen punto de partida. Más volumen puede dar algo más de músculo, pero cuesta recuperación que también necesitas para el saco.\n\n## Cómo repartirlo en la semana\n\n- **Fuerza pesada, poco volumen** (por ejemplo, 3-4 × 3-5 a RPE 7-8) interfiere menos con el golpeo que muchas series al fallo.\n- Trabajo de **potencia** (saltos, lanzamientos de balón medicinal) mejor al principio de la sesión, fresco, con descansos completos (1,5-3 min).\n- En el golpeo, alterna sesiones de **alto volumen y baja intensidad** (técnica, sombra, muchos asaltos suaves) con sesiones de **baja duración y alta intensidad** (intervalos en saco, por ejemplo 6-8 × 30 s fuertes / 60 s suaves).\n\n### Ejemplo de semana equilibrada\n\n- **Lunes:** fuerza (sentadilla 4 × 5 a RPE 7, press 3 × 6, remo 3 × 8) + 3 asaltos técnicos suaves.\n- **Martes:** golpeo intenso: 6 asaltos de 3 min en saco a ritmo alto.\n- **Miércoles:** descanso activo.\n- **Jueves:** fuerza/potencia (saltos 4 × 3, peso muerto rumano 3 × 6, dominadas 3 × 6-8).\n- **Viernes:** técnica de alto volumen y baja intensidad: 8 asaltos de sombra y saco al 60 %.\n- **Sábado:** intervalos cortos en saco.\n- **Domingo:** descanso.\n\n## Errores frecuentes\n\n- Sumar volumen de fuerza y golpeo sin mirar el total: tu cuerpo no distingue \"piernas del gimnasio\" de \"piernas de las patadas\".\n- Todo a intensidad media: ni suficientemente duro para mejorar la potencia ni suficientemente suave para recuperar.\n\n## Señales de alerta\n\n- Si la técnica se deteriora (guardia que baja, golpes que se abren), el volumen de ese día ya es excesivo para la calidad que buscas.\n- Fatiga creciente semana a semana, molestias articulares o peor sueño: reduce primero el volumen (series, asaltos) antes que la intensidad."
+      },
+      "en": {
+        "title": "Volume and intensity",
+        "summary": "Volume is how much you train and intensity is how hard. Balancing both, counting strength and striking together, is what lets you progress without piling up excess fatigue.",
+        "body": "## Definitions\n\n- **Volume:** the amount of work. In lifting it's usually counted as **hard sets per muscle group per week** (sets at RPE 7 or higher). In striking: number of rounds, minutes of work or total strikes.\n- **Intensity:** how demanding each effort is. In lifting, the load relative to your max (%1RM) or RPE. In striking, the pace and power of your shots, or your heart rate.\n\nAs a rule, **when one goes up, the other comes down**: you can't do loads of very heavy sets or lots of all-out rounds.\n\n## Rough strength guidelines\n\n| Goal | Reps | Intensity | Sets per exercise |\n|---|---|---|---|\n| Max strength | 3-6 | 80-90% 1RM / RPE 7-9 | 3-5 |\n| Hypertrophy | 6-12 (15-20 also works) | 65-80% / RPE 7-9 | 2-4 |\n| Power | 3-5 fast reps | 30-60% or plyometrics | 3-5 |\n\nFor a striker, **2-3 strength sessions of 45-60 min** with **6-12 weekly sets per muscle group** is usually a good starting point. More volume might add a bit more muscle, but it eats into the recovery you also need for bag work.\n\n## Spreading it across the week\n\n- **Heavy, low-volume strength work** (e.g. 3-4 × 3-5 @ RPE 7-8) interferes less with striking than lots of sets to failure.\n- **Power** work (jumps, medicine ball throws) goes early in the session, while fresh, with full rest (1.5-3 min).\n- In striking, alternate **high-volume, low-intensity** sessions (technique, shadowboxing, many easy rounds) with **short, high-intensity** sessions (bag intervals, e.g. 6-8 × 30 s hard / 60 s easy).\n\n### Sample balanced week\n\n- **Monday:** strength (squat 4 × 5 @ RPE 7, press 3 × 6, row 3 × 8) + 3 easy technical rounds.\n- **Tuesday:** hard striking: 6 × 3-min bag rounds at a high pace.\n- **Wednesday:** active recovery.\n- **Thursday:** strength/power (jumps 4 × 3, Romanian deadlift 3 × 6, pull-ups 3 × 6-8).\n- **Friday:** high-volume, low-intensity technique: 8 rounds of shadowboxing and bag at 60%.\n- **Saturday:** short bag intervals.\n- **Sunday:** rest.\n\n## Common mistakes\n\n- Adding up strength and striking volume without looking at the total: your body doesn't know the difference between \"gym legs\" and \"kicking legs\".\n- Doing everything at medium intensity: not hard enough to build power, not easy enough to recover.\n\n## Red flags\n\n- When technique starts to fall apart (guard dropping, punches going wide), that day's volume is already too much for the quality you're after.\n- Fatigue building week on week, joint aches or worse sleep: cut volume (sets, rounds) first, before intensity."
+      }
+    },
+    "supplement": null
+  },
+  {
+    "slug": "agujetas-doms",
+    "category": "TRAINING_CONCEPT",
+    "sources": [
+      {
+        "title": "Cheung, Hume & Maxwell (2003). Delayed Onset Muscle Soreness: Treatment Strategies and Performance Factors. Sports Medicine",
+        "url": "https://doi.org/10.2165/00007256-200333020-00005"
+      },
+      {
+        "title": "Dupuy et al. (2018). An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques. Frontiers in Physiology",
+        "url": "https://doi.org/10.3389/fphys.2018.00403"
+      },
+      {
+        "title": "Pearcey et al. (2015). Foam Rolling for Delayed-Onset Muscle Soreness and Recovery of Dynamic Performance Measures. Journal of Athletic Training",
+        "url": "https://doi.org/10.4085/1062-6050-50.1.01"
+      }
+    ],
+    "related": [
+      "recuperacion-y-sueno",
+      "calentamiento",
+      "sobrecarga-progresiva",
+      "proteinas",
+      "descarga-deload"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Agujetas (DOMS)",
+        "summary": "Las agujetas son el dolor muscular que aparece 12-72 horas después de un esfuerzo nuevo o más intenso de lo habitual. Son normales y pasajeras, pero conviene distinguirlas de una lesión.",
+        "body": "## Qué son\n\nLas agujetas, o **DOMS** (dolor muscular de aparición tardía), son una molestia muscular difusa que aparece entre **12 y 24 horas** después del ejercicio, alcanza su pico hacia las **24-72 horas** y desaparece en pocos días. Se relacionan con microdaños en el músculo y la respuesta posterior, **no con el \"ácido láctico\"**.\n\nSon más intensas cuando:\n\n- Haces un ejercicio nuevo o vuelves tras un parón.\n- Subes mucho el volumen de golpe.\n- Hay mucho trabajo **excéntrico** (bajar despacio, peso muerto rumano, zancadas, bajar escaleras).\n\nQue no tengas agujetas **no significa** que el entrenamiento no haya servido.\n\n## Cómo reducirlas\n\n- **Progresa de forma gradual:** la mejor prevención. Tras la primera sesión de un ejercicio nuevo, el cuerpo se adapta y las siguientes duelen mucho menos (el llamado efecto de la carga repetida).\n- **Empieza con poco volumen** cuando introduzcas ejercicios, por ejemplo 2 × 8 a RPE 6 en la primera semana, y súbelo después.\n- **Movimiento suave:** paseo, bici suave, sombra a ritmo cómodo o movilidad alivian temporalmente la sensación.\n- **Masaje y foam roller** pueden reducir algo la percepción de dolor.\n- **Sueño y alimentación suficiente,** incluida proteína.\n\nEstirar fuerte o tomar analgésicos \"para que no duela\" no ha demostrado ser de gran ayuda, y el dolor no es algo que haya que tapar para seguir entrenando.\n\n## ¿Puedo entrenar con agujetas?\n\nSí, si son leves o moderadas. Adapta:\n\n- **Leves:** entrena normal tras un buen calentamiento.\n- **Moderadas:** entrena otros grupos musculares o haz técnica suave. Por ejemplo, con agujetas notables de piernas tras sentadillas, haz trabajo de boxeo con desplazamientos suaves en lugar de una sesión dura de patadas.\n- **Intensas:** día suave o descanso activo. Recuerda que las agujetas intensas reducen temporalmente tu fuerza y coordinación, lo que aumenta el riesgo de técnica deficiente.\n\n## Agujetas o lesión: cómo distinguirlas\n\n| Agujetas | Posible lesión |\n|---|---|\n| Dolor difuso en todo el músculo | Dolor localizado en un punto concreto |\n| Aparece horas después | Aparece de golpe, durante el ejercicio (pinchazo, chasquido) |\n| En ambos lados si trabajaste ambos | Normalmente en un solo lado |\n| Mejora al moverte y calentar | Empeora al moverte o con carga |\n| Desaparece en 2-5 días | Persiste o va a más |\n| En el músculo | En un punto del músculo, o en articulación, tendón o hueso |\n\n## Señales de alerta: busca atención médica\n\n- Dolor muscular **muy intenso** e hinchazón importante tras un entrenamiento extremo, debilidad marcada u **orina muy oscura** (color té o refresco de cola): busca atención médica urgente, ya que puede ser un signo de rabdomiólisis.\n- Dolor que no mejora tras una semana, hematoma importante o incapacidad para apoyar o mover con normalidad.\n- Dolor en articulaciones, dolor nocturno o hormigueo."
+      },
+      "en": {
+        "title": "Muscle soreness (DOMS)",
+        "summary": "DOMS is the muscle soreness that shows up 12-72 hours after new or harder-than-usual exercise. It's normal and temporary, but it's worth telling it apart from an injury.",
+        "body": "## What it is\n\n**DOMS** (delayed onset muscle soreness) is diffuse muscle discomfort that starts **12-24 hours** after exercise, peaks around **24-72 hours** and fades within a few days. It's linked to micro-damage in the muscle and the response that follows, **not to \"lactic acid\"**.\n\nIt tends to be worse when:\n\n- You do a new exercise or come back after a break.\n- You suddenly increase volume a lot.\n- There's a lot of **eccentric** work (slow lowering, Romanian deadlifts, lunges, walking downhill).\n\nNot getting sore **doesn't mean** the workout didn't work.\n\n## How to reduce it\n\n- **Progress gradually:** the best prevention. After the first session of a new exercise, your body adapts and the next ones hurt much less (the repeated bout effect).\n- **Start with low volume** when introducing exercises, e.g. 2 × 8 @ RPE 6 in the first week, then build up.\n- **Gentle movement:** walking, easy cycling, relaxed shadowboxing or mobility work ease the feeling temporarily.\n- **Massage and foam rolling** may reduce perceived soreness somewhat.\n- **Sleep and eating enough,** including protein.\n\nHard stretching or taking painkillers \"to stop the pain\" hasn't been shown to help much, and soreness isn't something to mask so you can keep training.\n\n## Can I train while sore?\n\nYes, if it's mild or moderate. Adjust:\n\n- **Mild:** train as normal after a good warm-up.\n- **Moderate:** train other muscle groups or do light technique. For example, with noticeably sore legs after squats, do boxing work with easy footwork instead of a hard kicking session.\n- **Severe:** take an easy day or active recovery. Severe soreness temporarily reduces strength and coordination, which makes sloppy technique more likely.\n\n## Soreness or injury: telling them apart\n\n| Soreness | Possible injury |\n|---|---|\n| Diffuse ache across the muscle | Pain in one specific spot |\n| Shows up hours later | Comes on suddenly during exercise (sharp pain, pop) |\n| On both sides if you trained both | Usually one side only |\n| Eases as you move and warm up | Gets worse with movement or load |\n| Gone in 2-5 days | Persists or worsens |\n| In the muscle | In one spot in the muscle, or in a joint, tendon or bone |\n\n## Red flags: get medical help\n\n- **Extreme** muscle pain and major swelling after a very hard session, marked weakness or **very dark urine** (tea or cola coloured): seek urgent medical care, as this can be a sign of rhabdomyolysis.\n- Pain that hasn't improved after a week, significant bruising, or being unable to bear weight or move normally.\n- Joint pain, pain at night or tingling."
+      }
+    },
+    "supplement": null
+  }
+]

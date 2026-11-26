@@ -34,6 +34,30 @@ import {
   UpsertAthleteProfile,
 } from './modules/profile/application/profile-use-cases.js';
 import { registerProfileRoutes } from './modules/profile/interfaces/http/profile.routes.js';
+import type { CatalogQueries } from './modules/catalog/application/ports.js';
+import { CatalogService } from './modules/catalog/application/catalog-use-cases.js';
+import { registerCatalogRoutes } from './modules/catalog/interfaces/http/catalog.routes.js';
+import {
+  GenerateNutritionPlan,
+  GetActiveNutritionPlan,
+  type NutritionPlanRepository,
+} from './modules/nutrition/application/nutrition-use-cases.js';
+import type {
+  ExerciseCandidateReader,
+  PlanPersonalizer,
+  TrainingPlanRepository,
+} from './modules/training/application/ports.js';
+import {
+  GenerateTrainingPlan,
+  GetActiveTrainingPlan,
+} from './modules/training/application/training-use-cases.js';
+import { registerPlanRoutes } from './modules/training/interfaces/http/plans.routes.js';
+import {
+  WorkoutService,
+  type WorkoutRepository,
+} from './modules/workouts/application/workout-use-cases.js';
+import { registerWorkoutRoutes } from './modules/workouts/interfaces/http/workouts.routes.js';
+import type { AthleteContextReader } from './shared/application/athlete-context.js';
 import type { EntitlementsReader } from './shared/application/entitlements.js';
 import type { Clock, IdGenerator } from './shared/application/ports.js';
 import {
@@ -58,6 +82,14 @@ export interface AppDeps {
   catalog: CatalogReader;
   consent: HealthConsentReader;
   entitlements: EntitlementsReader;
+  catalogQueries: CatalogQueries;
+  athletes: AthleteContextReader;
+  exerciseCandidates: ExerciseCandidateReader;
+  trainingPlans: TrainingPlanRepository;
+  nutritionPlans: NutritionPlanRepository;
+  workouts: WorkoutRepository;
+  /** Premium (IA). Sin configurar en el MVP. */
+  planPersonalizer?: PlanPersonalizer;
   /** Global: 300 req/min por IP. */
   rateLimiter?: RateLimiter;
   /** Credenciales y reautenticación: 10 intentos / 15 min por IP (y por usuario en reauth). */
@@ -105,6 +137,31 @@ export function createApp(d: AppDeps): Server {
     authenticate,
     get: new GetAthleteProfile(d.profiles, d.consent),
     upsert: new UpsertAthleteProfile(d.profiles, d.catalog, d.consent, d.entitlements),
+  });
+
+  registerCatalogRoutes(router, new CatalogService(d.catalogQueries));
+  registerPlanRoutes(router, {
+    authenticate,
+    generateTraining: new GenerateTrainingPlan(
+      d.athletes,
+      d.exerciseCandidates,
+      d.trainingPlans,
+      d.entitlements,
+      d.clock,
+      d.planPersonalizer ?? null,
+    ),
+    getTraining: new GetActiveTrainingPlan(d.trainingPlans, d.athletes),
+    generateNutrition: new GenerateNutritionPlan(
+      d.athletes,
+      d.nutritionPlans,
+      d.entitlements,
+      d.clock,
+    ),
+    getNutrition: new GetActiveNutritionPlan(d.nutritionPlans, d.athletes, d.entitlements),
+  });
+  registerWorkoutRoutes(router, {
+    authenticate,
+    workouts: new WorkoutService(d.workouts, d.entitlements, d.clock),
   });
 
   return buildServer({

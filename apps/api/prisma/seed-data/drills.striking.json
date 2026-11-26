@@ -1,0 +1,2914 @@
+[
+  {
+    "slug": "muay-thai-shadow-stance-rhythm",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["CALVES", "CORE"],
+    "secondaryMuscles": ["SHOULDERS", "QUADRICEPS", "HIP_FLEXORS"],
+    "equipment": ["NONE"],
+    "sports": ["MUAY_THAI"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Sombra de Muay Thai: guardia y ritmo",
+        "description": "Rounds de sombra centrados en la guardia tailandesa y el ritmo característico del Muay Thai: peso más atrás, cadera de frente, pierna adelantada ligera para chequear o lanzar el teep, y un balanceo suave al ritmo de la música tradicional del combate. Es la base sobre la que se construye todo lo demás.",
+        "steps": [
+          "Colócate con los pies a la anchura de los hombros, ligeramente escalonados, y la cadera casi de frente.",
+          "Sube la guardia alta: manos a la altura de las sienes, codos cerrados y barbilla baja.",
+          "Carga algo más de peso en la pierna de atrás para que la delantera quede libre para chequear o lanzar el teep.",
+          "Marca el ritmo con un pequeño rebote de talones y desplázate adelante, atrás y en diagonal sin cruzar los pies.",
+          "Cada 10-15 segundos lanza una técnica sencilla (jab, teep o patada circular) y vuelve inmediatamente a la guardia."
+        ],
+        "commonMistakes": [
+          "Ponerse de perfil como en boxeo, lo que deja la pierna adelantada expuesta a las patadas bajas.",
+          "Bajar las manos al desplazarse o al lanzar las patadas.",
+          "Rebotar demasiado alto y cansarse pronto en lugar de mantener un ritmo relajado."
+        ],
+        "tips": [
+          "Grábate un round con el móvil: verás enseguida si bajas la guardia o cruzas los pies.",
+          "Respira por la nariz y exhala corto con cada golpe para no acumular tensión."
+        ]
+      },
+      "en": {
+        "name": "Muay Thai shadowboxing: stance and rhythm",
+        "description": "Shadowboxing rounds focused on the Thai stance and the rhythm that defines Muay Thai: weight slightly back, hips square, a light lead leg ready to check or teep, and a relaxed sway in time with the traditional fight music. Everything else you do in Muay Thai is built on this foundation.",
+        "steps": [
+          "Stand with feet about shoulder-width apart, slightly staggered, hips almost square to the front.",
+          "Raise a high guard: hands at temple height, elbows tucked, chin down.",
+          "Keep a bit more weight on the rear leg so the lead leg stays light enough to check or teep.",
+          "Set a rhythm with a small heel bounce and move forward, back and on diagonals without crossing your feet.",
+          "Every 10-15 seconds throw one simple technique (jab, teep or roundhouse kick) and return straight to your guard."
+        ],
+        "commonMistakes": [
+          "Turning side-on like a boxer, which leaves the lead leg open to low kicks.",
+          "Dropping the hands while moving or kicking.",
+          "Bouncing too high and tiring early instead of keeping a relaxed rhythm."
+        ],
+        "tips": [
+          "Film one round on your phone: you'll quickly spot a dropping guard or crossed feet.",
+          "Breathe through your nose and exhale sharply with every strike to stay loose."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "muay-thai-heavy-bag-roundhouse-kicks",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["GLUTES", "OBLIQUES", "HIP_FLEXORS"],
+    "secondaryMuscles": ["QUADRICEPS", "CALVES", "CORE", "SHOULDERS"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["MUAY_THAI"],
+    "defaults": {
+      "sets": 5,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: patada circular tailandesa",
+        "description": "Rounds de saco dedicados a la patada circular del Muay Thai (te tad), golpeando con la espinilla y no con el empeine. La potencia nace de girar sobre la punta del pie de apoyo y rotar la cadera a través del objetivo, con el brazo del mismo lado bajando hacia atrás como contrapeso.",
+        "steps": [
+          "Colócate a una distancia en la que la espinilla, no el pie, llegue al centro del saco.",
+          "Da un pequeño paso de apertura en diagonal con el pie delantero (o adelanta el de atrás) para abrir el ángulo.",
+          "Gira sobre la punta del pie de apoyo hasta que el talón apunte al saco.",
+          "Rota la cadera y lanza la pierna casi estirada, golpeando con el tercio inferior de la espinilla.",
+          "Baja el brazo del lado que patea hacia atrás mientras la otra mano protege la cara.",
+          "Recupera la guardia enseguida, dejando caer la pierna en la misma postura de partida."
+        ],
+        "commonMistakes": [
+          "No girar el pie de apoyo, lo que frena la cadera y carga la rodilla.",
+          "Golpear con el empeine o el pie, que es más frágil que la espinilla.",
+          "Doblar en exceso la rodilla y 'empujar' el saco en lugar de atravesarlo."
+        ],
+        "tips": [
+          "Empieza a media potencia hasta que la espinilla se acostumbre al impacto; acondicionarla es gradual.",
+          "Alterna rounds de patadas sueltas con rounds de dos patadas seguidas con la misma pierna."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: Thai roundhouse kick",
+        "description": "Heavy bag rounds dedicated to the Muay Thai roundhouse kick (te tad), striking with the shin rather than the instep. Power comes from pivoting on the ball of the standing foot and turning the hip through the target, while the same-side arm swings down and back as a counterweight.",
+        "steps": [
+          "Stand at a distance where your shin, not your foot, reaches the middle of the bag.",
+          "Take a small diagonal step out with the lead foot (or step up with the rear foot) to open the angle.",
+          "Pivot on the ball of the standing foot until the heel points at the bag.",
+          "Turn the hip over and swing the leg almost straight, landing with the lower third of the shin.",
+          "Swing the kicking-side arm down and back while the other hand guards your face.",
+          "Return to guard immediately, landing back in your starting stance."
+        ],
+        "commonMistakes": [
+          "Not pivoting the standing foot, which stalls the hip and stresses the knee.",
+          "Landing with the instep or foot, which is more fragile than the shin.",
+          "Bending the knee too much and pushing the bag instead of cutting through it."
+        ],
+        "tips": [
+          "Start at medium power until your shins adapt to impact; conditioning is gradual.",
+          "Alternate rounds of single kicks with rounds of double kicks on the same leg."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "muay-thai-heavy-bag-teep",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["QUADRICEPS", "HIP_FLEXORS", "CORE"],
+    "secondaryMuscles": ["GLUTES", "CALVES", "HAMSTRINGS"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["MUAY_THAI"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: teep (patada frontal de empuje)",
+        "description": "El teep es la patada frontal de empuje del Muay Thai: se usa como un jab con la pierna para mantener la distancia, romper el ritmo del rival y frenar sus entradas. En este drill alternas teeps con la pierna adelantada y la retrasada contra el saco, buscando empujar con la bola del pie desde la cadera.",
+        "steps": [
+          "Ponte en guardia a una distancia en la que la pierna extendida llegue al saco.",
+          "Levanta la rodilla hacia el pecho, con la punta del pie hacia arriba.",
+          "Extiende la pierna empujando la cadera hacia delante y golpea con la bola del pie a la altura del abdomen.",
+          "Mantén el tronco ligeramente hacia atrás y la guardia alta para no perder el equilibrio.",
+          "Recoge la pierna y vuelve a la guardia; alterna 5 teeps de pierna delantera con 5 de pierna trasera."
+        ],
+        "commonMistakes": [
+          "Lanzarlo como una patada de chasquido en lugar de empujar con la cadera.",
+          "Inclinarse demasiado hacia atrás y quedar sin equilibrio para el siguiente golpe.",
+          "Bajar la pierna lejos de la guardia, abriendo la postura."
+        ],
+        "tips": [
+          "Piensa en 'empujar una puerta' con el pie: la sensación debe ser de empuje, no de latigazo.",
+          "Cuando lo domines, añade un jab justo antes del teep para entrenar la combinación."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: teep (push kick)",
+        "description": "The teep is Muay Thai's front push kick: it works like a jab with the leg to keep distance, disrupt an opponent's rhythm and stop them coming forward. In this drill you alternate lead-leg and rear-leg teeps on the bag, pushing with the ball of the foot from the hip.",
+        "steps": [
+          "Stand in guard at a distance where your extended leg reaches the bag.",
+          "Lift the knee towards your chest with the toes pulled up.",
+          "Extend the leg by driving the hip forward and land with the ball of the foot at stomach height.",
+          "Keep your torso slightly back and your guard high so you stay balanced.",
+          "Retract the leg and return to guard; alternate 5 lead-leg teeps with 5 rear-leg teeps."
+        ],
+        "commonMistakes": [
+          "Snapping it like a flick kick instead of pushing through with the hip.",
+          "Leaning back too far and losing balance for the next strike.",
+          "Landing the foot far from your stance and opening up your guard."
+        ],
+        "tips": [
+          "Think of pushing a door open with your foot: it should feel like a shove, not a whip.",
+          "Once it feels solid, add a jab right before the teep to train the combination."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "muay-thai-heavy-bag-straight-knees",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["HIP_FLEXORS", "CORE", "GLUTES"],
+    "secondaryMuscles": ["CALVES", "QUADRICEPS", "UPPER_BACK", "FOREARMS"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["MUAY_THAI"],
+    "defaults": {
+      "sets": 4,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: rodillazos rectos (khao trong)",
+        "description": "Rounds de rodillazo recto (khao trong) contra el saco. La rodilla sube hacia delante y hacia arriba mientras la cadera empuja hacia el objetivo y el tronco se inclina ligeramente atrás. Puedes sujetar el saco con las manos para simular el control, siempre sin compañero.",
+        "steps": [
+          "Colócate cerca del saco y apoya las manos en la parte alta, como si sujetaras la nuca del rival.",
+          "Da un pequeño paso atrás con la pierna que va a golpear para coger recorrido.",
+          "Sube sobre la punta del pie de apoyo y lleva la rodilla hacia delante con la punta del pie estirada hacia abajo.",
+          "Empuja la cadera hacia el saco en el momento del impacto, golpeando con la punta de la rodilla.",
+          "Vuelve a la guardia y alterna piernas a un ritmo constante."
+        ],
+        "commonMistakes": [
+          "Subir la rodilla solo hacia arriba sin proyectar la cadera hacia delante.",
+          "Encorvarse hacia el saco en lugar de mantener el tronco erguido o ligeramente atrás.",
+          "Apoyarse con todo el peso en el saco y perder el equilibrio propio."
+        ],
+        "tips": [
+          "Si el saco se balancea mucho, golpea con menos potencia y más precisión.",
+          "Termina el último minuto con rodillazos rápidos alternos para trabajar la resistencia."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: straight knees (khao trong)",
+        "description": "Rounds of straight knees (khao trong) on the heavy bag. The knee drives forward and up while the hips push into the target and the torso leans slightly back. You can hold the top of the bag to simulate control, always solo.",
+        "steps": [
+          "Stand close to the bag and place your hands on top of it as if holding an opponent's head.",
+          "Take a small step back with the kneeing leg to gain range.",
+          "Rise onto the ball of the standing foot and drive the knee forward with the toes pointed down.",
+          "Thrust the hips into the bag on impact, landing with the point of the knee.",
+          "Return to your stance and alternate legs at a steady pace."
+        ],
+        "commonMistakes": [
+          "Lifting the knee only upwards without driving the hips forward.",
+          "Hunching over the bag instead of staying tall or leaning slightly back.",
+          "Leaning your full weight on the bag and losing your own balance."
+        ],
+        "tips": [
+          "If the bag swings a lot, use less power and more precision.",
+          "Finish the last minute with fast alternating knees to build endurance."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "muay-thai-shadow-elbows",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["OBLIQUES", "SHOULDERS", "CORE"],
+    "secondaryMuscles": ["CHEST", "UPPER_BACK", "CALVES"],
+    "equipment": ["NONE"],
+    "sports": ["MUAY_THAI"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Sombra de codos (sok)",
+        "description": "Rounds de sombra dedicados a los codos (sok), una de las armas propias del Muay Thai. Trabajas el codo horizontal (sok tad), el ascendente (sok ngat) y el descendente (sok ti) a corta distancia (los nombres tailandeses pueden variar según el gimnasio), encadenándolos con golpes de puño para entrar en rango.",
+        "steps": [
+          "Empieza en guardia y avanza un paso como si acortaras distancia tras un jab.",
+          "Lanza el codo horizontal girando hombro y cadera, con la mano abierta junto a la cabeza.",
+          "Practica el codo ascendente subiendo el codo por delante de la cara, como si cortaras hacia arriba por el centro.",
+          "Practica el codo descendente dejando caer el codo desde arriba con el peso del cuerpo.",
+          "Encadena combinaciones como jab-cross-codo horizontal y vuelve a la guardia tras cada una."
+        ],
+        "commonMistakes": [
+          "Lanzar el codo solo con el brazo, sin girar la cadera.",
+          "Dejar la otra mano baja y la cara descubierta.",
+          "Ejecutarlo desde demasiado lejos: el codo es un arma de muy corta distancia."
+        ],
+        "tips": [
+          "Cuando lo controles en sombra, pásalo al saco con suavidad y vendas bien puestas.",
+          "Imagina que el codo es una cuchilla: precisión antes que fuerza."
+        ]
+      },
+      "en": {
+        "name": "Elbow shadowboxing (sok)",
+        "description": "Shadowboxing rounds dedicated to elbows (sok), one of Muay Thai's signature weapons. You drill the horizontal elbow (sok tad), the uppercut elbow (sok ngat) and the downward elbow (sok ti) at close range (Thai names can vary between gyms), linking them with punches to close the distance.",
+        "steps": [
+          "Start in guard and step forward as if closing distance after a jab.",
+          "Throw the horizontal elbow by turning shoulder and hip, open hand beside your head.",
+          "Drill the uppercut elbow by driving the elbow up through the centre in front of your face.",
+          "Drill the downward elbow by dropping it from above with your bodyweight behind it.",
+          "Chain combinations like jab-cross-horizontal elbow and reset your guard after each one."
+        ],
+        "commonMistakes": [
+          "Throwing the elbow with the arm only, without turning the hip.",
+          "Letting the other hand drop and leaving your face open.",
+          "Throwing from too far away: the elbow is a very short-range weapon."
+        ],
+        "tips": [
+          "Once it's clean in the air, take it to the bag gently with properly wrapped hands.",
+          "Think of the elbow as a blade: precision before power."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "muay-thai-shadow-shin-checks",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["HIP_FLEXORS", "CORE"],
+    "secondaryMuscles": ["GLUTES", "CALVES", "ABDUCTORS", "SHOULDERS"],
+    "equipment": ["NONE"],
+    "sports": ["MUAY_THAI", "KICKBOXING"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Sombra defensiva: chequeos de espinilla",
+        "description": "Drill en solitario para automatizar el chequeo: levantar la espinilla para bloquear una patada baja o media del rival. Imaginas las patadas que llegan y respondes levantando la pierna correcta, con la rodilla abierta hacia fuera y la guardia alta, y después contraatacas.",
+        "steps": [
+          "Ponte en guardia con el peso repartido y la pierna delantera ligera.",
+          "Imagina una patada baja a tu pierna adelantada: levanta la rodilla hacia fuera y hacia arriba, con la espinilla en vertical.",
+          "Mantén las manos arriba y el codo del mismo lado cerca de la rodilla para cerrar el hueco.",
+          "Apoya de nuevo el pie en guardia y lanza un contraataque (por ejemplo, cross-patada circular).",
+          "Alterna chequeos con la pierna delantera y la trasera durante todo el round."
+        ],
+        "commonMistakes": [
+          "Girar el pie de apoyo y darle la espalda a la patada imaginaria.",
+          "Bajar las manos al levantar la pierna.",
+          "Quedarse a la pata coja demasiado tiempo y perder el equilibrio."
+        ],
+        "tips": [
+          "Hazlo frente a un espejo para comprobar que la espinilla queda bien orientada.",
+          "Si te cuesta el equilibrio, empieza con chequeos lentos y mantén 1 segundo arriba."
+        ]
+      },
+      "en": {
+        "name": "Defensive shadow: shin checks",
+        "description": "A solo drill to make checking automatic: lifting the shin to block an opponent's low or body kick. You visualise incoming kicks and respond by raising the correct leg, knee turned outwards and guard high, then fire back a counter.",
+        "steps": [
+          "Stand in guard with your weight balanced and the lead leg light.",
+          "Picture a low kick to your lead leg: lift the knee out and up with the shin vertical.",
+          "Keep your hands high and the same-side elbow close to the knee to close the gap.",
+          "Put the foot back down in your stance and fire a counter (for example cross-roundhouse kick).",
+          "Alternate lead-leg and rear-leg checks throughout the round."
+        ],
+        "commonMistakes": [
+          "Turning the standing foot and showing your back to the imaginary kick.",
+          "Dropping your hands as you lift the leg.",
+          "Staying on one leg too long and losing balance."
+        ],
+        "tips": [
+          "Do it in front of a mirror to confirm your shin is angled correctly.",
+          "If balance is a struggle, start with slow checks and hold each one for a second."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "muay-thai-heavy-bag-punch-kick-combos",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["FULL_BODY"],
+    "secondaryMuscles": ["SHOULDERS", "OBLIQUES", "GLUTES", "CALVES"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["MUAY_THAI"],
+    "defaults": {
+      "sets": 5,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: combinaciones de puños, patadas y rodillas",
+        "description": "Rounds de saco con combinaciones clásicas del Muay Thai que mezclan las 'ocho armas': puños, codos, rodillas y patadas. El objetivo es enlazar golpes sin perder la postura y terminar siempre con una técnica fuerte de pierna o rodilla.",
+        "steps": [
+          "Calienta el primer minuto con jab-cross y patadas circulares sueltas.",
+          "Combinación 1: jab - cross - patada circular de pierna trasera.",
+          "Combinación 2: jab - teep de pierna delantera - patada circular trasera.",
+          "Combinación 3: cross - gancho - rodillazo de pierna trasera.",
+          "Cambia de combinación cada 30-45 segundos y vuelve a la guardia entre series.",
+          "En los últimos 20 segundos, lanza patadas circulares alternas sin parar."
+        ],
+        "commonMistakes": [
+          "Lanzar la patada desde la posición en que acabó el puño, sin recolocar los pies.",
+          "Acelerar tanto que la técnica se descompone.",
+          "Quedarse quieto delante del saco después de la combinación."
+        ],
+        "tips": [
+          "Muévete tras cada combinación: sal en ángulo o retrocede con un teep.",
+          "Usa un temporizador de rounds para respetar los tiempos de descanso."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: punch, kick and knee combinations",
+        "description": "Heavy bag rounds with classic Muay Thai combinations that mix the 'eight limbs': fists, elbows, knees and shins. The goal is to link strikes without losing your stance and always finish with a strong kick or knee.",
+        "steps": [
+          "Warm up in the first minute with jab-cross and single roundhouse kicks.",
+          "Combination 1: jab - cross - rear roundhouse kick.",
+          "Combination 2: jab - lead teep - rear roundhouse kick.",
+          "Combination 3: cross - hook - rear knee.",
+          "Switch combinations every 30-45 seconds and reset your guard between sets.",
+          "In the last 20 seconds, throw alternating roundhouse kicks non-stop."
+        ],
+        "commonMistakes": [
+          "Kicking from wherever the punch left your feet instead of resetting your stance.",
+          "Speeding up so much that technique falls apart.",
+          "Standing still in front of the bag after the combination."
+        ],
+        "tips": [
+          "Move after each combination: pivot out at an angle or back off with a teep.",
+          "Use a round timer so you respect the work and rest periods."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "muay-thai-switch-kick-drill",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "HIP_FLEXORS", "OBLIQUES"],
+    "secondaryMuscles": ["CALVES", "QUADRICEPS", "CORE"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["MUAY_THAI", "KICKBOXING"],
+    "defaults": {
+      "sets": 4,
+      "seconds": null,
+      "reps": "10",
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Patada con cambio de guardia (switch kick)",
+        "description": "La switch kick consiste en cambiar rápidamente los pies de posición para lanzar una patada circular potente con la pierna que estaba delante. El cambio da a esa pierna el recorrido y la rotación de cadera que no tendría desde la guardia normal. Se trabaja en series de repeticiones contra el saco.",
+        "steps": [
+          "Ponte en guardia frente al saco a distancia de patada.",
+          "Con un pequeño salto, intercambia la posición de los pies: el delantero pasa atrás y el trasero adelante.",
+          "Sin pausa, gira sobre la punta del nuevo pie de apoyo y lanza la patada circular con la pierna que acabas de retrasar.",
+          "Golpea con la espinilla y deja que la pierna vuelva a su posición de guardia original.",
+          "Completa todas las repeticiones de un lado antes de cambiar al otro."
+        ],
+        "commonMistakes": [
+          "Hacer el cambio de pies demasiado amplio o alto, lo que lo vuelve lento y previsible.",
+          "Separar el cambio y la patada en dos movimientos en lugar de uno fluido.",
+          "Bajar la guardia durante el salto."
+        ],
+        "tips": [
+          "Practica primero el cambio de pies sin patear hasta que sea pequeño y rápido.",
+          "Puedes disimularlo con un jab justo antes del cambio."
+        ]
+      },
+      "en": {
+        "name": "Switch kick drill",
+        "description": "A switch kick is a quick swap of foot position so you can throw a powerful roundhouse with the leg that was in front. The switch gives that leg the range and hip rotation it wouldn't have from your normal stance. It's trained in sets of reps on the heavy bag.",
+        "steps": [
+          "Stand in guard in front of the bag at kicking range.",
+          "With a small hop, swap your feet: the lead foot goes back and the rear foot comes forward.",
+          "Without pausing, pivot on the ball of the new standing foot and throw the roundhouse with the leg you just moved back.",
+          "Land with the shin and let the leg return to your original stance.",
+          "Complete all reps on one side before switching to the other."
+        ],
+        "commonMistakes": [
+          "Making the switch too wide or high, so it becomes slow and obvious.",
+          "Splitting the switch and the kick into two movements instead of one fluid action.",
+          "Dropping the guard during the hop."
+        ],
+        "tips": [
+          "Practise the foot switch on its own until it's small and quick.",
+          "You can disguise it with a jab right before you switch."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "muay-thai-knee-sprint-intervals",
+    "category": "SPORT_DRILL",
+    "difficulty": "ADVANCED",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["HIP_FLEXORS", "CORE", "CALVES"],
+    "secondaryMuscles": ["GLUTES", "QUADRICEPS", "FOREARMS", "UPPER_BACK"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["MUAY_THAI"],
+    "defaults": {
+      "sets": 8,
+      "seconds": 30,
+      "reps": null,
+      "restSec": 30
+    },
+    "i18n": {
+      "es": {
+        "name": "Intervalos de rodillazos al saco",
+        "description": "Drill de acondicionamiento muy exigente: intervalos cortos de rodillazos alternos al saco a máxima intensidad, con descansos iguales al tiempo de trabajo. Desarrolla la resistencia específica para mantener ritmo en los momentos de máxima presión del combate.",
+        "steps": [
+          "Calienta antes con al menos dos rounds suaves de sombra o comba.",
+          "Sujeta la parte alta del saco con ambas manos y colócate cerca.",
+          "Al empezar el intervalo, lanza rodillazos alternos rápidos empujando la cadera hacia el saco.",
+          "Mantén el ritmo durante los 30 segundos sin perder la postura erguida.",
+          "Descansa caminando o con sombra suave durante el descanso y repite."
+        ],
+        "commonMistakes": [
+          "Sacrificar toda la técnica por la velocidad y golpear solo con el muslo.",
+          "Hacerlo sin calentar, lo que aumenta el riesgo de sobrecargar los flexores de cadera.",
+          "Contener la respiración durante el intervalo."
+        ],
+        "tips": [
+          "Si eres nuevo en este drill, empieza con 4-5 intervalos y ve subiendo.",
+          "Exhala con cada rodillazo para mantener un ritmo respiratorio constante."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag knee sprint intervals",
+        "description": "A very demanding conditioning drill: short intervals of all-out alternating knees on the bag, with rest equal to the work time. It builds the specific endurance you need to keep your output up during the most intense moments of a fight.",
+        "steps": [
+          "Warm up first with at least two easy rounds of shadowboxing or jump rope.",
+          "Hold the top of the bag with both hands and stand close.",
+          "When the interval starts, throw fast alternating knees, driving the hips into the bag.",
+          "Keep the pace for the full 30 seconds without losing your upright posture.",
+          "Walk or shadowbox lightly during the rest and repeat."
+        ],
+        "commonMistakes": [
+          "Giving up all technique for speed and landing only with the thigh.",
+          "Skipping the warm-up, which raises the risk of overloading the hip flexors.",
+          "Holding your breath during the interval."
+        ],
+        "tips": [
+          "If you're new to this drill, start with 4-5 intervals and build up.",
+          "Exhale with every knee to keep a steady breathing rhythm."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "muay-thai-kick-balance-hold",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "CORE", "HIP_FLEXORS"],
+    "secondaryMuscles": ["CALVES", "ABDUCTORS", "OBLIQUES"],
+    "equipment": ["NONE"],
+    "sports": ["MUAY_THAI"],
+    "defaults": {
+      "sets": 3,
+      "seconds": null,
+      "reps": "6",
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Patada circular a cámara lenta con pausa",
+        "description": "Drill de equilibrio y control: lanzas la patada circular muy despacio, mantienes 2-3 segundos la pierna en el punto de impacto y la recoges de vuelta a la guardia sin apoyar antes de tiempo. Fortalece la pierna de apoyo y enseña la mecánica correcta del giro de cadera.",
+        "steps": [
+          "Ponte en guardia con las manos arriba.",
+          "Gira despacio sobre la punta del pie de apoyo mientras levantas la rodilla de la pierna que patea.",
+          "Extiende la pierna lentamente a la altura del tronco, con la cadera girada y el brazo del mismo lado bajado.",
+          "Mantén la posición 2-3 segundos sin inclinarte en exceso.",
+          "Recoge la pierna con control y vuelve a la guardia. Completa las repeticiones y cambia de lado."
+        ],
+        "commonMistakes": [
+          "Dejar caer la pierna en lugar de recogerla con control.",
+          "Inclinar tanto el tronco hacia atrás que la cabeza queda fuera de la línea del apoyo.",
+          "Mantener el talón del pie de apoyo hacia fuera en vez de girado hacia el objetivo."
+        ],
+        "tips": [
+          "Apóyate al principio en una pared con una mano si lo necesitas.",
+          "Es un buen ejercicio para el final del calentamiento o los días de técnica."
+        ]
+      },
+      "en": {
+        "name": "Slow-motion roundhouse with hold",
+        "description": "A balance and control drill: you throw the roundhouse very slowly, hold the leg at the point of impact for 2-3 seconds, and bring it back to guard without putting it down early. It strengthens the standing leg and teaches the correct hip-turn mechanics.",
+        "steps": [
+          "Stand in guard with your hands up.",
+          "Slowly pivot on the ball of the standing foot while lifting the knee of the kicking leg.",
+          "Extend the leg slowly to body height, hip turned over and same-side arm down.",
+          "Hold for 2-3 seconds without leaning too far.",
+          "Retract the leg with control and return to guard. Complete the reps and switch sides."
+        ],
+        "commonMistakes": [
+          "Letting the leg drop instead of retracting it with control.",
+          "Leaning back so far that your head moves outside your base.",
+          "Leaving the standing heel turned out instead of rotated towards the target."
+        ],
+        "tips": [
+          "Use a wall with one hand at first if you need it.",
+          "It works well at the end of a warm-up or on technique days."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "boxing-shadow-jab-focus",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["SHOULDERS", "CALVES"],
+    "secondaryMuscles": ["TRICEPS", "CORE", "UPPER_BACK"],
+    "equipment": ["NONE"],
+    "sports": ["BOXING"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Sombra de boxeo: solo jab",
+        "description": "Rounds de sombra en los que solo puedes usar el jab, el golpe recto de la mano adelantada. Al limitarte a un golpe te obligas a variarlo: jab simple, doble jab, jab al cuerpo, jab dando un paso adelante y jab retrocediendo. Es el golpe más importante del boxeo y el que más se entrena.",
+        "steps": [
+          "Ponte en guardia de boxeo: perfil ligero, peso repartido, barbilla baja y mano trasera junto a la mejilla.",
+          "Lanza el jab extendiendo el brazo en línea recta y girando el puño al final, con el hombro protegiendo la barbilla.",
+          "Recoge la mano por el mismo camino y a la misma velocidad con que la lanzaste.",
+          "Varía: doble jab, jab al cuerpo bajando con las piernas, jab con paso adelante y jab saliendo hacia atrás.",
+          "Muévete constantemente entre golpes sin cruzar los pies."
+        ],
+        "commonMistakes": [
+          "Bajar la mano trasera al lanzar el jab.",
+          "Dejar caer el jab al recogerlo en lugar de volver a la guardia en línea recta.",
+          "Lanzar el jab con el codo abierto hacia fuera, como un gancho."
+        ],
+        "tips": [
+          "Exhala corto con cada jab para mantener la velocidad y el ritmo.",
+          "Imagina un objetivo concreto a la altura de la barbilla de un rival de tu estatura."
+        ]
+      },
+      "en": {
+        "name": "Boxing shadow: jab only",
+        "description": "Shadowboxing rounds where the only punch you're allowed is the jab, the straight punch with your lead hand. Limiting yourself to one punch forces you to vary it: single jab, double jab, jab to the body, stepping jab and jab on the way out. It's the most important punch in boxing and the one you'll train the most.",
+        "steps": [
+          "Get into a boxing stance: slightly side-on, weight balanced, chin down, rear hand by your cheek.",
+          "Throw the jab by extending the arm in a straight line and turning the fist at the end, shoulder covering your chin.",
+          "Bring the hand back along the same line and at the same speed you threw it.",
+          "Mix it up: double jab, jab to the body by dropping with your legs, stepping jab and jab while moving back.",
+          "Keep moving between punches without crossing your feet."
+        ],
+        "commonMistakes": [
+          "Dropping the rear hand as you jab.",
+          "Letting the jab fall on the way back instead of returning straight to guard.",
+          "Flaring the elbow out so the jab looks like a hook."
+        ],
+        "tips": [
+          "Exhale sharply with every jab to keep speed and rhythm.",
+          "Picture a specific target at chin height of an opponent your size."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "boxing-footwork-step-pivot",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["CALVES", "QUADRICEPS"],
+    "secondaryMuscles": ["GLUTES", "ADDUCTORS", "ABDUCTORS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": ["BOXING"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Juego de piernas: paso, arrastre y pivote",
+        "description": "Drill de juego de piernas para aprender a moverte en guardia sin perder la base. Trabajas el paso y arrastre (step-drag: el pie que va en la dirección del movimiento se mueve primero y el otro le sigue) en las cuatro direcciones y el pivote sobre el pie adelantado para cambiar de ángulo.",
+        "steps": [
+          "Marca en el suelo un cuadrado imaginario de unos dos metros de lado.",
+          "Avanza: mueve primero el pie delantero y arrastra el trasero la misma distancia, manteniendo la anchura de la guardia.",
+          "Retrocede: mueve primero el pie trasero y luego el delantero.",
+          "Desplázate a los lados: el pie del lado hacia el que vas se mueve primero.",
+          "Pivota: gira sobre la bola del pie delantero llevando el pie trasero en arco unos 45-90 grados.",
+          "Combina los movimientos en secuencias y añade un jab al terminar cada una."
+        ],
+        "commonMistakes": [
+          "Cruzar los pies o juntarlos, lo que te deja sin equilibrio.",
+          "Saltar en lugar de deslizarte cerca del suelo.",
+          "Bajar la guardia mientras te concentras en los pies."
+        ],
+        "tips": [
+          "Los pasos deben ser cortos y rápidos: es mejor dos pasos pequeños que uno grande.",
+          "Puedes marcar el cuadrado con cinta en el suelo como referencia."
+        ]
+      },
+      "en": {
+        "name": "Footwork: step-drag and pivot",
+        "description": "A footwork drill to learn how to move in your stance without losing your base. You practise the step-drag (the foot closest to the direction of travel moves first and the other follows) in all four directions, plus the pivot on the lead foot to change angles.",
+        "steps": [
+          "Picture a square on the floor about two metres per side.",
+          "Forward: move the lead foot first and drag the rear foot the same distance, keeping your stance width.",
+          "Backward: move the rear foot first, then the lead foot.",
+          "Sideways: the foot on the side you're moving towards goes first.",
+          "Pivot: turn on the ball of the lead foot, swinging the rear foot in an arc of about 45-90 degrees.",
+          "Combine the movements into sequences and add a jab at the end of each one."
+        ],
+        "commonMistakes": [
+          "Crossing or bringing the feet together, which kills your balance.",
+          "Hopping instead of gliding close to the floor.",
+          "Dropping your guard while you focus on your feet."
+        ],
+        "tips": [
+          "Steps should be short and quick: two small steps beat one big one.",
+          "Mark the square on the floor with tape as a reference."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "boxing-slip-line-drill",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["QUADRICEPS", "OBLIQUES"],
+    "secondaryMuscles": ["GLUTES", "CORE", "CALVES", "NECK"],
+    "equipment": ["NONE"],
+    "sports": ["BOXING", "KICKBOXING", "MUAY_THAI"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Cuerda de esquivas (slip line)",
+        "description": "Ata una cuerda o cinta a la altura de tus hombros entre dos puntos fijos y desplázate a lo largo de ella pasando la cabeza de un lado a otro con un balanceo (rodar o 'bob and weave'), además de esquivas laterales. Es un drill clásico para automatizar el movimiento de cabeza flexionando las piernas en lugar de doblar la espalda.",
+        "steps": [
+          "Ata una cuerda tensa de 3-4 metros a la altura de tus hombros, por ejemplo entre dos columnas o espalderas.",
+          "Colócate en guardia con la cuerda justo delante de tu cara.",
+          "Flexiona las rodillas y pasa la cabeza por debajo de la cuerda dibujando una 'U', saliendo al otro lado en guardia.",
+          "Avanza un paso a lo largo de la cuerda y repite hacia el lado contrario.",
+          "Añade esquivas laterales (slips) cortas y un golpe de respuesta tras cada paso por debajo."
+        ],
+        "commonMistakes": [
+          "Agachar la cabeza doblando la cintura en lugar de flexionar las piernas.",
+          "Mirar al suelo al pasar por debajo de la cuerda.",
+          "Bajar las manos durante el movimiento."
+        ],
+        "tips": [
+          "Si no tienes cuerda, puedes imaginar la línea; el movimiento de piernas es lo importante.",
+          "Contraataca siempre: un jab o un gancho al salir convierte la defensa en ataque."
+        ]
+      },
+      "en": {
+        "name": "Slip line drill",
+        "description": "Tie a rope or band at shoulder height between two fixed points and move along it, ducking your head from one side to the other with a roll (bob and weave), plus short side slips. It's a classic drill for making head movement automatic by bending the legs instead of the back.",
+        "steps": [
+          "Tie a taut 3-4 metre rope at shoulder height, for example between two posts or wall bars.",
+          "Stand in guard with the rope just in front of your face.",
+          "Bend your knees and roll your head under the rope in a 'U' shape, coming up in guard on the other side.",
+          "Step forward along the rope and repeat to the opposite side.",
+          "Add short side slips and a counter punch after each roll."
+        ],
+        "commonMistakes": [
+          "Ducking by bending at the waist instead of bending the legs.",
+          "Looking at the floor as you go under the rope.",
+          "Dropping your hands during the movement."
+        ],
+        "tips": [
+          "No rope? Visualise the line; the leg movement is what matters.",
+          "Always counter: a jab or hook as you come up turns defence into offence."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "boxing-heavy-bag-body-head-combos",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["SHOULDERS", "OBLIQUES", "QUADRICEPS"],
+    "secondaryMuscles": ["CHEST", "TRICEPS", "CORE", "CALVES"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["BOXING"],
+    "defaults": {
+      "sets": 4,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: combinaciones cuerpo-cabeza",
+        "description": "Rounds de saco para aprender a cambiar de nivel: golpear al cuerpo y subir a la cabeza (o al revés). Atacar el cuerpo baja la guardia del rival y abre la cabeza. La clave es bajar flexionando las piernas, no inclinando la espalda, y mantener la guardia mientras cambias de nivel.",
+        "steps": [
+          "Ponte en guardia a distancia media del saco. Las combinaciones se describen para guardia ortodoxa (diestra).",
+          "Combinación 1: jab a la cabeza - cross al cuerpo - gancho de izquierda a la cabeza.",
+          "Combinación 2: gancho al hígado con la mano adelantada (el hígado de un rival ortodoxo queda a tu izquierda, frente a tu mano adelantada) - gancho a la cabeza con la misma mano.",
+          "Combinación 3: jab al cuerpo - cross a la cabeza - gancho al cuerpo.",
+          "Para golpear al cuerpo, flexiona las rodillas hasta que tus hombros estén a la altura del objetivo.",
+          "Sal en ángulo o retrocede tras cada combinación."
+        ],
+        "commonMistakes": [
+          "Doblar la espalda para golpear abajo en lugar de bajar con las piernas.",
+          "Dejar la cabeza al frente y quieta al golpear al cuerpo.",
+          "Golpear al cuerpo solo con el brazo, sin girar la cadera."
+        ],
+        "tips": [
+          "Imagina que el centro del saco es el plexo solar y apunta un poco por debajo.",
+          "Si eres zurdo, invierte los lados: el hígado queda frente a tu mano trasera."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: body-head combinations",
+        "description": "Heavy bag rounds to learn level changes: punching the body and coming up to the head (or the other way around). Attacking the body brings an opponent's guard down and opens the head. The key is to drop by bending your legs, not your back, and keep your guard up as you change levels.",
+        "steps": [
+          "Stand in guard at mid-range from the bag. Combinations are written for an orthodox stance.",
+          "Combination 1: jab to the head - cross to the body - left hook to the head.",
+          "Combination 2: lead hook to the liver (an orthodox opponent's liver is on your left, in front of your lead hand) - hook to the head with the same hand.",
+          "Combination 3: jab to the body - cross to the head - hook to the body.",
+          "To punch the body, bend your knees until your shoulders are level with the target.",
+          "Pivot out or step back after each combination."
+        ],
+        "commonMistakes": [
+          "Bending the back to punch low instead of dropping with the legs.",
+          "Keeping your head still and in front while punching to the body.",
+          "Punching the body with the arm only, without turning the hips."
+        ],
+        "tips": [
+          "Treat the centre of the bag as the solar plexus and aim just below it.",
+          "If you're a southpaw, mirror the sides: the liver is in front of your rear hand."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "boxing-heavy-bag-hooks-uppercuts",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["OBLIQUES", "SHOULDERS", "GLUTES"],
+    "secondaryMuscles": ["BICEPS", "CHEST", "CORE", "CALVES"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["BOXING"],
+    "defaults": {
+      "sets": 4,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: ganchos y uppercuts a corta distancia",
+        "description": "Rounds de saco a corta distancia centrados en los golpes curvos: ganchos (golpe lateral con el codo a la altura del puño) y uppercuts (golpe ascendente). La potencia sale de girar la cadera y el pie, no de abrir el brazo. Ideal para trabajar el boxeo en distancia corta sin compañero.",
+        "steps": [
+          "Colócate cerca del saco, a una distancia en la que el brazo flexionado llegue con comodidad.",
+          "Gancho: con el codo a unos 90 grados, gira el pie y la cadera del mismo lado y golpea con el antebrazo paralelo al suelo.",
+          "Uppercut: flexiona ligeramente la rodilla del lado que golpea y sube el puño con la palma hacia ti, impulsando desde la pierna.",
+          "Encadena gancho de izquierda - uppercut de derecha - gancho de izquierda (guardia ortodoxa; si eres zurdo, invierte las manos).",
+          "Mantén la mano que no golpea pegada a la cara y mueve la cabeza tras cada serie."
+        ],
+        "commonMistakes": [
+          "Abrir el gancho como un 'swing' lejos del cuerpo.",
+          "Bajar la mano antes del uppercut para coger impulso, lo que lo hace previsible.",
+          "No girar el pie, cargando el golpe solo en el hombro."
+        ],
+        "tips": [
+          "Golpes cortos y compactos: piensa en girar el cuerpo como una puerta giratoria.",
+          "Usa guantes adecuados y vendas bien puestas para proteger muñecas y nudillos."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: close-range hooks and uppercuts",
+        "description": "Close-range heavy bag rounds focused on curved punches: hooks (a sideways punch with the elbow level with the fist) and uppercuts (a rising punch). Power comes from turning the hips and feet, not from swinging the arm wide. Ideal for working inside boxing without a partner.",
+        "steps": [
+          "Stand close to the bag, at a distance where a bent arm reaches comfortably.",
+          "Hook: with the elbow at about 90 degrees, turn the same-side foot and hip and land with the forearm parallel to the floor.",
+          "Uppercut: bend the punching-side knee slightly and drive the fist up, palm facing you, from the legs.",
+          "Chain left hook - right uppercut - left hook (orthodox stance; southpaws mirror the hands).",
+          "Keep the non-punching hand glued to your face and move your head after each series."
+        ],
+        "commonMistakes": [
+          "Swinging the hook wide and away from the body.",
+          "Dropping the hand before the uppercut to load up, which telegraphs it.",
+          "Not pivoting the foot, so the punch relies only on the shoulder."
+        ],
+        "tips": [
+          "Short, compact punches: think of your body turning like a revolving door.",
+          "Use proper gloves and well-applied wraps to protect wrists and knuckles."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "boxing-jump-rope-footwork-rounds",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["CALVES", "SHOULDERS"],
+    "secondaryMuscles": ["FOREARMS", "QUADRICEPS", "CORE"],
+    "equipment": ["JUMP_ROPE"],
+    "sports": ["BOXING", "KICKBOXING", "MUAY_THAI"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Rounds de comba para el juego de piernas",
+        "description": "La comba es un clásico de cualquier gimnasio de boxeo: mejora la coordinación, el ritmo y la ligereza de pies, y sirve como calentamiento o acondicionamiento. Se trabaja en rounds con la misma duración que los del combate, variando el tipo de salto dentro de cada round.",
+        "steps": [
+          "Ajusta la comba: pisándola en el centro, los mangos deben llegar aproximadamente a las axilas.",
+          "Primer minuto: salto básico con los dos pies, saltando poco y aterrizando sobre la parte delantera del pie.",
+          "Segundo minuto: paso alterno (como trotar en el sitio) y saltos de boxeador, pasando el peso de un pie a otro.",
+          "Último minuto: combina laterales, adelante-atrás y 15-20 segundos a máxima velocidad.",
+          "Gira la comba con las muñecas, con los codos cerca del cuerpo."
+        ],
+        "commonMistakes": [
+          "Saltar demasiado alto y caer sobre los talones.",
+          "Girar la comba con los brazos enteros en lugar de con las muñecas.",
+          "Encorvarse y mirar al suelo."
+        ],
+        "tips": [
+          "Si fallas, no te pares: vuelve a empezar enseguida sin romper el round.",
+          "Salta sobre una superficie que amortigüe, como madera o goma, mejor que sobre cemento."
+        ]
+      },
+      "en": {
+        "name": "Jump rope footwork rounds",
+        "description": "Skipping rope is a staple of every boxing gym: it improves coordination, rhythm and light feet, and works as a warm-up or conditioning tool. It's done in rounds matching fight-round length, changing the type of skip within each round.",
+        "steps": [
+          "Size the rope: standing on the middle, the handles should reach roughly to your armpits.",
+          "Minute one: basic two-foot bounce, jumping low and landing on the balls of the feet.",
+          "Minute two: alternate-foot step (like jogging on the spot) and boxer skip, shifting weight from foot to foot.",
+          "Final minute: mix side-to-side, forward-back and 15-20 seconds at top speed.",
+          "Turn the rope with your wrists, elbows close to your body."
+        ],
+        "commonMistakes": [
+          "Jumping too high and landing on the heels.",
+          "Turning the rope with whole arms instead of the wrists.",
+          "Hunching over and staring at the floor."
+        ],
+        "tips": [
+          "If you trip, don't stop: restart straight away without breaking the round.",
+          "Skip on a forgiving surface like wood or rubber rather than concrete."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "boxing-shadow-head-movement",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["QUADRICEPS", "OBLIQUES", "CORE"],
+    "secondaryMuscles": ["GLUTES", "CALVES", "NECK", "SHOULDERS"],
+    "equipment": ["NONE"],
+    "sports": ["BOXING"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Sombra defensiva: movimiento de cabeza y contra",
+        "description": "Rounds de sombra donde cada golpe imaginario del rival recibe una defensa con movimiento de cabeza seguida de un contraataque. Trabajas la esquiva lateral (slip), el rodar por debajo (roll o 'bob and weave') y el paso atrás con la cabeza (pull), encadenados con golpes de respuesta.",
+        "steps": [
+          "Ponte en guardia e imagina a un rival delante de ti.",
+          "Esquiva un jab imaginario girando ligeramente el tronco y llevando la cabeza fuera de la línea, por encima de tu rodilla delantera.",
+          "Contraataca con cross o con gancho según el lado al que hayas esquivado.",
+          "Rueda por debajo de un gancho imaginario flexionando las rodillas en forma de 'U' y responde con un gancho.",
+          "Haz un 'pull' (echar la cabeza hacia atrás sobre la pierna trasera) frente a un jab y contraataca con cross.",
+          "Varía el orden durante el round para no caer en un patrón fijo."
+        ],
+        "commonMistakes": [
+          "Esquivar demasiado amplio y quedar desequilibrado para contraatacar.",
+          "Defenderse sin contraatacar: la defensa debe abrir la respuesta.",
+          "Moverse solo con el cuello en lugar de con piernas y tronco."
+        ],
+        "tips": [
+          "Las esquivas deben ser justas: lo suficiente para que el golpe pase rozando.",
+          "Haz un round entero solo con esquivas a un lado y contra, y luego al otro."
+        ]
+      },
+      "en": {
+        "name": "Defensive shadow: head movement and counters",
+        "description": "Shadowboxing rounds where every imaginary punch from your opponent gets a head-movement defence followed by a counter. You drill the slip, the roll (bob and weave) and the pull, chained with return punches.",
+        "steps": [
+          "Stand in guard and picture an opponent in front of you.",
+          "Slip an imaginary jab by turning your torso slightly and moving your head off the line, over your lead knee.",
+          "Counter with a cross or a hook depending on which side you slipped to.",
+          "Roll under an imaginary hook by bending your knees in a 'U' shape and answer with a hook.",
+          "Pull (lean your head back over the rear leg) against a jab and counter with a cross.",
+          "Change the order during the round so you don't fall into a fixed pattern."
+        ],
+        "commonMistakes": [
+          "Slipping too wide and ending up off balance to counter.",
+          "Defending without countering: the defence should set up your reply.",
+          "Moving only from the neck instead of the legs and torso."
+        ],
+        "tips": [
+          "Slips should be tight: just enough for the punch to brush past.",
+          "Do a full round slipping only to one side and countering, then the other."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "boxing-heavy-bag-angles-pivot-out",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["CALVES", "SHOULDERS", "OBLIQUES"],
+    "secondaryMuscles": ["QUADRICEPS", "GLUTES", "TRICEPS", "CORE"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["BOXING"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: golpear y salir en ángulo",
+        "description": "Rounds de saco en los que nunca te quedas delante después de golpear. Tras cada combinación sales con un pivote o un paso lateral para crear un ángulo nuevo, y desde ahí vuelves a atacar. Enseña a no quedarte en la línea de los golpes del rival, uno de los fundamentos del boxeo moderno.",
+        "steps": [
+          "Lanza una combinación corta, por ejemplo jab-cross-gancho.",
+          "Pivota sobre el pie delantero llevando el pie trasero en arco hacia fuera, quedando en diagonal al saco.",
+          "Desde el nuevo ángulo, lanza otra combinación de 2-3 golpes.",
+          "Alterna salidas: pivote, paso lateral hacia el lado de la mano adelantada y paso atrás en diagonal.",
+          "Deja que el saco se balancee y úsalo como un rival que avanza: muévete y golpea cuando venga hacia ti."
+        ],
+        "commonMistakes": [
+          "Quedarse quieto y plantado delante del saco después de golpear.",
+          "Pivotar con los pies juntos o cruzados.",
+          "Salir en ángulo con la guardia baja."
+        ],
+        "tips": [
+          "Cuenta mentalmente: 'golpe, golpe, sal'. El movimiento forma parte de la combinación.",
+          "Usa el balanceo del saco para practicar la sincronización."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: punch and pivot out",
+        "description": "Heavy bag rounds where you never stay in front after punching. After every combination you pivot or side-step to create a new angle, then attack again from there. It teaches you to get off the line of your opponent's punches, a fundamental of modern boxing.",
+        "steps": [
+          "Throw a short combination, for example jab-cross-hook.",
+          "Pivot on the lead foot, swinging the rear foot out in an arc so you end up diagonal to the bag.",
+          "From the new angle, throw another 2-3 punch combination.",
+          "Vary your exits: pivot, side-step towards your lead-hand side, and a diagonal step back.",
+          "Let the bag swing and treat it like an opponent coming forward: move and punch as it comes to you."
+        ],
+        "commonMistakes": [
+          "Standing flat-footed in front of the bag after punching.",
+          "Pivoting with feet together or crossed.",
+          "Moving to the angle with your guard down."
+        ],
+        "tips": [
+          "Count in your head: 'punch, punch, move'. The movement is part of the combination.",
+          "Use the swing of the bag to practise timing."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "boxing-punch-out-intervals",
+    "category": "SPORT_DRILL",
+    "difficulty": "ADVANCED",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["SHOULDERS", "TRICEPS", "CORE"],
+    "secondaryMuscles": ["CHEST", "CALVES", "UPPER_BACK"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["BOXING", "KICKBOXING"],
+    "defaults": {
+      "sets": 8,
+      "seconds": 20,
+      "reps": null,
+      "restSec": 10
+    },
+    "i18n": {
+      "es": {
+        "name": "Intervalos de golpes rectos sin parar",
+        "description": "Drill de acondicionamiento de alta intensidad con formato 20/10: 20 segundos de golpes rectos rápidos al saco (jab-cross continuo) y 10 segundos de descanso, durante 8 intervalos. Trabaja la resistencia de hombros y la capacidad de mantener el volumen de golpes cuando aparece la fatiga.",
+        "steps": [
+          "Calienta con un par de rounds de sombra o comba.",
+          "Colócate a distancia de golpe recto con las piernas flexionadas.",
+          "Durante 20 segundos lanza jab-cross rápidos y sin pausa, a media potencia pero a máxima velocidad.",
+          "Descansa 10 segundos en guardia, respirando hondo.",
+          "Repite los 8 intervalos manteniendo la técnica hasta el final."
+        ],
+        "commonMistakes": [
+          "Bajar la guardia y la técnica cuando llega la fatiga.",
+          "Golpear con los brazos estirados del todo, bloqueando los codos.",
+          "Ponerse de pie recto en lugar de mantener las rodillas flexionadas."
+        ],
+        "tips": [
+          "Prioriza la velocidad sobre la potencia: el objetivo es el volumen de golpes.",
+          "Si la técnica se rompe, reduce la intensidad en lugar de alargar el drill."
+        ]
+      },
+      "en": {
+        "name": "Non-stop straight punch intervals",
+        "description": "A high-intensity conditioning drill in a 20/10 format: 20 seconds of fast straight punches on the bag (continuous jab-cross) and 10 seconds of rest, for 8 intervals. It builds shoulder endurance and your ability to keep your punch output up as fatigue sets in.",
+        "steps": [
+          "Warm up with a couple of rounds of shadowboxing or jump rope.",
+          "Stand at straight-punch range with your knees bent.",
+          "For 20 seconds throw fast jab-crosses without pausing, medium power but top speed.",
+          "Rest for 10 seconds in guard, breathing deeply.",
+          "Repeat all 8 intervals, keeping your technique to the end."
+        ],
+        "commonMistakes": [
+          "Letting the guard and technique slip as fatigue arrives.",
+          "Fully locking out the elbows on every punch.",
+          "Standing up straight instead of keeping your knees bent."
+        ],
+        "tips": [
+          "Speed over power: the goal is punch volume.",
+          "If your technique breaks down, lower the intensity rather than extending the drill."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "boxing-shadow-shell-and-parry",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["SHOULDERS", "CORE"],
+    "secondaryMuscles": ["FOREARMS", "OBLIQUES", "CALVES", "QUADRICEPS"],
+    "equipment": ["NONE"],
+    "sports": ["BOXING"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Sombra defensiva: bloqueos, paradas y contra",
+        "description": "Rounds de sombra dedicados a la defensa con las manos: parar (parry, desviar el golpe con la palma), atrapar (catch, recibir el jab con la palma de la mano trasera), cubrirse con el antebrazo frente a ganchos y el giro de hombro (shoulder roll). Cada defensa termina con un contraataque inmediato.",
+        "steps": [
+          "Ponte en guardia e imagina un jab: atrápalo con la palma de la mano trasera junto a tu cara y responde con un jab propio.",
+          "Imagina otro jab: desvíalo con un pequeño gesto de la palma trasera hacia dentro (parry) y contraataca con cross.",
+          "Imagina un gancho a la cabeza: sube el codo y pega el guante a la sien para cubrirte, y responde con gancho del otro lado.",
+          "Imagina un cross: gira el hombro adelantado para que el golpe resbale (shoulder roll) y contraataca con cross.",
+          "Mezcla todas las defensas con desplazamientos durante el round."
+        ],
+        "commonMistakes": [
+          "Hacer paradas demasiado grandes, que dejan la cara descubierta.",
+          "Cerrar los ojos o girar la cara al defender.",
+          "Olvidar el contraataque tras la defensa."
+        ],
+        "tips": [
+          "Movimientos pequeños: la mano que para no debe alejarse más de un palmo de la cara.",
+          "Grábate para comprobar que tu barbilla sigue baja durante las defensas."
+        ]
+      },
+      "en": {
+        "name": "Defensive shadow: blocks, parries and counters",
+        "description": "Shadowboxing rounds dedicated to hand defence: parrying (redirecting a punch with your palm), catching (taking the jab in your rear palm), covering up against hooks with the forearm and the shoulder roll. Every defence ends with an immediate counter.",
+        "steps": [
+          "Stand in guard and picture a jab: catch it in your rear palm beside your face and answer with your own jab.",
+          "Picture another jab: redirect it with a small inward tap of the rear palm (parry) and counter with a cross.",
+          "Picture a hook to the head: raise the elbow and press the glove to your temple to cover, then answer with a hook on the other side.",
+          "Picture a cross: roll the lead shoulder so the punch glances off (shoulder roll) and counter with a cross.",
+          "Mix all the defences with movement throughout the round."
+        ],
+        "commonMistakes": [
+          "Parrying too wide, which leaves your face exposed.",
+          "Closing your eyes or turning your face away while defending.",
+          "Forgetting the counter after the defence."
+        ],
+        "tips": [
+          "Small movements: the parrying hand shouldn't travel more than a hand's width from your face.",
+          "Film yourself to check your chin stays down during the defences."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "kickboxing-shadow-punch-kick-flow",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["FULL_BODY"],
+    "secondaryMuscles": ["SHOULDERS", "OBLIQUES", "HIP_FLEXORS", "CALVES"],
+    "equipment": ["NONE"],
+    "sports": ["KICKBOXING"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Sombra de kickboxing: fluir entre puños y patadas",
+        "description": "Rounds de sombra para aprender la transición fluida entre manos y piernas, la seña de identidad del kickboxing. La guardia es algo más de perfil que en Muay Thai y más ligera de pies, con combinaciones rápidas que pasan de los puños a la patada sin pausas.",
+        "steps": [
+          "Ponte en guardia con un ligero perfil, peso repartido y manos altas.",
+          "Lanza jab-cross y, sin parar, una patada circular baja con la pierna adelantada.",
+          "Vuelve a la guardia y desplázate dos pasos antes de la siguiente combinación.",
+          "Prueba jab - patada frontal - cross, y cross - gancho - patada circular media.",
+          "Termina el round con 30 segundos alternando combinaciones a ritmo alto."
+        ],
+        "commonMistakes": [
+          "Pararse entre el último puño y la patada, rompiendo la combinación.",
+          "Quedarse con los pies cuadrados tras la patada.",
+          "Bajar la mano del lado que patea sin necesidad."
+        ],
+        "tips": [
+          "El último puño debe colocarte para la patada: un cross carga la cadera para la patada circular de la pierna adelantada.",
+          "Grábate para comprobar que no telegrafías la patada."
+        ]
+      },
+      "en": {
+        "name": "Kickboxing shadow: punch-kick flow",
+        "description": "Shadowboxing rounds to learn the smooth transition between hands and legs that defines kickboxing. The stance is slightly more side-on and lighter on the feet than in Muay Thai, with fast combinations moving from punches to kicks without pauses.",
+        "steps": [
+          "Stand in guard slightly side-on, weight balanced, hands high.",
+          "Throw jab-cross and, without stopping, a low lead-leg roundhouse kick.",
+          "Return to guard and move two steps before the next combination.",
+          "Try jab - front kick - cross, and cross - hook - body roundhouse kick.",
+          "Finish the round with 30 seconds of alternating combinations at a high pace."
+        ],
+        "commonMistakes": [
+          "Pausing between the last punch and the kick, breaking the combination.",
+          "Ending up square-footed after the kick.",
+          "Dropping the kicking-side hand when there's no need."
+        ],
+        "tips": [
+          "The last punch should set you up for the kick: a cross loads the hips for a lead-leg roundhouse.",
+          "Film yourself to check you're not telegraphing the kick."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "kickboxing-heavy-bag-dutch-combos",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["FULL_BODY"],
+    "secondaryMuscles": ["SHOULDERS", "OBLIQUES", "GLUTES", "QUADRICEPS"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["KICKBOXING"],
+    "defaults": {
+      "sets": 5,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: combinaciones de estilo holandés",
+        "description": "El estilo holandés de kickboxing es famoso por sus combinaciones largas de puños que terminan con una patada baja potente. En este drill trabajas series de 3-4 golpes de puño encadenados con una patada baja (low kick) al muslo del saco, con presión constante hacia delante.",
+        "steps": [
+          "Ponte en guardia a distancia media del saco. Las combinaciones se describen para guardia ortodoxa (diestra); si eres zurdo, invierte los lados.",
+          "Combinación 1: jab - cross - gancho de izquierda - patada baja de derecha.",
+          "Combinación 2: gancho de izquierda - cross - gancho de izquierda - patada baja de derecha.",
+          "Combinación 3: jab - cross - uppercut de izquierda - cross - patada baja de izquierda (pierna adelantada).",
+          "Avanza medio paso con cada combinación como si presionaras al rival contra las cuerdas.",
+          "Marca la patada baja en la parte inferior del saco, golpeando con la espinilla."
+        ],
+        "commonMistakes": [
+          "Lanzar los puños sin cargar la cadera y perder potencia en la patada final.",
+          "Golpear la patada baja demasiado alta, a la altura de la cadera.",
+          "Quedarse delante del saco tras la patada sin volver a la guardia."
+        ],
+        "tips": [
+          "El gancho de izquierda previo gira tu cadera y deja la pierna derecha cargada para la patada.",
+          "Puedes marcar con cinta la altura del muslo en el saco como referencia."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: Dutch-style combinations",
+        "description": "Dutch-style kickboxing is famous for long punching combinations finished with a hard low kick. In this drill you work 3-4 punch series chained with a low kick to the 'thigh' area of the bag, with constant forward pressure.",
+        "steps": [
+          "Stand in guard at mid-range from the bag. Combinations are written for an orthodox stance; southpaws mirror the sides.",
+          "Combination 1: jab - cross - left hook - right low kick.",
+          "Combination 2: left hook - cross - left hook - right low kick.",
+          "Combination 3: jab - cross - left uppercut - cross - left (lead-leg) low kick.",
+          "Take half a step forward with each combination as if pressuring an opponent to the ropes.",
+          "Land the low kick on the lower part of the bag with your shin."
+        ],
+        "commonMistakes": [
+          "Throwing the punches without loading the hips, so the final kick lacks power.",
+          "Landing the low kick too high, at hip level.",
+          "Staying in front of the bag after the kick without resetting your guard."
+        ],
+        "tips": [
+          "The left hook before the kick turns your hips and loads the right leg.",
+          "Mark thigh height on the bag with tape as a reference."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "kickboxing-heavy-bag-kick-ladder",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["GLUTES", "HIP_FLEXORS", "OBLIQUES"],
+    "secondaryMuscles": ["QUADRICEPS", "CALVES", "CORE"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["KICKBOXING"],
+    "defaults": {
+      "sets": 4,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: escalera de patadas circulares",
+        "description": "Rounds de patadas en formato escalera: 1 patada con cada pierna, luego 2, luego 3, y así hasta 5, para después bajar de nuevo. Es un drill de volumen que mejora la resistencia de piernas, la técnica bajo fatiga y la capacidad de patear con ambos lados.",
+        "steps": [
+          "Ponte en guardia a distancia de patada.",
+          "Lanza 1 patada circular media con la derecha y 1 con la izquierda.",
+          "Sube a 2 patadas por lado, luego 3, 4 y 5, volviendo siempre a la guardia entre cada una.",
+          "Al llegar a 5, baja de nuevo hasta 1.",
+          "Si te sobra tiempo en el round, repite la escalera."
+        ],
+        "commonMistakes": [
+          "Perder el giro del pie de apoyo cuando aparece el cansancio.",
+          "Patear solo con la pierna fuerte y hacer la débil sin intención.",
+          "No volver a la guardia entre patadas."
+        ],
+        "tips": [
+          "Para cambiar la pierna que patea, usa un pequeño cambio de guardia o un paso.",
+          "Si la escalera hasta 5 es demasiado, empieza llegando a 3."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: roundhouse kick ladder",
+        "description": "Kicking rounds in a ladder format: 1 kick on each leg, then 2, then 3, up to 5, and then back down. It's a volume drill that improves leg endurance, technique under fatigue and your ability to kick with both sides.",
+        "steps": [
+          "Stand in guard at kicking range.",
+          "Throw 1 body roundhouse kick with the right leg and 1 with the left.",
+          "Go up to 2 kicks per side, then 3, 4 and 5, always returning to guard between kicks.",
+          "Once you reach 5, work back down to 1.",
+          "If there's time left in the round, repeat the ladder."
+        ],
+        "commonMistakes": [
+          "Losing the pivot on the standing foot as fatigue sets in.",
+          "Only kicking hard with the strong leg and going through the motions on the weak one.",
+          "Not returning to guard between kicks."
+        ],
+        "tips": [
+          "To change kicking legs, use a small stance switch or a step.",
+          "If a ladder to 5 is too much, start by going up to 3."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "kickboxing-shadow-feint-and-kick",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["HIP_FLEXORS", "OBLIQUES", "CORE"],
+    "secondaryMuscles": ["SHOULDERS", "CALVES", "GLUTES"],
+    "equipment": ["NONE"],
+    "sports": ["KICKBOXING"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Sombra: fintas y patadas",
+        "description": "Rounds de sombra para aprender a engañar: amagar un golpe para provocar una reacción y atacar con otro. En kickboxing es muy habitual fintar con las manos para abrir la patada, o fintar una patada baja para lanzar una alta. Trabajas el gesto de la finta y el ataque real en una sola acción.",
+        "steps": [
+          "Ponte en guardia y lanza un medio jab sin extender el brazo (finta) mirando a la cara del rival imaginario.",
+          "Inmediatamente lanza una patada circular alta o media con la pierna trasera.",
+          "Prueba a fintar la patada baja levantando ligeramente la rodilla y cambia a una patada alta.",
+          "Finta un cross bajando el hombro y lanza una patada frontal al cuerpo.",
+          "Vuelve a la guardia y desplázate tras cada intento."
+        ],
+        "commonMistakes": [
+          "Hacer fintas tan pequeñas que no resultan creíbles.",
+          "Fintar y luego dudar antes del ataque real.",
+          "Bajar la guardia al fintar."
+        ],
+        "tips": [
+          "La finta debe parecerse al inicio del golpe real; usa los ojos y los hombros.",
+          "Alterna fintas con golpes reales para que el patrón no sea predecible."
+        ]
+      },
+      "en": {
+        "name": "Shadow: feints and kicks",
+        "description": "Shadowboxing rounds to learn deception: faking one strike to draw a reaction and landing another. In kickboxing it's common to feint with the hands to open up the kick, or feint a low kick and throw a high one. You train the feint and the real attack as a single action.",
+        "steps": [
+          "Stand in guard and throw a half jab without extending the arm (feint), eyes on your imaginary opponent's face.",
+          "Immediately throw a rear-leg high or body roundhouse kick.",
+          "Try feinting a low kick by lifting the knee slightly and switching it into a high kick.",
+          "Feint a cross by dipping the shoulder and throw a front kick to the body.",
+          "Reset your guard and move after each attempt."
+        ],
+        "commonMistakes": [
+          "Feints so small they aren't believable.",
+          "Feinting and then hesitating before the real attack.",
+          "Dropping the guard while feinting."
+        ],
+        "tips": [
+          "The feint should look like the start of the real strike; sell it with your eyes and shoulders.",
+          "Mix feints with real strikes so the pattern isn't predictable."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "kickboxing-footwork-in-out-angles",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["CALVES", "QUADRICEPS"],
+    "secondaryMuscles": ["GLUTES", "ADDUCTORS", "ABDUCTORS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": ["KICKBOXING"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Juego de piernas: entrar, salir y cambiar de ángulo",
+        "description": "Drill de desplazamiento para kickboxing que combina entradas rápidas a distancia de golpe, salidas hacia atrás y salidas laterales en ángulo. Como en kickboxing te pueden alcanzar con piernas desde lejos, controlar la distancia es fundamental.",
+        "steps": [
+          "Ponte en guardia ligera, con los talones algo elevados.",
+          "Entra con un paso rápido hacia delante lanzando un jab y sal de inmediato con un paso atrás.",
+          "Repite entrando y saliendo en diagonal hacia la izquierda y hacia la derecha.",
+          "Añade un pivote sobre el pie delantero al salir para quedarte en un ángulo nuevo.",
+          "Termina cada secuencia con una patada baja o un teep imaginario para frenar al rival."
+        ],
+        "commonMistakes": [
+          "Entrar y quedarse dentro demasiado tiempo.",
+          "Salir siempre en línea recta hacia atrás, que es lo más fácil de seguir para el rival.",
+          "Desplazarse con los pies juntos o cruzados."
+        ],
+        "tips": [
+          "La entrada y la salida deben ser igual de rápidas.",
+          "Marca un punto en el suelo como 'centro del ring' y gira a su alrededor."
+        ]
+      },
+      "en": {
+        "name": "Footwork: in, out and angles",
+        "description": "A kickboxing movement drill combining quick entries into striking range, exits backwards and exits to the side at an angle. Because kickboxers can reach you with kicks from far out, managing distance is essential.",
+        "steps": [
+          "Get into a light stance with your heels slightly raised.",
+          "Step in quickly with a jab and step straight back out.",
+          "Repeat, going in and out on diagonals to the left and right.",
+          "Add a pivot on the lead foot as you exit to land at a new angle.",
+          "Finish each sequence with an imaginary low kick or teep to stop the opponent."
+        ],
+        "commonMistakes": [
+          "Stepping in and staying there too long.",
+          "Always exiting in a straight line backwards, which is the easiest path to follow.",
+          "Moving with your feet together or crossed."
+        ],
+        "tips": [
+          "Your entry and exit should be equally fast.",
+          "Mark a spot on the floor as the 'centre of the ring' and circle around it."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "kickboxing-heavy-bag-spinning-back-kick",
+    "category": "SPORT_DRILL",
+    "difficulty": "ADVANCED",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "HAMSTRINGS", "CORE"],
+    "secondaryMuscles": ["OBLIQUES", "QUADRICEPS", "CALVES", "LOWER_BACK"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["KICKBOXING"],
+    "defaults": {
+      "sets": 4,
+      "seconds": null,
+      "reps": "6",
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: patada giratoria hacia atrás",
+        "description": "La patada giratoria hacia atrás (spinning back kick) es un golpe muy potente al cuerpo: giras de espaldas al objetivo, miras por encima del hombro y empujas con el talón en línea recta. Por su complejidad se trabaja en repeticiones lentas y controladas antes de añadir velocidad.",
+        "steps": [
+          "Ponte en guardia frente al saco a distancia de patada larga.",
+          "Gira sobre la punta del pie delantero dando la espalda al saco, con el talón trasero girando hacia dentro.",
+          "Gira la cabeza para mirar al saco por encima del hombro trasero antes de lanzar.",
+          "Recoge la rodilla y empuja la pierna en línea recta hacia atrás, golpeando con el talón a la altura del abdomen.",
+          "Recoge la pierna y completa el giro para volver a la guardia de frente."
+        ],
+        "commonMistakes": [
+          "Lanzar la patada sin mirar el objetivo, golpeando a ciegas.",
+          "Abrir la pierna en arco en lugar de empujar en línea recta.",
+          "Girar demasiado y acabar desequilibrado o de espaldas."
+        ],
+        "tips": [
+          "Practica primero el giro y la mirada sin lanzar la patada.",
+          "Con el talón y la puntera mirando hacia el suelo, la cadera queda bien alineada."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: spinning back kick",
+        "description": "The spinning back kick is a very powerful body shot: you turn your back to the target, look over your shoulder and drive the heel straight back. Because it's complex, train it in slow, controlled reps before adding speed.",
+        "steps": [
+          "Stand in guard in front of the bag at long kicking range.",
+          "Spin on the ball of the lead foot, turning your back to the bag as the rear heel turns inwards.",
+          "Turn your head to see the bag over your rear shoulder before kicking.",
+          "Chamber the knee and drive the leg straight back, landing with the heel at stomach height.",
+          "Retract the leg and complete the turn to return to guard facing forward."
+        ],
+        "commonMistakes": [
+          "Kicking without looking at the target, landing blind.",
+          "Swinging the leg in an arc instead of driving it straight.",
+          "Over-rotating and ending up off balance or with your back turned."
+        ],
+        "tips": [
+          "Practise the spin and the look on their own before adding the kick.",
+          "With heel and toes pointing down, your hips stay properly aligned."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "kickboxing-shadow-block-and-counter",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["CORE", "SHOULDERS"],
+    "secondaryMuscles": ["HIP_FLEXORS", "OBLIQUES", "FOREARMS", "CALVES"],
+    "equipment": ["NONE"],
+    "sports": ["KICKBOXING"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 180,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Sombra defensiva: bloquear patadas y contraatacar",
+        "description": "Rounds de sombra para trabajar la defensa frente a las patadas del kickboxing: bloqueo alto con el brazo frente a patadas a la cabeza, bloqueo con codo y antebrazo frente a patadas al cuerpo, chequeo de espinilla frente a patadas bajas y paso atrás. Cada defensa termina en un contraataque.",
+        "steps": [
+          "Imagina una patada alta: sube el antebrazo y pega el guante a la cabeza, con el codo cerrado, y contraataca con cross-patada.",
+          "Imagina una patada al cuerpo: baja el codo hacia la cadera del mismo lado para cubrir las costillas y responde con jab-cross.",
+          "Imagina una patada baja: chequéala levantando la espinilla y responde con patada baja propia.",
+          "Imagina una patada frontal: retrocede un paso y vuelve a entrar con jab-cross.",
+          "Mezcla las defensas al azar durante todo el round."
+        ],
+        "commonMistakes": [
+          "Separar el brazo de la cabeza al bloquear, que hace que el golpe pase o arrastre el guante.",
+          "Girar la cara o cerrar los ojos.",
+          "Quedarse en defensa sin contraatacar."
+        ],
+        "tips": [
+          "Al bloquear, contrae ligeramente el abdomen y aguanta la postura.",
+          "Inventa una 'regla': por cada defensa, mínimo dos golpes de respuesta."
+        ]
+      },
+      "en": {
+        "name": "Defensive shadow: kick blocks and counters",
+        "description": "Shadowboxing rounds to drill defence against kickboxing kicks: a high arm block against head kicks, an elbow and forearm block against body kicks, a shin check against low kicks and a step back. Every defence leads into a counter.",
+        "steps": [
+          "Picture a high kick: raise the forearm and press the glove to your head, elbow tight, then counter with cross-kick.",
+          "Picture a body kick: drop the elbow towards the same-side hip to cover the ribs and answer with jab-cross.",
+          "Picture a low kick: check it by lifting the shin and answer with your own low kick.",
+          "Picture a front kick: step back and come back in with jab-cross.",
+          "Mix the defences randomly throughout the round."
+        ],
+        "commonMistakes": [
+          "Pulling the arm away from the head when blocking, letting the kick through or knocking the glove into you.",
+          "Turning your face or closing your eyes.",
+          "Staying on the defensive without countering."
+        ],
+        "tips": [
+          "Brace your midsection slightly as you block and hold your posture.",
+          "Set yourself a rule: every defence earns at least two return strikes."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "kickboxing-double-kick-drill",
+    "category": "SPORT_DRILL",
+    "difficulty": "ADVANCED",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "HIP_FLEXORS", "CORE"],
+    "secondaryMuscles": ["ABDUCTORS", "CALVES", "OBLIQUES", "QUADRICEPS"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["KICKBOXING"],
+    "defaults": {
+      "sets": 4,
+      "seconds": null,
+      "reps": "8",
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: doble patada baja-alta sin apoyar",
+        "description": "Drill para lanzar dos patadas circulares seguidas con la misma pierna sin apoyar el pie entre ellas: primero baja al muslo y después alta a la cabeza (o media al cuerpo). Exige equilibrio, control de cadera y fuerza en la pierna de apoyo, y sorprende al rival que baja la guardia tras la primera.",
+        "steps": [
+          "Ponte en guardia a distancia de patada con la pierna adelantada.",
+          "Lanza una patada circular baja rápida a la parte inferior del saco.",
+          "Sin apoyar el pie, recoge la rodilla hacia el pecho y vuelve a lanzar la patada alta.",
+          "Apoya el pie en guardia, recoloca las manos y repite.",
+          "Completa las repeticiones con una pierna y cambia a la otra."
+        ],
+        "commonMistakes": [
+          "Apoyar el pie entre las dos patadas.",
+          "Perder la postura e inclinar el tronco en exceso hacia atrás.",
+          "Lanzar la segunda patada sin girar la cadera, solo con la rodilla."
+        ],
+        "tips": [
+          "Antes de usar el saco, practica la secuencia lenta junto a una pared.",
+          "La primera patada debe ser rápida y ligera; la segunda es la que lleva la potencia."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: low-high double kick",
+        "description": "A drill for throwing two roundhouse kicks in a row with the same leg without putting the foot down between them: first low to the thigh, then high to the head (or mid to the body). It demands balance, hip control and a strong standing leg, and catches opponents who drop their guard after the first kick.",
+        "steps": [
+          "Stand in guard at kicking range, working with the lead leg.",
+          "Throw a fast low roundhouse to the lower part of the bag.",
+          "Without putting the foot down, bring the knee back towards your chest and throw the high kick.",
+          "Land in guard, reset your hands and repeat.",
+          "Complete all reps on one leg and switch to the other."
+        ],
+        "commonMistakes": [
+          "Putting the foot down between the two kicks.",
+          "Losing posture and leaning the torso too far back.",
+          "Throwing the second kick from the knee only without turning the hip."
+        ],
+        "tips": [
+          "Before using the bag, practise the sequence slowly next to a wall.",
+          "The first kick should be fast and light; the second one carries the power."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "taekwondo-step-footwork-bounce",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["CALVES", "QUADRICEPS"],
+    "secondaryMuscles": ["GLUTES", "HIP_FLEXORS", "CORE"],
+    "equipment": ["NONE"],
+    "sports": ["TAEKWONDO"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Juego de piernas de combate: rebote y desplazamientos",
+        "description": "Drill de juego de piernas del taekwondo de combate (kyorugi): guardia de perfil, rebote constante sobre las puntas y desplazamientos rápidos adelante, atrás, cambios de guardia y deslizamientos. Un buen juego de piernas te permite entrar y salir de la distancia de patada antes que el rival.",
+        "steps": [
+          "Colócate de perfil, con los pies separados algo más que la anchura de los hombros y el peso sobre las puntas.",
+          "Rebota de forma suave y continua, sin despegar mucho del suelo.",
+          "Avanza deslizando el pie delantero y llevando el trasero detrás; retrocede al revés.",
+          "Cambia de guardia con un pequeño salto, intercambiando la pierna adelantada.",
+          "Cada pocos segundos, lanza una patada rápida de pierna adelantada al aire y vuelve al rebote."
+        ],
+        "commonMistakes": [
+          "Apoyar los talones y quedarse 'pegado' al suelo.",
+          "Rebotar tan alto que pierdes la capacidad de reaccionar.",
+          "Bajar los brazos por completo: aunque la guardia sea más baja que en boxeo, deben proteger el tronco."
+        ],
+        "tips": [
+          "Mantén el ritmo del rebote y cambia de dirección sin pararlo.",
+          "Hazlo con música de ritmo constante para regular la cadencia."
+        ]
+      },
+      "en": {
+        "name": "Kyorugi footwork: bounce and movement",
+        "description": "A footwork drill from Olympic-style competition taekwondo (kyorugi): a side-on stance, constant bounce on the balls of the feet and quick movement forward, back, stance switches and slides. Good footwork lets you get in and out of kicking range before your opponent does.",
+        "steps": [
+          "Stand side-on with feet slightly wider than shoulder-width and weight on the balls of your feet.",
+          "Bounce lightly and continuously without leaving the floor much.",
+          "Move forward by sliding the lead foot and bringing the rear foot behind; reverse it to move back.",
+          "Switch stance with a small hop, swapping your lead leg.",
+          "Every few seconds, throw a quick lead-leg kick into the air and return to the bounce."
+        ],
+        "commonMistakes": [
+          "Dropping onto your heels and getting stuck to the floor.",
+          "Bouncing so high you can't react.",
+          "Dropping the arms completely: even with a lower guard than in boxing, they must cover the torso."
+        ],
+        "tips": [
+          "Keep the bounce going and change direction without breaking the rhythm.",
+          "Use music with a steady beat to set your cadence."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "taekwondo-heavy-bag-dollyo-chagi",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["HIP_FLEXORS", "QUADRICEPS", "GLUTES"],
+    "secondaryMuscles": ["ABDUCTORS", "OBLIQUES", "CALVES", "CORE"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["TAEKWONDO"],
+    "defaults": {
+      "sets": 4,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: dollyo chagi (patada circular)",
+        "description": "Rounds de saco con dollyo chagi, la patada circular del taekwondo. A diferencia de la del Muay Thai, se recoge la rodilla (cámara), se extiende con un latigazo y se golpea con el empeine o la bola del pie, buscando velocidad y precisión más que empujar con la espinilla.",
+        "steps": [
+          "Ponte en guardia de perfil a distancia de patada del saco.",
+          "Levanta la rodilla de la pierna trasera hacia delante, plegando la pierna (cámara).",
+          "Gira sobre la bola del pie de apoyo para que el talón apunte al objetivo y la cadera se ponga de lado.",
+          "Extiende la pierna con un latigazo rápido y golpea con el empeine a la altura del tronco.",
+          "Recoge la pierna a la cámara y vuelve a la guardia. Alterna piernas o haz series con una."
+        ],
+        "commonMistakes": [
+          "Lanzar la pierna estirada desde el suelo sin cámara, lo que la hace lenta y previsible.",
+          "No girar el pie de apoyo y forzar la rodilla.",
+          "Dejar caer la pierna tras el impacto en lugar de recogerla."
+        ],
+        "tips": [
+          "En el saco, protege el empeine con espinilleras que cubran también el pie.",
+          "Piensa en 'rápido de ida y rápido de vuelta': la recogida es parte de la patada."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: dollyo chagi (roundhouse kick)",
+        "description": "Heavy bag rounds with dollyo chagi, the taekwondo roundhouse kick. Unlike the Muay Thai version, the knee is chambered first, then the leg snaps out and lands with the instep or ball of the foot, chasing speed and accuracy rather than driving the shin through.",
+        "steps": [
+          "Stand side-on in guard at kicking range from the bag.",
+          "Lift the rear knee forward, folding the leg (chamber).",
+          "Pivot on the ball of the standing foot so the heel points at the target and the hip turns sideways.",
+          "Snap the leg out and land with the instep at body height.",
+          "Pull the leg back to chamber and return to guard. Alternate legs or do sets on one side."
+        ],
+        "commonMistakes": [
+          "Swinging a straight leg from the floor with no chamber, which is slow and obvious.",
+          "Not pivoting the standing foot and straining the knee.",
+          "Letting the leg drop after impact instead of retracting it."
+        ],
+        "tips": [
+          "On the bag, protect the instep with shin guards that cover the foot.",
+          "Think 'fast out, fast back': the retraction is part of the kick."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "taekwondo-bandal-chagi-speed-intervals",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["HIP_FLEXORS", "CALVES", "CORE"],
+    "secondaryMuscles": ["QUADRICEPS", "GLUTES", "OBLIQUES"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["TAEKWONDO"],
+    "defaults": {
+      "sets": 6,
+      "seconds": 30,
+      "reps": null,
+      "restSec": 30
+    },
+    "i18n": {
+      "es": {
+        "name": "Intervalos de velocidad: bandal chagi",
+        "description": "El bandal chagi (literalmente, 'media luna'; no confundir con la patada en media luna o crescent kick) es la patada circular corta y rápida que más se usa en el combate de taekwondo para puntuar al peto. En este drill haces intervalos de 30 segundos de patadas rápidas alternas al saco, recuperando con rebote entre una y otra.",
+        "steps": [
+          "Ponte de perfil a distancia corta del saco, rebotando sobre las puntas.",
+          "Lanza la patada levantando la rodilla y girando la cadera solo lo necesario, golpeando con el empeine a la altura del peto.",
+          "Recoge la pierna, cambia de guardia con un pequeño salto y patea con la otra pierna.",
+          "Mantén el ritmo máximo durante 30 segundos sin perder la recogida.",
+          "Descansa 30 segundos caminando o con rebote suave."
+        ],
+        "commonMistakes": [
+          "Hacer la patada demasiado amplia, como un dollyo chagi completo, y perder velocidad.",
+          "Dejar de rebotar entre patadas y quedarse plantado.",
+          "Patear con la pierna sin girar mínimamente la cadera."
+        ],
+        "tips": [
+          "La velocidad sale de la rodilla y la cadera, no de 'tirar' el pie.",
+          "Cuenta las patadas en cada intervalo e intenta mantener el número en todos."
+        ]
+      },
+      "en": {
+        "name": "Speed intervals: bandal chagi",
+        "description": "Bandal chagi (literally 'half-moon', not to be confused with the crescent kick) is the short, fast roundhouse used most in taekwondo competition (kyorugi) to score on the body protector. In this drill you do 30-second intervals of fast alternating kicks on the bag, bouncing between each one.",
+        "steps": [
+          "Stand side-on at short range from the bag, bouncing on the balls of your feet.",
+          "Kick by lifting the knee and turning the hip only as much as needed, landing with the instep at body-protector height.",
+          "Retract the leg, switch stance with a small hop and kick with the other leg.",
+          "Keep top pace for 30 seconds without losing the retraction.",
+          "Rest for 30 seconds walking or bouncing lightly."
+        ],
+        "commonMistakes": [
+          "Making the kick too wide, like a full dollyo chagi, and losing speed.",
+          "Stopping the bounce between kicks and planting your feet.",
+          "Kicking with the leg alone without any hip turn."
+        ],
+        "tips": [
+          "Speed comes from the knee and hip, not from throwing the foot.",
+          "Count your kicks each interval and try to match the number every time."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "taekwondo-ap-chagi-technique-lines",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "HIP_FLEXORS"],
+    "secondaryMuscles": ["CORE", "GLUTES", "CALVES"],
+    "equipment": ["NONE"],
+    "sports": ["TAEKWONDO"],
+    "defaults": {
+      "sets": 4,
+      "seconds": null,
+      "reps": "10",
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Líneas de técnica: ap chagi (patada frontal)",
+        "description": "Ejercicio clásico de las clases de taekwondo: recorrer el tatami en línea lanzando patadas frontales (ap chagi) a cada paso. Se golpea con la bola del pie (apchuk) llevando la rodilla arriba antes de extender, y se recoge la pierna para dar el siguiente paso.",
+        "steps": [
+          "Colócate en ap kubi (posición larga hacia delante) o en guardia, en un extremo de la sala.",
+          "Levanta la rodilla de la pierna trasera hacia el pecho con los dedos del pie tirados hacia arriba.",
+          "Extiende la pierna con un chasquido rápido, golpeando con la bola del pie a la altura del plexo.",
+          "Recoge la pierna a la cámara y apóyala delante para avanzar.",
+          "Repite con la otra pierna a lo largo de la línea; las repeticiones indicadas son por pierna."
+        ],
+        "commonMistakes": [
+          "Golpear con los dedos estirados en lugar de con la bola del pie.",
+          "Inclinar mucho el tronco hacia atrás.",
+          "Saltarse la cámara y lanzar la pierna estirada desde el suelo."
+        ],
+        "tips": [
+          "Empieza lento para fijar la técnica y aumenta la velocidad en las últimas series.",
+          "Mantén las manos en guardia o en la posición que marque tu escuela."
+        ]
+      },
+      "en": {
+        "name": "Technique lines: ap chagi (front kick)",
+        "description": "A classic taekwondo class drill: travelling across the floor in a line, throwing front kicks (ap chagi) with each step. You strike with the ball of the foot (apchuk), lifting the knee before extending, then retract the leg to take the next step.",
+        "steps": [
+          "Start in ap kubi (long forward stance) or fighting stance at one end of the room.",
+          "Lift the rear knee towards your chest with the toes pulled up.",
+          "Snap the leg out quickly, landing with the ball of the foot at solar-plexus height.",
+          "Retract the leg to chamber and set it down in front to advance.",
+          "Repeat with the other leg along the line; the listed reps are per leg."
+        ],
+        "commonMistakes": [
+          "Striking with straight toes instead of the ball of the foot.",
+          "Leaning the torso far back.",
+          "Skipping the chamber and swinging a straight leg from the floor."
+        ],
+        "tips": [
+          "Go slow to lock in technique and speed up in the last sets.",
+          "Keep your hands in guard or in the position your school uses."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "taekwondo-yeop-chagi-chamber-hold",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "ABDUCTORS", "CORE"],
+    "secondaryMuscles": ["HIP_FLEXORS", "QUADRICEPS", "OBLIQUES", "CALVES"],
+    "equipment": ["NONE"],
+    "sports": ["TAEKWONDO"],
+    "defaults": {
+      "sets": 3,
+      "seconds": null,
+      "reps": "6",
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Yeop chagi lento con pausa (patada lateral)",
+        "description": "Drill de control y fuerza para el yeop chagi, la patada lateral del taekwondo que golpea con el borde exterior del pie o el talón. Se ejecuta lentamente en tres fases (cámara, extensión y recogida) con pausas en cada una, lo que fortalece la cadera y mejora la alineación.",
+        "steps": [
+          "Ponte de perfil y levanta la rodilla de la pierna que patea hacia el pecho, con el pie flexionado (cámara).",
+          "Mantén 2 segundos la cámara con el pie de apoyo girado para que el talón apunte al objetivo.",
+          "Extiende la pierna lentamente en línea recta hacia el lado, con el borde del pie y el talón por delante.",
+          "Mantén la extensión 2-3 segundos, con talón, cadera y hombro alineados.",
+          "Recoge la pierna a la cámara, mantén 1 segundo y apóyala. Completa las repeticiones y cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Apuntar con la punta del pie hacia arriba, lo que rota la cadera y desalinea la patada.",
+          "Inclinarse en exceso y perder la línea cabeza-cadera-talón.",
+          "No girar el pie de apoyo lo suficiente."
+        ],
+        "tips": [
+          "Hazlo junto a una pared o respaldo para apoyarte con una mano las primeras veces.",
+          "La altura llegará con el tiempo: prioriza una línea recta a media altura."
+        ]
+      },
+      "en": {
+        "name": "Slow yeop chagi with holds (side kick)",
+        "description": "A control and strength drill for yeop chagi, the taekwondo side kick that strikes with the outer edge of the foot or the heel. It's performed slowly in three phases (chamber, extension and retraction) with a hold in each, which strengthens the hip and improves alignment.",
+        "steps": [
+          "Stand side-on and lift the kicking knee towards your chest with the foot flexed (chamber).",
+          "Hold the chamber for 2 seconds, with the standing foot turned so the heel points at the target.",
+          "Slowly extend the leg straight out to the side, edge of the foot and heel leading.",
+          "Hold the extension for 2-3 seconds with heel, hip and shoulder in line.",
+          "Return to chamber, hold for 1 second and set the foot down. Complete the reps and switch legs."
+        ],
+        "commonMistakes": [
+          "Pointing the toes up, which rotates the hip and throws the kick off line.",
+          "Leaning too far and losing the head-hip-heel line.",
+          "Not turning the standing foot enough."
+        ],
+        "tips": [
+          "Use a wall or chair back for one-hand support the first few times.",
+          "Height comes with time: prioritise a straight line at mid height."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "taekwondo-poomsae-taegeuk-il-jang",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "CORE"],
+    "secondaryMuscles": ["GLUTES", "SHOULDERS", "CALVES", "HIP_FLEXORS"],
+    "equipment": ["NONE"],
+    "sports": ["TAEKWONDO"],
+    "defaults": {
+      "sets": 3,
+      "seconds": null,
+      "reps": "2",
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Poomsae Taegeuk Il Jang",
+        "description": "El poomsae es una secuencia fija de técnicas de taekwondo contra rivales imaginarios. Taegeuk Il Jang es el primero de la serie Taegeuk y combina posiciones básicas (ap seogi, posición corta de paseo; ap kubi, posición larga), bloqueos bajos, medios y altos, puñetazos y una patada frontal. Es ideal para trabajar solo la precisión y el ritmo.",
+        "steps": [
+          "Empieza en la posición de preparados (junbi) mirando al frente y repasa mentalmente el recorrido (tres líneas horizontales unidas por una línea central, como el carácter 王).",
+          "Ejecuta la primera serie despacio, comprobando cada posición y la dirección de la mirada antes de cada giro.",
+          "En la segunda serie, aplica ritmo: técnicas rápidas y paradas claras al final de cada movimiento.",
+          "Marca el kihap (grito) donde lo indique tu escuela (en la versión Kukkiwon, en el último puñetazo).",
+          "Termina volviendo al punto de partida en junbi; si acabas desplazado, revisa la longitud de tus pasos."
+        ],
+        "commonMistakes": [
+          "Confundir ap seogi (paso corto, natural) con ap kubi (posición larga con la rodilla delantera flexionada).",
+          "Girar antes de mirar hacia la nueva dirección.",
+          "Hacer las técnicas sin tensión final, como un baile."
+        ],
+        "tips": [
+          "Grábate desde delante y desde un lado para revisar posiciones.",
+          "Cuando lo domines, pasa a Taegeuk Ee Jang y siguientes con la misma estructura de práctica."
+        ]
+      },
+      "en": {
+        "name": "Poomsae Taegeuk Il Jang",
+        "description": "A poomsae is a set sequence of taekwondo techniques against imaginary opponents. Taegeuk Il Jang is the first form in the Taegeuk series and combines basic stances (ap seogi, a short walking stance; ap kubi, a long forward stance), low, middle and high blocks, punches and a front kick. It's ideal for drilling precision and rhythm on your own.",
+        "steps": [
+          "Start in the ready position (junbi) facing forward and mentally run through the floor pattern (three horizontal lines joined by a central line, like the character 王).",
+          "Perform the first run slowly, checking each stance and looking in the new direction before every turn.",
+          "On the second run, add rhythm: sharp techniques and clear stops at the end of each movement.",
+          "Add the kihap (shout) where your school places it (in the Kukkiwon version, on the final punch).",
+          "Finish back at your starting point in junbi; if you've drifted, check the length of your steps."
+        ],
+        "commonMistakes": [
+          "Mixing up ap seogi (short, natural step) with ap kubi (long stance with the front knee bent).",
+          "Turning before looking in the new direction.",
+          "Performing techniques with no final tension, like a dance."
+        ],
+        "tips": [
+          "Film yourself from the front and side to check your stances.",
+          "Once it's solid, move on to Taegeuk Ee Jang and beyond with the same practice structure."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "taekwondo-poomsae-power-precision",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["CORE", "QUADRICEPS"],
+    "secondaryMuscles": ["GLUTES", "SHOULDERS", "HIP_FLEXORS", "CALVES"],
+    "equipment": ["NONE"],
+    "sports": ["TAEKWONDO"],
+    "defaults": {
+      "sets": 3,
+      "seconds": null,
+      "reps": "3",
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Poomsae por fases: lento, con potencia y con ritmo",
+        "description": "Método de práctica para cualquier poomsae que ya conozcas (por ejemplo, de la serie Taegeuk o tu poomsae de cinturón). Cada serie consiste en hacerlo tres veces con objetivos distintos: una a cámara lenta para la exactitud, otra con máxima potencia en cada técnica y otra con el ritmo y las pausas de competición.",
+        "steps": [
+          "Elige el poomsae que estés preparando y calienta bien caderas y tobillos.",
+          "Primera repetición, a cámara lenta: comprueba posiciones, alturas de bloqueos y alineación de las patadas.",
+          "Segunda repetición, con potencia: cada técnica termina con tensión y respiración marcada.",
+          "Tercera repetición, con ritmo de competición: respeta las pausas, cambios de velocidad y kihap.",
+          "Anota tras cada serie qué movimiento falló y céntrate en él en la siguiente."
+        ],
+        "commonMistakes": [
+          "Hacer siempre las tres repeticiones a la misma velocidad.",
+          "Perder la altura de las posiciones cuando te cansas.",
+          "Olvidar la mirada: debe preceder siempre al giro."
+        ],
+        "tips": [
+          "Si compites, consulta el reglamento actualizado de poomsae de tu federación.",
+          "Una repetición bien hecha vale más que cinco con errores repetidos."
+        ]
+      },
+      "en": {
+        "name": "Poomsae in phases: slow, power and rhythm",
+        "description": "A practice method for any poomsae you already know (for example from the Taegeuk series or your belt form). Each set means performing it three times with different goals: once in slow motion for accuracy, once with maximum power in every technique and once with competition rhythm and pauses.",
+        "steps": [
+          "Choose the poomsae you're working on and warm up your hips and ankles properly.",
+          "First rep, slow motion: check stances, block heights and kick alignment.",
+          "Second rep, power: every technique finishes with tension and a sharp breath.",
+          "Third rep, competition rhythm: respect the pauses, speed changes and kihap.",
+          "After each set, note which movement failed and focus on it in the next one."
+        ],
+        "commonMistakes": [
+          "Doing all three reps at the same speed.",
+          "Letting stance height drift as you tire.",
+          "Forgetting the eyes: they should always lead the turn."
+        ],
+        "tips": [
+          "If you compete, check your federation's current poomsae rules.",
+          "One clean rep is worth more than five with the same mistakes."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "taekwondo-dwit-chagi-heavy-bag",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "HAMSTRINGS", "CORE"],
+    "secondaryMuscles": ["QUADRICEPS", "OBLIQUES", "CALVES", "LOWER_BACK"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["TAEKWONDO"],
+    "defaults": {
+      "sets": 4,
+      "seconds": null,
+      "reps": "6",
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: dwit chagi (patada hacia atrás)",
+        "description": "El dwit chagi es la patada hacia atrás del taekwondo, una de las más potentes y muy usada como contraataque cuando el rival entra. Giras de espaldas, miras al objetivo por encima del hombro y empujas el talón en línea recta. Se trabaja por repeticiones para cuidar la técnica.",
+        "steps": [
+          "Ponte de perfil frente al saco a distancia de patada.",
+          "Gira sobre el pie adelantado dando la espalda al saco y mira el objetivo por encima del hombro.",
+          "Recoge la rodilla de la pierna trasera cerca de la otra pierna, con el pie flexionado.",
+          "Empuja la pierna en línea recta hacia atrás y golpea con el talón, con la punta del pie mirando hacia el suelo.",
+          "Recoge la pierna y termina el giro para volver a la guardia."
+        ],
+        "commonMistakes": [
+          "Abrir la pierna hacia el lado en lugar de mantenerla pegada en su recorrido.",
+          "Lanzar la patada sin mirar.",
+          "Girar en exceso y acabar de lado, con la patada desviada."
+        ],
+        "tips": [
+          "Imagina que la rodilla de la pierna que patea roza la de la pierna de apoyo al salir.",
+          "Practica la versión de contraataque: retrocede un paso como si el rival entrara y lanza el dwit chagi."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: dwit chagi (back kick)",
+        "description": "Dwit chagi is the taekwondo back kick, one of the most powerful kicks and a favourite counter when the opponent steps in. You turn your back, look at the target over your shoulder and drive the heel straight back. It's trained for reps to protect technique.",
+        "steps": [
+          "Stand side-on in front of the bag at kicking range.",
+          "Turn on the lead foot so your back faces the bag and look at the target over your shoulder.",
+          "Chamber the rear knee close to the other leg with the foot flexed.",
+          "Drive the leg straight back and land with the heel, toes pointing down.",
+          "Retract the leg and complete the turn to return to guard."
+        ],
+        "commonMistakes": [
+          "Swinging the leg out to the side instead of keeping it tight on its path.",
+          "Kicking without looking.",
+          "Over-rotating and ending up side-on, sending the kick off line."
+        ],
+        "tips": [
+          "Picture the kicking knee brushing past the standing knee on the way out.",
+          "Practise the counter version: step back as if the opponent is coming in, then fire the dwit chagi."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "taekwondo-naeryeo-chagi-lines",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["HAMSTRINGS", "HIP_FLEXORS", "GLUTES"],
+    "secondaryMuscles": ["CORE", "CALVES", "LOWER_BACK"],
+    "equipment": ["NONE"],
+    "sports": ["TAEKWONDO"],
+    "defaults": {
+      "sets": 3,
+      "seconds": null,
+      "reps": "8",
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Líneas de técnica: naeryeo chagi (patada de hacha)",
+        "description": "El naeryeo chagi o patada de hacha sube la pierna por delante del cuerpo y la baja con fuerza golpeando con el talón o la planta del pie sobre la cabeza o el hombro del rival. Exige flexibilidad y control. Aquí lo trabajas en líneas a lo largo de la sala, controlando la subida y la bajada.",
+        "steps": [
+          "Calienta bien caderas e isquiotibiales con movilidad dinámica antes de empezar.",
+          "Desde la guardia, sube la rodilla de la pierna trasera y extiende la pierna hacia arriba por delante del cuerpo.",
+          "Lleva el pie por encima de la altura de la cabeza solo hasta donde tu flexibilidad lo permita con control.",
+          "Baja la pierna con fuerza, recta, imaginando que golpeas con el talón la cabeza de un rival.",
+          "Apoya el pie delante y continúa la línea con la otra pierna. Las repeticiones son por pierna."
+        ],
+        "commonMistakes": [
+          "Forzar la altura balanceando la pierna sin control y tirando de la zona lumbar.",
+          "Dejar caer la pierna sin intención en lugar de bajarla de forma activa.",
+          "Echar el tronco muy atrás para subir la pierna."
+        ],
+        "tips": [
+          "Empieza a altura de pecho y sube de forma progresiva semana a semana.",
+          "Golpear con la planta es más seguro al principio; el talón exige más control."
+        ]
+      },
+      "en": {
+        "name": "Technique lines: naeryeo chagi (axe kick)",
+        "description": "Naeryeo chagi, the axe kick, raises the leg in front of the body and brings it down hard, striking with the heel or sole on the opponent's head or shoulder. It demands flexibility and control. Here you drill it in lines across the room, controlling both the lift and the drop.",
+        "steps": [
+          "Warm up your hips and hamstrings with dynamic mobility before starting.",
+          "From guard, lift the rear knee and extend the leg upwards in front of your body.",
+          "Raise the foot above head height only as far as your flexibility allows with control.",
+          "Bring the leg down hard and straight, picturing the heel landing on an opponent's head.",
+          "Set the foot down in front and continue the line with the other leg. Reps are per leg."
+        ],
+        "commonMistakes": [
+          "Forcing height by swinging the leg uncontrolled and pulling on the lower back.",
+          "Letting the leg drop passively instead of bringing it down actively.",
+          "Leaning far back to lift the leg."
+        ],
+        "tips": [
+          "Start at chest height and raise it gradually week by week.",
+          "Landing with the sole is safer at first; the heel takes more control."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "taekwondo-multi-kick-balance-combo",
+    "category": "SPORT_DRILL",
+    "difficulty": "ADVANCED",
+    "measureType": "REPS",
+    "primaryMuscles": ["GLUTES", "CORE", "HIP_FLEXORS"],
+    "secondaryMuscles": ["ABDUCTORS", "CALVES", "QUADRICEPS", "OBLIQUES"],
+    "equipment": ["NONE"],
+    "sports": ["TAEKWONDO"],
+    "defaults": {
+      "sets": 3,
+      "seconds": null,
+      "reps": "5",
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Combinación de tres patadas sin apoyar",
+        "description": "Drill avanzado de equilibrio y control: lanzar tres patadas seguidas con la misma pierna sin apoyar el pie: ap chagi (frontal), yeop chagi (lateral) y dollyo chagi (circular). Desarrolla la fuerza de la pierna de apoyo, el control de la cadera y la capacidad de encadenar patadas, muy útil tanto en combate como en exhibición.",
+        "steps": [
+          "Ponte en guardia y levanta la rodilla de la pierna que va a patear.",
+          "Lanza ap chagi al frente y recoge la pierna a la cámara sin apoyar.",
+          "Gira el pie de apoyo y lanza yeop chagi hacia el lado, con el talón por delante.",
+          "Recoge, ajusta el giro de cadera y lanza dollyo chagi.",
+          "Apoya el pie, recupera la guardia y repite. Completa las repeticiones y cambia de pierna."
+        ],
+        "commonMistakes": [
+          "Apoyar el pie entre patadas para recuperar el equilibrio.",
+          "Bajar la altura de las patadas a medida que avanza la combinación.",
+          "Saltarse la cámara entre patadas, haciendo que se mezclen y pierdan forma."
+        ],
+        "tips": [
+          "Hazlo primero a media altura y despacio; la velocidad llega después.",
+          "Si te desequilibras, revisa el giro del pie de apoyo en cada patada."
+        ]
+      },
+      "en": {
+        "name": "Three-kick combination without touching down",
+        "description": "An advanced balance and control drill: three kicks in a row with the same leg without putting the foot down: ap chagi (front), yeop chagi (side) and dollyo chagi (roundhouse). It builds standing-leg strength, hip control and the ability to chain kicks, useful in both competition and demonstrations.",
+        "steps": [
+          "Stand in guard and lift the knee of the kicking leg.",
+          "Throw ap chagi forward and retract to chamber without touching down.",
+          "Pivot the standing foot and throw yeop chagi to the side, heel leading.",
+          "Retract, adjust the hip turn and throw dollyo chagi.",
+          "Set the foot down, reset your guard and repeat. Complete the reps and switch legs."
+        ],
+        "commonMistakes": [
+          "Touching the foot down between kicks to regain balance.",
+          "Kicks getting lower as the combination goes on.",
+          "Skipping the chamber between kicks so they blur together and lose shape."
+        ],
+        "tips": [
+          "Do it slowly at mid height first; speed comes later.",
+          "If you lose balance, check the pivot of the standing foot on each kick."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "taekwondo-kicking-height-progression",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["HIP_FLEXORS", "HAMSTRINGS"],
+    "secondaryMuscles": ["ADDUCTORS", "GLUTES", "CORE", "QUADRICEPS"],
+    "equipment": ["NONE"],
+    "sports": ["TAEKWONDO", "KARATE"],
+    "defaults": {
+      "sets": 3,
+      "seconds": null,
+      "reps": "8",
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Progresión de altura de patada",
+        "description": "Drill para ganar altura en las patadas de forma progresiva y controlada. En cada serie lanzas la patada a tres alturas (baja, media y alta), subiendo solo hasta donde puedas mantener la técnica. Combina el trabajo de flexibilidad dinámica con la técnica de pateo y suele hacerse al final del calentamiento.",
+        "steps": [
+          "Calienta con balanceos de pierna controlados al frente y al lado.",
+          "Elige una patada (por ejemplo dollyo chagi o yeop chagi en taekwondo; mawashi-geri o yoko-geri en karate) y lánzala a la altura de la rodilla.",
+          "Lanza la siguiente a la altura del tronco, manteniendo la cámara y el giro de cadera.",
+          "Lanza la tercera a la altura de la cabeza solo si puedes hacerlo sin perder la postura.",
+          "Repite el ciclo baja-media-alta las veces indicadas por pierna."
+        ],
+        "commonMistakes": [
+          "Ganar altura inclinando todo el cuerpo hacia atrás en lugar de con la cadera.",
+          "Lanzar la pierna con impulso sin controlarla en la bajada.",
+          "Hacerlo en frío, sin calentar."
+        ],
+        "tips": [
+          "Marca referencias en la pared (cinta) para ver tu progreso con el tiempo.",
+          "La flexibilidad se gana con constancia: pocas repeticiones bien hechas a menudo."
+        ]
+      },
+      "en": {
+        "name": "Kicking height progression",
+        "description": "A drill for gaining kick height gradually and with control. In each set you throw the kick at three heights (low, middle and high), only going as high as you can while keeping technique. It blends dynamic flexibility with kicking technique and usually comes at the end of a warm-up.",
+        "steps": [
+          "Warm up with controlled front and side leg swings.",
+          "Choose a kick (for example dollyo chagi or yeop chagi in taekwondo; mawashi-geri or yoko-geri in karate) and throw it at knee height.",
+          "Throw the next one at body height, keeping the chamber and hip turn.",
+          "Throw the third at head height only if you can do it without losing posture.",
+          "Repeat the low-middle-high cycle for the listed reps per leg."
+        ],
+        "commonMistakes": [
+          "Gaining height by leaning the whole body back instead of using the hip.",
+          "Swinging the leg on momentum without controlling it on the way down.",
+          "Doing it cold without a warm-up."
+        ],
+        "tips": [
+          "Put tape marks on the wall to see your progress over time.",
+          "Flexibility comes with consistency: a few clean reps, often."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "karate-kihon-zuki-lines",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "CORE", "SHOULDERS"],
+    "secondaryMuscles": ["GLUTES", "TRICEPS", "CHEST", "OBLIQUES"],
+    "equipment": ["NONE"],
+    "sports": ["KARATE"],
+    "defaults": {
+      "sets": 4,
+      "seconds": null,
+      "reps": "10",
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Kihon: oi-zuki y gyaku-zuki en desplazamiento",
+        "description": "El kihon es la práctica de las técnicas básicas del karate, normalmente en líneas, avanzando y retrocediendo. En este drill trabajas los dos puñetazos fundamentales en zenkutsu-dachi (posición adelantada): oi-zuki, golpe con la mano del mismo lado de la pierna que avanza, y gyaku-zuki, golpe con la mano contraria, impulsado por el giro de cadera.",
+        "steps": [
+          "Colócate en zenkutsu-dachi con gedan-barai (barrido bajo) como posición de partida, al fondo de la sala.",
+          "Oi-zuki: avanza un paso deslizando el pie cerca del otro y golpea con la mano del lado de la pierna que queda delante al terminar el paso.",
+          "Tira de la mano contraria hacia la cadera (hikite) a la vez que golpeas.",
+          "Gyaku-zuki: desde zenkutsu-dachi, gira la cadera hacia delante y golpea con la mano del lado de la pierna trasera.",
+          "Recorre la línea haciendo las repeticiones con cada técnica; da la vuelta y vuelve en la otra dirección."
+        ],
+        "commonMistakes": [
+          "Golpear antes de que termine el paso, sin la fuerza de las piernas.",
+          "Olvidar el hikite: la mano contraria debe volver con energía a la cadera.",
+          "Subir y bajar la altura de la cabeza al desplazarte."
+        ],
+        "tips": [
+          "Exhala con fuerza en cada golpe; puedes marcar el kiai en la última repetición.",
+          "La terminología puede variar ligeramente según tu estilo (Shotokan, Goju-ryu, Wado-ryu...)."
+        ]
+      },
+      "en": {
+        "name": "Kihon: stepping oi-zuki and gyaku-zuki",
+        "description": "Kihon is the practice of karate's basic techniques, usually in lines moving forward and back. In this drill you work the two fundamental punches in zenkutsu-dachi (front stance): oi-zuki, a lunge punch with the same-side hand as the stepping leg, and gyaku-zuki, a reverse punch with the opposite hand, driven by hip rotation.",
+        "steps": [
+          "Start in zenkutsu-dachi with gedan-barai (downward sweep) at one end of the room.",
+          "Oi-zuki: step forward, sliding the foot close past the other, and punch with the hand on the same side as the new front leg as the step lands.",
+          "Pull the other hand back to your hip (hikite) as you punch.",
+          "Gyaku-zuki: from zenkutsu-dachi, rotate the hips forward and punch with the hand on the rear-leg side.",
+          "Travel the line doing the reps for each technique; turn and come back the other way."
+        ],
+        "commonMistakes": [
+          "Punching before the step finishes, losing the drive from the legs.",
+          "Forgetting hikite: the other hand should snap back to the hip.",
+          "Bobbing your head up and down as you move."
+        ],
+        "tips": [
+          "Exhale forcefully with each punch; add a kiai on the last rep.",
+          "Terminology may differ slightly by style (Shotokan, Goju-ryu, Wado-ryu...)."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "karate-kihon-uke-blocks",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["SHOULDERS", "FOREARMS", "CORE"],
+    "secondaryMuscles": ["QUADRICEPS", "GLUTES", "OBLIQUES", "UPPER_BACK"],
+    "equipment": ["NONE"],
+    "sports": ["KARATE"],
+    "defaults": {
+      "sets": 4,
+      "seconds": null,
+      "reps": "8",
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Kihon: bloqueos básicos (uke)",
+        "description": "Práctica en líneas de los cuatro bloqueos básicos del karate: gedan-barai (barrido bajo), age-uke (bloqueo alto ascendente), soto-uke (bloqueo medio de fuera hacia dentro) y uchi-uke (bloqueo medio de dentro hacia fuera). Cada bloqueo se acompaña de un contraataque con gyaku-zuki para unir defensa y ataque.",
+        "steps": [
+          "Colócate en zenkutsu-dachi al fondo de la sala.",
+          "Avanza y ejecuta age-uke: el antebrazo sube en diagonal por delante de la frente, girando al final.",
+          "Contraataca con gyaku-zuki sin moverte del sitio.",
+          "Repite la línea con soto-uke, uchi-uke y gedan-barai, siempre seguidos de gyaku-zuki.",
+          "Las repeticiones indicadas son por cada bloqueo."
+        ],
+        "commonMistakes": [
+          "Bloquear solo con el brazo, sin el giro de cadera que da firmeza.",
+          "Terminar el bloqueo demasiado lejos del cuerpo o demasiado cerca.",
+          "No preparar el bloqueo cruzando los brazos, lo que le quita recorrido."
+        ],
+        "tips": [
+          "Piensa en cada bloqueo como un golpe al brazo del rival, no como una barrera pasiva.",
+          "Sigue la versión concreta de tu escuela: los recorridos varían entre estilos."
+        ]
+      },
+      "en": {
+        "name": "Kihon: basic blocks (uke)",
+        "description": "Line practice of karate's four basic blocks: gedan-barai (downward sweep), age-uke (rising high block), soto-uke (middle block from outside in) and uchi-uke (middle block from inside out). Each block is followed by a gyaku-zuki counter to tie defence and attack together.",
+        "steps": [
+          "Start in zenkutsu-dachi at one end of the room.",
+          "Step forward and perform age-uke: the forearm rises diagonally in front of the forehead, rotating at the end.",
+          "Counter with gyaku-zuki without moving your feet.",
+          "Repeat the line with soto-uke, uchi-uke and gedan-barai, always followed by gyaku-zuki.",
+          "The listed reps are per block."
+        ],
+        "commonMistakes": [
+          "Blocking with the arm only, without the hip rotation that makes it solid.",
+          "Finishing the block too far from or too close to the body.",
+          "Skipping the crossed-arm preparation, which shortens the block's path."
+        ],
+        "tips": [
+          "Think of each block as a strike to the opponent's arm, not a passive wall.",
+          "Follow your school's version: the paths vary between styles."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "karate-kata-heian-shodan",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "CORE"],
+    "secondaryMuscles": ["GLUTES", "SHOULDERS", "CALVES", "ADDUCTORS"],
+    "equipment": ["NONE"],
+    "sports": ["KARATE"],
+    "defaults": {
+      "sets": 3,
+      "seconds": null,
+      "reps": "2",
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Kata Heian Shodan",
+        "description": "Un kata es una secuencia fija de técnicas contra rivales imaginarios. Heian Shodan es el primer kata de la serie Heian en Shotokan (en otros estilos equivale a Pinan Nidan) y combina zenkutsu-dachi, kokutsu-dachi, gedan-barai, oi-zuki, age-uke y shuto-uke. Es perfecto para trabajar solo el embusen (el recorrido en el suelo), el ritmo y la precisión.",
+        "steps": [
+          "Saluda (rei) y colócate en yoi (posición de preparados), visualizando el recorrido en forma de 'I'.",
+          "Primera repetición despacio: comprueba cada posición, la dirección de la mirada y los giros.",
+          "Segunda repetición con ritmo: técnicas rápidas con kime (foco y tensión final en cada técnica).",
+          "Marca los kiai donde los sitúe tu estilo.",
+          "Termina en el mismo punto donde empezaste; si no, revisa la longitud de tus posiciones."
+        ],
+        "commonMistakes": [
+          "Hacer las posiciones demasiado cortas o altas.",
+          "Girar el cuerpo antes de mirar hacia la nueva dirección.",
+          "Encadenar las técnicas sin pausas ni kime, perdiendo el carácter del kata."
+        ],
+        "tips": [
+          "Grábate y compáralo con la referencia oficial de tu federación o escuela.",
+          "Practica por fragmentos los giros que más te cuesten antes del kata completo."
+        ]
+      },
+      "en": {
+        "name": "Kata Heian Shodan",
+        "description": "A kata is a set sequence of techniques against imaginary opponents. Heian Shodan is the first kata in the Shotokan Heian series (in other styles it corresponds to Pinan Nidan) and combines zenkutsu-dachi, kokutsu-dachi, gedan-barai, oi-zuki, age-uke and shuto-uke. It's perfect for drilling the embusen (floor pattern), rhythm and precision on your own.",
+        "steps": [
+          "Bow (rei) and stand in yoi (ready position), picturing the 'I'-shaped floor pattern.",
+          "First rep slowly: check each stance, where your eyes go and each turn.",
+          "Second rep with rhythm: sharp techniques with kime (focus and tension at the end of each one).",
+          "Add the kiai where your style places them.",
+          "Finish on the same spot you started; if you don't, check the length of your stances."
+        ],
+        "commonMistakes": [
+          "Stances too short or too high.",
+          "Turning the body before looking in the new direction.",
+          "Running techniques together with no pauses or kime, losing the kata's character."
+        ],
+        "tips": [
+          "Film yourself and compare it with your federation's or school's reference.",
+          "Practise the turns you find hardest in sections before running the full kata."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "karate-kata-slow-motion-practice",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "GLUTES", "CORE"],
+    "secondaryMuscles": ["ADDUCTORS", "SHOULDERS", "CALVES", "HIP_FLEXORS"],
+    "equipment": ["NONE"],
+    "sports": ["KARATE"],
+    "defaults": {
+      "sets": 3,
+      "seconds": null,
+      "reps": "1",
+      "restSec": 90
+    },
+    "i18n": {
+      "es": {
+        "name": "Kata a cámara lenta con posiciones bajas",
+        "description": "Método de práctica para cualquier kata que ya conozcas: ejecutarlo muy despacio, unas tres o cuatro veces más lento de lo normal, manteniendo las posiciones bajas y estables durante todo el recorrido. Pone en evidencia los errores de equilibrio y alineación que la velocidad esconde y es muy exigente para las piernas.",
+        "steps": [
+          "Elige un kata que domines y calienta caderas, rodillas y tobillos.",
+          "Ejecútalo a cámara lenta, sin pausas bruscas, como si te movieras dentro del agua.",
+          "Mantén la altura de la cadera constante entre posiciones, sin subir al desplazarte.",
+          "Respira de forma continua: exhala durante cada técnica e inhala en la preparación.",
+          "Al terminar, haz una repetición a velocidad normal y nota la diferencia en estabilidad."
+        ],
+        "commonMistakes": [
+          "Acelerar inconscientemente en las partes más difíciles.",
+          "Subir la cadera al desplazarte para descansar las piernas.",
+          "Contener la respiración."
+        ],
+        "tips": [
+          "Si las rodillas molestan, sube un poco las posiciones y céntrate en la alineación rodilla-pie.",
+          "Funciona muy bien como trabajo de piernas en días sin acceso a gimnasio."
+        ]
+      },
+      "en": {
+        "name": "Slow-motion kata with low stances",
+        "description": "A practice method for any kata you already know: perform it very slowly, about three or four times slower than normal, keeping your stances low and stable throughout. It exposes balance and alignment errors that speed hides and is very demanding on the legs.",
+        "steps": [
+          "Pick a kata you know well and warm up your hips, knees and ankles.",
+          "Perform it in slow motion, without jerky stops, as if moving through water.",
+          "Keep your hip height constant between stances without rising as you move.",
+          "Breathe continuously: exhale during each technique and inhale during the preparation.",
+          "When you finish, do one rep at normal speed and feel the difference in stability."
+        ],
+        "commonMistakes": [
+          "Speeding up without noticing in the hardest sections.",
+          "Rising up while moving to rest your legs.",
+          "Holding your breath."
+        ],
+        "tips": [
+          "If your knees complain, raise the stances a little and focus on knee-over-foot alignment.",
+          "Works very well as leg training on days without gym access."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "karate-mae-geri-kihon",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "REPS",
+    "primaryMuscles": ["QUADRICEPS", "HIP_FLEXORS"],
+    "secondaryMuscles": ["CORE", "GLUTES", "CALVES"],
+    "equipment": ["NONE"],
+    "sports": ["KARATE"],
+    "defaults": {
+      "sets": 4,
+      "seconds": null,
+      "reps": "10",
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Kihon: mae-geri (patada frontal)",
+        "description": "Práctica en líneas del mae-geri, la patada frontal del karate, en sus dos variantes: keage (de chasquido, la pierna se extiende y vuelve rápidamente) y kekomi (de penetración, empujando la cadera hacia el objetivo). Se golpea con el koshi, la base de los dedos con los dedos tirados hacia arriba.",
+        "steps": [
+          "Colócate en zenkutsu-dachi con la guardia que use tu estilo.",
+          "Sube la rodilla de la pierna trasera hasta la altura de la cadera, con los dedos del pie hacia arriba.",
+          "Keage: extiende la pierna con un chasquido y recógela de inmediato a la misma posición de rodilla alta.",
+          "Kekomi: extiende la pierna empujando la cadera hacia delante y mantén un instante antes de recoger.",
+          "Apoya el pie delante en zenkutsu-dachi y continúa la línea con la otra pierna."
+        ],
+        "commonMistakes": [
+          "Golpear con los dedos en lugar de con la base de los dedos (koshi).",
+          "No recoger la pierna antes de apoyarla.",
+          "Echar el tronco atrás y perder la posición."
+        ],
+        "tips": [
+          "Practica primero la elevación de rodilla sin patear para ganar control.",
+          "Alterna series de keage y kekomi para notar la diferencia de mecánica."
+        ]
+      },
+      "en": {
+        "name": "Kihon: mae-geri (front kick)",
+        "description": "Line practice of mae-geri, karate's front kick, in both versions: keage (snapping, the leg extends and returns quickly) and kekomi (thrusting, driving the hip into the target). You strike with the koshi, the ball of the foot with the toes pulled back.",
+        "steps": [
+          "Stand in zenkutsu-dachi with the guard your style uses.",
+          "Lift the rear knee to hip height with the toes pulled up.",
+          "Keage: snap the leg out and pull it straight back to the same high-knee position.",
+          "Kekomi: extend the leg by driving the hip forward and hold an instant before retracting.",
+          "Set the foot down in front in zenkutsu-dachi and continue the line with the other leg."
+        ],
+        "commonMistakes": [
+          "Striking with the toes instead of the ball of the foot (koshi).",
+          "Not retracting the leg before putting it down.",
+          "Leaning the torso back and losing the stance."
+        ],
+        "tips": [
+          "Practise the knee lift without kicking first to build control.",
+          "Alternate sets of keage and kekomi to feel the difference in mechanics."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "karate-heavy-bag-mawashi-geri",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["HIP_FLEXORS", "GLUTES", "OBLIQUES"],
+    "secondaryMuscles": ["ABDUCTORS", "QUADRICEPS", "CALVES", "CORE"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["KARATE"],
+    "defaults": {
+      "sets": 4,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: mawashi-geri (patada circular)",
+        "description": "Rounds de saco con mawashi-geri, la patada circular del karate. Se recoge la rodilla de lado, se gira la cadera y se extiende la pierna con un chasquido, golpeando con el empeine (haisoku) en kumite deportivo o con la base de los dedos (koshi) en el karate tradicional. Alterna chudan (altura media) y jodan (altura alta).",
+        "steps": [
+          "Ponte en kamae (guardia de kumite) a distancia de patada.",
+          "Sube la rodilla de la pierna trasera hacia el lado, con la pierna plegada.",
+          "Gira sobre la bola del pie de apoyo y rota la cadera hasta poner la rodilla apuntando al objetivo.",
+          "Extiende la pierna con un chasquido y golpea a altura chudan o jodan.",
+          "Recoge la pierna a la cámara y vuelve a kamae. Alterna series con la pierna delantera."
+        ],
+        "commonMistakes": [
+          "Lanzar la pierna en arco amplio desde el suelo sin recoger la rodilla.",
+          "No girar el pie de apoyo.",
+          "Bajar la guardia al patear."
+        ],
+        "tips": [
+          "En el saco, usa protecciones de pie y empeine o golpea con control.",
+          "Para kumite deportivo, prioriza la velocidad y la recogida sobre la potencia."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: mawashi-geri (roundhouse kick)",
+        "description": "Heavy bag rounds with mawashi-geri, karate's roundhouse kick. The knee is chambered to the side, the hip turns and the leg snaps out, landing with the instep (haisoku) in sport kumite or the ball of the foot (koshi) in traditional karate. Alternate chudan (middle level) and jodan (high level).",
+        "steps": [
+          "Stand in kamae (kumite guard) at kicking range.",
+          "Lift the rear knee out to the side with the leg folded.",
+          "Pivot on the ball of the standing foot and turn the hip until the knee points at the target.",
+          "Snap the leg out and land at chudan or jodan level.",
+          "Retract to chamber and return to kamae. Alternate with sets on the lead leg."
+        ],
+        "commonMistakes": [
+          "Swinging the leg in a wide arc from the floor without chambering.",
+          "Not pivoting the standing foot.",
+          "Dropping the guard while kicking."
+        ],
+        "tips": [
+          "On the bag, wear foot and instep protection or kick with control.",
+          "For sport kumite, prioritise speed and retraction over power."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "karate-kumite-footwork-shadow",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["CALVES", "QUADRICEPS"],
+    "secondaryMuscles": ["GLUTES", "ADDUCTORS", "CORE", "HIP_FLEXORS"],
+    "equipment": ["NONE"],
+    "sports": ["KARATE"],
+    "defaults": {
+      "sets": 4,
+      "seconds": 90,
+      "reps": null,
+      "restSec": 45
+    },
+    "i18n": {
+      "es": {
+        "name": "Sombra de kumite: desplazamientos y entradas",
+        "description": "Rounds de sombra con el juego de piernas del kumite deportivo: rebote ligero en kamae, desplazamientos (ashi sabaki) como yori-ashi (deslizar ambos pies) y tsugi-ashi (acercar el pie trasero antes de avanzar), y entradas explosivas con golpe seguidas de salida inmediata. Los rounds son cortos e intensos, como los intercambios del kumite.",
+        "steps": [
+          "Ponte en kamae, ligeramente de perfil, con rebote suave sobre las puntas.",
+          "Desplázate con yori-ashi adelante y atrás manteniendo la distancia entre pies.",
+          "Usa tsugi-ashi para acortar distancia y entra con kizami-zuki o gyaku-zuki.",
+          "Sal inmediatamente hacia atrás o en diagonal tras cada ataque.",
+          "Añade cambios de ángulo con pasos laterales (tai sabaki) entre las entradas."
+        ],
+        "commonMistakes": [
+          "Telegrafiar la entrada con un paso previo visible.",
+          "Quedarse dentro de la distancia tras puntuar.",
+          "Rebotar con los talones apoyados."
+        ],
+        "tips": [
+          "Imagina un rival concreto que avanza y retrocede: reacciona a él.",
+          "Marca una zona de 8x8 metros si tienes espacio para simular el área de combate."
+        ]
+      },
+      "en": {
+        "name": "Kumite shadow: movement and entries",
+        "description": "Shadow rounds built on sport kumite footwork: a light bounce in kamae, footwork (ashi sabaki) such as yori-ashi (sliding both feet) and tsugi-ashi (bringing the rear foot up before advancing), plus explosive entries with a strike followed by an immediate exit. Rounds are short and intense, like kumite exchanges.",
+        "steps": [
+          "Stand in kamae, slightly side-on, bouncing lightly on the balls of your feet.",
+          "Move with yori-ashi forward and back, keeping the distance between your feet.",
+          "Use tsugi-ashi to close distance and enter with kizami-zuki or gyaku-zuki.",
+          "Exit straight back or on a diagonal immediately after each attack.",
+          "Add angle changes with side steps (tai sabaki) between entries."
+        ],
+        "commonMistakes": [
+          "Telegraphing the entry with a visible preparatory step.",
+          "Staying in range after scoring.",
+          "Bouncing with your heels down."
+        ],
+        "tips": [
+          "Picture a specific opponent stepping in and out and react to them.",
+          "Mark an 8x8 metre area if you have space to simulate the competition area."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "karate-heavy-bag-gyaku-zuki",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["OBLIQUES", "SHOULDERS", "GLUTES"],
+    "secondaryMuscles": ["TRICEPS", "CHEST", "QUADRICEPS", "CORE"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["KARATE"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: gyaku-zuki con giro de cadera",
+        "description": "Rounds de saco con gyaku-zuki, el puñetazo con la mano trasera que es la técnica más potente y usada del karate. El objetivo es sentir cómo la fuerza nace de las piernas y del giro de cadera, con el kime (tensión final) en el momento del impacto y una recogida rápida.",
+        "steps": [
+          "Colócate en kamae o en zenkutsu-dachi corto a distancia de golpe del saco.",
+          "Empuja con la pierna trasera y gira la cadera hacia delante.",
+          "Lanza el puño en línea recta, girándolo al final, mientras la otra mano vuelve a la cadera o a la guardia.",
+          "Contrae el abdomen y fija el cuerpo en el impacto (kime), sin bloquear el codo.",
+          "Recoge el puño rápido y repite; alterna golpes sueltos con kizami-zuki + gyaku-zuki."
+        ],
+        "commonMistakes": [
+          "Golpear solo con el brazo, sin el giro de cadera.",
+          "Levantar el talón trasero de forma exagerada y perder el apoyo.",
+          "Inclinar el tronco hacia el saco en lugar de mantenerlo erguido."
+        ],
+        "tips": [
+          "Usa guantes de saco o vendas: en el kihon se golpea sobre todo al aire, y el saco exige proteger los nudillos y la muñeca.",
+          "Piensa en 'cadera primero, puño después'."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: gyaku-zuki with hip rotation",
+        "description": "Heavy bag rounds with gyaku-zuki, the rear-hand reverse punch that is karate's most powerful and most used technique. The goal is to feel the power come from the legs and hip rotation, with kime (final tension) at impact and a fast retraction.",
+        "steps": [
+          "Stand in kamae or a short zenkutsu-dachi at punching range from the bag.",
+          "Push off the rear leg and rotate the hips forward.",
+          "Drive the fist out in a straight line, turning it at the end, while the other hand returns to the hip or guard.",
+          "Brace your midsection and lock the body at impact (kime), without hyperextending the elbow.",
+          "Retract the fist quickly and repeat; alternate single punches with kizami-zuki + gyaku-zuki."
+        ],
+        "commonMistakes": [
+          "Punching with the arm only, without hip rotation.",
+          "Lifting the rear heel too much and losing your base.",
+          "Leaning the torso into the bag instead of staying upright."
+        ],
+        "tips": [
+          "Wear bag gloves or wraps: kihon is mostly punched into the air, and the bag means protecting your knuckles and wrists.",
+          "Think 'hips first, fist second'."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "karate-kizami-zuki-speed-intervals",
+    "category": "SPORT_DRILL",
+    "difficulty": "INTERMEDIATE",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["SHOULDERS", "CALVES", "CORE"],
+    "secondaryMuscles": ["TRICEPS", "QUADRICEPS", "OBLIQUES"],
+    "equipment": ["NONE"],
+    "sports": ["KARATE"],
+    "defaults": {
+      "sets": 6,
+      "seconds": 30,
+      "reps": null,
+      "restSec": 30
+    },
+    "i18n": {
+      "es": {
+        "name": "Intervalos de velocidad: kizami-zuki con entrada",
+        "description": "Drill de velocidad para el kizami-zuki, el puñetazo con la mano adelantada que en kumite deportivo se lanza con una entrada explosiva para puntuar. Haces intervalos de 30 segundos de entradas rápidas con kizami-zuki y salida, buscando la máxima explosividad en cada repetición.",
+        "steps": [
+          "Ponte en kamae a una distancia algo mayor de la que alcanzarías sin moverte.",
+          "Explota hacia delante con el pie adelantado mientras extiendes el kizami-zuki, a la altura jodan.",
+          "Acompaña con el pie trasero para no quedarte abierto y fija el golpe un instante.",
+          "Sal hacia atrás de inmediato y recupera el kamae.",
+          "Repite tantas veces como puedas en 30 segundos sin perder la técnica."
+        ],
+        "commonMistakes": [
+          "Mover el brazo antes que las piernas, lo que hace que el golpe no llegue.",
+          "Inclinar la cabeza hacia delante para alcanzar.",
+          "Quedarse dentro sin salir."
+        ],
+        "tips": [
+          "La mano y el pie deben llegar casi a la vez.",
+          "Si tienes un saco o una diana ligera colgada, úsala como referencia de distancia."
+        ]
+      },
+      "en": {
+        "name": "Speed intervals: kizami-zuki with entry",
+        "description": "A speed drill for kizami-zuki, the lead-hand punch that sport kumite fighters throw with an explosive entry to score. You do 30-second intervals of fast entries with kizami-zuki and an exit, chasing maximum explosiveness on every rep.",
+        "steps": [
+          "Stand in kamae slightly further away than you could reach without moving.",
+          "Explode forward with the lead foot as you extend the kizami-zuki to jodan level.",
+          "Bring the rear foot along so you don't end up stretched out, and hold the punch for an instant.",
+          "Exit straight back and reset to kamae.",
+          "Repeat as many times as you can in 30 seconds without losing technique."
+        ],
+        "commonMistakes": [
+          "Moving the arm before the legs, so the punch falls short.",
+          "Leaning the head forward to reach.",
+          "Staying in without exiting."
+        ],
+        "tips": [
+          "Hand and foot should land almost together.",
+          "If you have a bag or light hanging target, use it as a distance reference."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "karate-dachi-stance-holds",
+    "category": "SPORT_DRILL",
+    "difficulty": "BEGINNER",
+    "measureType": "TIME",
+    "primaryMuscles": ["QUADRICEPS", "GLUTES", "ADDUCTORS"],
+    "secondaryMuscles": ["CORE", "CALVES", "HAMSTRINGS"],
+    "equipment": ["NONE"],
+    "sports": ["KARATE"],
+    "defaults": {
+      "sets": 3,
+      "seconds": 45,
+      "reps": null,
+      "restSec": 30
+    },
+    "i18n": {
+      "es": {
+        "name": "Mantener posiciones (dachi)",
+        "description": "Trabajo isométrico de las posiciones básicas del karate: zenkutsu-dachi (adelantada, 60-70 % del peso en la pierna delantera), kokutsu-dachi (atrasada, la mayor parte del peso en la pierna trasera) y kiba-dachi (del jinete, peso repartido y pies paralelos). Mantenerlas fortalece las piernas y fija la forma correcta para kata y kihon.",
+        "steps": [
+          "Colócate en zenkutsu-dachi: rodilla delantera sobre el pie, pierna trasera estirada y cadera de frente.",
+          "Mantén la posición el tiempo indicado con el tronco erguido y respiración tranquila.",
+          "Descansa y repite en kokutsu-dachi, con la rodilla trasera abierta hacia fuera y el peso atrás.",
+          "Descansa y repite en kiba-dachi, con pies paralelos, rodillas empujando hacia fuera y espalda recta.",
+          "Cada serie equivale a una posición; en las asimétricas (zenkutsu y kokutsu), haz el tiempo indicado con cada lado."
+        ],
+        "commonMistakes": [
+          "Dejar que las rodillas se vayan hacia dentro.",
+          "Subir la cadera a medida que llega el cansancio.",
+          "Inclinar el tronco hacia delante en kiba-dachi."
+        ],
+        "tips": [
+          "Baja solo hasta donde puedas mantener la alineación rodilla-pie sin molestias.",
+          "Hazlo frente a un espejo para comprobar la anchura y la longitud de las posiciones."
+        ]
+      },
+      "en": {
+        "name": "Stance holds (dachi)",
+        "description": "Isometric work in karate's basic stances: zenkutsu-dachi (front stance, 60-70% of the weight on the front leg), kokutsu-dachi (back stance, most of the weight on the rear leg) and kiba-dachi (horse stance, weight centred and feet parallel). Holding them strengthens the legs and locks in the correct shape for kata and kihon.",
+        "steps": [
+          "Set up zenkutsu-dachi: front knee over the foot, rear leg straight and hips square.",
+          "Hold for the listed time with your torso upright and calm breathing.",
+          "Rest and repeat in kokutsu-dachi, rear knee pushed out and weight back.",
+          "Rest and repeat in kiba-dachi, feet parallel, knees pushing out and back straight.",
+          "Each set is one stance; on the asymmetric ones (zenkutsu and kokutsu), do the listed time on each side."
+        ],
+        "commonMistakes": [
+          "Letting the knees cave inwards.",
+          "Rising up as fatigue builds.",
+          "Leaning forward in kiba-dachi."
+        ],
+        "tips": [
+          "Only go as low as you can while keeping knee-over-foot alignment comfortably.",
+          "Use a mirror to check stance width and length."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "karate-kyokushin-heavy-bag-rounds",
+    "category": "SPORT_DRILL",
+    "difficulty": "ADVANCED",
+    "measureType": "ROUNDS",
+    "primaryMuscles": ["FULL_BODY"],
+    "secondaryMuscles": ["SHOULDERS", "OBLIQUES", "GLUTES", "CALVES"],
+    "equipment": ["HEAVY_BAG"],
+    "sports": ["KARATE"],
+    "defaults": {
+      "sets": 4,
+      "seconds": 120,
+      "reps": null,
+      "restSec": 60
+    },
+    "i18n": {
+      "es": {
+        "name": "Saco: rounds de contacto pleno (estilo Kyokushin)",
+        "description": "Rounds de saco inspirados en el karate de contacto pleno (Kyokushin y estilos similares), donde no se permiten puñetazos a la cabeza pero sí golpes potentes al cuerpo y patadas bajas. Trabajas cadenas de tsuki al tronco, gedan mawashi-geri (patada circular baja) y patadas altas, con presión continua.",
+        "steps": [
+          "Colócate cerca del saco en guardia de contacto pleno, con las manos delante del pecho.",
+          "Lanza series de 4-6 tsuki alternos al centro del saco (altura del tronco), con giro de cadera.",
+          "Remata cada serie con un gedan mawashi-geri a la parte baja del saco, golpeando con la espinilla.",
+          "Cada 30 segundos, mete un jodan mawashi-geri a la parte alta.",
+          "Mantén la presión hacia delante sin parar durante todo el round."
+        ],
+        "commonMistakes": [
+          "Golpear con el tronco inclinado y los brazos estirados, sin potencia de cadera.",
+          "Bajar la guardia por completo al encadenar puños al cuerpo.",
+          "Sacrificar la técnica de la patada baja por el ritmo."
+        ],
+        "tips": [
+          "Protege los nudillos con vendas o guantes; el contacto pleno castiga las manos.",
+          "Reduce la intensidad si la técnica se rompe: la presión no sirve sin precisión."
+        ]
+      },
+      "en": {
+        "name": "Heavy bag: full-contact rounds (Kyokushin style)",
+        "description": "Heavy bag rounds inspired by full-contact karate (Kyokushin and similar styles), where punches to the head aren't allowed but hard body shots and low kicks are. You drill chains of tsuki to the torso, gedan mawashi-geri (low roundhouse) and high kicks under constant pressure.",
+        "steps": [
+          "Stand close to the bag in a full-contact guard, hands in front of your chest.",
+          "Throw series of 4-6 alternating tsuki to the middle of the bag (torso height) with hip rotation.",
+          "Finish each series with a gedan mawashi-geri to the lower part of the bag, landing with the shin.",
+          "Every 30 seconds, add a jodan mawashi-geri to the top of the bag.",
+          "Keep moving forward with constant pressure throughout the round."
+        ],
+        "commonMistakes": [
+          "Punching with the torso leaning and arms straight, without hip power.",
+          "Dropping the guard completely while chaining body punches.",
+          "Giving up low-kick technique for pace."
+        ],
+        "tips": [
+          "Protect your knuckles with wraps or gloves; full contact is hard on the hands.",
+          "Lower the intensity if technique breaks down: pressure is useless without accuracy."
+        ]
+      }
+    }
+  }
+]

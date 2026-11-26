@@ -1,0 +1,931 @@
+[
+  {
+    "slug": "creatina-monohidrato",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "ISSN position stand: safety and efficacy of creatine supplementation (Kreider et al., 2017)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5469049/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "IOC consensus statement: dietary supplements and the high-performance athlete (Maughan et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      },
+      {
+        "title": "NSF Certified for Sport",
+        "url": "https://www.nsfsport.com/"
+      }
+    ],
+    "related": [
+      "sobrecarga-progresiva",
+      "proteina-whey",
+      "hidratacion-diaria",
+      "periodizacion",
+      "recuperacion-y-sueno"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Creatina monohidrato",
+        "summary": "El suplemento con más respaldo científico para esfuerzos cortos e intensos y para ganar fuerza y masa muscular cuando se combina con entrenamiento. Barato, seguro en adultos sanos y fácil de tomar a diario.",
+        "body": "## Cómo funciona\n\nLa creatina se almacena en el músculo sobre todo como **fosfocreatina**, una reserva que regenera ATP muy rápido durante esfuerzos máximos de pocos segundos. Con la dieta (carne y pescado) y la síntesis propia sueles tener los depósitos a un 60-80 % de su capacidad; suplementar los llena. Con más fosfocreatina recuperas mejor entre esfuerzos explosivos repetidos y puedes hacer algo más de trabajo de calidad en cada sesión.\n\n## Qué dice la evidencia para deportes de golpeo\n\n- Mejora el rendimiento en **esfuerzos repetidos de alta intensidad** (sprints, series de golpeo explosivo, intervalos cortos) y la fuerza máxima.\n- Combinada con entrenamiento de fuerza, favorece aumentos de **masa magra y fuerza** mayores que el entrenamiento solo.\n- En un asalto de 2-3 minutos la energía viene sobre todo del metabolismo aeróbico y glucolítico, así que el beneficio directo en el combate es más modesto; donde más se nota es en la **calidad del entrenamiento** de fuerza, potencia y sprints a lo largo de semanas.\n- La ISSN y el Instituto Australiano del Deporte (AIS, Grupo A) la consideran una de las ayudas con evidencia más sólida.\n\n## Quién puede beneficiarse\n\nAdultos que entrenan fuerza y potencia con regularidad, sobre todo si siguen una progresión estructurada. Las personas que comen poca o ninguna carne suelen partir de depósitos más bajos y responder más.\n\n## Ten en cuenta\n\n- Es normal ganar **1-2 kg de peso corporal** las primeras semanas, sobre todo por agua dentro del músculo. No es grasa ni retención bajo la piel.\n- No necesitas \"ciclar\" la creatina ni hacer fases de carga; la dosis diaria constante llena los depósitos en 3-4 semanas.\n- Bebe con normalidad a lo largo del día: no hace falta beber de más, pero tampoco la tomes en contextos de mala hidratación.\n\n## Cómo elegir producto\n\nBusca **creatina monohidrato** pura (la forma más estudiada). Otras formas (HCl, alcalina, etiléster) son más caras y no han demostrado ser mejores. Si compites bajo control antidopaje, elige un producto con certificación de terceros como **Informed Sport** o **NSF Certified for Sport** para reducir el riesgo de contaminación.\n\n## Precauciones\n\nLos estudios en adultos sanos no muestran daño renal ni hepático con las dosis habituales. Aun así, si tienes enfermedad renal, tomas medicación nefrotóxica o tienes dudas de salud, consulta antes con tu médico. La creatina puede elevar ligeramente la creatinina en análisis de sangre sin que eso indique daño: avisa a tu médico si te haces una analítica."
+      },
+      "en": {
+        "title": "Creatine monohydrate",
+        "summary": "The best-researched supplement for short, intense efforts and for gaining strength and muscle when combined with training. Cheap, safe for healthy adults and easy to take daily.",
+        "body": "## How it works\n\nCreatine is stored in muscle mainly as **phosphocreatine**, a reserve that rapidly regenerates ATP during maximal efforts lasting a few seconds. From diet (meat and fish) and your own synthesis, your stores typically sit at 60-80% of capacity; supplementing tops them up. More phosphocreatine means better recovery between repeated explosive efforts and a bit more quality work per session.\n\n## What the evidence says for striking athletes\n\n- It improves performance in **repeated high-intensity efforts** (sprints, explosive striking sets, short intervals) and maximal strength.\n- Combined with resistance training, it leads to greater gains in **lean mass and strength** than training alone.\n- A 2-3 minute round relies mostly on aerobic and glycolytic metabolism, so the direct benefit during a fight is more modest; the real payoff is in the **quality of your strength, power and sprint training** over weeks.\n- The ISSN and the Australian Institute of Sport (AIS, Group A) rate it among the aids with the strongest evidence.\n\n## Who may benefit\n\nAdults who regularly train strength and power, especially with a structured progression. People who eat little or no meat usually start with lower stores and tend to respond more.\n\n## Keep in mind\n\n- Gaining **1-2 kg of body mass** in the first weeks is normal, mostly water inside the muscle. It is not fat or puffiness under the skin.\n- You do not need to cycle creatine or do a loading phase; a steady daily dose saturates stores in 3-4 weeks.\n- Drink normally through the day: there is no need to overdrink, but do not take it while poorly hydrated.\n\n## Choosing a product\n\nLook for pure **creatine monohydrate** (the most studied form). Other forms (HCl, buffered, ethyl ester) cost more and have not been shown to work better. If you compete under anti-doping rules, pick a product with third-party certification such as **Informed Sport** or **NSF Certified for Sport** to reduce contamination risk.\n\n## Precautions\n\nStudies in healthy adults show no kidney or liver harm at usual doses. Still, if you have kidney disease, take nephrotoxic medication or have health concerns, talk to your doctor first. Creatine can slightly raise blood creatinine without indicating damage, so tell your doctor if you are getting blood work done."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "STRONG",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Compuesto que el cuerpo fabrica a partir de tres aminoácidos (arginina, glicina y metionina) y que también obtienes de la carne y el pescado. El monohidrato es su forma más estudiada y barata.",
+          "purpose": "Aumentar los depósitos musculares de fosfocreatina para rendir más en esfuerzos cortos e intensos repetidos y mejorar las ganancias de fuerza y masa muscular con el entrenamiento.",
+          "dosage": "3-5 g al día de forma continuada (aprox. 0,03-0,1 g/kg). Opcional: carga de 0,3 g/kg/día (unos 20 g repartidos en 4 tomas) durante 5-7 días para saturar antes; después, 3-5 g/día.",
+          "timing": "El momento del día importa poco; lo clave es tomarla todos los días. Tomarla con una comida con carbohidratos y proteína, por ejemplo después de entrenar, puede facilitar la absorción y el hábito.",
+          "sideEffects": "Aumento de peso de 1-2 kg por agua intramuscular. Molestias digestivas ocasionales con dosis altas de una vez (reparte la carga). Sin efectos adversos relevantes en adultos sanos. Consulta a tu médico si tienes enfermedad renal o hepática, diabetes o tomas medicación que afecte al riñón."
+        },
+        "en": {
+          "whatItIs": "A compound your body makes from three amino acids (arginine, glycine and methionine) and that you also get from meat and fish. Monohydrate is the most studied and cheapest form.",
+          "purpose": "Raise muscle phosphocreatine stores to perform better in repeated short, intense efforts and to boost strength and muscle gains from training.",
+          "dosage": "3-5 g per day, every day (about 0.03-0.1 g/kg). Optional: load with 0.3 g/kg/day (about 20 g split into 4 doses) for 5-7 days to saturate faster, then 3-5 g/day.",
+          "timing": "Time of day matters little; what matters is taking it daily. Taking it with a meal containing carbs and protein, such as after training, may help uptake and makes the habit easier.",
+          "sideEffects": "Weight gain of 1-2 kg from water inside muscle. Occasional stomach upset with large single doses (split the loading doses). No relevant adverse effects in healthy adults. See your doctor first if you have kidney or liver disease, diabetes or take medication that affects the kidneys."
+        }
+      }
+    }
+  },
+  {
+    "slug": "cafeina",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "ISSN position stand: caffeine and exercise performance (Guest et al., 2021)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7777221/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "WADA Monitoring Program",
+        "url": "https://www.wada-ama.org/en/resources/monitoring-program"
+      },
+      {
+        "title": "IOC consensus statement: dietary supplements and the high-performance athlete (Maughan et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      }
+    ],
+    "related": [
+      "recuperacion-y-sueno",
+      "calentamiento",
+      "hidratacion-diaria",
+      "rpe-y-rir",
+      "bebidas-deportivas-electrolitos"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Cafeína",
+        "summary": "Estimulante con evidencia sólida para mejorar resistencia, potencia, tiempo de reacción y percepción del esfuerzo. Funciona con dosis moderadas; más no es mejor y puede arruinarte el sueño.",
+        "body": "## Cómo funciona\n\nLa cafeína bloquea los receptores de **adenosina** en el sistema nervioso central, lo que reduce la sensación de fatiga y de esfuerzo y aumenta el estado de alerta. También puede mejorar ligeramente la activación muscular. El resultado práctico: el mismo trabajo se siente más llevadero y puedes apretar un poco más.\n\n## Qué dice la evidencia para deportes de golpeo\n\n- La ISSN concluye que mejora de forma consistente el rendimiento de **resistencia**, y también la **potencia**, el trabajo de alta intensidad repetido y aspectos cognitivos como la **atención y el tiempo de reacción**.\n- En deportes de combate hay estudios con mejoras en acciones de alta intensidad y en el ritmo de trabajo, aunque los resultados varían entre personas.\n- Es una ayuda del **Grupo A** del AIS.\n- Hay una gran variabilidad individual (genética, hábito, sensibilidad). Algunas personas notan nerviosismo o temblor que empeora la coordinación técnica.\n\n## Quién puede beneficiarse\n\nAdultos sanos que la toleran bien y quieren mejorar sesiones intensas concretas (trabajo técnico exigente, intervalos, entrenos de calidad). No es necesaria para entrenar bien a diario.\n\n## Estado antidopaje\n\nLa cafeína **no está prohibida**, pero está en el **Programa de Seguimiento (Monitoring Program) de la AMA/WADA**, que vigila su uso en competición. Usarla en las dosis de esta ficha no supone ningún problema antidopaje.\n\n## Cómo elegir producto\n\nCafé, cápsulas o comprimidos de cafeína anhidra son las opciones más fáciles de dosificar. Ojo con los **preentrenos y \"quemagrasas\"**: suelen mezclar muchos estimulantes, a veces sin declarar, y han dado positivos en controles. Si compites, usa productos con certificación **Informed Sport** o similar.\n\n## Precauciones\n\n- Evítala por la tarde-noche: su vida media es de unas 4-6 horas y puede alterar el sueño, que es tu mejor herramienta de recuperación.\n- No combines varias fuentes sin contar el total (café + bebida energética + preentreno). Como referencia para adultos sanos, la EFSA considera seguras tomas de hasta unos 200 mg y hasta 400 mg al día en total.\n- Prueba siempre en entrenamiento, nunca por primera vez en una competición."
+      },
+      "en": {
+        "title": "Caffeine",
+        "summary": "A stimulant with strong evidence for improving endurance, power, reaction time and perceived effort. Moderate doses work; more is not better and can wreck your sleep.",
+        "body": "## How it works\n\nCaffeine blocks **adenosine** receptors in the central nervous system, reducing feelings of fatigue and effort and increasing alertness. It may also slightly improve muscle activation. In practice, the same work feels easier and you can push a little harder.\n\n## What the evidence says for striking athletes\n\n- The ISSN concludes it consistently improves **endurance** performance, as well as **power**, repeated high-intensity work and cognitive aspects such as **attention and reaction time**.\n- Combat sport studies show improvements in high-intensity actions and work rate, although results vary between individuals.\n- It is an AIS **Group A** supplement.\n- Individual responses vary widely (genetics, habitual intake, sensitivity). Some people get jitters or tremor that hurt technical coordination.\n\n## Who may benefit\n\nHealthy adults who tolerate it well and want to boost specific hard sessions (demanding technical work, intervals, quality workouts). You do not need it to train well every day.\n\n## Anti-doping status\n\nCaffeine is **not prohibited**, but it is part of the **WADA Monitoring Program**, which tracks its use in competition. Using it at the doses in this guide poses no anti-doping problem.\n\n## Choosing a product\n\nCoffee, caffeine capsules or anhydrous caffeine tablets are the easiest to dose. Be careful with **pre-workouts and \"fat burners\"**: they often combine many stimulants, sometimes undeclared, and have caused positive tests. If you compete, use products certified by **Informed Sport** or similar.\n\n## Precautions\n\n- Avoid it in the afternoon and evening: its half-life is around 4-6 hours and it can disrupt sleep, your best recovery tool.\n- Do not stack sources without counting the total (coffee + energy drink + pre-workout). As a reference for healthy adults, EFSA considers single doses of up to about 200 mg and up to 400 mg per day in total to be safe.\n- Always test it in training, never for the first time at a competition."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "STRONG",
+      "wadaStatus": "MONITORED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Estimulante natural presente en el café, el té, el cacao y el guaraná, y disponible en cápsulas, comprimidos, geles y chicles.",
+          "purpose": "Reducir la percepción de fatiga y esfuerzo y mejorar la resistencia, la potencia en esfuerzos repetidos, la concentración y el tiempo de reacción.",
+          "dosage": "La ISSN indica 3-6 mg/kg unos 60 minutos antes. Empieza por la parte baja: 1-3 mg/kg (unos 70-200 mg) ya suele ser eficaz con menos efectos secundarios, y más no rinde más. No superes 6 mg/kg por toma ni unos 400 mg al día sumando todas las fuentes.",
+          "timing": "Unos 45-60 minutos antes de la sesión; el chicle de cafeína actúa más rápido (unos 10-15 minutos). Evítala en las 6-8 horas previas a dormir.",
+          "sideEffects": "Nerviosismo, temblor, taquicardia, molestias digestivas, ansiedad e insomnio, más probables con dosis altas o si no estás habituado. No la uses si estás embarazada o en lactancia sin consejo médico. Consulta a tu médico si tienes problemas cardiacos, hipertensión, ansiedad, arritmias o tomas medicación que interactúe."
+        },
+        "en": {
+          "whatItIs": "A natural stimulant found in coffee, tea, cocoa and guarana, and available as capsules, tablets, gels and gum.",
+          "purpose": "Reduce perceived fatigue and effort and improve endurance, power in repeated efforts, focus and reaction time.",
+          "dosage": "The ISSN suggests 3-6 mg/kg about 60 minutes before. Start at the low end: 1-3 mg/kg (around 70-200 mg) often works with fewer side effects, and more does not perform better. Do not exceed 6 mg/kg per dose or about 400 mg per day from all sources.",
+          "timing": "About 45-60 minutes before the session; caffeine gum acts faster (about 10-15 minutes). Avoid it within 6-8 hours of bedtime.",
+          "sideEffects": "Jitters, tremor, fast heart rate, stomach upset, anxiety and insomnia, more likely with high doses or if you are not used to it. Do not use it while pregnant or breastfeeding without medical advice. See your doctor if you have heart problems, high blood pressure, anxiety, arrhythmias or take interacting medication."
+        }
+      }
+    }
+  },
+  {
+    "slug": "proteina-whey",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "ISSN position stand: protein and exercise (Jäger et al., 2017)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "ISSN position stand: nutrient timing (Kerksick et al., 2017)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5596471/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      },
+      {
+        "title": "NSF Certified for Sport",
+        "url": "https://www.nsfsport.com/"
+      }
+    ],
+    "related": [
+      "proteinas",
+      "proteina-vegetal",
+      "creatina-monohidrato",
+      "recuperacion-y-sueno",
+      "sobrecarga-progresiva",
+      "calcio"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Proteína de suero (whey)",
+        "summary": "Proteína láctea de alta calidad y digestión rápida. Es una forma cómoda de llegar a tu necesidad diaria de proteína, no un ingrediente mágico: si ya comes suficiente proteína, no aporta nada extra.",
+        "body": "## Cómo funciona\n\nEl suero de leche es la fracción líquida que queda al hacer queso. Tiene todos los aminoácidos esenciales y mucha **leucina**, el aminoácido que más estimula la síntesis de proteína muscular. Se digiere rápido, por lo que eleva los aminoácidos en sangre pronto tras tomarlo.\n\n## Qué dice la evidencia para deportes de golpeo\n\n- Lo que importa sobre todo es la **proteína total del día**: la ISSN recomienda 1,4-2,0 g/kg/día para personas que entrenan, repartida en varias tomas.\n- La whey es útil porque aporta 20-25 g de proteína de calidad en un vaso, fácil de llevar al gimnasio y de tomar cuando no tienes hambre o tiempo para cocinar.\n- No hay evidencia de que la whey haga \"más músculo\" que la misma cantidad de proteína de alimentos completos.\n- Como alimento deportivo, el AIS la clasifica en el **Grupo A** para usos concretos (cubrir necesidades cuando la comida no es práctica).\n\n## Quién puede beneficiarse\n\nPersonas que no llegan a su objetivo diario de proteína con la comida, que entrenan dos veces al día o que necesitan una opción rápida tras entrenar.\n\n## Tipos\n\n- **Concentrado**: 70-80 % de proteína, algo de lactosa y grasa. El más barato.\n- **Aislado**: más de un 90 % de proteína y casi sin lactosa. Mejor si la lactosa te sienta mal.\n- **Hidrolizado**: predigerido, más caro, sin ventajas claras para la mayoría.\n\n## Cómo elegir producto\n\nRevisa la etiqueta: proteína por ración, lista de ingredientes corta y sin \"matrices patentadas\" que oculten cantidades. Si compites bajo control antidopaje, elige productos con certificación **Informed Sport** o **NSF Certified for Sport**: algunos batidos se han contaminado con sustancias prohibidas.\n\n## Precauciones\n\nNo la uses si tienes alergia a la proteína de la leche. Si tienes enfermedad renal, consulta a tu médico antes de aumentar la proteína de tu dieta. No sustituye comidas variadas: piensa en ella como un alimento más."
+      },
+      "en": {
+        "title": "Whey protein",
+        "summary": "A high-quality, fast-digesting dairy protein. It is a convenient way to hit your daily protein needs, not a magic ingredient: if you already eat enough protein, it adds nothing extra.",
+        "body": "## How it works\n\nWhey is the liquid fraction left over from cheese-making. It contains all essential amino acids and plenty of **leucine**, the amino acid that most strongly triggers muscle protein synthesis. It digests quickly, so blood amino acids rise soon after you drink it.\n\n## What the evidence says for striking athletes\n\n- What matters most is your **total daily protein**: the ISSN recommends 1.4-2.0 g/kg/day for people who train, spread across several meals.\n- Whey is handy because it delivers 20-25 g of quality protein in one shake, easy to bring to the gym and to have when you are not hungry or short on time.\n- There is no evidence that whey builds \"more muscle\" than the same amount of protein from whole foods.\n- As a sports food, the AIS lists it in **Group A** for specific uses (covering needs when food is impractical).\n\n## Who may benefit\n\nPeople who fall short of their daily protein target through food, who train twice a day, or who need a quick option after training.\n\n## Types\n\n- **Concentrate**: 70-80% protein, some lactose and fat. The cheapest.\n- **Isolate**: over 90% protein and nearly lactose-free. Better if lactose bothers you.\n- **Hydrolysate**: pre-digested, pricier, with no clear advantage for most people.\n\n## Choosing a product\n\nCheck the label: protein per serving, a short ingredient list and no \"proprietary blends\" hiding amounts. If you compete under anti-doping rules, choose products certified by **Informed Sport** or **NSF Certified for Sport**: some shakes have been contaminated with prohibited substances.\n\n## Precautions\n\nDo not use it if you are allergic to milk protein. If you have kidney disease, talk to your doctor before increasing your protein intake. It does not replace varied meals: think of it as just another food."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "STRONG",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Proteína láctea obtenida del suero de la leche, en polvo. Se presenta como concentrado, aislado o hidrolizado.",
+          "purpose": "Ayudarte a cubrir tu necesidad diaria de proteína de forma práctica para apoyar la recuperación y la adaptación muscular al entrenamiento.",
+          "dosage": "20-40 g por toma (aprox. 0,25-0,4 g/kg), dentro de un total diario de 1,4-2,0 g/kg de proteína sumando todos los alimentos.",
+          "timing": "Cuando te sea práctico: tras entrenar, en el desayuno o entre comidas. Reparte la proteína del día en 3-5 tomas cada 3-4 horas.",
+          "sideEffects": "Hinchazón o gases en personas sensibles a la lactosa (el aislado suele tolerarse mejor). No apta si tienes alergia a la proteína de leche. Consulta a tu médico si tienes enfermedad renal o te han indicado limitar la proteína."
+        },
+        "en": {
+          "whatItIs": "A powdered dairy protein made from milk whey. It comes as concentrate, isolate or hydrolysate.",
+          "purpose": "Help you meet your daily protein needs conveniently to support recovery and muscle adaptation to training.",
+          "dosage": "20-40 g per serving (about 0.25-0.4 g/kg), within a daily total of 1.4-2.0 g/kg of protein from all foods.",
+          "timing": "Whenever it is practical: after training, at breakfast or between meals. Spread your daily protein over 3-5 servings every 3-4 hours.",
+          "sideEffects": "Bloating or gas if you are lactose sensitive (isolate is usually better tolerated). Not suitable if you are allergic to milk protein. See your doctor if you have kidney disease or have been told to limit protein."
+        }
+      }
+    }
+  },
+  {
+    "slug": "proteina-vegetal",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "ISSN position stand: protein and exercise (Jäger et al., 2017)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/"
+      },
+      {
+        "title": "ISSN exercise & sports nutrition review update: research & recommendations (Kerksick et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6090881/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      },
+      {
+        "title": "NSF Certified for Sport",
+        "url": "https://www.nsfsport.com/"
+      }
+    ],
+    "related": [
+      "proteinas",
+      "proteina-whey",
+      "hierro",
+      "vitamina-b12",
+      "creatina-monohidrato",
+      "zinc"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Proteína vegetal",
+        "summary": "Proteína en polvo de guisante, soja, arroz u otras fuentes vegetales. Bien elegida y en cantidad suficiente, sirve para apoyar la recuperación y el músculo igual que una opción práctica de origen animal.",
+        "body": "## Cómo funciona\n\nLas proteínas vegetales aportan aminoácidos igual que las animales, pero suelen tener **menos leucina** y, en algunos casos, menos de algún aminoácido esencial (la lisina en el arroz, la metionina en el guisante). Por eso muchas marcas **mezclan fuentes** (guisante + arroz) para obtener un perfil más completo. La soja es por sí sola una proteína completa.\n\n## Qué dice la evidencia\n\n- Los estudios que comparan proteína vegetal y animal en personas que entrenan fuerza muestran que, con una **dosis algo mayor** o mezclas bien formuladas, las ganancias de masa y fuerza son similares.\n- La clave sigue siendo la **proteína total diaria** (1,4-2,0 g/kg/día) y el reparto en varias tomas.\n- La evidencia directa en deportistas de combate es escasa, por eso la consideramos de evidencia moderada como suplemento en sí.\n\n## Quién puede beneficiarse\n\nPersonas veganas o vegetarianas, con alergia o intolerancia a la leche, o que simplemente prefieren evitar lácteos y les cuesta llegar a su objetivo de proteína con la comida.\n\n## Si sigues una dieta vegetal\n\nPresta atención a otros nutrientes que suelen quedarse cortos: **vitamina B12** (si eres vegano, necesitas suplementarla), **hierro**, **zinc**, calcio y omega-3. La creatina también tiende a estar más baja, así que puedes notar más su efecto si la suplementas.\n\n## Cómo elegir producto\n\n- Mira la proteína por ración y, si lo indica, la leucina (busca unos 2-3 g por toma).\n- Prefiere mezclas (guisante + arroz) o soja.\n- Algunos productos vegetales pueden contener metales pesados del suelo; las certificaciones de terceros (**Informed Sport**, **NSF Certified for Sport**) controlan contaminantes y sustancias prohibidas.\n\n## Precauciones\n\nSi tienes alergia a la soja, al guisante u otras legumbres, revisa la etiqueta. Si tienes enfermedad renal, consulta a tu médico antes de aumentar la proteína."
+      },
+      "en": {
+        "title": "Plant protein",
+        "summary": "Protein powder from pea, soy, rice or other plant sources. Chosen well and taken in sufficient amounts, it supports recovery and muscle just like a convenient animal-based option.",
+        "body": "## How it works\n\nPlant proteins supply amino acids just like animal ones, but they usually have **less leucine** and sometimes less of a particular essential amino acid (lysine in rice, methionine in pea). That is why many brands **blend sources** (pea + rice) for a more complete profile. Soy is a complete protein on its own.\n\n## What the evidence says\n\n- Studies comparing plant and animal protein in people doing resistance training show that, with a **slightly higher dose** or well-formulated blends, gains in muscle and strength are similar.\n- The key is still **total daily protein** (1.4-2.0 g/kg/day) spread over several servings.\n- Direct evidence in combat athletes is scarce, so we rate the evidence for the supplement itself as moderate.\n\n## Who may benefit\n\nVegans and vegetarians, people with milk allergy or intolerance, or anyone who prefers to avoid dairy and struggles to hit their protein target with food.\n\n## If you eat a plant-based diet\n\nWatch other nutrients that often fall short: **vitamin B12** (if you are vegan, you need to supplement it), **iron**, **zinc**, calcium and omega-3. Creatine stores also tend to be lower, so you may notice its effect more if you supplement.\n\n## Choosing a product\n\n- Check protein per serving and, if listed, leucine (aim for about 2-3 g per serving).\n- Prefer blends (pea + rice) or soy.\n- Some plant products can contain heavy metals from soil; third-party certifications (**Informed Sport**, **NSF Certified for Sport**) test for contaminants and prohibited substances.\n\n## Precautions\n\nIf you are allergic to soy, pea or other legumes, check the label. If you have kidney disease, talk to your doctor before increasing protein."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "MODERATE",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Proteína en polvo extraída de legumbres, cereales o semillas (guisante, soja, arroz, haba, cáñamo), sola o en mezclas.",
+          "purpose": "Ayudarte a cubrir tu necesidad diaria de proteína sin lácteos, para apoyar la recuperación y la adaptación muscular al entrenamiento.",
+          "dosage": "25-40 g por toma (algo más que con whey para igualar la leucina, unos 0,3-0,4 g/kg), dentro de un total diario de 1,4-2,0 g/kg de proteína.",
+          "timing": "Cuando te sea práctico: tras entrenar o entre comidas. Reparte la proteína diaria en 3-5 tomas.",
+          "sideEffects": "Gases o hinchazón en algunas personas, sobre todo al empezar. Evítala si tienes alergia a la fuente (soja, guisante, etc.). Consulta a tu médico si tienes enfermedad renal o te han indicado limitar la proteína."
+        },
+        "en": {
+          "whatItIs": "Protein powder extracted from legumes, grains or seeds (pea, soy, rice, fava bean, hemp), alone or blended.",
+          "purpose": "Help you meet daily protein needs without dairy, supporting recovery and muscle adaptation to training.",
+          "dosage": "25-40 g per serving (a bit more than whey to match leucine, about 0.3-0.4 g/kg), within a daily total of 1.4-2.0 g/kg of protein.",
+          "timing": "Whenever it is practical: after training or between meals. Spread your daily protein over 3-5 servings.",
+          "sideEffects": "Gas or bloating in some people, especially at first. Avoid it if you are allergic to the source (soy, pea, etc.). See your doctor if you have kidney disease or have been told to limit protein."
+        }
+      }
+    }
+  },
+  {
+    "slug": "beta-alanina",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "ISSN position stand: beta-alanine (Trexler et al., 2015)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4501114/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "IOC consensus statement: dietary supplements and the high-performance athlete (Maughan et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      },
+      {
+        "title": "NSF Certified for Sport",
+        "url": "https://www.nsfsport.com/"
+      }
+    ],
+    "related": [
+      "bicarbonato-sodico",
+      "creatina-monohidrato",
+      "volumen-e-intensidad",
+      "periodizacion"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Beta-alanina",
+        "summary": "Aminoácido que aumenta la carnosina muscular, un amortiguador de la acidez. Puede ayudar en esfuerzos muy intensos de 1 a 4 minutos, como un asalto exigente, pero el efecto es pequeño y requiere semanas de toma diaria.",
+        "body": "## Cómo funciona\n\nLa beta-alanina se combina con la histidina en el músculo para formar **carnosina**, que amortigua los iones de hidrógeno que se acumulan durante el ejercicio muy intenso y contribuyen a la fatiga. Tomándola cada día durante **4 semanas o más**, la carnosina muscular sube un 40-80 %.\n\n## Qué dice la evidencia para deportes de golpeo\n\n- Según la ISSN, mejora el rendimiento en esfuerzos de alta intensidad de **1 a 4 minutos**, justo el rango de un asalto.\n- El efecto medio es **pequeño** (mejoras de alrededor del 2-3 % en pruebas de laboratorio) y no todas las personas responden igual.\n- Los estudios específicos en deportes de combate son pocos y con muestras pequeñas: algunos muestran más acciones de golpeo en simulaciones de combate, otros no encuentran diferencias.\n- El AIS la incluye en el **Grupo A**, con uso recomendado en situaciones concretas.\n\n## Quién puede beneficiarse\n\nCompetidores o personas que ya tienen bien cubiertos el entrenamiento, el sueño y la alimentación y buscan un pequeño margen extra en esfuerzos de alta intensidad sostenida. Para quien empieza, no es una prioridad.\n\n## Hormigueo (parestesia)\n\nEl efecto secundario típico es un **hormigueo** en cara, cuello y manos 15-60 minutos tras la toma. Es inofensivo y desaparece, pero puede ser molesto. Se evita repartiendo la dosis en tomas pequeñas o usando fórmulas de liberación lenta.\n\n## Cómo elegir producto\n\nBusca beta-alanina sola (no dentro de preentrenos con dosis insuficientes y muchos estimulantes). Si compites, elige productos con **Informed Sport** o **NSF Certified for Sport**.\n\n## Precauciones\n\nHay poca investigación más allá de 24 semanas de uso continuado. Si tienes alguna enfermedad crónica, estás embarazada o tomas medicación, consulta a tu médico antes de tomarla."
+      },
+      "en": {
+        "title": "Beta-alanine",
+        "summary": "An amino acid that raises muscle carnosine, a buffer against acidity. It may help in very intense efforts of 1 to 4 minutes, like a hard round, but the effect is small and requires weeks of daily use.",
+        "body": "## How it works\n\nBeta-alanine combines with histidine in muscle to form **carnosine**, which buffers the hydrogen ions that build up during very intense exercise and contribute to fatigue. Taken daily for **4 weeks or more**, muscle carnosine rises by 40-80%.\n\n## What the evidence says for striking athletes\n\n- According to the ISSN, it improves performance in high-intensity efforts lasting **1 to 4 minutes**, exactly the range of a round.\n- The average effect is **small** (around 2-3% improvements in lab tests) and not everyone responds the same.\n- Combat-sport-specific studies are few and small: some show more striking actions in simulated fights, others find no difference.\n- The AIS lists it in **Group A**, for use in specific situations.\n\n## Who may benefit\n\nCompetitors or people whose training, sleep and nutrition are already dialled in and who want a small extra edge in sustained high-intensity efforts. For beginners it is not a priority.\n\n## Tingling (paraesthesia)\n\nThe typical side effect is **tingling** in the face, neck and hands 15-60 minutes after a dose. It is harmless and fades, but it can be annoying. You can avoid it by splitting the dose into small servings or using sustained-release formulas.\n\n## Choosing a product\n\nLook for beta-alanine on its own (not inside pre-workouts with underdosed amounts and lots of stimulants). If you compete, pick products with **Informed Sport** or **NSF Certified for Sport**.\n\n## Precautions\n\nThere is little research beyond 24 weeks of continuous use. If you have a chronic condition, are pregnant or take medication, talk to your doctor before using it."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "MODERATE",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Aminoácido no esencial que el cuerpo usa para fabricar carnosina en el músculo. Se encuentra en pequeñas cantidades en la carne y el pescado.",
+          "purpose": "Aumentar la carnosina muscular para amortiguar la acidez y retrasar la fatiga en esfuerzos de alta intensidad de 1 a 4 minutos.",
+          "dosage": "4-6 g al día (aprox. 65 mg/kg), repartidos en tomas de 1,6 g o menos, durante al menos 4 semanas; los efectos aumentan hasta 10-12 semanas.",
+          "timing": "No depende de la hora del entrenamiento: lo que cuenta es la toma diaria acumulada. Tomarla con las comidas mejora un poco la absorción.",
+          "sideEffects": "Hormigueo inofensivo (parestesia) con dosis grandes de una vez. Poca información sobre uso muy prolongado. Consulta a tu médico si tienes enfermedades crónicas, estás embarazada, en lactancia o tomas medicación."
+        },
+        "en": {
+          "whatItIs": "A non-essential amino acid your body uses to make carnosine in muscle. It is found in small amounts in meat and fish.",
+          "purpose": "Raise muscle carnosine to buffer acidity and delay fatigue in high-intensity efforts lasting 1 to 4 minutes.",
+          "dosage": "4-6 g per day (about 65 mg/kg), split into doses of 1.6 g or less, for at least 4 weeks; effects keep building up to 10-12 weeks.",
+          "timing": "It does not depend on training time: what counts is the cumulative daily intake. Taking it with meals slightly improves uptake.",
+          "sideEffects": "Harmless tingling (paraesthesia) with large single doses. Little data on very long-term use. See your doctor if you have a chronic condition, are pregnant or breastfeeding, or take medication."
+        }
+      }
+    }
+  },
+  {
+    "slug": "bicarbonato-sodico",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "ISSN position stand: sodium bicarbonate and exercise performance (Grgic et al., 2021)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8427947/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "IOC consensus statement: dietary supplements and the high-performance athlete (Maughan et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      }
+    ],
+    "related": [
+      "beta-alanina",
+      "sodio",
+      "electrolitos",
+      "volumen-e-intensidad",
+      "hidratacion-durante-el-entrenamiento"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Bicarbonato sódico",
+        "summary": "Amortiguador que reduce la acidez en sangre y puede mejorar esfuerzos muy intensos de 30 segundos a 12 minutos. Eficaz en laboratorio, pero las molestias digestivas son frecuentes: pruébalo siempre en entrenamiento.",
+        "body": "## Cómo funciona\n\nEl bicarbonato sódico (el de cocina) aumenta la capacidad amortiguadora de la **sangre**. Así, el músculo puede expulsar más rápido los iones de hidrógeno que se acumulan durante el ejercicio muy intenso, retrasando la fatiga. Funciona fuera del músculo, de forma complementaria a la beta-alanina, que actúa dentro.\n\n## Qué dice la evidencia para deportes de golpeo\n\n- La ISSN concluye que mejora el rendimiento en esfuerzos intensos y repetidos de entre **30 segundos y 12 minutos** aproximadamente, tanto de forma aislada como en intervalos.\n- En deportes de combate, algunos estudios muestran más actividad en simulaciones de combate y menor percepción del esfuerzo, pero las muestras son pequeñas.\n- El AIS lo incluye en el **Grupo A**.\n- La variabilidad individual es grande y los **problemas digestivos** pueden anular el beneficio.\n\n## Quién puede beneficiarse\n\nCompetidores con experiencia que quieren exprimir sesiones o combates de alta intensidad y que han probado antes cómo les sienta. No es un suplemento para el día a día ni para principiantes.\n\n## Cómo reducir las molestias digestivas\n\n- Tómalo con una comida rica en carbohidratos y con agua abundante.\n- Reparte la dosis en varias tomas o usa cápsulas con recubrimiento entérico.\n- Existen protocolos de varios días con dosis pequeñas repartidas, que evitan una gran toma el día clave.\n- Pruébalo varias veces en entrenamiento antes de usarlo en una ocasión importante.\n\n## Cómo elegir producto\n\nEl bicarbonato de cocina funciona, aunque las cápsulas son más fáciles de dosificar. Si compites, busca productos con certificación **Informed Sport** o similar.\n\n## Precauciones\n\nCada dosis aporta mucho **sodio** (con 0,3 g/kg, una persona de 70 kg toma unos 21 g de bicarbonato, casi 6 g de sodio: más del doble de lo recomendado para todo un día). No lo uses si tienes hipertensión, enfermedad renal o cardiaca, o sigues una dieta baja en sodio, salvo indicación médica. Puede interactuar con algunos medicamentos (por ejemplo, antiácidos y ciertos fármacos cuya absorción depende de la acidez gástrica)."
+      },
+      "en": {
+        "title": "Sodium bicarbonate",
+        "summary": "A buffer that reduces blood acidity and can improve very intense efforts lasting 30 seconds to 12 minutes. Effective in the lab, but stomach issues are common: always test it in training.",
+        "body": "## How it works\n\nSodium bicarbonate (baking soda) increases the buffering capacity of your **blood**. This lets muscle clear the hydrogen ions that accumulate during very intense exercise faster, delaying fatigue. It works outside the muscle, complementing beta-alanine, which acts inside.\n\n## What the evidence says for striking athletes\n\n- The ISSN concludes it improves performance in intense single and repeated efforts lasting roughly **30 seconds to 12 minutes**.\n- In combat sports, some studies show more activity in simulated fights and lower perceived effort, but samples are small.\n- The AIS lists it in **Group A**.\n- Individual response varies widely, and **gut problems** can cancel out the benefit.\n\n## Who may benefit\n\nExperienced competitors looking to squeeze more out of high-intensity sessions or bouts, who have already tested how it sits with them. It is not an everyday supplement or one for beginners.\n\n## Reducing stomach upset\n\n- Take it with a carbohydrate-rich meal and plenty of water.\n- Split the dose or use enteric-coated capsules.\n- Multi-day protocols with small split doses avoid one big dose on the key day.\n- Test it several times in training before using it on an important occasion.\n\n## Choosing a product\n\nKitchen baking soda works, though capsules are easier to dose. If you compete, look for products certified by **Informed Sport** or similar.\n\n## Precautions\n\nEach dose delivers a lot of **sodium** (at 0.3 g/kg, a 70 kg person takes about 21 g of bicarbonate, nearly 6 g of sodium: more than twice the recommended intake for a whole day). Do not use it if you have high blood pressure, kidney or heart disease, or follow a low-sodium diet, unless your doctor advises it. It can interact with some medications (for example antacids and certain drugs whose absorption depends on stomach acidity)."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "MODERATE",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Sal alcalina (NaHCO₃), el mismo bicarbonato de uso doméstico, disponible también en cápsulas para deportistas.",
+          "purpose": "Aumentar la capacidad amortiguadora de la sangre para retrasar la fatiga en esfuerzos muy intensos de 30 segundos a 12 minutos.",
+          "dosage": "0,2-0,3 g/kg en una toma 60-180 minutos antes del esfuerzo. Alternativa: 0,4-0,5 g/kg/día repartidos en varias tomas durante 3-7 días previos.",
+          "timing": "Dosis única 60-180 minutos antes (el pico varía según la persona: pruébalo). En protocolos de varios días, reparte con las comidas.",
+          "sideEffects": "Náuseas, hinchazón, diarrea y dolor abdominal frecuentes, sobre todo con dosis altas. Aporta mucho sodio. Evítalo si tienes hipertensión, enfermedad renal o cardiaca o dieta baja en sodio. Consulta a tu médico si tomas medicación habitual."
+        },
+        "en": {
+          "whatItIs": "An alkaline salt (NaHCO₃), the same as household baking soda, also available as capsules for athletes.",
+          "purpose": "Increase blood buffering capacity to delay fatigue in very intense efforts lasting 30 seconds to 12 minutes.",
+          "dosage": "0.2-0.3 g/kg as a single dose 60-180 minutes before exercise. Alternative: 0.4-0.5 g/kg/day split across several doses for 3-7 days beforehand.",
+          "timing": "Single dose 60-180 minutes before (peak timing varies per person, so test it). For multi-day protocols, split doses with meals.",
+          "sideEffects": "Nausea, bloating, diarrhoea and abdominal pain are common, especially at high doses. It is high in sodium. Avoid it if you have high blood pressure, kidney or heart disease or a low-sodium diet. See your doctor if you take regular medication."
+        }
+      }
+    }
+  },
+  {
+    "slug": "nitrato-remolacha",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "NIH ODS: Dietary Supplements for Exercise and Athletic Performance",
+        "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "IOC consensus statement: dietary supplements and the high-performance athlete (Maughan et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      }
+    ],
+    "related": ["carbohidratos", "cafeina", "hidratacion-diaria", "calentamiento"],
+    "i18n": {
+      "es": {
+        "title": "Nitrato (zumo de remolacha)",
+        "summary": "El nitrato de la remolacha y las verduras de hoja se convierte en óxido nítrico, que puede mejorar la eficiencia del músculo. Útil sobre todo en esfuerzos de resistencia e intermitentes; el efecto es menor en personas muy entrenadas.",
+        "body": "## Cómo funciona\n\nEl nitrato de los alimentos pasa a **nitrito** gracias a las bacterias de la boca y, después, a **óxido nítrico** en el cuerpo. El óxido nítrico participa en la dilatación de los vasos sanguíneos y en la eficiencia con la que el músculo usa el oxígeno. El resultado puede ser que gastes algo menos de oxígeno al mismo ritmo de trabajo.\n\n## Qué dice la evidencia para deportes de golpeo\n\n- Mejora de forma moderada el rendimiento de **resistencia** y el tiempo hasta el agotamiento, sobre todo en personas recreativas o moderadamente entrenadas.\n- Hay evidencia emergente de beneficio en **esfuerzos intermitentes de alta intensidad** y en fibras rápidas, que son relevantes en el golpeo.\n- En deportistas de élite de resistencia el efecto suele ser menor o nulo.\n- Los estudios específicos en deportes de combate son escasos y con resultados mixtos.\n- El AIS lo incluye en el **Grupo A**.\n\n## Quién puede beneficiarse\n\nPersonas que hacen mucho trabajo cardiovascular o de intervalos y quieren probar una ayuda basada en alimentos. Comer verduras ricas en nitrato (remolacha, rúcula, espinacas, apio, lechuga) es una opción excelente para todo el mundo.\n\n## Truco importante: no uses colutorio\n\nLas bacterias de la boca son imprescindibles para convertir el nitrato. Los **enjuagues bucales antisépticos** y escupir mucho tras la toma reducen el efecto.\n\n## Cómo elegir producto\n\nLos \"shots\" concentrados de remolacha indican los miligramos de nitrato por envase: es la forma más fiable de saber cuánto tomas. Los polvos de remolacha sin dato de nitrato pueden aportar muy poco. Si compites, prefiere productos certificados por **Informed Sport** o similar.\n\n## Precauciones\n\nLa orina y las heces pueden teñirse de rosa o rojo (beeturia): es inofensivo. Si tienes tendencia a piedras de oxalato en el riñón, tensión baja o tomas medicación para la tensión, para la disfunción eréctil o nitratos para el corazón, consulta a tu médico antes de usar concentrados."
+      },
+      "en": {
+        "title": "Nitrate (beetroot juice)",
+        "summary": "Nitrate from beetroot and leafy greens is converted to nitric oxide, which can improve muscle efficiency. Most useful for endurance and intermittent efforts; the effect is smaller in highly trained people.",
+        "body": "## How it works\n\nDietary nitrate is turned into **nitrite** by bacteria in your mouth and then into **nitric oxide** in the body. Nitric oxide is involved in widening blood vessels and in how efficiently muscle uses oxygen. As a result, you may use slightly less oxygen at the same workload.\n\n## What the evidence says for striking athletes\n\n- It moderately improves **endurance** performance and time to exhaustion, especially in recreational or moderately trained people.\n- There is emerging evidence of benefit in **high-intensity intermittent efforts** and in fast-twitch fibres, both relevant to striking.\n- In elite endurance athletes the effect is usually smaller or absent.\n- Combat-sport-specific studies are scarce, with mixed results.\n- The AIS lists it in **Group A**.\n\n## Who may benefit\n\nPeople who do a lot of cardio or interval work and want to try a food-based aid. Eating nitrate-rich vegetables (beetroot, rocket, spinach, celery, lettuce) is a great option for everyone.\n\n## Key tip: skip the mouthwash\n\nMouth bacteria are essential for converting nitrate. **Antiseptic mouthwash** and spitting a lot after a dose reduce the effect.\n\n## Choosing a product\n\nConcentrated beetroot shots state the milligrams of nitrate per bottle, which is the most reliable way to know your dose. Beetroot powders without a nitrate figure may provide very little. If you compete, prefer products certified by **Informed Sport** or similar.\n\n## Precautions\n\nUrine and stools may turn pink or red (beeturia): this is harmless. If you are prone to oxalate kidney stones, have low blood pressure, or take blood pressure medication, erectile dysfunction drugs or nitrates for the heart, talk to your doctor before using concentrates."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "MODERATE",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Compuesto presente de forma natural en la remolacha y en verduras de hoja verde, que se toma como zumo concentrado, shot o alimento.",
+          "purpose": "Aumentar la disponibilidad de óxido nítrico para mejorar la eficiencia muscular y el rendimiento en esfuerzos de resistencia e intermitentes.",
+          "dosage": "Unos 5-9 mmol de nitrato (aprox. 310-560 mg; 1-2 shots concentrados), o alrededor de 0,1 mmol/kg. Algunos protocolos lo toman a diario durante varios días.",
+          "timing": "2-3 horas antes del esfuerzo, que es cuando el nitrito en sangre alcanza el pico. En protocolos de varios días, una toma diaria.",
+          "sideEffects": "Orina o heces rosadas (inofensivo), molestias digestivas leves. Consulta a tu médico si tienes tensión baja, cálculos renales de oxalato o tomas antihipertensivos, nitratos para el corazón o fármacos para la disfunción eréctil."
+        },
+        "en": {
+          "whatItIs": "A compound naturally found in beetroot and green leafy vegetables, taken as concentrated juice, shots or food.",
+          "purpose": "Increase nitric oxide availability to improve muscle efficiency and performance in endurance and intermittent efforts.",
+          "dosage": "About 5-9 mmol of nitrate (roughly 310-560 mg; 1-2 concentrated shots), or around 0.1 mmol/kg. Some protocols take it daily for several days.",
+          "timing": "2-3 hours before exercise, when blood nitrite peaks. For multi-day protocols, one dose per day.",
+          "sideEffects": "Pink urine or stools (harmless), mild stomach upset. See your doctor if you have low blood pressure, oxalate kidney stones or take blood pressure medication, heart nitrates or erectile dysfunction drugs."
+        }
+      }
+    }
+  },
+  {
+    "slug": "bebidas-deportivas-electrolitos",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "IOC consensus statement: dietary supplements and the high-performance athlete (Maughan et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/"
+      },
+      {
+        "title": "NIH ODS: Dietary Supplements for Exercise and Athletic Performance",
+        "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      }
+    ],
+    "related": [
+      "electrolitos",
+      "hidratacion-durante-el-entrenamiento",
+      "hidratacion-diaria",
+      "sodio",
+      "potasio",
+      "carbohidratos"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Bebidas deportivas y electrolitos",
+        "summary": "Bebidas con carbohidratos y sodio, o sales de electrolitos sin azúcar, que ayudan a reponer líquido, sal y energía en sesiones largas o muy calurosas. En sesiones cortas, el agua y la comida normal suelen bastar.",
+        "body": "## Cómo funcionan\n\nAl sudar pierdes agua y **sodio**, y en menor medida potasio. Una bebida deportiva combina:\n\n- **Carbohidratos** (normalmente un 6-8 %, es decir 6-8 g por 100 ml) que aportan energía y ayudan a mantener el ritmo cuando la sesión es larga.\n- **Sodio** que mejora la absorción del líquido, ayuda a retenerlo y estimula la sed.\n\nLas sales o pastillas de electrolitos sin azúcar aportan solo minerales, sin energía.\n\n## Qué dice la evidencia para deportes de golpeo\n\n- Las bebidas deportivas están en el **Grupo A** del AIS: tienen evidencia sólida cuando se usan en el contexto adecuado.\n- En sesiones de **más de 60-90 minutos**, dobles sesiones o entrenamientos con mucho calor, ayudan a mantener la intensidad y la calidad técnica.\n- En sesiones de menos de una hora a intensidad moderada, el **agua** suele ser suficiente si has comido bien antes.\n- Las personas que sudan mucho o con sudor muy salado (manchas blancas en la ropa) pueden necesitar más sodio.\n\n## Quién puede beneficiarse\n\nQuien entrena sesiones largas, con calor o dos veces al día, y quien no consigue comer antes de entrenar. Si entrenas a solas en casa 30-45 minutos, normalmente no las necesitas.\n\n## Cómo elegir producto\n\n- Para energía + hidratación: bebida con 6-8 % de carbohidratos y unos 300-700 mg de sodio por litro.\n- Para hidratación sin calorías: sales de electrolitos sin azúcar.\n- Desconfía de las **bebidas energéticas**: no son bebidas deportivas, llevan mucha cafeína y otros estimulantes.\n- Si compites, hay sales y bebidas con certificación **Informed Sport**.\n\n## Precauciones\n\n- No bebas por encima de tu sed de forma forzada: beber muchísima agua sin sal puede causar hiponatremia (sodio bajo en sangre), un problema serio.\n- Los azúcares de las bebidas deportivas cuentan para tu dieta y tus dientes: úsalas cuando aporten algo.\n- Si tienes hipertensión, enfermedad renal o cardiaca, o diabetes, consulta a tu médico sobre el uso de sodio y azúcar."
+      },
+      "en": {
+        "title": "Sports drinks and electrolytes",
+        "summary": "Drinks with carbohydrate and sodium, or sugar-free electrolyte salts, that help replace fluid, salt and energy in long or very hot sessions. For short sessions, water and normal food are usually enough.",
+        "body": "## How they work\n\nWhen you sweat you lose water and **sodium**, and to a lesser extent potassium. A sports drink combines:\n\n- **Carbohydrate** (usually 6-8%, i.e. 6-8 g per 100 ml) that provides energy and helps you hold pace when the session is long.\n- **Sodium**, which improves fluid absorption, helps you retain it and stimulates thirst.\n\nSugar-free electrolyte salts or tablets provide only minerals, no energy.\n\n## What the evidence says for striking athletes\n\n- Sports drinks are AIS **Group A**: strong evidence when used in the right context.\n- In sessions **longer than 60-90 minutes**, double sessions or training in the heat, they help maintain intensity and technical quality.\n- In sessions under an hour at moderate intensity, **water** is usually enough if you ate well beforehand.\n- Heavy sweaters or people with very salty sweat (white marks on clothing) may need more sodium.\n\n## Who may benefit\n\nPeople who train long, in the heat, twice a day, or struggle to eat before training. If you train alone at home for 30-45 minutes, you usually do not need them.\n\n## Choosing a product\n\n- For energy + hydration: a drink with 6-8% carbohydrate and about 300-700 mg of sodium per litre.\n- For calorie-free hydration: sugar-free electrolyte salts.\n- Be wary of **energy drinks**: they are not sports drinks and contain lots of caffeine and other stimulants.\n- If you compete, some salts and drinks carry **Informed Sport** certification.\n\n## Precautions\n\n- Do not force yourself to drink well beyond thirst: drinking huge amounts of plain water can cause hyponatraemia (low blood sodium), a serious problem.\n- The sugar in sports drinks counts towards your diet and affects your teeth: use them when they add something.\n- If you have high blood pressure, kidney or heart disease, or diabetes, ask your doctor about sodium and sugar intake."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "STRONG",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Bebidas con carbohidratos (6-8 %) y electrolitos, sobre todo sodio, o bien sales y pastillas efervescentes de electrolitos sin azúcar para disolver en agua.",
+          "purpose": "Reponer líquido, sodio y energía durante y después de sesiones largas, intensas o con calor, para mantener el rendimiento y la calidad técnica.",
+          "dosage": "Orientativo: 400-800 ml por hora de entrenamiento según sed y sudoración, con 30-60 g de carbohidratos por hora en sesiones de más de 60-90 minutos y unos 300-700 mg de sodio por litro.",
+          "timing": "Durante sesiones de más de 60 minutos o con mucho calor, a pequeños sorbos cada 15-20 minutos. Después, junto con comida, si tienes otra sesión el mismo día.",
+          "sideEffects": "Molestias digestivas si bebes mucho de golpe o con bebidas muy concentradas. Aporte de azúcar innecesario en sesiones cortas. Beber agua en exceso por encima de la sed puede bajar el sodio en sangre. Consulta a tu médico si tienes hipertensión, diabetes o enfermedad renal o cardiaca."
+        },
+        "en": {
+          "whatItIs": "Drinks with carbohydrate (6-8%) and electrolytes, mainly sodium, or sugar-free electrolyte salts and effervescent tablets to dissolve in water.",
+          "purpose": "Replace fluid, sodium and energy during and after long, intense or hot sessions to maintain performance and technical quality.",
+          "dosage": "As a guide: 400-800 ml per hour of training depending on thirst and sweat rate, with 30-60 g of carbohydrate per hour in sessions over 60-90 minutes and about 300-700 mg of sodium per litre.",
+          "timing": "During sessions longer than 60 minutes or in the heat, small sips every 15-20 minutes. Afterwards, alongside food, if you have another session the same day.",
+          "sideEffects": "Stomach upset if you drink a lot at once or use very concentrated drinks. Unnecessary sugar in short sessions. Drinking water well beyond thirst can lower blood sodium. See your doctor if you have high blood pressure, diabetes, or kidney or heart disease."
+        }
+      }
+    }
+  },
+  {
+    "slug": "vitamina-d3-suplemento",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "NIH ODS: Vitamin D Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "IOC consensus statement: dietary supplements and the high-performance athlete (Maughan et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      },
+      {
+        "title": "NSF Certified for Sport",
+        "url": "https://www.nsfsport.com/"
+      }
+    ],
+    "related": ["vitamina-d", "calcio", "magnesio", "recuperacion-y-sueno", "omega-3"],
+    "i18n": {
+      "es": {
+        "title": "Vitamina D3 (suplemento)",
+        "summary": "Suplementar vitamina D tiene sentido si tus niveles son bajos, algo frecuente en invierno o si entrenas siempre bajo techo. Corregir un déficit apoya la salud ósea, muscular e inmunitaria; si tus niveles ya son buenos, no mejora el rendimiento.",
+        "body": "## Cómo funciona\n\nLa vitamina D se forma en la piel con el sol y se obtiene en pequeña cantidad del pescado azul, el huevo y alimentos enriquecidos. Regula la absorción de **calcio** y fósforo, y participa en la función muscular y el sistema inmunitario. La **D3 (colecalciferol)** eleva los niveles en sangre de forma más eficaz que la D2.\n\n## Qué dice la evidencia\n\n- En personas con **déficit**, corregirlo mejora la salud ósea y puede reducir el riesgo de fracturas por estrés, infecciones respiratorias, además de mejorar algunos aspectos de la función muscular.\n- En personas con niveles adecuados, **no hay evidencia sólida** de que más vitamina D mejore la fuerza, la potencia o el rendimiento.\n- El AIS la incluye en el **Grupo A** como suplemento médico: se usa para prevenir o tratar una deficiencia, idealmente tras una analítica.\n\n## Quién puede estar en riesgo de déficit\n\n- Entrenas casi siempre **en interior** (gimnasio, club, casa) y sales poco al sol.\n- Vives en latitudes altas o es invierno.\n- Tienes la piel oscura, usas siempre protector o ropa que cubre casi todo el cuerpo.\n- Tienes antecedentes de fracturas por estrés o lesiones óseas.\n\n## Lo ideal: mide primero\n\nUna analítica de **25(OH)D** te dice si realmente necesitas suplementar y cuánto. Es la forma más segura de decidir la dosis con tu médico.\n\n## Cómo elegir producto\n\nBusca vitamina D3 en gotas o cápsulas (mejor con aceite o tomada con una comida que tenga grasa). Si compites, elige productos con **Informed Sport** o **NSF Certified for Sport**.\n\n## Precauciones\n\nMás no es mejor: la vitamina D se acumula y el exceso puede elevar el calcio en sangre (náuseas, debilidad, problemas renales). No superes 4000 UI/día sin supervisión médica. Consulta a tu médico si tienes enfermedad renal, sarcoidosis, hiperparatiroidismo, cálculos renales o tomas diuréticos tiazídicos, corticoides o anticonvulsivos."
+      },
+      "en": {
+        "title": "Vitamin D3 (supplement)",
+        "summary": "Supplementing vitamin D makes sense if your levels are low, which is common in winter or if you always train indoors. Correcting a deficiency supports bone, muscle and immune health; if your levels are already good, it does not boost performance.",
+        "body": "## How it works\n\nVitamin D is made in the skin with sunlight and comes in small amounts from oily fish, eggs and fortified foods. It regulates **calcium** and phosphorus absorption and plays a role in muscle function and the immune system. **D3 (cholecalciferol)** raises blood levels more effectively than D2.\n\n## What the evidence says\n\n- In people who are **deficient**, correcting it improves bone health and may reduce the risk of stress fractures, respiratory infections, as well as improve some aspects of muscle function.\n- In people with adequate levels, there is **no strong evidence** that extra vitamin D improves strength, power or performance.\n- The AIS lists it in **Group A** as a medical supplement: used to prevent or treat a deficiency, ideally after a blood test.\n\n## Who may be at risk of deficiency\n\n- You train almost always **indoors** (gym, club, home) and rarely get sun.\n- You live at high latitudes or it is winter.\n- You have darker skin, always wear sunscreen, or wear clothing covering most of your body.\n- You have a history of stress fractures or bone injuries.\n\n## Ideally: test first\n\nA **25(OH)D** blood test tells you whether you really need to supplement and how much. It is the safest way to decide the dose with your doctor.\n\n## Choosing a product\n\nLook for vitamin D3 drops or capsules (best in oil or taken with a meal containing fat). If you compete, choose products with **Informed Sport** or **NSF Certified for Sport**.\n\n## Precautions\n\nMore is not better: vitamin D accumulates, and too much can raise blood calcium (nausea, weakness, kidney problems). Do not exceed 4,000 IU/day without medical supervision. See your doctor if you have kidney disease, sarcoidosis, hyperparathyroidism, kidney stones or take thiazide diuretics, corticosteroids or anticonvulsants."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "MODERATE",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Colecalciferol, la forma de vitamina D que produce la piel con el sol, en gotas, cápsulas o comprimidos.",
+          "purpose": "Prevenir o corregir niveles bajos de vitamina D para apoyar la salud ósea, la función muscular y el sistema inmunitario.",
+          "dosage": "Mantenimiento habitual: 600-2000 UI (15-50 µg) al día. Dosis más altas solo para corregir un déficit confirmado y bajo supervisión médica. Límite superior para adultos: 4000 UI/día.",
+          "timing": "Una vez al día con una comida que contenga grasa para mejorar la absorción. La hora no importa; la constancia sí.",
+          "sideEffects": "Segura a dosis habituales. El exceso prolongado puede causar hipercalcemia (náuseas, sed, debilidad, problemas renales). Consulta a tu médico si tienes enfermedad renal, cálculos, sarcoidosis o hiperparatiroidismo, o tomas diuréticos tiazídicos, corticoides o anticonvulsivos."
+        },
+        "en": {
+          "whatItIs": "Cholecalciferol, the form of vitamin D your skin produces in sunlight, available as drops, capsules or tablets.",
+          "purpose": "Prevent or correct low vitamin D levels to support bone health, muscle function and the immune system.",
+          "dosage": "Typical maintenance: 600-2,000 IU (15-50 µg) per day. Higher doses only to correct a confirmed deficiency and under medical supervision. Adult upper limit: 4,000 IU/day.",
+          "timing": "Once a day with a meal containing fat to improve absorption. The time of day does not matter; consistency does.",
+          "sideEffects": "Safe at usual doses. Prolonged excess can cause hypercalcaemia (nausea, thirst, weakness, kidney problems). See your doctor if you have kidney disease, kidney stones, sarcoidosis or hyperparathyroidism, or take thiazide diuretics, corticosteroids or anticonvulsants."
+        }
+      }
+    }
+  },
+  {
+    "slug": "omega-3",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "NIH ODS: Omega-3 Fatty Acids Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "IOC consensus statement: dietary supplements and the high-performance athlete (Maughan et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      },
+      {
+        "title": "NSF Certified for Sport",
+        "url": "https://www.nsfsport.com/"
+      }
+    ],
+    "related": ["grasas", "vitamina-d3-suplemento", "recuperacion-y-sueno", "agujetas-doms"],
+    "i18n": {
+      "es": {
+        "title": "Omega-3 (EPA y DHA)",
+        "summary": "Ácidos grasos del pescado azul con papel en la salud cardiovascular y la inflamación. Para el rendimiento y la recuperación la evidencia es limitada; tiene más sentido si comes poco pescado.",
+        "body": "## Cómo funciona\n\nEl **EPA** y el **DHA** son ácidos grasos omega-3 de cadena larga que se incorporan a las membranas de las células. Participan en la regulación de la inflamación, la salud cardiovascular y la función del sistema nervioso. El cuerpo puede fabricar un poco a partir del ALA vegetal (lino, chía, nueces), pero con muy baja eficiencia.\n\n## Qué dice la evidencia para deportes de golpeo\n\n- Algunos estudios sugieren que puede **reducir algo las agujetas** y la pérdida de fuerza tras ejercicio muy exigente, pero los efectos son pequeños e inconsistentes.\n- Se investiga su posible papel en la recuperación tras **golpes en la cabeza**; hoy no hay evidencia suficiente en humanos para recomendarlo con ese fin, y nunca sustituye la valoración médica tras un golpe en la cabeza.\n- No hay evidencia clara de que mejore la fuerza, la potencia o la resistencia.\n- El AIS lo sitúa en el **Grupo B**: prometedor, merece más investigación y uso en contextos concretos.\n\n## Quién puede beneficiarse\n\nPersonas que comen **menos de 1-2 raciones de pescado azul a la semana**. Si comes salmón, sardinas, caballa o boquerones con regularidad, probablemente no lo necesites.\n\n## Cómo elegir producto\n\n- Mira los **miligramos de EPA + DHA** por cápsula, no la cantidad total de aceite.\n- Elige marcas que garanticen pureza (metales pesados, oxidación). El aceite oxidado huele rancio.\n- Si sigues una dieta vegetal, hay omega-3 de **algas**.\n- Si compites, usa productos con **Informed Sport** o **NSF Certified for Sport**.\n\n## Precauciones\n\nPuede causar sabor a pescado, eructos o molestias digestivas. A dosis altas puede aumentar el riesgo de sangrado: consulta a tu médico si tomas anticoagulantes o antiagregantes, tienes un trastorno de coagulación o vas a operarte. Si tienes alergia al pescado o marisco, consulta antes de tomarlo."
+      },
+      "en": {
+        "title": "Omega-3 (EPA and DHA)",
+        "summary": "Fatty acids from oily fish with a role in cardiovascular health and inflammation. For performance and recovery the evidence is limited; it makes most sense if you eat little fish.",
+        "body": "## How it works\n\n**EPA** and **DHA** are long-chain omega-3 fatty acids that are built into cell membranes. They are involved in regulating inflammation, cardiovascular health and nervous system function. Your body can make a little from plant ALA (flax, chia, walnuts), but very inefficiently.\n\n## What the evidence says for striking athletes\n\n- Some studies suggest it may **slightly reduce muscle soreness** and strength loss after very demanding exercise, but effects are small and inconsistent.\n- Its possible role in recovery from **head impacts** is being studied; there is currently not enough human evidence to recommend it for that purpose, and it never replaces medical assessment after a head injury.\n- There is no clear evidence that it improves strength, power or endurance.\n- The AIS places it in **Group B**: promising, deserving further research and use in specific contexts.\n\n## Who may benefit\n\nPeople who eat **fewer than 1-2 servings of oily fish per week**. If you regularly eat salmon, sardines, mackerel or anchovies, you probably do not need it.\n\n## Choosing a product\n\n- Look at **milligrams of EPA + DHA** per capsule, not the total oil content.\n- Choose brands that guarantee purity (heavy metals, oxidation). Oxidised oil smells rancid.\n- If you eat a plant-based diet, **algal** omega-3 is available.\n- If you compete, use products with **Informed Sport** or **NSF Certified for Sport**.\n\n## Precautions\n\nIt can cause fishy taste, burping or stomach upset. At high doses it may increase bleeding risk: see your doctor if you take anticoagulants or antiplatelet drugs, have a bleeding disorder or are having surgery. If you are allergic to fish or shellfish, check with a doctor before using it."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "LIMITED",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Aceite de pescado, krill o algas concentrado en los ácidos grasos omega-3 de cadena larga EPA y DHA, normalmente en cápsulas.",
+          "purpose": "Cubrir la ingesta de EPA y DHA cuando comes poco pescado azul, como apoyo a la salud cardiovascular y general; posible efecto pequeño sobre las agujetas.",
+          "dosage": "Unos 250-500 mg/día de EPA + DHA para cubrir necesidades generales. En estudios con deportistas se han usado 1-3 g/día de EPA + DHA. No superes 3 g/día sin consejo médico.",
+          "timing": "Con una comida que contenga grasa, a cualquier hora. Los efectos dependen del uso continuado durante semanas.",
+          "sideEffects": "Sabor a pescado, eructos, molestias digestivas. Mayor riesgo de sangrado a dosis altas. Consulta a tu médico si tomas anticoagulantes o antiagregantes, tienes trastornos de coagulación, vas a operarte o tienes alergia al pescado."
+        },
+        "en": {
+          "whatItIs": "Fish, krill or algal oil concentrated in the long-chain omega-3 fatty acids EPA and DHA, usually in capsules.",
+          "purpose": "Cover EPA and DHA intake when you eat little oily fish, supporting cardiovascular and general health; possible small effect on muscle soreness.",
+          "dosage": "About 250-500 mg/day of EPA + DHA to cover general needs. Athlete studies have used 1-3 g/day of EPA + DHA. Do not exceed 3 g/day without medical advice.",
+          "timing": "With a meal containing fat, at any time of day. Effects depend on consistent use over weeks.",
+          "sideEffects": "Fishy taste, burping, stomach upset. Higher bleeding risk at high doses. See your doctor if you take anticoagulants or antiplatelets, have a bleeding disorder, are having surgery or are allergic to fish."
+        }
+      }
+    }
+  },
+  {
+    "slug": "magnesio-suplemento",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "NIH ODS: Magnesium Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/"
+      },
+      {
+        "title": "NIH ODS: Dietary Supplements for Exercise and Athletic Performance",
+        "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      },
+      {
+        "title": "NSF Certified for Sport",
+        "url": "https://www.nsfsport.com/"
+      }
+    ],
+    "related": [
+      "magnesio",
+      "recuperacion-y-sueno",
+      "electrolitos",
+      "calcio",
+      "vitamina-d3-suplemento"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Magnesio (suplemento)",
+        "summary": "El magnesio es esencial para el músculo y el metabolismo energético, pero suplementarlo solo mejora el rendimiento si tienes un déficit. Para la mayoría, una dieta con frutos secos, legumbres e integrales es suficiente.",
+        "body": "## Cómo funciona\n\nEl magnesio participa en cientos de reacciones del cuerpo: producción de energía (ATP), contracción y relajación muscular, función nerviosa y salud ósea. Se pierde una pequeña cantidad con el sudor.\n\n## Qué dice la evidencia\n\n- En personas con **ingesta baja o déficit**, corregirlo puede mejorar la función muscular y el rendimiento.\n- En personas con niveles adecuados, los estudios **no muestran mejoras claras** en fuerza, potencia ni resistencia.\n- Se usa mucho para los **calambres** y el **sueño**, pero la evidencia es débil: los calambres asociados al ejercicio tienen causas variadas (fatiga neuromuscular sobre todo) y el magnesio no ha demostrado prevenirlos en personas sanas.\n- No forma parte de los suplementos de evidencia fuerte del AIS para rendimiento; se considera un suplemento para corregir carencias.\n\n## Quién puede beneficiarse\n\nPersonas con una dieta pobre en **frutos secos, semillas, legumbres, cereales integrales y verduras de hoja**, que sudan mucho y entrenan a diario, o con un déficit detectado por su médico.\n\n## Primero, la comida\n\nUn puñado de almendras o pipas de calabaza, legumbres, avena, chocolate negro y verduras verdes cubren buena parte de lo que necesitas.\n\n## Cómo elegir producto\n\n- Formas mejor absorbidas y toleradas: **citrato, glicinato (bisglicinato), lactato**. El óxido se absorbe peor y tiene más efecto laxante.\n- Mira el **magnesio elemental** por dosis, no el peso total del compuesto.\n- Si compites, busca **Informed Sport** o **NSF Certified for Sport**.\n\n## Precauciones\n\nEl efecto secundario más común es la **diarrea**. No superes 350 mg/día de magnesio de suplementos sin consejo médico. Si tienes **enfermedad renal**, no lo tomes sin indicación médica. Puede reducir la absorción de algunos antibióticos (tetraciclinas, quinolonas) y de fármacos para la osteoporosis (bisfosfonatos): sepáralos al menos 2 horas y consulta a tu médico o farmacéutico."
+      },
+      "en": {
+        "title": "Magnesium (supplement)",
+        "summary": "Magnesium is essential for muscle and energy metabolism, but supplementing only improves performance if you are deficient. For most people, a diet with nuts, legumes and whole grains is enough.",
+        "body": "## How it works\n\nMagnesium is involved in hundreds of reactions in the body: energy production (ATP), muscle contraction and relaxation, nerve function and bone health. A small amount is lost in sweat.\n\n## What the evidence says\n\n- In people with **low intake or deficiency**, correcting it can improve muscle function and performance.\n- In people with adequate levels, studies **show no clear improvements** in strength, power or endurance.\n- It is widely used for **cramps** and **sleep**, but the evidence is weak: exercise-associated cramps have varied causes (mainly neuromuscular fatigue) and magnesium has not been shown to prevent them in healthy people.\n- It is not among the AIS strong-evidence performance supplements; it is considered a supplement to correct shortfalls.\n\n## Who may benefit\n\nPeople whose diet is low in **nuts, seeds, legumes, whole grains and leafy greens**, who sweat heavily and train daily, or who have a deficiency identified by their doctor.\n\n## Food first\n\nA handful of almonds or pumpkin seeds, legumes, oats, dark chocolate and green vegetables cover much of what you need.\n\n## Choosing a product\n\n- Better absorbed and tolerated forms: **citrate, glycinate (bisglycinate), lactate**. Oxide is absorbed less well and is more laxative.\n- Check the **elemental magnesium** per dose, not the total weight of the compound.\n- If you compete, look for **Informed Sport** or **NSF Certified for Sport**.\n\n## Precautions\n\nThe most common side effect is **diarrhoea**. Do not exceed 350 mg/day of supplemental magnesium without medical advice. If you have **kidney disease**, do not take it unless your doctor says so. It can reduce absorption of some antibiotics (tetracyclines, quinolones) and osteoporosis drugs (bisphosphonates): separate them by at least 2 hours and ask your doctor or pharmacist."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "LIMITED",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Mineral esencial disponible en suplementos como citrato, bisglicinato, lactato, cloruro u óxido de magnesio.",
+          "purpose": "Corregir una ingesta baja o un déficit de magnesio para apoyar la función muscular, nerviosa y el metabolismo energético.",
+          "dosage": "Habitualmente 200-350 mg/día de magnesio elemental desde suplementos. La ingesta total recomendada (comida incluida) es de unos 310-420 mg/día en adultos. No superes 350 mg/día de suplementos sin consejo médico.",
+          "timing": "Con una comida para reducir molestias digestivas. Muchas personas lo toman por la noche; la hora tiene poca importancia.",
+          "sideEffects": "Diarrea, náuseas y retortijones, sobre todo con óxido o dosis altas. Contraindicado sin supervisión médica si tienes enfermedad renal. Interactúa con algunos antibióticos, bisfosfonatos, diuréticos e inhibidores de la bomba de protones: consulta a tu médico o farmacéutico."
+        },
+        "en": {
+          "whatItIs": "An essential mineral available in supplements such as magnesium citrate, bisglycinate, lactate, chloride or oxide.",
+          "purpose": "Correct low intake or deficiency to support muscle and nerve function and energy metabolism.",
+          "dosage": "Usually 200-350 mg/day of elemental magnesium from supplements. Total recommended intake (food included) is about 310-420 mg/day for adults. Do not exceed 350 mg/day from supplements without medical advice.",
+          "timing": "With a meal to reduce stomach upset. Many people take it in the evening; timing matters little.",
+          "sideEffects": "Diarrhoea, nausea and cramping, especially with oxide or high doses. Avoid unless supervised by a doctor if you have kidney disease. Interacts with some antibiotics, bisphosphonates, diuretics and proton pump inhibitors: ask your doctor or pharmacist."
+        }
+      }
+    }
+  },
+  {
+    "slug": "colageno",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "Vitamin C-enriched gelatin supplementation before intermittent activity augments collagen synthesis (Shaw et al., 2017)",
+        "url": "https://doi.org/10.3945/ajcn.116.138594"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "IOC consensus statement: dietary supplements and the high-performance athlete (Maughan et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      },
+      {
+        "title": "NSF Certified for Sport",
+        "url": "https://www.nsfsport.com/"
+      }
+    ],
+    "related": [
+      "vitamina-c",
+      "proteinas",
+      "calentamiento",
+      "sobrecarga-progresiva",
+      "recuperacion-y-sueno"
+    ],
+    "i18n": {
+      "es": {
+        "title": "Colágeno y gelatina",
+        "summary": "Proteína rica en glicina y prolina que se estudia para la salud de tendones y ligamentos. Hay resultados prometedores combinada con vitamina C y ejercicio de carga, pero la evidencia aún es limitada y no sirve como proteína para ganar músculo.",
+        "body": "## Cómo funciona\n\nEl colágeno es la proteína principal de tendones, ligamentos, cartílago, hueso y piel. Al tomar colágeno hidrolizado o gelatina, aumentan en sangre aminoácidos como la **glicina**, la **prolina** y la **hidroxiprolina**. La hipótesis es que, si están disponibles justo cuando cargas el tejido con ejercicio, el cuerpo podría usarlos para fabricar más colágeno.\n\n## Qué dice la evidencia\n\n- Un estudio clásico (Shaw et al., 2017) mostró que **15 g de gelatina con vitamina C**, tomada 1 hora antes de una sesión corta de saltar a la comba (6 minutos), aumentaba un marcador de síntesis de colágeno en sangre.\n- Otros estudios sugieren mejoras en el **dolor articular** relacionado con la actividad y en algunas tendinopatías al combinarlo con ejercicio de carga, pero son pocos, pequeños y con resultados variables.\n- No sabemos aún con seguridad si se traduce en **menos lesiones** o tendones más fuertes en deportistas.\n- Como proteína para músculo es **de baja calidad**: le falta triptófano y tiene poca leucina. No cuenta igual que la whey para tu objetivo diario de proteína.\n- El AIS lo sitúa en el **Grupo B**: prometedor, en investigación.\n\n## Quién puede probarlo\n\nPersonas con molestias tendinosas o articulares recurrentes que ya siguen un programa de **ejercicio de carga progresiva** pautado por un fisioterapeuta. El colágeno solo, sin ese trabajo, tiene poco sentido.\n\n## Cómo elegir producto\n\nGelatina en polvo o colágeno hidrolizado sin aditivos. Si compites, elige productos con certificación **Informed Sport** o **NSF Certified for Sport**: al proceder de piel y huesos animales, la calidad del proceso importa.\n\n## Precauciones\n\nEn general bien tolerado. Evítalo si tienes alergia a la fuente (pescado, bovino, porcino). Si tienes enfermedad renal o te han indicado limitar la proteína, consulta a tu médico. Un dolor persistente en un tendón o articulación necesita valoración profesional, no solo un suplemento."
+      },
+      "en": {
+        "title": "Collagen and gelatin",
+        "summary": "A protein rich in glycine and proline studied for tendon and ligament health. There are promising results when combined with vitamin C and loading exercise, but evidence is still limited and it is not a muscle-building protein.",
+        "body": "## How it works\n\nCollagen is the main protein in tendons, ligaments, cartilage, bone and skin. Taking hydrolysed collagen or gelatin raises blood levels of amino acids such as **glycine**, **proline** and **hydroxyproline**. The hypothesis is that if they are available right when you load the tissue with exercise, your body may use them to build more collagen.\n\n## What the evidence says\n\n- A well-known study (Shaw et al., 2017) showed that **15 g of gelatin with vitamin C**, taken 1 hour before a short jump-rope session (6 minutes), increased a blood marker of collagen synthesis.\n- Other studies suggest improvements in activity-related **joint pain** and some tendinopathies when combined with loading exercise, but they are few, small and inconsistent.\n- We do not yet know whether this translates into **fewer injuries** or stronger tendons in athletes.\n- As a muscle protein it is **low quality**: it lacks tryptophan and has little leucine. It does not count like whey towards your daily protein goal.\n- The AIS places it in **Group B**: promising, under research.\n\n## Who may try it\n\nPeople with recurring tendon or joint niggles who are already following a **progressive loading programme** set by a physiotherapist. Collagen alone, without that work, makes little sense.\n\n## Choosing a product\n\nPlain gelatin powder or hydrolysed collagen without additives. If you compete, pick products certified by **Informed Sport** or **NSF Certified for Sport**: since it comes from animal skin and bone, processing quality matters.\n\n## Precautions\n\nGenerally well tolerated. Avoid it if you are allergic to the source (fish, bovine, porcine). If you have kidney disease or have been told to limit protein, check with your doctor. Persistent tendon or joint pain needs professional assessment, not just a supplement."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "LIMITED",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Proteína estructural de origen animal (bovino, porcino, pescado) que se toma como gelatina o colágeno hidrolizado en polvo.",
+          "purpose": "Aportar aminoácidos específicos (glicina, prolina) que podrían apoyar la síntesis de colágeno en tendones y ligamentos cuando se combina con ejercicio de carga.",
+          "dosage": "10-15 g de gelatina o colágeno hidrolizado junto con unos 50 mg de vitamina C (o un alimento rico en ella), según los protocolos estudiados.",
+          "timing": "30-60 minutos antes de una sesión de carga para el tejido (ejercicios de tendón, comba, saltos, fuerza), para que los aminoácidos estén disponibles durante el esfuerzo.",
+          "sideEffects": "Bien tolerado; posibles molestias digestivas leves o sensación de saciedad. Evítalo si tienes alergia a la fuente animal. Consulta a tu médico si tienes enfermedad renal o restricción de proteína, y ante dolor articular o tendinoso persistente."
+        },
+        "en": {
+          "whatItIs": "A structural protein of animal origin (bovine, porcine, fish) taken as gelatin or hydrolysed collagen powder.",
+          "purpose": "Supply specific amino acids (glycine, proline) that may support collagen synthesis in tendons and ligaments when combined with loading exercise.",
+          "dosage": "10-15 g of gelatin or hydrolysed collagen with about 50 mg of vitamin C (or a vitamin C-rich food), based on studied protocols.",
+          "timing": "30-60 minutes before a session that loads the tissue (tendon exercises, jump rope, jumping, strength work), so the amino acids are available during exercise.",
+          "sideEffects": "Well tolerated; possible mild stomach upset or feeling full. Avoid it if you are allergic to the animal source. See your doctor if you have kidney disease or a protein restriction, and for persistent joint or tendon pain."
+        }
+      }
+    }
+  },
+  {
+    "slug": "bcaa",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "ISSN exercise & sports nutrition review update: research & recommendations (Kerksick et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6090881/"
+      },
+      {
+        "title": "ISSN position stand: protein and exercise (Jäger et al., 2017)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/"
+      },
+      {
+        "title": "NIH ODS: Dietary Supplements for Exercise and Athletic Performance",
+        "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      }
+    ],
+    "related": ["proteinas", "proteina-whey", "agujetas-doms", "recuperacion-y-sueno", "glutamina"],
+    "i18n": {
+      "es": {
+        "title": "BCAA (aminoácidos ramificados)",
+        "summary": "Leucina, isoleucina y valina en polvo o cápsulas. Muy populares, pero si tomas suficiente proteína al día no aportan beneficios demostrados para el músculo ni el rendimiento. Es mejor invertir en proteína completa.",
+        "body": "## Cómo funcionan (en teoría)\n\nLos aminoácidos ramificados (**leucina, isoleucina y valina**) son tres de los nueve aminoácidos esenciales. La leucina activa la señal que pone en marcha la síntesis de proteína muscular. De ahí surgió la idea de que tomarlos sueltos ayudaría a ganar músculo, reducir la fatiga o las agujetas.\n\n## Qué dice la evidencia (sin rodeos)\n\n- Para **fabricar músculo** necesitas los nueve aminoácidos esenciales. Los BCAA solos encienden la señal, pero sin el resto de \"ladrillos\" la síntesis no se sostiene. La proteína completa (whey, leche, huevos, carne, legumbres) funciona mejor.\n- Cuando la ingesta diaria de proteína es adecuada (1,4-2,0 g/kg), los BCAA **no añaden beneficios** medibles en masa muscular, fuerza ni rendimiento.\n- Algunos estudios muestran una **pequeña reducción de las agujetas**, pero el efecto es inconsistente y no supera al de comer suficiente proteína.\n- Las revisiones de la ISSN y el AIS no los consideran una ayuda eficaz para el rendimiento (AIS **Grupo C**).\n\n## Quién podría tener alguna razón para usarlos\n\nCasi nadie que coma suficiente proteína. Como mucho, quien entrena en ayunas y no tolera otra cosa, aunque incluso entonces un batido de proteína completa es mejor opción.\n\n## Alternativas mejores\n\n- Una ración de **proteína de calidad** (20-40 g) tras entrenar o en cada comida.\n- Un vaso de leche o un yogur proteico aportan BCAA además del resto de aminoácidos, por mucho menos dinero.\n\n## Cómo elegir producto (si aun así los quieres)\n\nSi compites, usa productos con **Informed Sport** o similar; los BCAA suelen venderse mezclados con estimulantes y otros ingredientes.\n\n## Precauciones\n\nSon seguros a dosis habituales en adultos sanos. Consulta a tu médico si tienes enfermedad renal o hepática, diabetes o una enfermedad metabólica de los aminoácidos (como la enfermedad de orina con olor a jarabe de arce), o si estás embarazada."
+      },
+      "en": {
+        "title": "BCAAs (branched-chain amino acids)",
+        "summary": "Leucine, isoleucine and valine as powder or capsules. Hugely popular, but if you eat enough protein per day they offer no proven benefit for muscle or performance. You are better off spending on complete protein.",
+        "body": "## How they work (in theory)\n\nThe branched-chain amino acids (**leucine, isoleucine and valine**) are three of the nine essential amino acids. Leucine flips the switch that starts muscle protein synthesis. That led to the idea that taking them alone would help build muscle and reduce fatigue or soreness.\n\n## What the evidence says (the honest version)\n\n- To **build muscle** you need all nine essential amino acids. BCAAs alone switch on the signal, but without the other \"bricks\" synthesis cannot be sustained. Complete protein (whey, milk, eggs, meat, legumes) works better.\n- When daily protein intake is adequate (1.4-2.0 g/kg), BCAAs **add no measurable benefit** for muscle mass, strength or performance.\n- Some studies show a **small reduction in soreness**, but the effect is inconsistent and no better than eating enough protein.\n- ISSN reviews and the AIS do not consider them an effective performance aid (AIS **Group C**).\n\n## Who might have a reason to use them\n\nAlmost nobody who eats enough protein. At most, someone training fasted who cannot tolerate anything else, and even then a complete protein shake is a better choice.\n\n## Better alternatives\n\n- A serving of **quality protein** (20-40 g) after training or at each meal.\n- A glass of milk or a high-protein yoghurt provides BCAAs plus all the other amino acids for far less money.\n\n## Choosing a product (if you still want them)\n\nIf you compete, use products with **Informed Sport** or similar; BCAAs are often sold mixed with stimulants and other ingredients.\n\n## Precautions\n\nThey are safe at usual doses in healthy adults. See your doctor if you have kidney or liver disease, diabetes or an amino acid metabolic disorder (such as maple syrup urine disease), or if you are pregnant."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "INSUFFICIENT",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Mezcla de los tres aminoácidos esenciales de cadena ramificada (leucina, isoleucina y valina), normalmente en proporción 2:1:1, en polvo o cápsulas.",
+          "purpose": "Se promocionan para ganar músculo y reducir fatiga y agujetas, pero con una ingesta de proteína suficiente no hay beneficio demostrado.",
+          "dosage": "En estudios se usan 5-20 g/día, pero no hay una dosis eficaz establecida si ya tomas 1,4-2,0 g/kg/día de proteína. Prioriza 20-40 g de proteína completa por toma.",
+          "timing": "Sin momento óptimo demostrado. Si los usas, alrededor del entrenamiento; una toma de proteína completa en ese momento es mejor opción.",
+          "sideEffects": "Bien tolerados en adultos sanos; posibles molestias digestivas. Gasto innecesario. Consulta a tu médico si tienes enfermedad renal o hepática, diabetes, enfermedades metabólicas de los aminoácidos o estás embarazada."
+        },
+        "en": {
+          "whatItIs": "A mix of the three essential branched-chain amino acids (leucine, isoleucine and valine), usually in a 2:1:1 ratio, as powder or capsules.",
+          "purpose": "Marketed for muscle gain and reducing fatigue and soreness, but with adequate protein intake there is no proven benefit.",
+          "dosage": "Studies use 5-20 g/day, but there is no established effective dose if you already eat 1.4-2.0 g/kg/day of protein. Prioritise 20-40 g of complete protein per serving.",
+          "timing": "No proven optimal timing. If you use them, around training; a serving of complete protein at that time is a better choice.",
+          "sideEffects": "Well tolerated in healthy adults; possible stomach upset. An unnecessary expense. See your doctor if you have kidney or liver disease, diabetes, an amino acid metabolic disorder, or are pregnant."
+        }
+      }
+    }
+  },
+  {
+    "slug": "glutamina",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "ISSN exercise & sports nutrition review update: research & recommendations (Kerksick et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6090881/"
+      },
+      {
+        "title": "NIH ODS: Dietary Supplements for Exercise and Athletic Performance",
+        "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "IOC consensus statement: dietary supplements and the high-performance athlete (Maughan et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      }
+    ],
+    "related": ["proteinas", "bcaa", "recuperacion-y-sueno", "agujetas-doms", "carbohidratos"],
+    "i18n": {
+      "es": {
+        "title": "Glutamina",
+        "summary": "El aminoácido más abundante del cuerpo. Se vende para recuperación, músculo e inmunidad, pero en personas sanas que comen suficiente proteína los estudios no muestran mejoras en el rendimiento ni en la composición corporal.",
+        "body": "## Cómo funciona (en teoría)\n\nLa glutamina es un aminoácido que el cuerpo fabrica en grandes cantidades, sobre todo en el músculo. Es combustible para las células del intestino y del sistema inmunitario. Tras entrenamientos muy largos e intensos sus niveles en sangre bajan temporalmente, y de ahí nació la idea de suplementarla para \"proteger\" la recuperación y las defensas.\n\n## Qué dice la evidencia\n\n- En adultos sanos que entrenan, la glutamina **no mejora la fuerza, la masa muscular ni el rendimiento**, según las revisiones de la ISSN.\n- Los estudios sobre **inmunidad** en deportistas han dado resultados poco consistentes; no hay pruebas sólidas de que reduzca infecciones.\n- Hay alguna investigación sobre la **salud intestinal** en ejercicio prolongado con calor, pero aún es preliminar.\n- El uso clínico (pacientes hospitalizados, quemados) es un contexto muy distinto del deportivo.\n- El AIS no la incluye entre las ayudas con evidencia para el rendimiento (**Grupo C**).\n\n## Quién podría plantearse usarla\n\nEn la práctica, casi nadie que entrene deportes de combate y coma de forma variada. Una dieta con proteína suficiente ya aporta varios gramos de glutamina al día.\n\n## Lo que sí ayuda a recuperar y a mantener las defensas\n\n- Dormir lo suficiente (7-9 horas).\n- Energía y **carbohidratos** suficientes para tu carga de entrenamiento.\n- Proteína repartida a lo largo del día.\n- Periodizar las cargas y planificar descargas.\n\n## Cómo elegir producto (si aun así la quieres)\n\nSi compites, elige productos con **Informed Sport** o similar.\n\n## Precauciones\n\nSegura a dosis habituales en adultos sanos. Evítala o consulta a tu médico si tienes enfermedad hepática o renal, trastornos neurológicos o epilepsia, cáncer, o si estás embarazada o en lactancia."
+      },
+      "en": {
+        "title": "Glutamine",
+        "summary": "The most abundant amino acid in the body. Sold for recovery, muscle and immunity, but in healthy people who eat enough protein, studies show no improvement in performance or body composition.",
+        "body": "## How it works (in theory)\n\nGlutamine is an amino acid your body makes in large amounts, mainly in muscle. It fuels gut and immune cells. After very long, intense workouts its blood levels drop temporarily, which led to the idea of supplementing it to \"protect\" recovery and immunity.\n\n## What the evidence says\n\n- In healthy adults who train, glutamine **does not improve strength, muscle mass or performance**, according to ISSN reviews.\n- Studies on **immunity** in athletes have been inconsistent; there is no solid evidence that it reduces infections.\n- There is some research on **gut health** during prolonged exercise in the heat, but it is still preliminary.\n- Clinical use (hospital patients, burns) is a very different context from sport.\n- The AIS does not list it among aids with evidence for performance (**Group C**).\n\n## Who might consider it\n\nIn practice, almost no one training combat sports with a varied diet. A diet with enough protein already provides several grams of glutamine per day.\n\n## What actually helps recovery and immunity\n\n- Getting enough sleep (7-9 hours).\n- Enough energy and **carbohydrate** for your training load.\n- Protein spread throughout the day.\n- Periodising your load and planning deloads.\n\n## Choosing a product (if you still want it)\n\nIf you compete, choose products with **Informed Sport** or similar.\n\n## Precautions\n\nSafe at usual doses in healthy adults. Avoid it or ask your doctor if you have liver or kidney disease, neurological disorders or epilepsy, cancer, or are pregnant or breastfeeding."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "INSUFFICIENT",
+      "wadaStatus": "PERMITTED",
+      "i18n": {
+        "es": {
+          "whatItIs": "Aminoácido no esencial (el cuerpo lo fabrica), abundante en el músculo y presente en alimentos ricos en proteína. Se vende como L-glutamina en polvo.",
+          "purpose": "Se promociona para recuperación, inmunidad y músculo, pero en adultos sanos con suficiente proteína no hay beneficio demostrado para el rendimiento.",
+          "dosage": "En estudios se han usado 0,1-0,3 g/kg/día (unos 5-20 g), sin una dosis eficaz establecida para el rendimiento. Lo prioritario es cubrir la proteína diaria total.",
+          "timing": "Sin momento óptimo demostrado. Si la usas, después de entrenar o repartida con las comidas.",
+          "sideEffects": "Bien tolerada a dosis habituales; posibles molestias digestivas. Consulta a tu médico si tienes enfermedad hepática o renal, epilepsia u otros trastornos neurológicos, cáncer, o si estás embarazada o en lactancia."
+        },
+        "en": {
+          "whatItIs": "A non-essential amino acid (your body makes it), abundant in muscle and found in protein-rich foods. Sold as L-glutamine powder.",
+          "purpose": "Marketed for recovery, immunity and muscle, but in healthy adults with enough protein there is no proven performance benefit.",
+          "dosage": "Studies have used 0.1-0.3 g/kg/day (about 5-20 g), with no established effective dose for performance. The priority is meeting your total daily protein.",
+          "timing": "No proven optimal timing. If you use it, after training or split across meals.",
+          "sideEffects": "Well tolerated at usual doses; possible stomach upset. See your doctor if you have liver or kidney disease, epilepsy or other neurological disorders, cancer, or are pregnant or breastfeeding."
+        }
+      }
+    }
+  },
+  {
+    "slug": "ashwagandha",
+    "category": "SUPPLEMENT",
+    "sources": [
+      {
+        "title": "NIH ODS: Ashwagandha Fact Sheet for Health Professionals",
+        "url": "https://ods.od.nih.gov/factsheets/Ashwagandha-HealthProfessional/"
+      },
+      {
+        "title": "AIS Sports Supplement Framework",
+        "url": "https://www.ausport.gov.au/ais/nutrition/supplements"
+      },
+      {
+        "title": "IOC consensus statement: dietary supplements and the high-performance athlete (Maughan et al., 2018)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/"
+      },
+      {
+        "title": "WADA Prohibited List",
+        "url": "https://www.wada-ama.org/en/prohibited-list"
+      },
+      {
+        "title": "Informed Sport certification programme",
+        "url": "https://sport.wetestyoutrust.com/"
+      },
+      {
+        "title": "NSF Certified for Sport",
+        "url": "https://www.nsfsport.com/"
+      }
+    ],
+    "related": ["recuperacion-y-sueno", "periodizacion", "descarga-deload", "cafeina"],
+    "i18n": {
+      "es": {
+        "title": "Ashwagandha",
+        "summary": "Planta de la medicina ayurvédica que se vende para el estrés, el sueño y el rendimiento. Algunos estudios pequeños muestran efectos positivos, pero la evidencia es limitada, los productos varían mucho y hay casos descritos de daño hepático.",
+        "body": "## Qué es y cómo funcionaría\n\nLa ashwagandha (*Withania somnifera*) es un arbusto cuya raíz se usa tradicionalmente en la India. Sus compuestos activos, los **witanólidos**, podrían influir en la respuesta al estrés (por ejemplo, el cortisol) y en el sistema nervioso. El mecanismo exacto no está claro.\n\n## Qué dice la evidencia\n\n- Varios ensayos pequeños, de corta duración (8-12 semanas) y a menudo **financiados por fabricantes**, muestran mejoras en el estrés percibido, el sueño, la fuerza o el VO₂máx.\n- Los estudios usan extractos y dosis distintos, lo que hace difícil comparar resultados.\n- No hay estudios de calidad en deportistas de combate.\n- La Oficina de Suplementos Dietéticos de los NIH concluye que la evidencia es **limitada** y que se sabe poco de su seguridad a largo plazo.\n- El AIS no la incluye entre los suplementos con evidencia para el rendimiento.\n\n## Por qué la marcamos como \"revisar el producto\"\n\nLa ashwagandha no está en la Lista de Prohibiciones de la AMA/WADA, pero los **productos herbales** tienen un riesgo conocido de contaminación, adulteración o etiquetado inexacto. Si compites bajo control antidopaje, usa solo productos con certificación **Informed Sport** o **NSF Certified for Sport**, o mejor no la uses.\n\n## Antes de pensar en ella\n\nSi buscas dormir mejor o gestionar el estrés del entrenamiento, lo que más evidencia tiene es: rutina de sueño, ajustar el volumen y la intensidad, planificar **descargas** y reducir la cafeína por la tarde.\n\n## Precauciones importantes\n\n- Se han descrito casos de **daño hepático**; deja de tomarla y acude al médico si notas color amarillento en piel u ojos, orina oscura, picor o cansancio inusual.\n- **No la tomes** si estás embarazada o en lactancia.\n- Puede afectar a la **tiroides** y a las hormonas; evítala si tienes enfermedad tiroidea o cáncer hormonodependiente (como el de próstata).\n- Consulta a tu médico si tienes una enfermedad autoinmune, vas a operarte o tomas sedantes, ansiolíticos, antidepresivos, inmunosupresores, medicación para la tiroides, la tensión o la diabetes."
+      },
+      "en": {
+        "title": "Ashwagandha",
+        "summary": "An Ayurvedic herb sold for stress, sleep and performance. Some small studies show positive effects, but evidence is limited, products vary widely and cases of liver injury have been reported.",
+        "body": "## What it is and how it might work\n\nAshwagandha (*Withania somnifera*) is a shrub whose root is traditionally used in India. Its active compounds, **withanolides**, may influence the stress response (for example cortisol) and the nervous system. The exact mechanism is unclear.\n\n## What the evidence says\n\n- Several small, short (8-12 week) trials, often **funded by manufacturers**, report improvements in perceived stress, sleep, strength or VO₂max.\n- Studies use different extracts and doses, which makes results hard to compare.\n- There are no quality studies in combat athletes.\n- The NIH Office of Dietary Supplements concludes the evidence is **limited** and little is known about long-term safety.\n- The AIS does not list it among supplements with performance evidence.\n\n## Why we flag it as \"check the product\"\n\nAshwagandha is not on the WADA Prohibited List, but **herbal products** carry a known risk of contamination, adulteration or inaccurate labelling. If you compete under anti-doping rules, only use products certified by **Informed Sport** or **NSF Certified for Sport**, or better still, skip it.\n\n## Before you consider it\n\nIf you want better sleep or to manage training stress, the best-supported tools are: a sleep routine, adjusting volume and intensity, planning **deloads** and cutting caffeine in the afternoon.\n\n## Important precautions\n\n- Cases of **liver injury** have been reported; stop taking it and see a doctor if you notice yellowing skin or eyes, dark urine, itching or unusual tiredness.\n- **Do not take it** if you are pregnant or breastfeeding.\n- It may affect the **thyroid** and hormones; avoid it if you have thyroid disease or hormone-sensitive cancer (such as prostate cancer).\n- Talk to your doctor if you have an autoimmune condition, are having surgery, or take sedatives, anti-anxiety drugs, antidepressants, immunosuppressants, or thyroid, blood pressure or diabetes medication."
+      }
+    },
+    "supplement": {
+      "evidenceLevel": "LIMITED",
+      "wadaStatus": "CHECK_PRODUCT",
+      "i18n": {
+        "es": {
+          "whatItIs": "Extracto de la raíz (a veces también de la hoja) de Withania somnifera, planta usada en la medicina ayurvédica, en cápsulas o polvo.",
+          "purpose": "Se usa para reducir el estrés percibido y mejorar el sueño; algunos estudios pequeños sugieren mejoras en fuerza y resistencia, con evidencia limitada.",
+          "dosage": "En los ensayos se han usado 250-600 mg/día de extracto estandarizado de raíz, durante 8-12 semanas. No hay dosis establecida para deportistas ni datos de seguridad a largo plazo.",
+          "timing": "Una o dos tomas al día con comida; muchos estudios la administran por la noche. No uses periodos prolongados sin supervisión.",
+          "sideEffects": "Molestias digestivas, somnolencia, dolor de cabeza; casos raros de daño hepático. No la tomes en embarazo o lactancia. Consulta a tu médico si tienes enfermedad tiroidea, hepática o autoinmune, cáncer hormonodependiente, vas a operarte o tomas sedantes, antidepresivos, inmunosupresores o medicación para tiroides, tensión o diabetes."
+        },
+        "en": {
+          "whatItIs": "An extract of the root (sometimes also the leaf) of Withania somnifera, a plant used in Ayurvedic medicine, in capsules or powder.",
+          "purpose": "Used to reduce perceived stress and improve sleep; some small studies suggest improvements in strength and endurance, with limited evidence.",
+          "dosage": "Trials have used 250-600 mg/day of standardised root extract for 8-12 weeks. There is no established dose for athletes and no long-term safety data.",
+          "timing": "Once or twice a day with food; many studies give it in the evening. Do not use it for long periods without supervision.",
+          "sideEffects": "Stomach upset, drowsiness, headache; rare cases of liver injury. Do not take it if pregnant or breastfeeding. See your doctor if you have thyroid, liver or autoimmune disease, hormone-sensitive cancer, are having surgery, or take sedatives, antidepressants, immunosuppressants, or thyroid, blood pressure or diabetes medication."
+        }
+      }
+    }
+  }
+]

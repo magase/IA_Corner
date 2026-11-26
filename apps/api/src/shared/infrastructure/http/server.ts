@@ -68,7 +68,20 @@ export function clientIp(
 }
 
 function send(res: ServerResponse, r: HttpResponse): void {
-  for (const [k, v] of Object.entries(r.headers ?? {})) res.setHeader(k, v);
+  for (const [k, v] of Object.entries(r.headers ?? {})) {
+    if (k.toLowerCase() === 'vary') {
+      // No perder `Vary: Origin` de CORS al añadir otros valores (p. ej. Accept-Language).
+      const prev = String(res.getHeader('Vary') ?? '');
+      const merged = [
+        ...new Set(
+          [...prev.split(','), ...String(v).split(',')].map((x) => x.trim()).filter(Boolean),
+        ),
+      ];
+      res.setHeader('Vary', merged.join(', '));
+    } else {
+      res.setHeader(k, v);
+    }
+  }
   if (r.body === undefined) {
     res.writeHead(r.status).end();
     return;

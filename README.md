@@ -85,19 +85,34 @@ La guía paso a paso, con requisitos previos y solución de problemas, está en 
 
 ## API
 
-| Método        | Ruta                         | Auth                          | Descripción                                                                         |
-| ------------- | ---------------------------- | ----------------------------- | ----------------------------------------------------------------------------------- |
-| `GET`         | `/api/v1/health`             | —                             | Estado de la API y la base de datos (`200` ok, `503` degradado)                     |
-| `POST`        | `/api/v1/auth/register`      | —                             | Alta con email y contraseña (18+, aceptación de términos)                           |
-| `POST`        | `/api/v1/auth/login`         | —                             | Login con email y contraseña                                                        |
-| `POST`        | `/api/v1/auth/google`        | —                             | Login o alta con el ID token de Google                                              |
-| `POST`        | `/api/v1/auth/refresh`       | Cookie + `X-Corner-Client: 1` | Renueva la sesión (rota el refresh token)                                           |
-| `POST`        | `/api/v1/auth/logout`        | Cookie + `X-Corner-Client: 1` | Cierra la sesión                                                                    |
-| `GET`         | `/api/v1/me`                 | Bearer                        | Usuario, plan, features y límites                                                   |
-| `PUT`         | `/api/v1/me/consents/health` | Bearer                        | Da o retira el consentimiento de datos de salud (retirarlo borra el perfil)         |
-| `GET` / `PUT` | `/api/v1/me/profile`         | Bearer                        | Perfil del atleta (requiere consentimiento)                                         |
-| `GET`         | `/api/v1/me/export`          | Bearer                        | Exporta todos tus datos en JSON (RGPD)                                              |
-| `DELETE`      | `/api/v1/me`                 | Bearer + reautenticación      | Borra la cuenta. Envía `password`, o `googleIdToken` si la cuenta es solo de Google |
+| Método           | Ruta                         | Auth                          | Descripción                                                                                                                                   |
+| ---------------- | ---------------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| `GET`            | `/api/v1/health`             | —                             | Estado de la API y la base de datos (`200` ok, `503` degradado)                                                                               |
+| `POST`           | `/api/v1/auth/register`      | —                             | Alta con email y contraseña (18+, aceptación de términos)                                                                                     |
+| `POST`           | `/api/v1/auth/login`         | —                             | Login con email y contraseña                                                                                                                  |
+| `POST`           | `/api/v1/auth/google`        | —                             | Login o alta con el ID token de Google                                                                                                        |
+| `POST`           | `/api/v1/auth/refresh`       | Cookie + `X-Corner-Client: 1` | Renueva la sesión (rota el refresh token)                                                                                                     |
+| `POST`           | `/api/v1/auth/logout`        | Cookie + `X-Corner-Client: 1` | Cierra la sesión                                                                                                                              |
+| `GET`            | `/api/v1/me`                 | Bearer                        | Usuario, plan, features y límites                                                                                                             |
+| `PUT`            | `/api/v1/me/consents/health` | Bearer                        | Da o retira el consentimiento de datos de salud (retirarlo borra el perfil)                                                                   |
+| `GET` / `PUT`    | `/api/v1/me/profile`         | Bearer                        | Perfil del atleta (requiere consentimiento)                                                                                                   |
+| `GET`            | `/api/v1/me/export`          | Bearer                        | Exporta todos tus datos en JSON (RGPD)                                                                                                        |
+| `DELETE`         | `/api/v1/me`                 | Bearer + reautenticación      | Borra la cuenta. Envía `password`, o `googleIdToken` si la cuenta es solo de Google                                                           |
+| `GET`            | `/api/v1/sports`             | —                             | Deportes activos (striking)                                                                                                                   |
+| `GET`            | `/api/v1/equipment`          | —                             | Tipos de material                                                                                                                             |
+| `GET`            | `/api/v1/exercises`          | —                             | Ejercicios y drills. Filtros: `category`, `difficulty`, `sport`, `equipment` (CSV del material disponible), `q`, `page`, `pageSize` (máx. 50) |
+| `GET`            | `/api/v1/exercises/:slug`    | —                             | Ficha completa: pasos, errores comunes, consejos, músculos y valores recomendados                                                             |
+| `GET`            | `/api/v1/wiki`               | —                             | Artículos de la wiki. Filtros: `category`, `q`                                                                                                |
+| `GET`            | `/api/v1/wiki/:slug`         | —                             | Artículo, ficha de suplemento (evidencia y WADA), relacionados y `requiresHealthDisclaimer`                                                   |
+| `POST` / `GET`   | `/api/v1/me/plans/training`  | Bearer                        | Genera u obtiene el plan semanal. Body opcional `{ mode: 'TEMPLATE' }`; `{ mode: 'AI', request }` es premium (402)                            |
+| `POST` / `GET`   | `/api/v1/me/plans/nutrition` | Bearer                        | Plan nutricional. `{ kind: 'GENERAL' }` gratis; `{ kind: 'CALCULATED' }` (kcal y macros) es premium (402)                                     |
+| `POST`           | `/api/v1/me/workouts`        | Bearer                        | Registra un entrenamiento (series, peso, tiempo, rounds, RPE). Gratis: máx. 10; después, 402 `WORKOUT_LOG_LIMIT`                              |
+| `GET`            | `/api/v1/me/workouts`        | Bearer                        | Historial paginado con `total` y `limit`                                                                                                      |
+| `GET` / `DELETE` | `/api/v1/me/workouts/:id`    | Bearer                        | Detalle o borrado de un registro                                                                                                              |
+| `DELETE`         | `/api/v1/me/workouts`        | Bearer                        | Borra todo el historial                                                                                                                       |
+
+Las rutas del catálogo y la wiki son públicas y cacheables (5 min). Responden en el idioma de `?lang=es|en` o de
+`Accept-Language`; si falta una traducción, usan el español.
 
 **Sesión:** las respuestas de login y registro devuelven un `accessToken` (JWT de 15 minutos) para la cabecera
 `Authorization: Bearer`. El refresh token viaja en la cookie `corner_rt`, que es httpOnly, `SameSite=Strict`,
@@ -119,6 +134,8 @@ el paywall), `404`, `405`, `413` petición demasiado grande, `415` el body no es
 
 - ✅ Fase 1: esqueleto, tooling, Docker/MySQL, CI y modelo de datos.
 - ✅ Fase 2: autenticación (email y Google), sesión con rotación, perfil, edad mínima, consentimiento y RGPD.
-- ⏳ Fase 3: catálogo de ejercicios y wiki (es/en).
+- ✅ Fase 3: catálogo de 66 ejercicios, 50 drills en solitario (10+ por deporte), wiki de 39 artículos y menús (es/en).
+- ✅ Fase 4: plan de entrenamiento determinista, plan nutricional general (premium: cálculo de macros) y registro de entrenamientos con límite.
+- ⏳ Fase 5: app Angular + Ionic.
 
 Ver la hoja de ruta completa en [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md#hoja-de-ruta).

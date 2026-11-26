@@ -72,3 +72,47 @@ export type DietRestriction = (typeof DietRestrictions)[number];
 
 export const GrapplingSports = ['WRESTLING', 'SAMBO', 'JUDO', 'BJJ'] as const;
 export type GrapplingSport = (typeof GrapplingSports)[number];
+
+export const Muscles = [
+  'NECK',
+  'SHOULDERS',
+  'CHEST',
+  'UPPER_BACK',
+  'LATS',
+  'LOWER_BACK',
+  'BICEPS',
+  'TRICEPS',
+  'FOREARMS',
+  'CORE',
+  'OBLIQUES',
+  'GLUTES',
+  'HIP_FLEXORS',
+  'ADDUCTORS',
+  'ABDUCTORS',
+  'QUADRICEPS',
+  'HAMSTRINGS',
+  'CALVES',
+  'FULL_BODY',
+] as const;
+export type Muscle = (typeof Muscles)[number];
+
+export const Difficulties = ['BEGINNER', 'INTERMEDIATE', 'ADVANCED'] as const;
+export type Difficulty = (typeof Difficulties)[number];
+
+export const MeasureTypes = ['REPS', 'TIME', 'ROUNDS', 'DISTANCE'] as const;
+export type MeasureType = (typeof MeasureTypes)[number];
+
+export const WikiCategories = [
+  'MACRONUTRIENT',
+  'MICRONUTRIENT',
+  'HYDRATION',
+  'SUPPLEMENT',
+  'TRAINING_CONCEPT',
+] as const;
+export type WikiCategory = (typeof WikiCategories)[number];
+
+export const EvidenceLevels = ['STRONG', 'MODERATE', 'LIMITED', 'INSUFFICIENT'] as const;
+export type EvidenceLevel = (typeof EvidenceLevels)[number];
+
+export const WadaStatuses = ['PERMITTED', 'PROHIBITED', 'MONITORED', 'CHECK_PRODUCT'] as const;
+export type WadaStatus = (typeof WadaStatuses)[number];

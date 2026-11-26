@@ -99,6 +99,9 @@ export class PrismaUserRepository implements UserRepository {
       this.db.user.update({ where: { id: userId }, data: { healthDataConsentAt: null } }),
       this.db.athleteProfile.deleteMany({ where: { userId } }),
       this.db.bodyMetric.deleteMany({ where: { userId } }),
+      // Planes calculados a partir del perfil (peso, altura, edad…): también se eliminan.
+      this.db.trainingPlan.deleteMany({ where: { userId } }),
+      this.db.nutritionPlan.deleteMany({ where: { userId } }),
     ]);
   }
 

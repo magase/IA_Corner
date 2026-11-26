@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
 import type { SportCategory } from '@prisma/client';
 import { createPrismaClient } from '../src/shared/infrastructure/persistence/prisma-client.js';
+import { seedContent } from './seed-content.js';
 import { EQUIPMENT, GRAPPLING, STRIKING } from './seed-data/catalog.js';
 
 if (!process.env['DATABASE_URL']) throw new Error('DATABASE_URL no definida');
@@ -45,6 +46,10 @@ async function main() {
       });
     }
   }
+  const content = await seedContent(prisma);
+  console.log(
+    `Contenido: ${content.exercises} ejercicios/drills y ${content.articles} artículos de wiki.`,
+  );
   console.log(
     `Seed OK: ${Object.keys(STRIKING).length} deportes de striking, ${Object.keys(GRAPPLING).length} de grappling (desactivados), ${Object.keys(EQUIPMENT).length} tipos de material.`,
   );

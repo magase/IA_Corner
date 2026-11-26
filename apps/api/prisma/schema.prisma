@@ -363,6 +363,10 @@ model TrainingPlan {
   templateId  String?      @db.Char(36)
   status      PlanStatus   @default(ACTIVE)
   name        String       @db.VarChar(120)
+  /** Versión del generador determinista (para regenerar/migrar planes). */
+  generatorVersion String?  @db.VarChar(20)
+  /** Parámetros del perfil usados al generar (trazabilidad). */
+  params      Json?
   aiRationale String?      @db.Text
   startsOn    DateTime     @db.Date
   createdAt   DateTime     @default(now())
@@ -378,8 +382,8 @@ model PlanSession {
   planId     String   @db.Char(36)
   dayOfWeek  Int      @db.TinyInt // 1=lunes … 7=domingo
   orderIndex Int      @db.TinyInt
-  title      String   @db.VarChar(120)
-  focus      String   @db.VarChar(40) // STRENGTH | SPORT | MOBILITY | ...
+  title      String   @db.VarChar(120) // código traducible en el front (p. ej. STRENGTH_LOWER)
+  focus      String   @db.VarChar(40)  // STRENGTH_LOWER | SPORT_TECHNIQUE | MOBILITY_RECOVERY ...
   plan       TrainingPlan @relation(fields: [planId], references: [id], onDelete: Cascade)
   exercises  PlanSessionExercise[]
   logs       WorkoutLog[]
@@ -392,6 +396,7 @@ model PlanSessionExercise {
   sessionId   String      @db.Char(36)
   exerciseId  String      @db.Char(36)
   orderIndex  Int         @db.TinyInt
+  block       String      @default("MAIN") @db.VarChar(20) // WARMUP | MAIN | FINISHER | COOLDOWN
   sets        Int?        @db.TinyInt
   reps        String?     @db.VarChar(20)
   seconds     Int?        @db.SmallInt
@@ -473,6 +478,9 @@ model NutritionPlan {
   carbsG        Int?              @db.SmallInt
   fatG          Int?              @db.SmallInt
   menuTemplateId String?          @db.Char(36)
+  /** Recomendaciones estructuradas (códigos + parámetros, traducidas en el front). */
+  guidelines    Json?
+  status        PlanStatus        @default(ACTIVE)
   createdAt     DateTime          @default(now())
   user          User              @relation(fields: [userId], references: [id], onDelete: Cascade)
   menuTemplate  MenuTemplate?     @relation(fields: [menuTemplateId], references: [id])
@@ -581,6 +589,7 @@ model WikiArticle {
   slug         String               @unique @db.VarChar(80)
   category     WikiCategory
   isPublished  Boolean              @default(true)
+  related      Json?                // slugs de artículos relacionados
   updatedAt    DateTime             @updatedAt
   translations WikiArticleTranslation[]
   supplement   Supplement?
